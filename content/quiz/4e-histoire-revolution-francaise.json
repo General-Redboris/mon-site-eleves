@@ -1,0 +1,72 @@
+{
+  "titre": "La Révolution française",
+  "niveau": "4e",
+  "matiere": "histoire",
+  "questions": [
+    {
+      "type": "qcm",
+      "question": "En quelle année a eu lieu la prise de la Bastille ?",
+      "options": ["1787", "1789", "1791", "1793"],
+      "reponse": 1,
+      "explication": "La prise de la Bastille a eu lieu le 14 juillet 1789. Elle symbolise la fin de l'arbitraire royal."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "La Déclaration des droits de l'homme et du citoyen a été rédigée en 1791.",
+      "reponse": false,
+      "explication": "Elle a été adoptée le 26 août 1789 par l'Assemblée nationale constituante."
+    },
+    {
+      "type": "reponse_courte",
+      "question": "Comment appelle-t-on le serment prêté par les députés du Tiers État le 20 juin 1789 ?",
+      "reponses_acceptees": ["serment du jeu de paume", "jeu de paume", "le serment du jeu de paume"],
+      "explication": "Les députés jurent de ne pas se séparer avant d'avoir donné une Constitution à la France."
+    },
+    {
+      "type": "qcm",
+      "question": "Qui était le roi de France au moment de la Révolution ?",
+      "options": ["Louis XIV", "Louis XV", "Louis XVI", "Louis XVIII"],
+      "reponse": 2,
+      "explication": "Louis XVI était roi de France depuis 1774. Il a été guillotiné le 21 janvier 1793."
+    },
+    {
+      "type": "qcm",
+      "question": "Quelle date marque l'abolition des privilèges ?",
+      "options": ["14 juillet 1789", "4 août 1789", "26 août 1789", "21 septembre 1792"],
+      "reponse": 1,
+      "explication": "Dans la nuit du 4 août 1789, l'Assemblée nationale vote l'abolition des privilèges de la noblesse et du clergé."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Le Tiers État représentait environ 97 % de la population française.",
+      "reponse": true,
+      "explication": "Le Tiers État regroupait tous ceux qui n'étaient ni nobles ni membres du clergé, soit l'immense majorité de la population."
+    },
+    {
+      "type": "qcm",
+      "question": "Quand la République est-elle proclamée en France ?",
+      "options": ["14 juillet 1789", "21 janvier 1793", "21 septembre 1792", "26 août 1789"],
+      "reponse": 2,
+      "explication": "La République est proclamée le 21 septembre 1792, après la chute de la monarchie."
+    },
+    {
+      "type": "reponse_courte",
+      "question": "Quel général a pris le pouvoir par un coup d'État en 1799, mettant fin à la Révolution ?",
+      "reponses_acceptees": ["napoléon", "napoleon", "napoléon bonaparte", "napoleon bonaparte", "bonaparte"],
+      "explication": "Napoléon Bonaparte prend le pouvoir le 9 novembre 1799 (18 Brumaire), instaurant le Consulat."
+    },
+    {
+      "type": "qcm",
+      "question": "Quelle période de la Révolution est marquée par des exécutions massives ?",
+      "options": ["La monarchie constitutionnelle", "Le Directoire", "La Terreur", "Le Consulat"],
+      "reponse": 2,
+      "explication": "La Terreur (1793-1794), menée par Robespierre, est une période de violence politique où des milliers de personnes sont guillotinées."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Louis XVI a tenté de fuir la France lors de la fuite à Varennes.",
+      "reponse": true,
+      "explication": "En juin 1791, Louis XVI tente de s'enfuir mais est reconnu et arrêté à Varennes. Cet épisode discrédite la monarchie."
+    }
+  ]
+}

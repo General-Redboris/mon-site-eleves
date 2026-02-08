@@ -1,0 +1,200 @@
+---
+titre: "La « révolution » néolithique"
+niveau: "6e"
+matiere: "histoire"
+chapitre: 2
+theme: "La longue histoire de l'humanité et des migrations"
+resume: "Vers -10 000 ans, les humains inventent l'agriculture et l'élevage au Croissant fertile. Ils deviennent sédentaires, fondent les premiers villages, développent de nouvelles techniques (pierre polie, poterie, tissage) et voient naître les premières inégalités sociales."
+vocabulaire:
+  - terme: "Néolithique"
+    definition: "Dernière période de la Préhistoire, caractérisée par la sédentarisation, l'agriculture, l'élevage et la pierre polie. Du grec neos (nouveau) et lithos (pierre). Débute vers -10 000 au Proche-Orient."
+  - terme: "Sédentarisation"
+    definition: "Fait de se fixer en un lieu de manière permanente, par opposition au nomadisme."
+  - terme: "Révolution (en histoire)"
+    definition: "Transformation profonde et durable des modes de vie d'une société. Ne signifie pas forcément un changement rapide."
+  - terme: "Agriculture"
+    definition: "Ensemble des activités liées à la culture des plantes pour produire de la nourriture."
+  - terme: "Élevage"
+    definition: "Pratique consistant à entretenir et reproduire des animaux domestiqués pour en tirer de la nourriture, des matières premières ou du travail."
+  - terme: "Croissant fertile"
+    definition: "Région en forme d'arc de cercle au Proche-Orient (de l'Égypte à la Mésopotamie), considérée comme le berceau de l'agriculture et de l'élevage."
+  - terme: "Domestication"
+    definition: "Processus par lequel les humains sélectionnent et transforment des espèces sauvages (plantes ou animaux) pour les adapter à leurs besoins."
+  - terme: "Céréales"
+    definition: "Plantes cultivées pour leurs grains (blé, orge, riz, maïs, millet...)."
+  - terme: "Pierre polie"
+    definition: "Technique consistant à frotter une pierre pour lui donner une surface lisse et un tranchant régulier. Caractéristique du Néolithique."
+  - terme: "Poterie (céramique)"
+    definition: "Objet façonné en argile puis cuit au feu. Sert au stockage, au transport et à la cuisson des aliments."
+  - terme: "Tissage"
+    definition: "Technique qui consiste à entrelacer des fils pour fabriquer des étoffes (vêtements, toiles)."
+  - terme: "Mégalithes"
+    definition: "Grands monuments de pierre dressés par les hommes du Néolithique (menhirs, dolmens, cromlechs). Du grec megas (grand) et lithos (pierre)."
+  - terme: "Menhir"
+    definition: "Pierre dressée verticalement, caractéristique du Néolithique."
+  - terme: "Dolmen"
+    definition: "Table de pierre servant probablement de tombe collective."
+  - terme: "Cromlech"
+    definition: "Cercle de pierres dressées, comme Stonehenge en Angleterre."
+---
+
+# La « révolution » néolithique
+
+*Quand les humains transforment leur mode de vie*
+
+## Introduction
+
+Pendant des millions d'années, les êtres humains ont vécu en **nomades**, se déplaçant au rythme des saisons et des ressources disponibles. Puis, il y a environ **10 000 ans** (soit vers -8 000 avant J.-C.), un changement profond transforme leur mode de vie : ils commencent à **cultiver des plantes**, à **élever des animaux** et à se fixer dans des **villages permanents**.
+
+Ce passage du Paléolithique au **Néolithique** est si important que les historiens le qualifient de « **révolution** ». Attention cependant : il ne s'agit pas d'un événement soudain, mais d'une transformation **lente et progressive**, qui s'étale sur plusieurs milliers d'années et qui se produit **indépendamment** dans plusieurs régions du monde.
+
+> **Pourquoi des guillemets autour de « révolution » ?** Les historiens mettent souvent ce mot entre guillemets pour souligner que cette transformation s'est étalée sur **plusieurs milliers d'années**. Cependant, le terme reste pertinent car les conséquences sont **immenses** : elles transforment radicalement la façon dont les humains vivent, mangent et s'organisent.
+
+---
+
+## I. L'invention de l'agriculture et de l'élevage
+
+### A. Le Croissant fertile : berceau de l'agriculture
+
+Les plus anciennes traces d'agriculture ont été découvertes au **Proche-Orient**, dans une région en forme d'arc de cercle appelée le **Croissant fertile**. Cette zone s'étend de l'Égypte à la Mésopotamie (l'Irak actuel), en passant par le Levant (Israël, Palestine, Liban, Syrie actuels).
+
+Vers **-10 000 ans**, les habitants de cette région commencent à sélectionner et à semer des **céréales sauvages** (blé et orge). C'est le début de l'**agriculture**. Progressivement, ils améliorent les espèces cultivées en sélectionnant les meilleures graines : c'est la **domestication des plantes**.
+
+### B. La domestication des animaux
+
+À peu près à la même époque, les hommes commencent à **domestiquer des animaux**. Le premier animal domestiqué est le **chien** (vers -15 000 ans). Puis, au début du Néolithique, les habitants du Croissant fertile apprivoisent le **mouton**, la **chèvre**, le **porc** et le **bœuf**.
+
+L'élevage fournit de la viande, du lait, de la laine, du cuir et, plus tard, de la force de travail (bœufs de trait, ânes).
+
+### C. Plusieurs foyers de néolithisation dans le monde
+
+Le Croissant fertile n'est pas le seul endroit où l'agriculture est née. La « révolution » néolithique s'est produite **indépendamment** dans plusieurs régions du monde :
+
+| Région | Date approximative | Plantes | Animaux |
+|--------|-------------------|---------|---------|
+| **Croissant fertile** (Proche-Orient) | vers -10 000 | Blé, orge, lentilles | Mouton, chèvre, bœuf, porc |
+| **Chine** (fleuve Jaune, Yangzi) | vers -9 000 | Riz, millet | Porc, ver à soie |
+| **Mésoamérique** (Mexique) | vers -7 000 | Maïs, courge, haricot | Dinde |
+| **Amérique du Sud** (Andes) | vers -6 000 | Pomme de terre, quinoa | Lama, alpaga |
+| **Afrique** (Sahel, Éthiopie) | vers -5 000 | Sorgho, mil, teff | Bœuf |
+| **Nouvelle-Guinée** | vers -7 000 | Taro, igname, banane | — |
+
+> **À retenir :** Vers **-10 000 ans**, au **Croissant fertile**, les humains inventent l'**agriculture** et l'**élevage**. Ce processus de **domestication** se produit aussi **indépendamment** dans d'autres régions du monde avec des plantes et animaux différents.
+
+---
+
+## II. Se fixer : la naissance des premiers villages
+
+### A. Du campement au village
+
+L'agriculture change la relation des humains à l'espace. Cultiver un champ exige de **rester sur place** pendant de longs mois. Les hommes deviennent **sédentaires** : ils se fixent en un lieu et construisent des **habitations durables**.
+
+Les premiers villages connus apparaissent au Proche-Orient dès environ **-10 000 à -9 000 ans**. Parmi les plus célèbres : **Jéricho** (Palestine actuelle), l'un des plus anciens sites habités en continu, et **Çatalhöyük** (Turquie actuelle), un vaste village qui comptait peut-être **5 000 à 8 000 habitants**.
+
+> **Le savais-tu ?** À Çatalhöyük (prononcer « Tchatal-Heuilluk »), les maisons étaient construites **les unes contre les autres**, sans rues ! On entrait chez soi **par le toit**, à l'aide d'une échelle. Les morts étaient parfois enterrés **sous le sol** des habitations.
+
+### B. De nouvelles techniques
+
+La sédentarisation s'accompagne d'innovations techniques majeures :
+
+- La **pierre polie** : au lieu de simplement tailler la pierre, on la frotte longuement pour obtenir des outils aux bords lisses et réguliers (haches polies). Indispensables pour défricher les forêts.
+- La **poterie** (céramique) : récipients en terre cuite pour stocker les récoltes, transporter l'eau et cuire les aliments.
+- Le **tissage** : fabrication de vêtements à partir de laine de mouton ou de fibres de lin.
+
+### C. Les mégalithes : de grands monuments de pierre
+
+À partir d'environ **-5 000 ans** en Europe, les communautés néolithiques érigent d'imposants **mégalithes** (du grec *megas*, grand, et *lithos*, pierre) :
+
+- Les **menhirs** : pierres dressées verticalement.
+- Les **dolmens** : tables de pierre servant probablement de tombes collectives.
+- Les **cromlechs** : cercles de pierres dressées, comme **Stonehenge** en Angleterre.
+
+Ces constructions nécessitent la collaboration de dizaines, voire de centaines de personnes. Elles témoignent d'une organisation sociale déjà complexe et de croyances (culte des morts, observations astronomiques).
+
+> **À retenir :** Les premiers villages apparaissent au **Proche-Orient** vers **-10 000 ans** (Jéricho, Çatalhöyük). La sédentarisation s'accompagne de nouvelles techniques : **pierre polie**, **poterie**, **tissage**. En Europe, à partir de -5 000 ans, les hommes érigent des **mégalithes**.
+
+---
+
+## III. Une société qui se transforme
+
+### A. Plus de nourriture, plus d'habitants
+
+L'agriculture et l'élevage permettent de produire **davantage de nourriture** et surtout de la **stocker**. Cette sécurité alimentaire entraîne une forte **croissance de la population** : de 5 à 10 millions de personnes à la fin du Paléolithique à environ 50 à 100 millions vers -3 000 avant J.-C.
+
+### B. La naissance des inégalités
+
+Avec le Néolithique, la situation change profondément :
+
+- Celui qui cultive un champ considère qu'il lui « appartient » : c'est la naissance de la **propriété**.
+- Certaines familles accumulent plus de richesses que d'autres : des **inégalités sociales** apparaissent.
+- Une **spécialisation des tâches** se met en place : potiers, artisans, guerriers, chefs religieux.
+- Les **conflits** se multiplient : les archéologues ont retrouvé des crânes fracturés, des pointes de flèches dans des os, des fosses communes. Certains villages s'entourent de murs défensifs (comme Jéricho).
+
+### C. Les premiers échanges et le commerce
+
+Les villages néolithiques ne vivent pas en autarcie. Des **échanges commerciaux** se développent entre communautés parfois très éloignées. On retrouve par exemple de l'**obsidienne** (roche volcanique) originaire de Turquie dans des villages situés à des centaines de kilomètres.
+
+> **À retenir :** Le Néolithique entraîne une **croissance démographique** importante. La sédentarisation fait naître la **propriété**, les **inégalités sociales**, la **spécialisation des tâches** et les **premiers conflits armés**. Des **réseaux d'échanges commerciaux** se développent.
+
+---
+
+## IV. La diffusion du Néolithique
+
+### A. Du Croissant fertile vers l'Europe
+
+Le mode de vie néolithique se **diffuse lentement** vers l'ouest :
+
+- **Grèce et Balkans** : vers -7 000 ans.
+- **Sud de la France et péninsule Ibérique** : vers -6 000 à -5 500 ans.
+- **Europe du Nord et îles Britanniques** : vers -5 000 à -4 000 ans.
+
+La diffusion se fait par deux voies principales : une **voie méditerranéenne** (le long des côtes) et une **voie danubienne** (à travers l'Europe centrale). La progression est lente : environ **1 km par an** en moyenne.
+
+### B. Deux mécanismes de diffusion
+
+- La **migration** : des groupes d'agriculteurs-éleveurs s'installent dans de nouvelles régions, apportant leurs plantes, animaux et techniques.
+- La **diffusion culturelle** (acculturation) : les populations locales de chasseurs-cueilleurs adoptent progressivement les nouvelles techniques au contact des agriculteurs.
+
+> **À retenir :** Le mode de vie néolithique se **diffuse lentement** du Croissant fertile vers l'Europe et le reste du monde. Il faut environ **5 000 ans** pour que le Néolithique gagne toute l'Europe.
+
+---
+
+## V. Bilan : du Paléolithique au Néolithique
+
+| | Paléolithique | Néolithique |
+|---|---|---|
+| **Période** | De -7 Ma à -10 000 ans | De -10 000 à -3 300 ans |
+| **Mode de vie** | Nomade | Sédentaire |
+| **Alimentation** | Chasse, pêche, cueillette | Agriculture, élevage |
+| **Habitat** | Grottes, abris, campements | Villages, maisons en dur |
+| **Outils** | Pierre taillée (silex) | Pierre polie, poterie, tissage |
+| **Organisation** | Petits groupes (20-50) | Villages (centaines/milliers) |
+| **Inégalités** | Faibles | Apparition de hiérarchies |
+| **Monuments** | Art pariétal (grottes) | Mégalithes (menhirs, dolmens) |
+
+---
+
+## Conclusion
+
+La « révolution » néolithique est l'un des tournants les plus décisifs de l'histoire humaine. En inventant l'agriculture et l'élevage, les êtres humains transforment leur rapport à la nature : ils ne se contentent plus de prélever ce qu'elle offre, ils la **modifient** pour répondre à leurs besoins.
+
+Ce changement entraîne une réaction en chaîne : sédentarisation, croissance démographique, propriété, inégalités sociales, spécialisation du travail et premiers conflits. Les villages grandissent, les échanges se développent, les sociétés deviennent plus complexes. C'est sur ces bases que naîtront les **premiers États** et les **premières écritures**.
+
+---
+
+## Frise chronologique
+
+| Date | Événement |
+|------|-----------|
+| -15 000 ans | Domestication du chien (loup apprivoisé) |
+| -10 000 ans | Début de l'agriculture et de l'élevage au Croissant fertile |
+| -9 500 ans | Fondation de Jéricho, l'un des premiers villages |
+| -9 000 ans | Début de la riziculture en Chine |
+| -7 500 ans | Çatalhöyük : village de plusieurs milliers d'habitants (Turquie) |
+| -7 000 ans | Le Néolithique atteint la Grèce et les Balkans |
+| -7 000 ans | Début de l'agriculture en Mésoamérique (maïs) |
+| -6 000 ans | Le Néolithique atteint le sud de la France |
+| -5 000 ans | Construction des premiers mégalithes en Europe |
+| -4 500 ans | Alignements de Carnac (Bretagne) |
+| -3 000 ans | Début de la construction de Stonehenge |
+| -3 300 ans | Invention de l'écriture en Mésopotamie → fin de la Préhistoire |

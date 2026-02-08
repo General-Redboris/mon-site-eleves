@@ -1,0 +1,178 @@
+{
+  "titre": "Les espaces de faible densité et leurs atouts",
+  "niveau": "3e",
+  "matiere": "geographie",
+  "chapitre": "espaces-faible-densite",
+  "questions": [
+    {
+      "type": "qcm",
+      "question": "En dessous de quel seuil de densité parle-t-on d'espace de faible densité ?",
+      "options": ["10 hab./km²", "30 hab./km²", "50 hab./km²", "80 hab./km²"],
+      "reponse": 1,
+      "explication": "Les espaces de faible densité sont ceux où la densité de population est inférieure à 30 hab./km². Ils occupent 42 % du territoire métropolitain."
+    },
+    {
+      "type": "qcm",
+      "question": "Quelle part du territoire métropolitain les espaces de faible densité occupent-ils ?",
+      "options": ["12 %", "25 %", "42 %", "65 %"],
+      "reponse": 2,
+      "explication": "Les espaces de faible densité couvrent 42 % du territoire métropolitain, mais seulement 6,5 % de la population y habite. Ils sont donc très étendus mais peu peuplés."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'appelle-t-on la « diagonale du vide » ?",
+      "options": [
+        "Une autoroute traversant la France du nord au sud",
+        "Un espace de faibles densités allant des Ardennes aux Pyrénées",
+        "La frontière entre la France et l'Allemagne",
+        "Un couloir de migration des oiseaux"
+      ],
+      "reponse": 1,
+      "explication": "La diagonale du vide (ou diagonale des faibles densités) traverse la France du nord-est (Ardennes) au sud-ouest (Pyrénées). C'est un vaste espace peu peuplé."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "6,5 % de la population française vit dans les espaces de faible densité.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 0,
+      "explication": "Malgré leur étendue (42 % du territoire), les espaces de faible densité ne rassemblent que 6,5 % de la population. Ce contraste illustre les inégalités de répartition de la population."
+    },
+    {
+      "type": "qcm",
+      "question": "Quelles sont les quatre principales difficultés des espaces de faible densité ?",
+      "options": [
+        "La pollution, les embouteillages, le bruit et la surpopulation",
+        "La déprise, la désertification, l'enclavement et les contraintes naturelles",
+        "Le chômage, l'inflation, la délinquance et l'immigration",
+        "La mondialisation, la métropolisation, la gentrification et la tertiarisation"
+      ],
+      "reponse": 1,
+      "explication": "Les espaces de faible densité cumulent souvent déprise (recul de l'activité), désertification (disparition des services), enclavement (isolement) et contraintes naturelles (relief, climat)."
+    },
+    {
+      "type": "reponse_courte",
+      "question": "Comment appelle-t-on le recul de l'activité économique et de la population dans un espace rural ?",
+      "options": [],
+      "reponse": "déprise",
+      "explication": "La déprise rurale désigne le recul important de l'activité économique et de la population dans un espace rural. Elle peut mener à la désertification."
+    },
+    {
+      "type": "qcm",
+      "question": "Dans quel massif montagneux se situe le Cantal ?",
+      "options": ["Les Pyrénées", "Le Jura", "Le Massif central", "Les Alpes"],
+      "reponse": 2,
+      "explication": "Le Cantal est un département du Massif central, en région Auvergne-Rhône-Alpes. Son relief montagneux (Plomb du Cantal, 1 855 m) constitue une contrainte naturelle majeure."
+    },
+    {
+      "type": "qcm",
+      "question": "Quelle est la densité de population du Cantal ?",
+      "options": ["10 hab./km²", "25 hab./km²", "55 hab./km²", "119 hab./km²"],
+      "reponse": 1,
+      "explication": "Le Cantal a une densité de 25 hab./km², très inférieure à la moyenne nationale (119 hab./km²). C'est un espace de faible densité enclavé."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel pourcentage de la population du Cantal a plus de 60 ans ?",
+      "options": ["14 %", "23 %", "30 %", "36 %"],
+      "reponse": 3,
+      "explication": "36 % des habitants du Cantal ont plus de 60 ans (contre 23 % en moyenne nationale). Ce vieillissement prononcé est une caractéristique des espaces de faible densité en difficulté."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Le solde naturel du Cantal est positif.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 1,
+      "explication": "Le solde naturel du Cantal est déficitaire : le taux de mortalité (14 ‰) dépasse largement le taux de natalité (7,8 ‰). Le département perd des habitants par le seul jeu des naissances et des décès."
+    },
+    {
+      "type": "qcm",
+      "question": "Comment appelle-t-on le départ massif des habitants des campagnes vers les villes ?",
+      "options": ["La périurbanisation", "L'exode rural", "La métropolisation", "La gentrification"],
+      "reponse": 1,
+      "explication": "L'exode rural est le départ massif et durable des habitants des campagnes vers les villes. Depuis 1850, le Cantal a perdu près de la moitié de sa population à cause de ce phénomène."
+    },
+    {
+      "type": "qcm",
+      "question": "Quelle autoroute a permis de désenclaver partiellement le Cantal ?",
+      "options": ["L'A6", "L'A10", "L'A75", "L'A89"],
+      "reponse": 2,
+      "explication": "L'autoroute A75 (gratuite) a amélioré l'accessibilité de Saint-Flour et de ses environs. Les communes proches de cette autoroute sont les seules du département à retrouver une croissance démographique."
+    },
+    {
+      "type": "qcm",
+      "question": "Comment appelle-t-on les citadins qui choisissent de s'installer à la campagne ?",
+      "options": ["Des navetteurs", "Des néoruraux", "Des périurbains", "Des migrants pendulaires"],
+      "reponse": 1,
+      "explication": "Les néoruraux sont des citadins qui font le choix de s'installer à la campagne, à la recherche d'un nouveau cadre de vie. Le télétravail facilite ces installations."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Depuis 1999, le solde migratoire du Cantal est redevenu positif.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 0,
+      "explication": "Les arrivées sont désormais plus nombreuses que les départs. Cependant, ce sont surtout des personnes proches de la retraite qui s'installent, tandis que les jeunes de 18-25 ans continuent de partir."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel site naturel du Cantal, au coeur du plus grand strato-volcan d'Europe, attire de nombreux randonneurs ?",
+      "options": ["Le Plomb du Cantal", "Le Puy Mary", "Le Lioran", "Le viaduc de Garabit"],
+      "reponse": 1,
+      "explication": "Le Puy Mary, au coeur du plus grand strato-volcan d'Europe, est un site naturel d'exception qui contribue au développement du tourisme vert dans le Cantal."
+    },
+    {
+      "type": "qcm",
+      "question": "Que sont les ZRR ?",
+      "options": [
+        "Des Zones de Recherche et de Recyclage",
+        "Des Zones de Revitalisation Rurale",
+        "Des Zones de Rénovation Résidentielle",
+        "Des Zones de Régulation Routière"
+      ],
+      "reponse": 1,
+      "explication": "Les ZRR (Zones de Revitalisation Rurale) offrent des avantages fiscaux (exonérations d'impôts) aux entreprises qui s'installent dans les territoires ruraux en difficulté."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce qu'un PNR ?",
+      "options": [
+        "Un Pôle National de Recherche",
+        "Un Programme de Numérisation Rurale",
+        "Un Parc Naturel Régional",
+        "Un Plan de Nouvelles Routes"
+      ],
+      "reponse": 2,
+      "explication": "Un PNR (Parc Naturel Régional) est un territoire rural reconnu pour son patrimoine naturel et culturel, où l'on concilie protection de l'environnement et développement économique. La France en compte 58."
+    },
+    {
+      "type": "reponse_courte",
+      "question": "Comment appelle-t-on l'inégalité d'accès au numérique entre les territoires ?",
+      "options": [],
+      "reponse": "fracture numérique",
+      "explication": "La fracture numérique désigne les inégalités d'accès et d'équipement numérique entre les territoires. La réduire (fibre, 4G/5G) est une priorité pour les espaces ruraux enclavés."
+    },
+    {
+      "type": "qcm",
+      "question": "Quels sont les trois types d'espaces à faible densité ?",
+      "options": [
+        "Urbain, périurbain et rural",
+        "Espaces à dominante agricole, espaces redynamisés et espaces en difficulté",
+        "Montagne, littoral et plaine",
+        "Industriel, tertiaire et agricole"
+      ],
+      "reponse": 1,
+      "explication": "On distingue les espaces à dominante agricole (Beauce, vignobles), les espaces redynamisés (tourisme, néoruraux) et les espaces en difficulté ou d'hyper-ruralité (Cantal, Creuse, Lozère)."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce que la « touristification » ?",
+      "options": [
+        "L'interdiction du tourisme dans un espace naturel protégé",
+        "Le développement volontaire d'une offre touristique pour dynamiser un territoire",
+        "La fermeture de commerces à cause du tourisme de masse",
+        "La construction de résidences secondaires en montagne"
+      ],
+      "reponse": 1,
+      "explication": "La touristification désigne le processus par lequel un territoire développe volontairement une offre touristique pour dynamiser son économie locale. C'est un levier important pour les espaces ruraux."
+    }
+  ]
+}

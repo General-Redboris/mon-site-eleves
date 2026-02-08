@@ -1,0 +1,72 @@
+{
+  "titre": "Les premiers êtres humains",
+  "niveau": "6e",
+  "matiere": "histoire",
+  "questions": [
+    {
+      "type": "qcm",
+      "question": "Où les premiers hominidés sont-ils apparus ?",
+      "options": ["En Europe", "En Asie", "En Afrique", "En Amérique"],
+      "reponse": 2,
+      "explication": "Les plus anciens fossiles d'hominidés ont été découverts en Afrique, principalement en Afrique de l'Est et en Afrique centrale."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel est le nom du célèbre fossile découvert en Éthiopie en 1974 ?",
+      "options": ["Toumaï", "Lucy", "Cro-Magnon", "Néandertal"],
+      "reponse": 1,
+      "explication": "Lucy est un squelette d'Australopithecus afarensis découvert en Éthiopie. Elle a environ 3,2 millions d'années."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Les premiers hominidés marchaient à quatre pattes.",
+      "reponse": false,
+      "explication": "Les hominidés se caractérisent par la bipédie : ils marchaient debout sur deux pieds."
+    },
+    {
+      "type": "reponse_courte",
+      "question": "Comment appelle-t-on la capacité à marcher debout sur deux pieds ?",
+      "reponses_acceptees": ["la bipédie", "bipédie", "la bipedie", "bipedie"],
+      "explication": "La bipédie est une des caractéristiques principales des hominidés. Elle libère les mains pour fabriquer des outils."
+    },
+    {
+      "type": "qcm",
+      "question": "Comment appelle-t-on la période la plus ancienne de la Préhistoire ?",
+      "options": ["Le Néolithique", "Le Paléolithique", "L'Antiquité", "Le Mésolithique"],
+      "reponse": 1,
+      "explication": "Le Paléolithique (« âge de la pierre ancienne ») est la plus longue période de la Préhistoire. Les humains y sont des chasseurs-cueilleurs nomades."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Au Paléolithique, les humains vivaient de manière sédentaire dans des villages.",
+      "reponse": false,
+      "explication": "Au Paléolithique, les humains étaient nomades : ils se déplaçaient pour suivre le gibier et trouver de la nourriture."
+    },
+    {
+      "type": "qcm",
+      "question": "Homo sapiens est apparu il y a environ :",
+      "options": ["7 millions d'années", "1 million d'années", "300 000 ans", "10 000 ans"],
+      "reponse": 2,
+      "explication": "Homo sapiens, notre espèce, est apparu en Afrique il y a environ 300 000 ans."
+    },
+    {
+      "type": "reponse_courte",
+      "question": "Comment appelle-t-on une personne qui se déplace régulièrement, sans habitat fixe ?",
+      "reponses_acceptees": ["nomade", "un nomade", "une nomade"],
+      "explication": "Au Paléolithique, les humains étaient des nomades qui suivaient le gibier et cherchaient leur nourriture."
+    },
+    {
+      "type": "qcm",
+      "question": "Quelle matière les premiers humains utilisaient-ils principalement pour fabriquer des outils ?",
+      "options": ["Le bronze", "Le fer", "Le silex", "Le bois uniquement"],
+      "reponse": 2,
+      "explication": "Le silex est une pierre très dure qui peut être taillée pour obtenir un tranchant. C'est le matériau principal des outils préhistoriques."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Toumaï a été découvert en Éthiopie.",
+      "reponse": false,
+      "explication": "Toumaï a été découvert au Tchad, en Afrique centrale. C'est Lucy qui a été découverte en Éthiopie."
+    }
+  ]
+}

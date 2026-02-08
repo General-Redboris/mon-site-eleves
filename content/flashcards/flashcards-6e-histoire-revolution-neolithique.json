@@ -1,0 +1,115 @@
+{
+  "titre": "La « révolution » néolithique",
+  "niveau": "6e",
+  "matiere": "histoire",
+  "cartes": [
+    {
+      "recto": "Que signifie le mot « Néolithique » ?",
+      "verso": "« Nouvelle pierre » (du grec neos = nouveau, lithos = pierre). Fait référence à la technique de la pierre polie.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Vers -10 000 ans",
+      "verso": "Début de l'agriculture et de l'élevage au Croissant fertile (Proche-Orient).",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Qu'est-ce que le Croissant fertile ?",
+      "verso": "Région en forme d'arc de cercle au Proche-Orient (de l'Égypte à la Mésopotamie), berceau de l'agriculture et de l'élevage.",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Qu'est-ce que la domestication ?",
+      "verso": "Processus par lequel les humains sélectionnent et transforment des espèces sauvages (plantes ou animaux) pour les adapter à leurs besoins.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Quels sont les premiers animaux domestiqués au Néolithique ?",
+      "verso": "Le chien (~-15 000 ans, fin du Paléolithique), puis le mouton, la chèvre, le porc et le bœuf au début du Néolithique.",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Quelles céréales sont cultivées au Croissant fertile ?",
+      "verso": "Le blé et l'orge, ainsi que des lentilles.",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Qu'est-ce que la sédentarisation ?",
+      "verso": "Le fait de se fixer en un lieu de manière permanente, par opposition au nomadisme. Liée à l'agriculture.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Qu'est-ce que Jéricho ?",
+      "verso": "L'un des plus anciens villages connus (Palestine actuelle, ~-9 500 ans). Possède déjà une muraille et une tour défensives.",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Qu'est-ce que Çatalhöyük ?",
+      "verso": "Vaste village néolithique en Turquie actuelle (~-7 500 ans, 5 000 à 8 000 habitants). Maisons collées sans rues, on entrait par le toit.",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Quelles sont les trois innovations techniques du Néolithique ?",
+      "verso": "La pierre polie (outils lisses et efficaces), la poterie (stockage des récoltes) et le tissage (vêtements en laine ou lin).",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Qu'est-ce qu'un mégalithe ?",
+      "verso": "Grand monument de pierre dressé au Néolithique (du grec megas = grand, lithos = pierre). Exemples : menhirs, dolmens, cromlechs.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Quelle est la différence entre un menhir et un dolmen ?",
+      "verso": "Un menhir est une pierre dressée verticalement. Un dolmen est une table de pierre servant probablement de tombe collective.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Qu'est-ce que Stonehenge ?",
+      "verso": "Célèbre cromlech (cercle de pierres) en Angleterre, construit entre ~-3 000 et -1 500. Probablement un lieu de cérémonie et d'observation astronomique.",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Pourquoi des inégalités apparaissent-elles au Néolithique ?",
+      "verso": "La sédentarisation crée la propriété (champs, bétail, récoltes). Certaines familles accumulent plus de richesses que d'autres.",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Par quelles deux voies le Néolithique se diffuse-t-il en Europe ?",
+      "verso": "La voie méditerranéenne (le long des côtes) et la voie danubienne (à travers l'Europe centrale, en remontant le Danube).",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Quelle céréale est cultivée en Chine au début du Néolithique ?",
+      "verso": "Le riz (vers -9 000 ans, le long des fleuves Jaune et Yangzi).",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Pourquoi le mot « révolution » est-il entre guillemets ?",
+      "verso": "Parce que cette transformation s'est étalée sur plusieurs milliers d'années (ce n'est pas un changement brutal), mais ses conséquences sont immenses.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Environ -5 000 ans",
+      "verso": "Construction des premiers mégalithes en Europe (menhirs, dolmens, cromlechs).",
+      "categorie": "dates",
+      "niveau_difficulte": 2
+    }
+  ]
+}

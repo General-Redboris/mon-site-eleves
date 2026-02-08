@@ -1,0 +1,85 @@
+---
+titre: "Civils et militaires dans la Première Guerre mondiale"
+chapitre: 1
+description: "Une guerre totale qui bouleverse les sociétés européennes (1914-1918)"
+---
+
+## Introduction
+
+La **Première Guerre mondiale** (1914-1918) est un conflit d'une ampleur sans précédent. Elle implique les grandes puissances européennes et leurs colonies, mobilise des millions de soldats et touche profondément les civils. C'est une **guerre totale**.
+
+## I. Les origines du conflit
+
+### A. Les tensions en Europe
+
+Au début du XXe siècle, l'Europe est divisée en deux systèmes d'**alliances** :
+
+- La **Triple Alliance** : Allemagne, Autriche-Hongrie, Italie
+- La **Triple Entente** : France, Royaume-Uni, Russie
+
+### B. L'élément déclencheur
+
+Le **28 juin 1914**, l'archiduc **François-Ferdinand d'Autriche** est assassiné à Sarajevo. Le jeu des alliances entraîne toute l'Europe dans la guerre en quelques semaines.
+
+## II. Une guerre totale
+
+### A. L'expérience combattante
+
+Les soldats, appelés **poilus** en France, vivent dans des conditions terribles :
+
+- La **guerre de tranchées** (1915-1918) sur le front Ouest
+- La boue, le froid, les rats, les maladies
+- Les armes nouvelles : **mitrailleuses**, **gaz de combat**, **chars d'assaut**, **aviation**
+- Des batailles extrêmement meurtrières
+
+| Bataille | Date | Pertes estimées |
+|----------|------|-----------------|
+| Verdun | Fév. - Déc. 1916 | ~700 000 |
+| La Somme | Juil. - Nov. 1916 | ~1 200 000 |
+
+### B. La mobilisation de l'arrière
+
+La guerre mobilise toute la société :
+
+- Les **femmes** remplacent les hommes dans les usines et les champs
+- L'**économie** est entièrement tournée vers l'effort de guerre
+- La **propagande** entretient le moral et la haine de l'ennemi
+- Les **colonies** fournissent des soldats et des ressources
+
+### C. Les violences faites aux civils
+
+- **Génocide arménien** (1915-1916) : massacre de plus d'un million d'Arméniens par l'Empire ottoman
+- Bombardements des villes, occupation et pillages
+- Famines et épidémies
+
+## III. La fin de la guerre et ses conséquences
+
+### A. La victoire des Alliés
+
+- En 1917, les **États-Unis** entrent en guerre aux côtés de l'Entente
+- La **Russie** se retire après la révolution bolchevique (1917)
+- L'**armistice** est signé le **11 novembre 1918**
+
+### B. Un bilan terrible
+
+- Environ **10 millions de morts** militaires
+- Des millions de **blessés** et de **gueules cassées**
+- Des régions entièrement **dévastées** (nord de la France, Belgique)
+- Un **traumatisme** profond pour les sociétés européennes
+
+### C. Les traités de paix
+
+Le **traité de Versailles** (28 juin 1919) impose à l'Allemagne :
+- De lourdes **réparations** financières
+- La perte de territoires (Alsace-Lorraine rendue à la France)
+- La réduction de son armée
+- La reconnaissance de sa **responsabilité** dans la guerre
+
+## Vocabulaire essentiel
+
+- **Guerre totale** : conflit qui mobilise toutes les ressources d'un pays (militaires, économiques, humaines)
+- **Tranchées** : fossés creusés pour protéger les soldats sur le front
+- **Poilu** : surnom donné aux soldats français de la Première Guerre mondiale
+- **Génocide** : destruction systématique et organisée d'un peuple en raison de son origine
+- **Armistice** : accord pour cesser les combats
+- **Propagande** : ensemble des moyens utilisés pour influencer l'opinion publique

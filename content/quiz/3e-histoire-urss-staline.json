@@ -1,0 +1,333 @@
+{
+  "titre": "L'URSS de Staline : un régime totalitaire",
+  "niveau": "3e",
+  "matiere": "histoire",
+  "chapitre": "urss-staline",
+  "questions": [
+    {
+      "type": "qcm",
+      "question": "Que signifie le sigle URSS ?",
+      "options": [
+        "Union des Républiques Socialistes Soviétiques",
+        "Union des Régions Socialistes et Soviétiques",
+        "Union Russe des États Socialistes",
+        "United Republic of Soviet States"
+      ],
+      "reponse": 0,
+      "explication": "L'URSS signifie Union des Républiques Socialistes Soviétiques. Cet État, fondé en 1922, regroupait 15 républiques sous la direction de la Russie, avec Moscou pour capitale."
+    },
+    {
+      "type": "qcm",
+      "question": "Qui dirige la Révolution d'Octobre 1917 ?",
+      "options": [
+        "Staline",
+        "Trotski",
+        "Lénine",
+        "Nicolas II"
+      ],
+      "reponse": 2,
+      "explication": "Lénine, chef du parti bolchevik, dirige la Révolution d'Octobre 1917. Les bolcheviks s'emparent du pouvoir à Petrograd et renversent le gouvernement provisoire."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "La Révolution d'Octobre a eu lieu en novembre selon notre calendrier.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 0,
+      "explication": "C'est vrai. La Russie utilisait encore le calendrier julien, en retard de 13 jours. Le 25 octobre du calendrier russe correspond au 7 novembre de notre calendrier grégorien."
+    },
+    {
+      "type": "qcm",
+      "question": "Que se passe-t-il en Russie entre 1918 et 1921 ?",
+      "options": [
+        "Une famine généralisée",
+        "Une guerre civile entre « Rouges » et « Blancs »",
+        "L'invasion par l'Allemagne",
+        "La construction du premier plan quinquennal"
+      ],
+      "reponse": 1,
+      "explication": "Une guerre civile oppose les « Rouges » (l'Armée rouge des bolcheviks) aux « Blancs » (partisans du tsar et opposants). Elle fait entre 7 et 12 millions de morts."
+    },
+    {
+      "type": "qcm",
+      "question": "En quelle année l'URSS est-elle officiellement créée ?",
+      "options": [
+        "1917",
+        "1920",
+        "1922",
+        "1924"
+      ],
+      "reponse": 2,
+      "explication": "L'URSS est officiellement créée le 30 décembre 1922, après la victoire des bolcheviks dans la guerre civile."
+    },
+    {
+      "type": "qcm",
+      "question": "Comment Staline parvient-il au pouvoir ?",
+      "options": [
+        "Il est élu par le peuple lors d'élections libres",
+        "Il prend le pouvoir par un coup d'État militaire",
+        "Il utilise son poste de Secrétaire général du Parti pour éliminer ses rivaux",
+        "Il est désigné par Lénine dans son testament"
+      ],
+      "reponse": 2,
+      "explication": "Staline occupe le poste de Secrétaire général du Parti depuis 1922. Il utilise cette position stratégique pour placer ses alliés et écarter ses rivaux, notamment Trotski."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Staline était d'origine russe.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 1,
+      "explication": "C'est faux. Staline était géorgien. Son vrai nom était Djougachvili. « Staline » est un pseudonyme venant du mot russe « stal » (acier)."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel surnom la propagande donne-t-elle à Staline ?",
+      "options": [
+        "Le Grand Architecte",
+        "Le Petit Père des peuples",
+        "Le Libérateur",
+        "Le Premier Citoyen"
+      ],
+      "reponse": 1,
+      "explication": "Staline est surnommé le « Petit Père des peuples », le « Guide génial » ou encore le « Meilleur ami des enfants ». Ces surnoms font partie du culte de la personnalité."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce que le culte de la personnalité ?",
+      "options": [
+        "Un mouvement artistique soviétique",
+        "Une religion créée par Staline",
+        "La glorification excessive d'un dirigeant présenté comme exceptionnel et infaillible",
+        "Un programme scolaire pour les enfants soviétiques"
+      ],
+      "reponse": 2,
+      "explication": "Le culte de la personnalité consiste à glorifier un dirigeant de manière excessive, en utilisant tous les moyens de communication pour le présenter comme un être génial et infaillible."
+    },
+    {
+      "type": "qcm",
+      "question": "Que faisait le régime soviétique avec les photographies officielles ?",
+      "options": [
+        "Il les diffusait librement à la population",
+        "Il les retouchait pour faire disparaître les personnes tombées en disgrâce",
+        "Il les interdisait dans les lieux publics",
+        "Il les envoyait aux journaux étrangers"
+      ],
+      "reponse": 1,
+      "explication": "Les photos officielles étaient retouchées pour embellir Staline ou effacer les personnes arrêtées ou exécutées. C'est ce qu'on appelle la « falsification de l'histoire »."
+    },
+    {
+      "type": "qcm",
+      "question": "Comment s'appelle le style artistique imposé en URSS à partir de 1934 ?",
+      "options": [
+        "L'art abstrait",
+        "Le réalisme socialiste",
+        "L'impressionnisme soviétique",
+        "Le constructivisme"
+      ],
+      "reponse": 1,
+      "explication": "Le « réalisme socialiste » impose aux artistes de représenter la réalité « telle qu'elle devrait être » selon l'idéologie communiste : ouvriers joyeux, paysans fiers, Staline bienveillant."
+    },
+    {
+      "type": "qcm",
+      "question": "Dans quelle organisation de jeunesse entre-t-on à 9 ans en URSS ?",
+      "options": [
+        "Les Octobristes",
+        "Les Pionniers",
+        "Les Komsomols",
+        "Les Bolcheviks juniors"
+      ],
+      "reponse": 1,
+      "explication": "Les Pionniers accueillent les enfants de 9 à 14 ans. Ils portent un foulard rouge et prêtent serment de fidélité à Staline et au Parti."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce que la collectivisation des terres ?",
+      "options": [
+        "La distribution des terres aux paysans les plus pauvres",
+        "Le regroupement forcé des terres dans des fermes collectives appartenant à l'État",
+        "La vente des terres agricoles à des entreprises étrangères",
+        "L'abandon des campagnes au profit des villes"
+      ],
+      "reponse": 1,
+      "explication": "La collectivisation consiste à regrouper les terres, le bétail et les outils des paysans dans des fermes collectives (kolkhozes ou sovkhozes) appartenant à l'État."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce qu'un kolkhoze ?",
+      "options": [
+        "Un camp de travail forcé",
+        "Une usine d'État",
+        "Une ferme collective",
+        "Une école pour les enfants de paysans"
+      ],
+      "reponse": 2,
+      "explication": "Un kolkhoze est une ferme collective où les paysans travaillent ensemble. Ils peuvent garder un petit lopin de terre individuel et quelques animaux."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce qu'un « koulak » ?",
+      "options": [
+        "Un soldat de l'Armée rouge",
+        "Un paysan considéré comme « riche » et persécuté par le régime",
+        "Un membre de la police politique",
+        "Un ouvrier qui dépasse ses objectifs de production"
+      ],
+      "reponse": 1,
+      "explication": "Le terme « koulak » (« poing » en russe) désigne officiellement un paysan riche. En réalité, tout paysan résistant à la collectivisation pouvait être qualifié de koulak."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce que l'Holodomor ?",
+      "options": [
+        "Un procès politique à Moscou",
+        "La grande famine de 1932-1933, principalement en Ukraine",
+        "Le nom d'un camp du Goulag en Sibérie",
+        "Un plan d'industrialisation forcée"
+      ],
+      "reponse": 1,
+      "explication": "L'Holodomor (« extermination par la faim » en ukrainien) est la grande famine de 1932-1933 causée par la collectivisation et les réquisitions forcées de céréales. Elle fait entre 5 et 7 millions de morts."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Pendant l'Holodomor, l'URSS continuait d'exporter des céréales.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 0,
+      "explication": "C'est vrai. Alors que des millions de personnes mouraient de faim, l'URSS a exporté 1,8 million de tonnes de céréales en 1933 pour financer son industrialisation."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce qu'un plan quinquennal ?",
+      "options": [
+        "Un programme militaire sur 5 ans",
+        "Un programme économique fixant des objectifs de production sur 5 ans",
+        "Un plan d'éducation de la jeunesse sur 5 ans",
+        "Un programme de construction de logements sur 5 ans"
+      ],
+      "reponse": 1,
+      "explication": "Un plan quinquennal est un programme économique où l'État fixe les objectifs de production à atteindre en 5 ans. Le premier plan quinquennal débute en 1929."
+    },
+    {
+      "type": "qcm",
+      "question": "Quelle est la priorité des plans quinquennaux ?",
+      "options": [
+        "L'agriculture et l'alimentation",
+        "Le logement et le confort de la population",
+        "L'industrie lourde (acier, charbon, électricité)",
+        "L'éducation et la santé"
+      ],
+      "reponse": 2,
+      "explication": "Les plans quinquennaux donnent la priorité absolue à l'industrie lourde. Les biens de consommation (vêtements, nourriture, logement) sont sacrifiés au profit de l'industrialisation."
+    },
+    {
+      "type": "reponse_courte",
+      "question": "Comment s'appelle le mineur de charbon devenu un héros de la propagande soviétique en 1935 ?",
+      "options": [],
+      "reponse": "Stakhanov",
+      "explication": "Alexeï Stakhanov aurait extrait 102 tonnes de charbon en 6 heures. Son exploit, largement truqué, donna son nom au « stakhanovisme » : le culte du travailleur qui dépasse tous les objectifs."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce que le NKVD ?",
+      "options": [
+        "Le parti politique au pouvoir en URSS",
+        "La police politique soviétique",
+        "L'armée soviétique",
+        "Le ministère de l'économie soviétique"
+      ],
+      "reponse": 1,
+      "explication": "Le NKVD (Commissariat du peuple aux Affaires intérieures) est la police politique de Staline. Il surveille la population, procède aux arrestations, mène les interrogatoires et gère les camps du Goulag."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce que le Goulag ?",
+      "options": [
+        "Le Parlement soviétique",
+        "Le système de camps de travail forcé",
+        "L'organisation de jeunesse communiste",
+        "Le plan d'industrialisation"
+      ],
+      "reponse": 1,
+      "explication": "Le Goulag (« Direction principale des camps ») est le système de camps de travail forcé où sont envoyés les prisonniers politiques et condamnés. Les camps sont souvent situés dans des régions inhospitalières."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Le Goulag servait uniquement à punir les opposants politiques.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 1,
+      "explication": "C'est faux. Le Goulag était aussi un système économique. Les prisonniers constituaient une main-d'œuvre gratuite pour les grands chantiers : mines, canaux, voies ferrées, exploitation forestière."
+    },
+    {
+      "type": "qcm",
+      "question": "Combien de personnes sont passées par le Goulag entre 1930 et 1953 ?",
+      "options": [
+        "Environ 1 million",
+        "Environ 5 millions",
+        "Environ 18 à 20 millions",
+        "Environ 50 millions"
+      ],
+      "reponse": 2,
+      "explication": "On estime qu'environ 18 à 20 millions de personnes sont passées par le Goulag. Entre 1,5 et 1,8 million de personnes y sont mortes."
+    },
+    {
+      "type": "reponse_courte",
+      "question": "Quel écrivain, ancien prisonnier du Goulag, a écrit « L'Archipel du Goulag » ?",
+      "options": [],
+      "reponse": "Soljenitsyne",
+      "explication": "Alexandre Soljenitsyne a passé 8 ans au Goulag pour avoir critiqué Staline dans une lettre privée. Son livre, publié en 1973, a révélé au monde l'ampleur du système concentrationnaire soviétique."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce que la « Grande Terreur » ?",
+      "options": [
+        "La guerre civile de 1918-1921",
+        "La famine de 1932-1933",
+        "La période de répression massive de 1937-1938",
+        "L'invasion allemande de 1941"
+      ],
+      "reponse": 2,
+      "explication": "La Grande Terreur (1937-1938) est une période de répression massive : environ 1,5 million de personnes sont arrêtées et 680 000 à 750 000 sont exécutées."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Pendant la Grande Terreur, même les hauts dirigeants du Parti communiste pouvaient être arrêtés et exécutés.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 0,
+      "explication": "C'est vrai. La Grande Terreur touche toutes les couches de la société, y compris les anciens compagnons de Lénine, les cadres du Parti et les officiers de l'armée."
+    },
+    {
+      "type": "qcm",
+      "question": "Quels sont les trois piliers du totalitarisme ?",
+      "options": [
+        "L'armée, l'économie et la religion",
+        "Un chef tout-puissant et un parti unique, la propagande, la terreur",
+        "La démocratie, la liberté et l'égalité",
+        "L'industrie, l'agriculture et le commerce"
+      ],
+      "reponse": 1,
+      "explication": "Les trois piliers du totalitarisme sont : un chef tout-puissant et un parti unique, la propagande et le culte de la personnalité, et la terreur (police politique, camps, délation)."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce qui distingue un régime totalitaire d'une dictature classique ?",
+      "options": [
+        "Le totalitarisme est moins violent qu'une dictature",
+        "Le totalitarisme cherche à contrôler tous les aspects de la vie, y compris la pensée",
+        "Le totalitarisme laisse plus de libertés économiques",
+        "Le totalitarisme repose sur des élections truquées"
+      ],
+      "reponse": 1,
+      "explication": "Le totalitarisme se distingue par son ambition de contrôler non seulement la vie politique, mais aussi la vie économique, sociale, culturelle et même la pensée des individus."
+    },
+    {
+      "type": "qcm",
+      "question": "Quels sont les trois régimes totalitaires du XXe siècle étudiés en classe ?",
+      "options": [
+        "L'URSS de Staline, l'Allemagne nazie d'Hitler, l'Italie fasciste de Mussolini",
+        "L'URSS de Staline, la Chine de Mao, le Japon impérial",
+        "L'Allemagne nazie, l'Espagne de Franco, le Portugal de Salazar",
+        "L'URSS de Lénine, l'Allemagne d'Hitler, la France de Vichy"
+      ],
+      "reponse": 0,
+      "explication": "Les trois grands régimes totalitaires du XXe siècle sont l'URSS de Staline, l'Allemagne nazie d'Hitler et l'Italie fasciste de Mussolini."
+    }
+  ]
+}

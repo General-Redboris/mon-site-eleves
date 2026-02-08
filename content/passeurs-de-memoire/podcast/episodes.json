@@ -1,0 +1,28 @@
+{
+  "titre_podcast": "La Voix des Puits",
+  "description": "Le podcast des élèves du Collège Francine Leca — Histoires, témoignages et mémoire.",
+  "episodes": [
+    {
+      "numero": 1,
+      "titre": "[EXEMPLE] Les enfants de Sancerre — Sur les traces des familles déportées",
+      "description": "Dans ce premier épisode, les élèves de 3eB partent à la recherche des familles juives de Sancerre déportées pendant la Seconde Guerre mondiale. À travers les archives municipales et les témoignages recueillis, ils reconstituent le parcours de ces familles.",
+      "duree": "12:34",
+      "date": "2024-05-15",
+      "annee_scolaire": "2023-2024",
+      "plateforme": "youtube",
+      "embed_id": "dQw4w9WgXcQ",
+      "lien_externe": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "numero": 2,
+      "titre": "[EXEMPLE] Visite au Struthof — Quand le silence raconte",
+      "description": "Les élèves de 3eA racontent leur visite du camp de concentration de Natzweiler-Struthof. Leurs impressions, leurs émotions et ce qu'ils ont appris sur la déportation et le système concentrationnaire nazi.",
+      "duree": "18:07",
+      "date": "2024-03-28",
+      "annee_scolaire": "2023-2024",
+      "plateforme": "soundcloud",
+      "embed_id": "https://soundcloud.com/exemple/visite-struthof",
+      "lien_externe": "https://soundcloud.com/exemple/visite-struthof"
+    }
+  ]
+}

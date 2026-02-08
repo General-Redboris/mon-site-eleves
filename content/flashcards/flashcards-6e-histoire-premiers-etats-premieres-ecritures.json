@@ -1,0 +1,127 @@
+{
+  "titre": "Premiers États, premières écritures",
+  "niveau": "6e",
+  "matiere": "histoire",
+  "cartes": [
+    {
+      "recto": "Que signifie « l'Égypte est un don du Nil » ?",
+      "verso": "Sans le Nil, l'Égypte serait un désert. La crue annuelle du fleuve dépose du limon fertile qui permet l'agriculture.",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Qu'est-ce que le limon ?",
+      "verso": "Boue noire très fertile déposée par le Nil lors de sa crue annuelle (juillet à octobre).",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Qui est le pharaon ?",
+      "verso": "Le roi-dieu de l'Égypte, considéré comme le « fils de Rê » et l'incarnation d'Horus. Il est propriétaire de tout le pays.",
+      "categorie": "personnages",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Qu'est-ce qu'un scribe ?",
+      "verso": "Personne qui sait lire et écrire, chargée de l'administration du royaume. Il fait partie de l'élite de la société égyptienne.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Qu'est-ce que le polythéisme ?",
+      "verso": "Croyance en plusieurs dieux (poly = plusieurs, theos = dieu). Les Égyptiens et les Mésopotamiens sont polythéistes.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Quel dieu égyptien juge les âmes dans l'au-delà ?",
+      "verso": "Osiris (représenté sous forme de momie couronnée). Anubis, à tête de chacal, protège l'embaumement.",
+      "categorie": "personnages",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Qu'est-ce que la momification ?",
+      "verso": "Technique de conservation des corps : extraction des organes (vases canopes), dessèchement au natron, bandelettes de lin, sarcophage.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Qu'est-ce que les hiéroglyphes ?",
+      "verso": "Écriture sacrée égyptienne (du grec « écriture sacrée »). Des dessins représentant des sons, des mots ou des idées. Apparaissent vers 3200 av. J.-C.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "1822",
+      "verso": "Champollion déchiffre les hiéroglyphes grâce à la Pierre de Rosette (même texte en 3 écritures : hiéroglyphes, démotique, grec).",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Que signifie « Mésopotamie » ?",
+      "verso": "« Entre les fleuves » (du grec meso = entre, potamos = fleuve). Région entre le Tigre et l'Euphrate, dans l'actuel Irak.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Vers 3300 av. J.-C.",
+      "verso": "Invention de l'écriture cunéiforme par les Sumériens en Mésopotamie. Marque le début de l'Histoire.",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Qu'est-ce que l'écriture cunéiforme ?",
+      "verso": "Première écriture de l'histoire, inventée par les Sumériens. Signes en forme de coins tracés avec un calame sur des tablettes d'argile.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Qu'est-ce qu'une cité-État ?",
+      "verso": "Ville indépendante avec son propre territoire, son roi, son armée et ses dieux protecteurs. Modèle politique de la Mésopotamie.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Qu'est-ce qu'une ziggourat ?",
+      "verso": "Pyramide à étages au centre des cités mésopotamiennes. Lieu de culte où les prêtres font des offrandes aux dieux.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Vers 1750 av. J.-C.",
+      "verso": "Le roi Hammurabi de Babylone fait graver 282 lois sur une stèle : le Code de Hammurabi, l'un des plus anciens codes de lois connus.",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Qui est Hammurabi ?",
+      "verso": "Roi de Babylone (~1750 av. J.-C.) qui fait graver un code de 282 lois. Ce code applique souvent la loi du talion (« œil pour œil »).",
+      "categorie": "personnages",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Quelle différence d'organisation entre l'Égypte et la Mésopotamie ?",
+      "verso": "L'Égypte est un royaume unifié sous le pharaon. La Mésopotamie est divisée en cités-États rivales et indépendantes.",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Quelles sont les quatre grandes cités mésopotamiennes ?",
+      "verso": "Uruk (~3500 av. J.-C.), Ur (~2100 av. J.-C.), Babylone (~1800 av. J.-C.) et Ninive (~700 av. J.-C.).",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Qu'est-ce que la Pierre de Rosette ?",
+      "verso": "Pierre portant le même texte en 3 écritures (hiéroglyphes, démotique, grec). Elle a permis à Champollion de déchiffrer les hiéroglyphes en 1822.",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Vers 2500 av. J.-C.",
+      "verso": "Construction des pyramides de Gizeh en Égypte.",
+      "categorie": "dates",
+      "niveau_difficulte": 2
+    }
+  ]
+}

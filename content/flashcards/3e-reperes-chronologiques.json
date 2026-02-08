@@ -1,0 +1,79 @@
+{
+  "titre": "Repères chronologiques — 3e",
+  "niveau": "3e",
+  "matiere": "histoire",
+  "cartes": [
+    {
+      "recto": "1914-1918",
+      "verso": "Première Guerre mondiale",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "11 novembre 1918",
+      "verso": "Armistice de la Première Guerre mondiale",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "1939-1945",
+      "verso": "Seconde Guerre mondiale",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "18 juin 1940",
+      "verso": "Appel du général de Gaulle depuis Londres",
+      "categorie": "dates",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "1945",
+      "verso": "Création de l'ONU, droit de vote des femmes en France",
+      "categorie": "dates",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "1958",
+      "verso": "Naissance de la Ve République, de Gaulle président",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "1989",
+      "verso": "Chute du mur de Berlin",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "1992",
+      "verso": "Traité de Maastricht — création de l'Union européenne",
+      "categorie": "dates",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Qu'est-ce qu'un génocide ?",
+      "verso": "Destruction systématique et organisée d'un peuple en raison de son origine ethnique, religieuse ou nationale.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Qu'est-ce qu'un régime totalitaire ?",
+      "verso": "Régime politique dans lequel l'État contrôle tous les aspects de la vie (politique, économique, social, culturel) par la terreur et la propagande.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Qu'est-ce que la guerre froide ?",
+      "verso": "Période de tensions (1947-1991) entre les États-Unis (capitalisme) et l'URSS (communisme), sans affrontement direct.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Qui est Jean Moulin ?",
+      "verso": "Chef de la Résistance française pendant la Seconde Guerre mondiale, unificateur des mouvements de résistance. Arrêté et mort en 1943.",
+      "categorie": "personnages",
+      "niveau_difficulte": 2
+    }
+  ]
+}

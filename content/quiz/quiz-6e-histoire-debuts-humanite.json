@@ -1,0 +1,126 @@
+{
+  "titre": "Les débuts de l'humanité",
+  "niveau": "6e",
+  "matiere": "histoire",
+  "chapitre": "debuts-humanite",
+  "questions": [
+    {
+      "type": "qcm",
+      "question": "Sur quel continent les premiers hominidés sont-ils apparus ?",
+      "options": ["L'Europe", "L'Asie", "L'Afrique", "L'Amérique"],
+      "reponse": 2,
+      "explication": "L'Afrique est le « berceau de l'humanité ». Les plus anciens hominidés connus, comme Toumaï, y ont été découverts."
+    },
+    {
+      "type": "qcm",
+      "question": "Comment s'appelle le plus ancien hominidé connu, découvert au Tchad en 2001 ?",
+      "options": ["Lucy", "Toumaï", "Homo habilis", "Néandertal"],
+      "reponse": 1,
+      "explication": "Toumaï (Sahelanthropus tchadensis) a été découvert au Tchad par l'équipe de Michel Brunet. Son crâne est vieux de près de 7 millions d'années."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Lucy est une Homo sapiens qui vivait il y a 3,2 millions d'années.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 1,
+      "explication": "Faux. Lucy est une Australopithèque, pas une Homo sapiens. Notre espèce, Homo sapiens, n'est apparue que bien plus tard, il y a environ 300 000 ans."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel est le premier caractère qui distingue les hominidés des autres primates ?",
+      "options": ["La fabrication d'outils", "La bipédie", "Le langage", "La maîtrise du feu"],
+      "reponse": 1,
+      "explication": "La bipédie (marche debout sur deux pieds) est le premier et le plus ancien caractère propre aux hominidés. Elle libère les mains."
+    },
+    {
+      "type": "qcm",
+      "question": "Où ont été retrouvés les plus anciens outils connus, datés de 3,3 millions d'années ?",
+      "options": ["En France, à Lascaux", "En Éthiopie", "Au Kenya, à Lomekwi", "En Chine"],
+      "reponse": 2,
+      "explication": "Les plus anciens outils connus ont été retrouvés sur le site de Lomekwi, au Kenya, et datent d'environ 3,3 millions d'années."
+    },
+    {
+      "type": "qcm",
+      "question": "Comment appelle-t-on un outil en pierre taillé sur les deux faces, inventé par Homo erectus ?",
+      "options": ["Un chopper", "Un biface", "Un grattoir", "Une pointe de flèche"],
+      "reponse": 1,
+      "explication": "Le biface est un outil symétrique taillé sur les deux faces, plus tranchant et polyvalent que le chopper. Il servait à couper, racler ou creuser."
+    },
+    {
+      "type": "reponse_courte",
+      "question": "Vers quelle date la maîtrise du feu est-elle attestée ?",
+      "reponse": "-400 000 ans",
+      "explication": "Les plus anciens foyers bien datés remontent à environ 400 000 ans. C'est Homo erectus qui est le premier à utiliser le feu régulièrement."
+    },
+    {
+      "type": "qcm",
+      "question": "Comment vivaient les hommes du Paléolithique ?",
+      "options": [
+        "En sédentaires dans des villages",
+        "En nomades, vivant de chasse, pêche et cueillette",
+        "En cultivant des champs de blé",
+        "En élevant des animaux domestiques"
+      ],
+      "reponse": 1,
+      "explication": "Les hommes du Paléolithique étaient des nomades chasseurs-cueilleurs. Ils se déplaçaient pour suivre le gibier et trouver des ressources."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel est le premier hominidé à quitter l'Afrique, il y a environ 2 millions d'années ?",
+      "options": ["Homo sapiens", "Homo habilis", "Homo erectus", "Néandertal"],
+      "reponse": 2,
+      "explication": "Homo erectus est le premier hominidé à quitter l'Afrique, il y a environ 2 millions d'années, se répandant vers l'Asie et l'Europe."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Homo sapiens et l'Homme de Néandertal ont coexisté en Europe pendant plusieurs milliers d'années.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 0,
+      "explication": "Vrai. Homo sapiens arrive en Europe vers -45 000 ans et coexiste avec Néandertal pendant 5 000 à 10 000 ans. Les deux espèces se sont même métissées."
+    },
+    {
+      "type": "qcm",
+      "question": "Par où Homo sapiens a-t-il rejoint l'Amérique ?",
+      "options": [
+        "En traversant l'océan Atlantique",
+        "Par la Béringie, un pont terrestre entre la Sibérie et l'Alaska",
+        "Par l'Australie",
+        "Par le détroit de Gibraltar"
+      ],
+      "reponse": 1,
+      "explication": "Lors de la dernière période glaciaire, un pont terrestre (la Béringie) reliait la Sibérie à l'Alaska. Des groupes d'Homo sapiens l'ont traversé vers -20 000 ans."
+    },
+    {
+      "type": "qcm",
+      "question": "Quelle est la plus ancienne grotte ornée connue en France ?",
+      "options": ["La grotte de Lascaux", "La grotte Chauvet", "La grotte de Cosquer", "La grotte de Font-de-Gaume"],
+      "reponse": 1,
+      "explication": "La grotte Chauvet (Ardèche), datée d'environ -36 000 ans, est la plus ancienne grotte ornée connue en France. Lascaux est plus récente (environ -20 000 ans)."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "L'art pariétal, ce sont des sculptures en pierre réalisées par les hommes préhistoriques.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 1,
+      "explication": "Faux. L'art pariétal désigne les peintures et gravures réalisées sur les parois des grottes (du latin paries = paroi). Les sculptures s'appellent des statuettes."
+    },
+    {
+      "type": "qcm",
+      "question": "Que nous apprennent les premières sépultures sur les hommes préhistoriques ?",
+      "options": [
+        "Qu'ils savaient écrire",
+        "Qu'ils avaient des croyances liées à la mort",
+        "Qu'ils pratiquaient l'agriculture",
+        "Qu'ils vivaient en grandes villes"
+      ],
+      "reponse": 1,
+      "explication": "Les sépultures (tombes avec des objets, parfois de l'ocre rouge) montrent que les hommes préhistoriques avaient des pratiques funéraires et probablement des croyances."
+    },
+    {
+      "type": "reponse_courte",
+      "question": "Comment appelle-t-on les scientifiques qui étudient les fossiles ?",
+      "reponse": "paléontologues",
+      "explication": "Les paléontologues étudient les fossiles pour reconstituer l'histoire de la vie sur Terre. Les archéologues, eux, étudient les traces matérielles laissées par les sociétés du passé."
+    }
+  ]
+}

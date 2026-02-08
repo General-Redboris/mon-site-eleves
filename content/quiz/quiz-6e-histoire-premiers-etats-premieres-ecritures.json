@@ -1,0 +1,122 @@
+{
+  "titre": "Premiers États, premières écritures",
+  "niveau": "6e",
+  "matiere": "histoire",
+  "chapitre": "premiers-etats-premieres-ecritures",
+  "questions": [
+    {
+      "type": "qcm",
+      "question": "Selon l'historien grec Hérodote, l'Égypte est un « don du... » ?",
+      "options": ["Soleil", "Pharaon", "Nil", "Désert"],
+      "reponse": 2,
+      "explication": "Le Nil est vital pour l'Égypte : sa crue annuelle dépose le limon fertile qui permet l'agriculture. Sans ce fleuve, le pays serait un désert."
+    },
+    {
+      "type": "qcm",
+      "question": "Comment appelle-t-on la boue fertile déposée par le Nil lors de sa crue ?",
+      "options": ["Le natron", "Le limon", "L'argile", "Le papyrus"],
+      "reponse": 1,
+      "explication": "Le limon est la boue noire très fertile que le Nil dépose en se retirant après sa crue. Il permet de cultiver le blé, l'orge, le lin et le papyrus."
+    },
+    {
+      "type": "qcm",
+      "question": "Qui se trouve au sommet de la société égyptienne ?",
+      "options": ["Les prêtres", "Les scribes", "Le pharaon", "Les généraux"],
+      "reponse": 2,
+      "explication": "Le pharaon est un roi-dieu, « fils de Rê » et incarnation d'Horus. Il est propriétaire de tout le pays et se situe au sommet de la pyramide sociale."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Les Égyptiens sont monothéistes : ils ne croient qu'en un seul dieu.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 1,
+      "explication": "Faux. Les Égyptiens sont polythéistes : ils croient en de nombreux dieux (Rê, Osiris, Anubis, Horus...), souvent représentés avec une tête d'animal."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel dieu égyptien, à tête de chacal, protège les morts ?",
+      "options": ["Rê", "Osiris", "Anubis", "Horus"],
+      "reponse": 2,
+      "explication": "Anubis, représenté avec une tête de chacal, est le protecteur de l'embaumement et des morts. Osiris, lui, juge les âmes dans l'au-delà."
+    },
+    {
+      "type": "qcm",
+      "question": "Pourquoi les Égyptiens pratiquent-ils la momification ?",
+      "options": [
+        "Pour décorer les temples",
+        "Pour conserver le corps et permettre la survie de l'âme dans l'au-delà",
+        "Pour nourrir les dieux",
+        "Pour effrayer les ennemis"
+      ],
+      "reponse": 1,
+      "explication": "Les Égyptiens croient en une vie après la mort. Pour que l'âme survive, le corps doit être conservé par la momification (dessèchement, bandelettes, sarcophage)."
+    },
+    {
+      "type": "reponse_courte",
+      "question": "Quel Français a déchiffré les hiéroglyphes en 1822 ?",
+      "reponse": "Champollion",
+      "explication": "Jean-François Champollion a déchiffré les hiéroglyphes grâce à la Pierre de Rosette, qui portait le même texte en trois écritures (hiéroglyphes, démotique, grec)."
+    },
+    {
+      "type": "qcm",
+      "question": "Que signifie le mot « Mésopotamie » ?",
+      "options": ["Terre des pharaons", "Entre les fleuves", "Pays du soleil", "Grande pyramide"],
+      "reponse": 1,
+      "explication": "Mésopotamie vient du grec meso (entre) et potamos (fleuve). La Mésopotamie se situe entre le Tigre et l'Euphrate, dans l'actuel Irak."
+    },
+    {
+      "type": "qcm",
+      "question": "Qui a inventé la première écriture de l'histoire ?",
+      "options": ["Les Égyptiens", "Les Grecs", "Les Sumériens", "Les Romains"],
+      "reponse": 2,
+      "explication": "Les Sumériens inventent l'écriture cunéiforme vers 3300 av. J.-C. en Mésopotamie. Les hiéroglyphes égyptiens apparaissent peu après, vers 3200 av. J.-C."
+    },
+    {
+      "type": "qcm",
+      "question": "Sur quel support écrit-on en écriture cunéiforme ?",
+      "options": ["Du papyrus", "Du parchemin", "Des tablettes d'argile", "Du papier"],
+      "reponse": 2,
+      "explication": "L'écriture cunéiforme est tracée avec un calame (roseau) sur des tablettes d'argile fraîche, qui sont ensuite séchées au soleil ou cuites."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Contrairement à l'Égypte, la Mésopotamie est divisée en plusieurs cités-États indépendantes.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 0,
+      "explication": "Vrai. L'Égypte forme un seul royaume unifié sous l'autorité du pharaon, tandis que la Mésopotamie est divisée en cités-États rivales (Ur, Uruk, Babylone, Ninive...)."
+    },
+    {
+      "type": "qcm",
+      "question": "Comment appelle-t-on la pyramide à étages qui sert de temple en Mésopotamie ?",
+      "options": ["Une pyramide", "Un dolmen", "Une ziggourat", "Un parthénon"],
+      "reponse": 2,
+      "explication": "La ziggourat est une pyramide à étages au centre des cités mésopotamiennes. Les prêtres y célèbrent le culte et font des offrandes aux dieux."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel roi de Babylone a fait graver l'un des plus anciens codes de lois connus ?",
+      "options": ["Ramsès II", "Hammurabi", "Alexandre", "Néron"],
+      "reponse": 1,
+      "explication": "Vers 1750 av. J.-C., le roi Hammurabi de Babylone fait graver 282 lois sur une stèle de pierre noire. C'est l'un des plus anciens codes de lois connus."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "L'invention de l'écriture marque le passage de la Préhistoire à l'Histoire.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 0,
+      "explication": "Vrai. Par convention, les historiens considèrent que l'Histoire commence avec l'invention de l'écriture, vers 3300 av. J.-C. Avant, c'est la Préhistoire."
+    },
+    {
+      "type": "qcm",
+      "question": "À quoi servait l'écriture à ses débuts en Mésopotamie ?",
+      "options": [
+        "À écrire des romans",
+        "À compter (inventaires, impôts, commerce)",
+        "À décorer les temples",
+        "À envoyer des messages aux dieux"
+      ],
+      "reponse": 1,
+      "explication": "L'écriture sert d'abord à des usages pratiques : compter les marchandises, gérer les impôts et le commerce. Ce n'est que plus tard qu'elle sert à rédiger des lois et des récits."
+    }
+  ]
+}

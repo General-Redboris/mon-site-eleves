@@ -1,0 +1,209 @@
+{
+  "titre": "Quiz — Le monde habité",
+  "niveau": "6e",
+  "matiere": "geographie",
+  "chapitre": "le-monde-habite",
+  "questions": [
+    {
+      "type": "qcm",
+      "question": "Combien d'habitants compte la Terre aujourd'hui (environ) ?",
+      "options": [
+        "2 milliards",
+        "5 milliards",
+        "8 milliards",
+        "12 milliards"
+      ],
+      "reponse": 2,
+      "explication": "La Terre compte environ 8 milliards d'habitants en 2023. La population mondiale a été multipliée par 4 depuis 1900."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce que la densité de population ?",
+      "options": [
+        "Le nombre total d'habitants d'un pays",
+        "Le nombre moyen d'habitants par km²",
+        "Le nombre de villes dans un pays",
+        "La surface totale d'un territoire"
+      ],
+      "reponse": 1,
+      "explication": "La densité de population est le nombre moyen d'habitants par km². Elle se calcule en divisant la population totale par la superficie du territoire."
+    },
+    {
+      "type": "qcm",
+      "question": "Quelle est la densité moyenne de la population mondiale ?",
+      "options": [
+        "Environ 10 hab/km²",
+        "Environ 60 hab/km²",
+        "Environ 200 hab/km²",
+        "Environ 1 000 hab/km²"
+      ],
+      "reponse": 1,
+      "explication": "La densité moyenne mondiale est d'environ 60 hab/km². Mais ce chiffre cache d'énormes disparités : certaines régions dépassent 1 000 hab/km² et d'autres en comptent moins de 1."
+    },
+    {
+      "type": "qcm",
+      "question": "Quels sont les trois grands foyers de peuplement dans le monde ?",
+      "options": [
+        "Amérique du Nord, Europe, Afrique",
+        "Asie de l'Est, Asie du Sud, Europe",
+        "Asie du Sud, Amérique du Sud, Afrique",
+        "Europe, Océanie, Asie du Sud-Est"
+      ],
+      "reponse": 1,
+      "explication": "Les trois grands foyers de peuplement sont l'Asie de l'Est (1,6 milliard), l'Asie du Sud (2 milliards) et l'Europe (750 millions). Ils concentrent plus de la moitié de l'humanité."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel est le pays le plus peuplé du monde ?",
+      "options": [
+        "La Chine",
+        "Les États-Unis",
+        "L'Inde",
+        "Le Brésil"
+      ],
+      "reponse": 2,
+      "explication": "L'Inde est devenue le pays le plus peuplé du monde avec plus de 1,4 milliard d'habitants, dépassant la Chine. Elle se situe dans le foyer de peuplement d'Asie du Sud."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Un désert humain est forcément un désert de sable.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 1,
+      "explication": "Faux. Un désert humain est un espace très faiblement peuplé (moins de 5 hab/km²), quelle que soit la raison. La forêt amazonienne ou la Sibérie sont aussi des déserts humains, sans être des déserts de sable."
+    },
+    {
+      "type": "qcm",
+      "question": "Parmi ces espaces, lequel n'est PAS un désert humain ?",
+      "options": [
+        "Le Sahara",
+        "L'Amazonie",
+        "L'Europe de l'Ouest",
+        "La Sibérie"
+      ],
+      "reponse": 2,
+      "explication": "L'Europe de l'Ouest est l'un des trois grands foyers de peuplement, avec une forte densité de population. Le Sahara, l'Amazonie et la Sibérie sont des déserts humains."
+    },
+    {
+      "type": "qcm",
+      "question": "Quelle contrainte naturelle rend le Sahara très peu peuplé ?",
+      "options": [
+        "Le froid extrême",
+        "L'altitude élevée",
+        "L'aridité (le manque d'eau)",
+        "La forêt dense"
+      ],
+      "reponse": 2,
+      "explication": "Le Sahara est un désert chaud marqué par une aridité extrême : il n'y a pas assez d'eau pour l'agriculture ni pour la vie quotidienne. C'est la principale contrainte naturelle de cette région."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce qu'une contrainte naturelle ?",
+      "options": [
+        "Une loi qui interdit de vivre quelque part",
+        "Un élément du milieu naturel qui rend difficile l'installation humaine",
+        "Un fleuve qui empêche de traverser un territoire",
+        "Un bâtiment qui bloque la vue"
+      ],
+      "reponse": 1,
+      "explication": "Une contrainte naturelle est un élément du milieu naturel (climat, relief, végétation) qui rend difficile l'installation et la vie des êtres humains dans un espace donné."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Les contraintes naturelles empêchent totalement les humains de vivre dans certaines régions.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 1,
+      "explication": "Faux. Les humains ont toujours su s'adapter grâce à la technique : irrigation dans les déserts, chauffage dans les régions froides, routes et tunnels dans les montagnes. Des peuples vivent dans le Sahara (Touaregs) ou l'Arctique (Inuits)."
+    },
+    {
+      "type": "qcm",
+      "question": "Pourquoi l'Asie est-elle si densément peuplée ?",
+      "options": [
+        "Grâce au pétrole",
+        "Grâce à l'ancienneté du peuplement et à la riziculture, très productive",
+        "Grâce à l'industrialisation récente uniquement",
+        "Parce que le climat est froid"
+      ],
+      "reponse": 1,
+      "explication": "La forte densité de l'Asie s'explique par l'ancienneté du peuplement (des milliers d'années) et par la riziculture, une agriculture très productive qui permet de nourrir une population nombreuse."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce que la littoralisation ?",
+      "options": [
+        "La destruction des côtes par l'érosion",
+        "La concentration des populations et des activités sur les bords de mer",
+        "La construction de phares sur les côtes",
+        "La montée du niveau de la mer"
+      ],
+      "reponse": 1,
+      "explication": "La littoralisation est la concentration croissante des populations et des activités économiques sur les littoraux. Environ 60 % de la population mondiale vit à moins de 100 km des côtes."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel pourcentage de la population mondiale vit à moins de 100 km des côtes ?",
+      "options": [
+        "Environ 20 %",
+        "Environ 40 %",
+        "Environ 60 %",
+        "Environ 90 %"
+      ],
+      "reponse": 2,
+      "explication": "Environ 60 % de la population mondiale vit à moins de 100 km des côtes. Ce phénomène de concentration sur les littoraux s'appelle la littoralisation."
+    },
+    {
+      "type": "qcm",
+      "question": "Que signifie « habiter » en géographie ?",
+      "options": [
+        "Avoir une maison ou un appartement",
+        "Pratiquer un espace au quotidien : se loger, se déplacer, travailler, étudier, avoir des loisirs",
+        "Payer un loyer chaque mois",
+        "Posséder un terrain"
+      ],
+      "reponse": 1,
+      "explication": "En géographie, « habiter » ne signifie pas seulement avoir un logement. C'est pratiquer un espace au quotidien : s'y loger, s'y déplacer, y travailler, y étudier, y consommer, y avoir des loisirs."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Plus de la moitié de la population mondiale vit en ville depuis 2007.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 0,
+      "explication": "Vrai. Depuis 2007, plus de 50 % de la population mondiale vit en ville. Ce phénomène s'appelle l'urbanisation. En 1950, seulement 30 % de la population était urbaine."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce que l'urbanisation ?",
+      "options": [
+        "La destruction des villes",
+        "L'augmentation de la part de la population vivant en ville",
+        "La construction de routes",
+        "Le départ des habitants vers la campagne"
+      ],
+      "reponse": 1,
+      "explication": "L'urbanisation est l'augmentation de la part de la population qui vit en ville. En 1950, 30 % de la population mondiale était urbaine. En 2023, c'est plus de 56 %. En 2050, on estime que ce sera environ 68 %."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel est le principal inconvénient de la vie à la campagne en matière de services ?",
+      "options": [
+        "Trop de bruit",
+        "Trop de pollution",
+        "Les services sont moins nombreux et parfois éloignés (« déserts médicaux »)",
+        "Trop d'embouteillages"
+      ],
+      "reponse": 2,
+      "explication": "À la campagne, les services (écoles, hôpitaux, commerces) sont moins nombreux et parfois éloignés. On parle de « déserts médicaux » quand il manque des médecins dans certaines zones rurales."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel foyer de peuplement secondaire connaît la plus forte croissance démographique en Afrique ?",
+      "options": [
+        "L'Afrique du Nord",
+        "L'Afrique du Sud",
+        "Le golfe de Guinée (Nigeria)",
+        "L'Afrique de l'Est"
+      ],
+      "reponse": 2,
+      "explication": "Le golfe de Guinée (Nigeria, Ghana, Côte d'Ivoire) est un foyer de peuplement secondaire en pleine croissance. Le Nigeria pourrait devenir le 3e pays le plus peuplé du monde d'ici 2050."
+    }
+  ]
+}

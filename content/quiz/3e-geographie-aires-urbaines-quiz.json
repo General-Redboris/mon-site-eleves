@@ -1,0 +1,193 @@
+{
+  "titre": "Les aires urbaines dans une France mondialisée",
+  "niveau": "3e",
+  "matiere": "geographie",
+  "chapitre": "aires-urbaines",
+  "questions": [
+    {
+      "type": "qcm",
+      "question": "Quel est le taux d'urbanisation de la France ?",
+      "options": ["55 %", "68 %", "78 %", "92 %"],
+      "reponse": 2,
+      "explication": "78 % de la population française vit en ville, soit environ 48 millions de personnes. La France est un pays fortement urbanisé."
+    },
+    {
+      "type": "qcm",
+      "question": "Quels sont les trois éléments qui composent une aire urbaine ?",
+      "options": [
+        "La ville-centre, la banlieue et la couronne périurbaine",
+        "Le centre historique, la zone industrielle et la campagne",
+        "La métropole, le département et la région",
+        "Le quartier d'affaires, les grands ensembles et les pavillons"
+      ],
+      "reponse": 0,
+      "explication": "Une aire urbaine est formée d'un pôle urbain (ville-centre + banlieue) et d'une couronne périurbaine, dont au moins 40 % des actifs travaillent dans le pôle urbain."
+    },
+    {
+      "type": "qcm",
+      "question": "Quelle part de la population française vit dans les aires urbaines ?",
+      "options": ["60 %", "72 %", "85 %", "95 %"],
+      "reponse": 2,
+      "explication": "Les aires urbaines regroupent 85 % de la population française. L'espace à dominante urbaine en concentre même près de 95 %."
+    },
+    {
+      "type": "qcm",
+      "question": "Quelle est la première aire urbaine française en nombre d'habitants ?",
+      "options": ["Lyon", "Marseille", "Paris", "Toulouse"],
+      "reponse": 2,
+      "explication": "Paris est de loin la première aire urbaine avec 12,4 millions d'habitants, soit plus de cinq fois la deuxième (Lyon, 2,2 millions). On parle de macrocéphalie."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "La couronne périurbaine est composée de communes dont au moins 40 % des actifs travaillent dans le pôle urbain.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 0,
+      "explication": "C'est la définition exacte de la couronne périurbaine selon l'INSEE. Ce critère des 40 % d'actifs mesure l'influence du pôle urbain sur les communes environnantes."
+    },
+    {
+      "type": "qcm",
+      "question": "Dans quelle région se situe l'aire urbaine de Toulouse ?",
+      "options": ["Nouvelle-Aquitaine", "Occitanie", "Auvergne-Rhône-Alpes", "Provence-Alpes-Côte d'Azur"],
+      "reponse": 1,
+      "explication": "Toulouse se situe dans le sud-ouest de la France, en région Occitanie. Son aire urbaine regroupe environ 1,3 million d'habitants."
+    },
+    {
+      "type": "qcm",
+      "question": "Pourquoi Toulouse est-elle surnommée la « Ville rose » ?",
+      "options": [
+        "En raison de ses nombreux jardins de roses",
+        "En raison de ses constructions en brique",
+        "En raison de la couleur du ciel au coucher du soleil",
+        "En raison de la couleur de la Garonne"
+      ],
+      "reponse": 1,
+      "explication": "Le centre historique de Toulouse est construit en brique, ce qui donne aux bâtiments une teinte rose caractéristique."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel secteur économique fait la force de Toulouse ?",
+      "options": [
+        "L'automobile",
+        "L'aéronautique et le spatial",
+        "Le tourisme balnéaire",
+        "L'industrie textile"
+      ],
+      "reponse": 1,
+      "explication": "Toulouse est la capitale européenne de l'aéronautique et du spatial. Le site Airbus emploie 26 000 personnes sur 700 hectares. Le pôle de compétitivité Aerospace Valley regroupe plus de 1 200 établissements."
+    },
+    {
+      "type": "qcm",
+      "question": "Comment appelle-t-on le regroupement d'entreprises, de centres de recherche et d'organismes de formation autour d'un domaine précis ?",
+      "options": [
+        "Une technopole",
+        "Un pôle de compétitivité",
+        "Une zone industrielle",
+        "Un quartier d'affaires"
+      ],
+      "reponse": 1,
+      "explication": "Un pôle de compétitivité associe entreprises, recherche et formation sur un territoire. Aerospace Valley, à Toulouse, est le premier pôle de compétitivité européen dans l'aérospatiale."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "L'étalement urbain de Toulouse détruit des terres agricoles et des espaces naturels.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 0,
+      "explication": "L'aire urbaine de Toulouse ne cesse de s'étendre, grignotant les espaces agricoles et naturels. On parle d'artificialisation des sols."
+    },
+    {
+      "type": "qcm",
+      "question": "Comment appelle-t-on les déplacements quotidiens entre le domicile et le lieu de travail ?",
+      "options": [
+        "L'exode rural",
+        "La migration pendulaire",
+        "La délocalisation",
+        "La périurbanisation"
+      ],
+      "reponse": 1,
+      "explication": "Les mobilités (ou migrations) pendulaires désignent les trajets domicile-travail effectués chaque jour par les navetteurs. L'étalement urbain les a considérablement allongées."
+    },
+    {
+      "type": "qcm",
+      "question": "Quelles sont les trois principales causes de la périurbanisation ?",
+      "options": [
+        "Le chômage, la pollution et le bruit",
+        "Le coût de l'immobilier, la recherche d'un cadre de vie et l'accessibilité routière",
+        "La mondialisation, la métropolisation et la gentrification",
+        "Le tourisme, l'agriculture et l'industrie"
+      ],
+      "reponse": 1,
+      "explication": "Les ménages s'installent en périphérie car l'immobilier y est moins cher, pour bénéficier d'une maison avec jardin, et grâce au réseau routier qui permet de rejoindre la ville."
+    },
+    {
+      "type": "reponse_courte",
+      "question": "Comment appelle-t-on le processus par lequel les grandes villes concentrent toujours plus d'hommes, d'activités et de fonctions de commandement ?",
+      "options": [],
+      "reponse": "métropolisation",
+      "explication": "La métropolisation est le processus par lequel une ville devient une métropole en concentrant population, activités économiques et fonctions de commandement."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce que la gentrification ?",
+      "options": [
+        "La construction de grands ensembles en banlieue",
+        "L'installation de catégories aisées dans des quartiers populaires du centre-ville",
+        "Le départ des habitants du centre-ville vers la périphérie",
+        "La création de zones commerciales en périphérie"
+      ],
+      "reponse": 1,
+      "explication": "La gentrification (ou embourgeoisement) désigne l'arrivée de catégories sociales aisées dans les quartiers populaires du centre, entraînant une hausse des prix et le départ des habitants modestes."
+    },
+    {
+      "type": "qcm",
+      "question": "Que désigne l'expression « ville à trois vitesses » ?",
+      "options": [
+        "Les différences de vitesse de circulation selon les quartiers",
+        "La séparation entre centres-villes gentrifiés, espaces périurbains et grands ensembles",
+        "Les trois étapes de la construction d'une ville",
+        "Les trois modes de transport urbain"
+      ],
+      "reponse": 1,
+      "explication": "La « ville à trois vitesses » décrit la séparation socio-spatiale croissante : centres gentrifiés pour les catégories aisées, périurbain pour les classes moyennes, grands ensembles pour les populations fragiles."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Environ 10 000 km² sont urbanisés tous les 10 ans en France depuis les années 1980.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 0,
+      "explication": "Ce chiffre illustre l'ampleur de l'étalement urbain en France. L'artificialisation des sols (conversion de terres agricoles ou forestières en zones construites) est un défi environnemental majeur."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel est le nom du quartier d'affaires de Paris, premier quartier d'affaires d'Europe ?",
+      "options": ["La Part-Dieu", "Euralille", "La Défense", "Confluence"],
+      "reponse": 2,
+      "explication": "La Défense, à l'ouest de Paris, est le premier quartier d'affaires d'Europe. La Part-Dieu est celui de Lyon. Ces centres directionnels illustrent le caractère multipolaire des grandes villes."
+    },
+    {
+      "type": "qcm",
+      "question": "Quels sont les trois piliers de la ville durable ?",
+      "options": [
+        "Industrie, commerce et tourisme",
+        "Environnement, social et transports",
+        "Patrimoine, culture et loisirs",
+        "Économie, défense et éducation"
+      ],
+      "reponse": 1,
+      "explication": "La ville durable vise à améliorer le cadre de vie sur le plan environnemental (éco-quartiers, lutte contre l'artificialisation), social (mixité, vivre ensemble) et des transports (transports en commun, mobilités douces)."
+    },
+    {
+      "type": "reponse_courte",
+      "question": "Quel est le nom du pôle de compétitivité aérospatial basé à Toulouse ?",
+      "options": [],
+      "reponse": "Aerospace Valley",
+      "explication": "Aerospace Valley est le premier pôle de compétitivité européen dans l'aérospatiale. Il associe plus de 1 200 établissements (entreprises, centres de recherche, écoles)."
+    },
+    {
+      "type": "qcm",
+      "question": "Combien d'habitants compte l'aire urbaine de Toulouse ?",
+      "options": ["500 000", "900 000", "1,3 million", "2,2 millions"],
+      "reponse": 2,
+      "explication": "L'aire urbaine de Toulouse regroupe environ 1,3 million d'habitants et s'étend sur un rayon d'environ 50 km autour du centre-ville. Elle est la 4e aire urbaine française."
+    }
+  ]
+}

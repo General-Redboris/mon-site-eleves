@@ -1,0 +1,258 @@
+---
+titre: "Les aires urbaines dans une France mondialisée"
+niveau: "3e"
+matiere: "geographie"
+chapitre: 1
+theme: "Dynamiques territoriales de la France contemporaine"
+resume: "La France est un territoire dominé par la ville. Les aires urbaines regroupent 85 % de la population. La mondialisation renforce la métropolisation, tandis que l'étalement urbain et la périurbanisation transforment les paysages et posent des défis majeurs (transports, environnement, inégalités)."
+vocabulaire:
+  - terme: "Mondialisation"
+    definition: "Processus de développement des échanges (marchandises, capitaux, humains) à l'échelle de la planète qui s'accompagne d'une interconnexion croissante des territoires."
+  - terme: "Aire urbaine"
+    definition: "Espace formé par un pôle urbain (ville-centre et sa banlieue) et par une couronne périurbaine."
+  - terme: "Pôle urbain (ou agglomération)"
+    definition: "Ensemble urbain composé d'une ville-centre et de ses banlieues."
+  - terme: "Couronne périurbaine"
+    definition: "Ensemble des communes dont au moins 40 % des actifs travaillent dans le pôle urbain."
+  - terme: "Taux d'urbanisation"
+    definition: "Part de la population vivant en ville (78 % en France)."
+  - terme: "Solde naturel"
+    definition: "Différence entre le nombre de naissances et le nombre de décès dans un territoire sur une période donnée."
+  - terme: "Solde migratoire"
+    definition: "Différence entre le nombre de personnes arrivant sur un territoire et le nombre de personnes qui en partent."
+  - terme: "Pôle de compétitivité"
+    definition: "Regroupement d'entreprises, de laboratoires de recherche et d'établissements de formation autour d'un domaine précis sur un territoire."
+  - terme: "Mobilité (ou migration) pendulaire"
+    definition: "Déplacement quotidien entre le domicile et le lieu de travail."
+  - terme: "Navetteur"
+    definition: "Personne effectuant régulièrement un trajet domicile-travail."
+  - terme: "Croissance urbaine"
+    definition: "Augmentation de la population des villes."
+  - terme: "Étalement urbain"
+    definition: "Augmentation de la superficie des espaces urbains, liée à un habitat peu dense et à la généralisation de l'automobile."
+  - terme: "Métropolisation"
+    definition: "Processus par lequel une ville concentre toujours plus d'hommes, d'activités et de fonctions de commandement, devenant ainsi une métropole."
+  - terme: "Périurbanisation"
+    definition: "Diffusion de l'urbanisation dans les espaces ruraux en périphérie des villes."
+  - terme: "Gentrification"
+    definition: "Processus par lequel les catégories sociales aisées s'installent dans des quartiers populaires du centre-ville, entraînant une hausse des prix et le départ progressif des habitants modestes."
+  - terme: "Urbanisation"
+    definition: "Augmentation de la population des villes et extension des espaces urbains."
+---
+
+# Les aires urbaines dans une France mondialisée
+
+> **Problématique :** Pourquoi peut-on dire que la France est un territoire dominé par la ville ? Quelles sont les dynamiques des aires urbaines ?
+
+## Introduction
+
+La France fait partie des pays les plus développés du monde. Elle est bien insérée dans la **mondialisation**, c'est-à-dire le processus de développement des échanges (marchandises, capitaux, humains) à l'échelle de la planète, qui s'accompagne d'une interconnexion croissante des territoires.
+
+La mondialisation a des conséquences majeures sur l'organisation du territoire français, notamment à travers le rôle croissant des villes.
+
+---
+
+## I. La France, un territoire dominé par la ville
+
+### A. Un territoire urbanisé
+
+Une **ville** est une commune de plus de 2 000 habitants dont la distance entre les constructions (le bâti) est inférieure à 200 mètres. Selon cette définition, le **taux d'urbanisation** de la France est de 78 % : environ 48 millions de Français sont des citadins.
+
+### B. Un territoire sous influence urbaine
+
+La définition classique de la ville ne suffit pas à rendre compte de l'importance réelle de l'urbanisation. En effet, la frontière entre ville et campagne n'est pas nette : de nombreux ruraux travaillent en ville et dépendent de ses services.
+
+C'est pourquoi l'INSEE a défini le concept d'**aire urbaine** pour mieux mesurer l'influence de la ville. L'espace à dominante urbaine se compose :
+
+- Des **aires urbaines**, qui regroupent un **pôle urbain** (ville-centre + banlieue) et une **couronne périurbaine** (communes dont au moins 40 % des habitants travaillent dans le pôle urbain).
+- Des **communes multipolarisées**, situées dans l'espace rural mais dont la majorité des habitants travaillent dans les aires urbaines voisines.
+
+Les aires urbaines regroupent **85 % de la population française**. L'espace à dominante urbaine en concentre près de 95 %. **Le territoire français est sous l'influence des villes.**
+
+### Les principales aires urbaines françaises
+
+| Rang | Aire urbaine | Population |
+|------|-------------|------------|
+| 1 | Paris | 12,4 millions |
+| 2 | Lyon | 2,2 millions |
+| 3 | Marseille-Aix-en-Provence | 1,8 million |
+| 4 | Toulouse | 1,3 million |
+| 5 | Lille | 1,15 million |
+| 6 | Bordeaux | 1,15 million |
+| 7 | Nice | 1 million |
+| 8 | Nantes | 900 000 |
+| 9 | Strasbourg | 770 000 |
+| 10 | Rennes | 720 000 |
+
+Ce tableau met en évidence la **macrocéphalie** du territoire français : Paris est de loin la première aire urbaine, avec 12,4 millions d'habitants, soit plus de cinq fois la deuxième (Lyon).
+
+> **Pour aller plus loin :** La macrocéphalie parisienne est une spécificité française. Dans d'autres pays européens comme l'Allemagne, le réseau urbain est beaucoup plus équilibré : Berlin, Munich, Hambourg et Francfort ont des tailles comparables. Cette différence s'explique par l'histoire politique française et la centralisation du pouvoir à Paris depuis des siècles.
+
+---
+
+## II. Etude de cas : l'aire urbaine de Toulouse
+
+> Située dans le sud-ouest en région Occitanie, l'aire urbaine de Toulouse est marquée par une croissance urbaine importante.
+>
+> **Problématique :** Quels sont les dynamiques et les défis liés à l'urbanisation de l'aire urbaine de Toulouse ?
+
+### A. Toulouse, une aire urbaine aux paysages variés
+
+L'aire urbaine de Toulouse présente une organisation spatiale typique des grandes métropoles françaises. On peut y distinguer plusieurs types de paysages, du centre vers la périphérie :
+
+- **La ville-centre** : c'est le coeur historique de Toulouse, surnommée la « Ville rose » en raison de ses constructions en brique. On y trouve les fonctions de commandement (mairie, préfecture), les grands équipements culturels, les commerces et les services. Le centre-ville est dense et animé.
+- **La banlieue** : elle entoure la ville-centre et présente des paysages contrastés. On y trouve à la fois des grands ensembles d'habitat collectif (comme le quartier du Mirail), des zones pavillonnaires, des zones industrielles et commerciales, ainsi que de grands équipements (aéroport de Blagnac, usines Airbus).
+- **La couronne périurbaine** : elle s'étend de plus en plus loin autour de l'agglomération. C'est un espace où l'habitat pavillonnaire individuel domine, entremêlé avec des espaces encore agricoles. Les anciens villages y sont progressivement gagnés par l'urbanisation.
+
+L'ensemble formé par la ville-centre et la banlieue constitue le **pôle urbain** (ou agglomération). Avec la couronne périurbaine, ils composent l'**aire urbaine de Toulouse**, qui regroupe environ **1,3 million d'habitants** et s'étend sur un rayon d'environ 50 km autour du centre-ville.
+
+### B. Une métropole attractive qui se métropolise
+
+Toulouse est l'une des métropoles françaises les plus dynamiques. Sa croissance démographique est remarquable : l'aire urbaine gagne plusieurs milliers d'habitants chaque année, grâce à un **solde naturel positif** (plus de naissances que de décès) et surtout un **solde migratoire très positif** (plus d'arrivées que de départs). Comme beaucoup de villes du Sud et du Grand Ouest, elle bénéficie pleinement du phénomène de métropolisation.
+
+L'attractivité de Toulouse s'explique par plusieurs facteurs :
+
+- **Une économie puissante et spécialisée** : Toulouse est la capitale européenne de l'aéronautique et du spatial. Le complexe Airbus à Toulouse est particulièrement impressionnant : 26 000 employés, 700 hectares, six sites. Les usines du constructeur s'y sont installées en décembre 1970, sur une zone déjà destinée à l'aéronautique depuis la Première Guerre mondiale.
+- **Un pôle de compétitivité de premier plan** : **Aerospace Valley** est le premier pôle de compétitivité européen de la filière aérospatiale. Il associe plus de 1 200 établissements industriels et de recherche, dont les grandes écoles d'aéronautique (ENAC, ISAE-SUPAERO) et l'université Paul-Sabatier.
+- **Des fonctions de formation et de recherche** : la présence d'universités, de grandes écoles, de centres de recherche (ONERA, CNES) fournit une main-d'oeuvre hautement qualifiée et favorise l'innovation.
+- **Un cadre de vie attractif** : climat agréable du sud-ouest, patrimoine culturel riche, vie étudiante dynamique.
+
+> **Pour aller plus loin — Airbus, un « Meccano européen » :** La production d'un avion Airbus est répartie entre plusieurs pays européens (France, Allemagne, Espagne, Royaume-Uni). Les différentes pièces sont fabriquées sur des sites spécialisés puis acheminées à Toulouse pour l'assemblage final. Ce transport utilise des moyens exceptionnels : le Beluga (avion-cargo géant), des convois routiers de nuit sur 240 km, et le transport fluvial sur la Garonne depuis le port de Bordeaux. L'avion est donc un produit typique de la mondialisation industrielle.
+
+### C. Un étalement urbain important
+
+L'attractivité de Toulouse a pour conséquence un **étalement urbain** considérable. L'aire urbaine ne cesse de s'étendre, grignotant les espaces agricoles et naturels environnants.
+
+Cet étalement s'explique par les mécanismes classiques de la périurbanisation :
+
+- **Les prix de l'immobilier** : les prix dans le centre de Toulouse et dans la première couronne sont élevés, ce qui pousse de nombreux ménages, notamment les jeunes couples avec enfants, à s'installer dans des communes périurbaines plus éloignées où le foncier est moins cher.
+- **La recherche d'un cadre de vie** : de nombreux Toulousains choisissent la périphérie pour bénéficier d'une maison individuelle avec jardin, dans un environnement plus calme et verdoyant.
+- **Le réseau routier** : le développement des voies rapides et du périurbain facilite les déplacements quotidiens entre le domicile en périphérie et le lieu de travail en ville.
+
+La croissance des banlieues et des espaces périurbains est spectaculaire : les communes situées à 20-40 km du centre enregistrent les plus fortes augmentations de population, alors que la ville-centre connaît une croissance plus modérée.
+
+### D. Des défis à surmonter
+
+La forte croissance de l'aire urbaine de Toulouse engendre des défis importants :
+
+#### 1. L'engorgement des transports
+
+L'étalement urbain a fait exploser les **mobilités pendulaires**. Chaque jour, des centaines de milliers de **navetteurs** effectuent le trajet domicile-travail, principalement en voiture. Les axes routiers sont régulièrement engorgés, en particulier le périurbain et les grandes radiales. Les temps de trajet s'allongent et la pollution automobile augmente.
+
+Pour répondre à ce défi, Toulouse Métropole se présente comme un « laboratoire de la mobilité de demain ». La métropole développe son réseau de métro (trois lignes, dont la troisième en construction), de tramway, de bus à haut niveau de service, et encourage les modes de déplacement doux (vélo, covoiturage).
+
+#### 2. La pression sur l'environnement
+
+L'artificialisation des sols liée à l'étalement urbain détruit des terres agricoles et des espaces naturels. La consommation d'espace est considérable : zones pavillonnaires, centres commerciaux, infrastructures routières. La question de la **ville durable** se pose avec une acuité particulière dans une aire urbaine en si forte croissance.
+
+#### 3. Les inégalités territoriales et sociales
+
+L'aire urbaine de Toulouse connaît également des contrastes sociaux importants. Les prix de l'immobilier créent une sélection par les revenus : les ménages les plus modestes sont repoussés toujours plus loin du centre, ce qui accentue la **séparation socio-spatiale** et alourdit le coût des déplacements quotidiens pour les plus fragiles.
+
+> **Pour aller plus loin — La troisième ligne de métro :** Le projet « Toulouse Aerospace Express », troisième ligne de métro entièrement automatique, doit relier l'aéroport de Blagnac au sud-est de la métropole. Longue de 27 km avec 21 stations, elle desservira notamment les sites d'Airbus et le futur quartier de la gare Matabiau. Sa mise en service est prévue pour 2028. Ce projet illustre la volonté de la métropole de réduire la dépendance à l'automobile dans une aire urbaine très étalée.
+
+---
+
+## III. Les dynamiques des aires urbaines
+
+### A. La métropolisation
+
+A l'échelle nationale, la mondialisation s'accompagne d'un processus de **métropolisation** : les grandes villes concentrent toujours plus d'hommes, de fonctions de commandement et d'activités stratégiques, devenant des **métropoles** puissantes et attractives.
+
+Les métropoles polarisent le territoire français, tant sur le plan démographique (solde migratoire positif) que sur le plan économique (concentration des emplois qualifiés et de la croissance). L'INSEE distingue 41 aires urbaines majeures dont 12 sont considérées comme de véritables métropoles.
+
+### B. La périurbanisation et l'étalement urbain
+
+L'étalement des villes est un phénomène ancien qui s'accélère à partir des années 1950. On estime qu'environ **10 000 km² sont urbanisés tous les 10 ans** depuis les années 1980. Quand des terres agricoles ou des forêts sont converties en zones construites, on parle d'**artificialisation des sols**.
+
+La **périurbanisation** est la forme la plus visible de cet étalement : les espaces ruraux en périphérie des villes sont progressivement urbanisés. Les couronnes périurbaines regroupent **25 % de la population française**.
+
+Les causes de la périurbanisation sont les mêmes que celles observées à Toulouse :
+
+- **L'accessibilité** : généralisation de l'automobile et extension des réseaux de transport.
+- **Le cadre de vie** : recherche de la maison individuelle, de la proximité de la nature.
+- **Le coût de l'immobilier** : prix élevés en centre-ville poussant les ménages vers la périphérie.
+
+### C. Les transformations de l'espace urbain
+
+#### 1. Le renouveau des centres historiques
+
+Après une période de déclin, les centres historiques connaissent un renouveau depuis les années 1990 grâce à des opérations d'urbanisme (rénovation, réhabilitation). Ce renouveau s'accompagne du retour des catégories aisées dans les centres-villes : on parle d'**embourgeoisement** ou de **gentrification**. Les catégories modestes sont progressivement évincées par la hausse des prix.
+
+#### 2. Des espaces urbains multipolaires
+
+Les grandes aires urbaines possèdent désormais plusieurs centres : le **centre historique** et le **centre directionnel** (quartier des affaires : La Défense à Paris, La Part-Dieu à Lyon). Le développement des périphéries a aussi fait naître de nouvelles centralités : zones commerciales, technopôles, pôles de compétitivité. Les villes deviennent **multipolaires**.
+
+---
+
+## IV. Des défis à relever
+
+### A. Des espaces urbains de plus en plus contrastés
+
+La mondialisation et la métropolisation accentuent les disparités. On observe une **séparation socio-spatiale** croissante. On parle de « **ville à trois vitesses** » :
+
+- **Les centres-villes gentrifiés** : catégories supérieures bénéficiant de la rénovation.
+- **L'espace périurbain** : classes moyennes en recherche d'un cadre de vie accessible.
+- **Les grands ensembles** : populations fragiles, quartiers dégradés faisant l'objet de politiques de rénovation urbaine.
+
+Les quartiers se juxtaposent mais leurs habitants ne se côtoient pas toujours. Cette tendance peut remettre en cause la **cohésion sociale**.
+
+> **Pour aller plus loin :** Les banlieues ne sont pas un ensemble uniforme : elles peuvent être « résidentielles », « pavillonnaires », « populaires » ou « sensibles ». Les grands ensembles défavorisés ne représentent qu'une partie de la banlieue. Depuis les années 2000, de vastes programmes de rénovation urbaine (ANRU) visent à transformer ces quartiers : démolition-reconstruction, diversification de l'habitat, amélioration des équipements publics.
+
+### B. Rendre la ville « durable »
+
+Le défi de la **ville durable** consiste à mener des politiques d'aménagement visant à améliorer durablement le cadre de vie :
+
+- **Sur le plan environnemental** : création d'espaces naturels, lutte contre l'artificialisation, développement des éco-quartiers.
+- **Sur le plan social** : favoriser le « vivre ensemble » et la mixité sociale.
+- **Sur le plan des transports** : limiter l'impact de l'automobile (pollution, nuisances) tout en garantissant les mobilités, par le développement des transports en commun et des mobilités douces (vélo, marche, covoiturage).
+
+Plus une ville s'étend, moins les réseaux de transports collectifs sont efficaces. Concilier mobilité et durabilité est l'un des grands enjeux urbains du XXIe siècle.
+
+> **Pour aller plus loin — Le « modèle » français de ville :** On peut identifier un schéma-type d'organisation spatiale : au centre, le noyau historique (souvent médiéval) ; autour, des quartiers d'habitation liés à l'industrialisation (XIXe-XXe siècles) ; puis la banlieue (années 1950-1970 avec les grands ensembles) ; enfin les zones périurbaines en expansion. A cette structure en couronnes s'ajoutent de nouvelles centralités en périphérie (zones commerciales, technopôles, parcs de loisirs).
+
+---
+
+## Bilan
+
+La France est un pays fortement urbanisé dont le territoire est structuré par ses aires urbaines. La mondialisation renforce ce phénomène à travers la métropolisation : les grandes villes concentrent toujours plus d'hommes, d'activités et de fonctions de commandement.
+
+L'exemple de Toulouse illustre parfaitement ces dynamiques : une métropole attractive, spécialisée dans l'aéronautique, dont l'aire urbaine connaît une croissance démographique et spatiale spectaculaire. Mais cette croissance engendre des défis majeurs : engorgement des transports, pression sur l'environnement, inégalités territoriales.
+
+A l'échelle nationale, l'étalement urbain et la périurbanisation transforment les paysages en grignotant les espaces ruraux. La séparation socio-spatiale menace la cohésion sociale et la question de la ville durable devient centrale.
+
+---
+
+## Fiche de révision
+
+### Notions à connaître
+
+| Notion | Définition |
+|--------|-----------|
+| **Aire urbaine** | Espace formé par un pôle urbain (ville-centre + banlieue) et une couronne périurbaine. |
+| **Couronne périurbaine** | Communes dont au moins 40 % des actifs travaillent dans le pôle urbain. |
+| **Étalement urbain** | Augmentation de la superficie des espaces urbains (habitat peu dense, automobile). |
+| **Gentrification** | Installation des catégories aisées dans les quartiers populaires du centre-ville. |
+| **Métropole** | Grande ville concentrant les fonctions de commandement et les activités stratégiques. |
+| **Métropolisation** | Concentration croissante des hommes et des activités dans les grandes villes. |
+| **Migrations pendulaires** | Déplacements quotidiens entre le domicile et le lieu de travail. |
+| **Mondialisation** | Développement des échanges à l'échelle planétaire. |
+| **Périurbanisation** | Diffusion de l'urbanisation dans les espaces ruraux en périphérie des villes. |
+| **Pôle de compétitivité** | Regroupement d'entreprises, de centres de recherche et d'organismes de formation autour d'un domaine précis. |
+| **Solde migratoire** | Différence entre les arrivées et les départs sur un territoire. |
+| **Solde naturel** | Différence entre les naissances et les décès sur un territoire. |
+| **Urbanisation** | Augmentation de la population des villes et extension des espaces urbains. |
+
+### Repères à localiser
+
+- Les principales aires urbaines françaises (Paris, Lyon, Marseille, Toulouse, Lille, Bordeaux, Nice, Nantes, Strasbourg, Rennes).
+- La région Occitanie et la localisation de Toulouse dans le sud-ouest de la France.
+
+### Ce que je dois savoir faire
+
+- Décrire l'organisation d'une aire urbaine (ville-centre, banlieue, couronne périurbaine).
+- Expliquer les dynamiques de métropolisation et de périurbanisation à partir de l'exemple de Toulouse.
+- Identifier les facteurs d'attractivité d'une métropole (économie, formation, recherche, cadre de vie).
+- Identifier les défis liés à l'étalement urbain (transports, inégalités, environnement).
+- Analyser des documents (cartes, graphiques, textes) sur une aire urbaine.
+- Rédiger un développement construit sur les aires urbaines (30 lignes minimum au DNB).

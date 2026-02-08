@@ -1,0 +1,217 @@
+{
+  "titre": "L'ordre seigneurial (XIe-XVe siècle)",
+  "niveau": "5e",
+  "matiere": "histoire",
+  "cartes": [
+    {
+      "recto": "Seigneurie",
+      "verso": "Territoire sur lequel un seigneur exerce son autorité. Elle comprend le château, le village, les terres cultivées, les forêts et les cours d'eau.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Réserve",
+      "verso": "Ensemble des terres que le seigneur garde pour lui et fait cultiver par les paysans lors des corvées.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Tenure",
+      "verso": "Parcelle de terre que le seigneur confie à un paysan en échange de redevances et de services.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Droit de ban",
+      "verso": "Pouvoir de commander, d'interdire et de punir que le seigneur exerce sur tous les habitants de sa seigneurie.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Banalités",
+      "verso": "Obligation pour les paysans d'utiliser le four, le moulin et le pressoir du seigneur, en payant une taxe.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Suzerain",
+      "verso": "Seigneur qui accorde un fief et sa protection à un vassal.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Vassal",
+      "verso": "Homme qui reçoit un fief d'un suzerain et lui jure fidélité en échange.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Fief",
+      "verso": "Terre accordée par un suzerain à son vassal en échange de sa fidélité et de ses services.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Hommage",
+      "verso": "Cérémonie par laquelle un homme devient vassal d'un seigneur. Trois étapes : hommage (mains jointes), féauté (serment) et investiture (remise du fief).",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Félonie",
+      "verso": "Trahison du vassal envers son suzerain, rupture du serment de fidélité. Considérée comme un péché mortel.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Adoubement",
+      "verso": "Cérémonie au cours de laquelle un écuyer devient chevalier. Elle comprend le bain, la veillée d'armes, la remise des armes et la colée.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Colée",
+      "verso": "Coup donné sur l'épaule ou la nuque du nouvel chevalier lors de l'adoubement. C'est le dernier coup qu'il doit recevoir sans répondre.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Vilain",
+      "verso": "Paysan libre qui peut quitter la seigneurie. Du latin « villanus » (habitant d'un domaine rural). Pas un terme insultant au Moyen Âge.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Serf",
+      "verso": "Paysan non-libre, attaché à la terre. Ne peut pas quitter la seigneurie sans autorisation du seigneur.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Corvée",
+      "verso": "Journées de travail gratuit que les paysans doivent effectuer sur les terres (la réserve) du seigneur.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Dîme",
+      "verso": "Impôt en nature (1/10e de la récolte) versé à l'Église pour l'entretien du clergé et des pauvres.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Champart",
+      "verso": "Part de la récolte (environ 1/12e) que le paysan doit donner au seigneur.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Cens",
+      "verso": "Loyer fixe en argent que le paysan verse au seigneur pour l'utilisation de sa tenure.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Formariage",
+      "verso": "Taxe que le serf doit payer au seigneur s'il veut se marier avec quelqu'un d'une autre seigneurie.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 3
+    },
+    {
+      "recto": "Mainmorte",
+      "verso": "Droit du seigneur de prélever une partie des biens d'un serf à sa mort.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 3
+    },
+    {
+      "recto": "Charte de franchises",
+      "verso": "Document par lequel un seigneur allège les obligations des paysans et leur accorde des libertés.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Clergé séculier",
+      "verso": "Prêtres, curés et évêques qui vivent « dans le siècle », au contact des fidèles.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Clergé régulier",
+      "verso": "Moines et moniales qui vivent retirés du monde dans des monastères, « selon une règle » (regula).",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Scriptorium",
+      "verso": "Salle du monastère où les moines copient les manuscrits, préservant ainsi les textes de l'Antiquité.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Cloître",
+      "verso": "Galerie couverte entourant un jardin carré, au cœur du monastère. Lieu de méditation et de lecture.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Quels sont les trois ordres de la société médiévale ?",
+      "verso": "Ceux qui prient (clergé), ceux qui combattent (seigneurs et chevaliers), ceux qui travaillent (paysans).",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Quelles sont les trois fonctions du château fort ?",
+      "verso": "Forteresse (défense), résidence (vie du seigneur) et centre de pouvoir (justice, administration).",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Quelles sont les étapes de la formation d'un chevalier ?",
+      "verso": "Page (vers 7 ans) → Écuyer (vers 14 ans) → Chevalier par l'adoubement (vers 18-21 ans).",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Quels sont les trois vœux des moines ?",
+      "verso": "Chasteté (ne pas se marier), pauvreté (ne rien posséder), obéissance (à l'abbé ou l'abbesse).",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Que signifie « Ora et Labora » ?",
+      "verso": "« Prie et Travaille », devise qui résume la vie monastique.",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Quel pourcentage de la population les paysans représentent-ils au Moyen Âge ?",
+      "verso": "Environ 90 % de la population.",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Combien de jours chômés le calendrier médiéval compte-t-il ?",
+      "verso": "Entre 80 et 100 jours par an (dimanches et fêtes religieuses).",
+      "categorie": "reperes",
+      "niveau_difficulte": 3
+    },
+    {
+      "recto": "Qu'est-ce que l'assolement triennal ?",
+      "verso": "Technique agricole qui divise les terres en trois parcelles utilisées en rotation (blé, avoine, jachère), améliorant les rendements.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 3
+    },
+    {
+      "recto": "Donjon",
+      "verso": "Tour centrale du château fort, la plus haute et la plus solide. Dernier refuge en cas de siège.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Mâchicoulis",
+      "verso": "Galeries en surplomb au sommet des murailles du château, permettant de jeter des projectiles sur les assaillants.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    }
+  ]
+}

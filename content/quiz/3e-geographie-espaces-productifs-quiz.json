@@ -1,0 +1,203 @@
+{
+  "titre": "Les espaces productifs français et leurs évolutions",
+  "niveau": "3e",
+  "matiere": "geographie",
+  "chapitre": "espaces-productifs",
+  "questions": [
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce qu'un espace productif ?",
+      "options": [
+        "Un espace réservé à l'habitat",
+        "Un lieu où s'exercent des activités économiques qui produisent des richesses",
+        "Un parc naturel protégé",
+        "Un quartier résidentiel en banlieue"
+      ],
+      "reponse": 1,
+      "explication": "Un espace productif est un lieu où s'exercent des activités économiques (industrielles, agricoles ou de services) qui produisent des richesses. Ils sont au coeur du fonctionnement économique du pays."
+    },
+    {
+      "type": "qcm",
+      "question": "Quels sont les trois types d'espaces productifs ?",
+      "options": [
+        "Urbain, périurbain, rural",
+        "Industriels, agricoles, tertiaires",
+        "Public, privé, mixte",
+        "Local, national, mondial"
+      ],
+      "reponse": 1,
+      "explication": "Les trois types correspondent aux trois secteurs de l'économie : les espaces industriels (secondaire), agricoles (primaire) et tertiaires (services)."
+    },
+    {
+      "type": "qcm",
+      "question": "Où se trouve le siège social d'Airbus ?",
+      "options": ["Toulouse centre-ville", "Blagnac, banlieue de Toulouse", "Hambourg, Allemagne", "Paris-La Défense"],
+      "reponse": 1,
+      "explication": "Le siège social d'Airbus se trouve à Blagnac, dans la banlieue de Toulouse. Le site Aéroconstellation regroupe 26 000 personnes sur 700 hectares."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Airbus fabrique plus de la moitié des avions de ligne produits dans le monde.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 0,
+      "explication": "Airbus est le premier constructeur aéronautique mondial. L'entreprise emploie plus de 130 000 personnes sur 18 sites répartis dans 6 pays."
+    },
+    {
+      "type": "qcm",
+      "question": "Pourquoi parle-t-on de « Meccano européen » pour Airbus ?",
+      "options": [
+        "Parce que les avions sont vendus dans toute l'Europe",
+        "Parce que les pièces sont fabriquées dans plusieurs pays européens puis assemblées à Toulouse",
+        "Parce qu'Airbus sponsorise le jeu Meccano",
+        "Parce que les avions sont démontables"
+      ],
+      "reponse": 1,
+      "explication": "Comme dans le jeu de construction, les pièces d'un avion sont fabriquées dans différents pays (France, Allemagne, Espagne, Royaume-Uni) puis assemblées à Toulouse. C'est la division européenne du travail."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel pays fabrique les ailes des avions Airbus ?",
+      "options": ["La France", "L'Allemagne", "L'Espagne", "Le Royaume-Uni"],
+      "reponse": 3,
+      "explication": "La voilure (les ailes) est fabriquée à Broughton, au Royaume-Uni. La France assure l'assemblage final et le cockpit, l'Allemagne le fuselage, l'Espagne l'empennage."
+    },
+    {
+      "type": "qcm",
+      "question": "Quels moyens de transport sont utilisés pour acheminer les pièces d'Airbus à Toulouse ?",
+      "options": [
+        "Le train, le métro et le tramway",
+        "Le Beluga (avion-cargo), les convois routiers de nuit et le transport fluvial",
+        "Uniquement le transport routier classique",
+        "Le TGV et le ferry"
+      ],
+      "reponse": 1,
+      "explication": "Les pièces gigantesques sont acheminées par le Beluga (avion-cargo géant), par convois routiers exceptionnels de nuit sur 240 km, et par voie fluviale sur la Garonne depuis Bordeaux."
+    },
+    {
+      "type": "reponse_courte",
+      "question": "Comment appelle-t-on les éléments qui expliquent pourquoi une activité économique s'installe dans un lieu précis ?",
+      "options": [],
+      "reponse": "facteurs de localisation",
+      "explication": "Les facteurs de localisation regroupent l'ensemble des éléments qui expliquent l'implantation d'une activité : main-d'oeuvre, infrastructures de transport, centres de recherche, héritage historique…"
+    },
+    {
+      "type": "qcm",
+      "question": "Quels sont les trois facteurs de localisation d'Airbus à Toulouse ?",
+      "options": [
+        "Le climat, la gastronomie et le tourisme",
+        "L'héritage historique, le pôle de compétitivité Aerospace Valley et les infrastructures de transport",
+        "La proximité de la mer, les prix bas et la main-d'oeuvre bon marché",
+        "La centralité géographique, la taille de la ville et les impôts faibles"
+      ],
+      "reponse": 1,
+      "explication": "Toulouse concentre les activités aéronautiques grâce à un héritage historique (Aéropostale, guerres mondiales), un pôle de compétitivité (Aerospace Valley) et des infrastructures de transport performantes."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce qu'un donneur d'ordres ?",
+      "options": [
+        "Un directeur d'usine",
+        "Une grande entreprise qui confie une partie de la fabrication à des sous-traitants",
+        "Un ingénieur qui dirige une équipe de recherche",
+        "Un investisseur qui finance une start-up"
+      ],
+      "reponse": 1,
+      "explication": "Le donneur d'ordres (comme Airbus) confie la fabrication de certains composants à d'autres entreprises appelées sous-traitants (comme Latécoère, Safran, Thalès)."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce qu'une délocalisation ?",
+      "options": [
+        "Le déménagement d'une entreprise dans une autre ville française",
+        "Le transfert d'activités économiques vers un autre pays pour réduire les coûts",
+        "La fermeture définitive d'une entreprise",
+        "L'ouverture d'une filiale dans la même région"
+      ],
+      "reponse": 1,
+      "explication": "La délocalisation consiste à transférer des activités dans un pays où les coûts de production sont plus faibles. Latécoère a par exemple délocalisé sa production de Toulouse vers le Mexique et la République tchèque."
+    },
+    {
+      "type": "qcm",
+      "question": "Quels sont les trois défis de l'espace productif toulousain ?",
+      "options": [
+        "La pollution, le bruit et les embouteillages",
+        "La concurrence internationale, la dépendance à un secteur unique et la transition écologique",
+        "Le vieillissement, l'exode rural et l'enclavement",
+        "Le tourisme de masse, la gentrification et l'étalement urbain"
+      ],
+      "reponse": 1,
+      "explication": "L'espace productif toulousain fait face à la concurrence internationale (risque de délocalisation), à la dépendance au secteur aéronautique (fragilité en cas de crise) et au défi de la transition écologique (réduction des émissions de CO₂)."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "La France est la première puissance agricole de l'Union européenne.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 0,
+      "explication": "La France est bien la première puissance agricole de l'UE. L'agriculture ne représente plus que 2 % des emplois, mais elle occupe plus de la moitié du territoire et joue un rôle essentiel dans les exportations."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel secteur représente aujourd'hui 78 % des emplois en France ?",
+      "options": ["Le secteur primaire (agriculture)", "Le secteur secondaire (industrie)", "Le secteur tertiaire (services)"],
+      "reponse": 2,
+      "explication": "Le secteur tertiaire (services) représente 78 % des emplois en France. On parle de tertiarisation de l'économie. En 1970, il ne représentait que 48 %."
+    },
+    {
+      "type": "reponse_courte",
+      "question": "Comment appelle-t-on le processus par lequel le secteur des services devient dominant dans l'économie ?",
+      "options": [],
+      "reponse": "tertiarisation",
+      "explication": "La tertiarisation désigne la montée en puissance du secteur des services (commerce, finance, tourisme, transports…) qui représente aujourd'hui 78 % des emplois en France."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel est le premier quartier d'affaires d'Europe ?",
+      "options": ["La Part-Dieu (Lyon)", "La Défense (Paris)", "La City (Londres)", "Euralille (Lille)"],
+      "reponse": 1,
+      "explication": "Le quartier de La Défense, à l'ouest de Paris, est le premier quartier d'affaires d'Europe. Il concentre des sièges sociaux et des services financiers."
+    },
+    {
+      "type": "qcm",
+      "question": "Que signifie la « reconversion » d'un espace productif ?",
+      "options": [
+        "Le transfert de ses activités à l'étranger",
+        "La transformation d'un espace en crise par le développement de nouvelles activités",
+        "La modernisation de ses machines industrielles",
+        "Le passage de l'agriculture à l'élevage"
+      ],
+      "reponse": 1,
+      "explication": "La reconversion consiste à développer de nouvelles activités pour remplacer celles qui ont disparu. Les anciennes régions industrielles du Nord-Est (Nord-Pas-de-Calais, Lorraine) sont en reconversion depuis les années 1970."
+    },
+    {
+      "type": "qcm",
+      "question": "Quelles sont les quatre grandes dynamiques qui transforment les espaces productifs français ?",
+      "options": [
+        "Urbanisation, périurbanisation, gentrification, étalement urbain",
+        "Tertiarisation, métropolisation, mondialisation, reconversion",
+        "Déprise, désertification, enclavement, exode rural",
+        "Immigration, émigration, natalité, mortalité"
+      ],
+      "reponse": 1,
+      "explication": "Les espaces productifs sont transformés par la tertiarisation (78 % des emplois dans les services), la métropolisation (concentration dans les grandes villes), la mondialisation (intégration aux échanges internationaux) et la reconversion (transformation des espaces en crise)."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Les anciennes régions industrielles du Nord et de l'Est de la France sont aujourd'hui des espaces dynamiques.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 1,
+      "explication": "Les anciennes régions industrielles (Nord-Pas-de-Calais, Lorraine) ont connu un déclin brutal à partir des années 1970 (fermeture des mines, des hauts fourneaux). Elles sont en reconversion, un processus long et difficile."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce que l'héliotropisme ?",
+      "options": [
+        "Le développement du tourisme balnéaire",
+        "L'attractivité des régions du Sud et de l'Ouest liée à l'ensoleillement et à la qualité de vie",
+        "La culture des tournesols dans le sud de la France",
+        "Le réchauffement climatique dans les régions méditerranéennes"
+      ],
+      "reponse": 1,
+      "explication": "L'héliotropisme désigne l'attractivité des régions du Sud et de l'Ouest, liée à leur ensoleillement et à leur qualité de vie. Toulouse, Bordeaux, Montpellier, Nantes bénéficient de cette dynamique depuis les années 1960."
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "titre": "Les espaces de faible densité et leurs atouts",
+  "niveau": "3e",
+  "matiere": "geographie",
+  "cartes": [
+    {
+      "recto": "Densité de population",
+      "verso": "Rapport entre la population et la superficie du territoire qu'elle occupe. Se mesure en hab./km². Exemple : France métropolitaine ≈ 119 hab./km².",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Espace de faible densité : quel seuil ?",
+      "verso": "Densité inférieure à 30 hab./km². Ces espaces occupent 42 % du territoire métropolitain mais seulement 6,5 % de la population y vit.",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Espace rural",
+      "verso": "Ensemble de l'espace n'appartenant pas à la ville, présentant une faible densité de population. On parle aussi de « campagne ».",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Diagonale du vide",
+      "verso": "Espace de faibles densités qui traverse la France du nord-est (Ardennes) au sud-ouest (Pyrénées).",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Où se trouvent les espaces de faible densité ? (4 types de localisation)",
+      "verso": "1. La diagonale du vide (Ardennes → Pyrénées) — 2. Les régions montagneuses (Massif central, Pyrénées, Jura, Alpes du Sud) — 3. Les campagnes éloignées des aires urbaines — 4. Les espaces agricoles de grandes cultures peu peuplés",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Déprise (rurale)",
+      "verso": "Recul important de l'activité économique et de la population dans un espace rural.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Désertification (rurale)",
+      "verso": "Processus de vidage démographique et de disparition des services dans un espace rural. Concerne les espaces où la densité est inférieure à 10 hab./km².",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Enclavement",
+      "verso": "Isolement d'un territoire difficile d'accès, mal relié au reste du territoire (manque d'infrastructures de transport).",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Contraintes naturelles",
+      "verso": "Eléments naturels (relief montagneux, climat rigoureux, sols peu fertiles) qui font obstacle à l'installation des hommes et des activités.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Quelles sont les 4 difficultés des espaces de faible densité ?",
+      "verso": "1. Déprise (recul de l'activité et de la population) — 2. Désertification (disparition des services) — 3. Enclavement (isolement) — 4. Contraintes naturelles (relief, climat)",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Le Cantal : densité et localisation",
+      "verso": "Département du Massif central (Auvergne-Rhône-Alpes). Densité : 25 hab./km² (contre 119 pour la France). Point culminant : Plomb du Cantal (1 855 m).",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Le Cantal : vieillissement de la population",
+      "verso": "36 % des habitants ont plus de 60 ans (contre 23 % en moyenne nationale). Seulement 14 % ont moins de 15 ans. Le solde naturel est déficitaire (mortalité 14 ‰ > natalité 7,8 ‰).",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Le Cantal : évolution de la population",
+      "verso": "Environ 260 000 habitants au milieu du XIXe siècle → 142 811 en 2020. Déclin continu depuis 1850, dû à l'exode rural et au solde naturel déficitaire.",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Exode rural",
+      "verso": "Départ massif et durable des habitants des campagnes vers les villes. Phénomène majeur depuis le XIXe siècle.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Autoroute A75 : quel rôle pour le Cantal ?",
+      "verso": "L'A75 (gratuite) a désenclavé l'est du département (Saint-Flour), réduisant les temps de trajet vers Clermont-Ferrand et Montpellier. Les communes proches retrouvent une croissance démographique.",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Néoruraux",
+      "verso": "Citadins qui font le choix de s'installer à la campagne, à la recherche d'un nouveau cadre de vie. Le télétravail facilite ces installations.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Fracture numérique",
+      "verso": "Inégalité d'accès et d'équipement numérique entre les territoires. La réduire (fibre, 4G/5G) est une priorité pour attirer habitants et entreprises dans les espaces ruraux.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Comment le Cantal tente-t-il de se redynamiser ? (4 solutions)",
+      "verso": "1. Désenclavement (A75, numérique) — 2. Accueil de néoruraux (dispositifs d'aide à l'installation) — 3. Tourisme vert (Puy Mary, Salers, Le Lioran, viaduc de Garabit) — 4. Aménagement du territoire (ZRR)",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Tourisme vert",
+      "verso": "Forme de tourisme centrée sur la découverte de la nature, des paysages et du patrimoine rural.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "ZRR (Zone de Revitalisation Rurale)",
+      "verso": "Zone bénéficiant d'avantages fiscaux (exonérations d'impôts) pour aider les territoires ruraux en difficulté à attirer des entreprises et de nouveaux habitants. Créées en 1995.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "PNR (Parc Naturel Régional)",
+      "verso": "Territoire rural reconnu pour son patrimoine naturel et culturel, où l'on concilie protection de l'environnement et développement économique. 58 PNR en France, couvrant 17 % du territoire.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Touristification",
+      "verso": "Processus par lequel un territoire développe volontairement une offre touristique pour dynamiser son économie locale.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Agriculture extensive",
+      "verso": "Agriculture qui utilise de grandes surfaces mais avec peu de moyens techniques et de faibles rendements. Exemple : élevage bovin dans le Cantal.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Agriculture intensive",
+      "verso": "Agriculture qui utilise beaucoup de moyens techniques (engrais, machines) pour obtenir des rendements élevés sur des surfaces limitées. Exemple : céréales en Beauce.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Hyper-ruralité",
+      "verso": "Situation extrême des espaces ruraux les plus isolés : très faible densité, vieillissement, absence de services, enclavement. Exemples : Cantal, Creuse, Lozère.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Les 3 types d'espaces à faible densité",
+      "verso": "1. Espaces à dominante agricole (Beauce, vignobles) — 2. Espaces redynamisés (tourisme, néoruraux) — 3. Espaces en difficulté / hyper-ruralité (Cantal, Creuse, Lozère)",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Quels sont les outils de l'aménagement du territoire pour les espaces ruraux ?",
+      "verso": "SAFER (1960) — ZRR (1995) — PER (2005) — Désenclavement (autoroutes, numérique) — PNR (protection de l'environnement et développement)",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 3
+    },
+    {
+      "recto": "Le Puy Mary",
+      "verso": "Site naturel du Cantal, au coeur du plus grand strato-volcan d'Europe. Attire de nombreux randonneurs et contribue au tourisme vert du département.",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    }
+  ]
+}

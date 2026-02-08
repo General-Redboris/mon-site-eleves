@@ -1,0 +1,209 @@
+{
+  "titre": "Quiz — Le monde des cités grecques",
+  "niveau": "6e",
+  "matiere": "histoire",
+  "chapitre": "monde-des-cites-grecques",
+  "questions": [
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce qu'une cité grecque (polis) ?",
+      "options": [
+        "Une simple ville avec des maisons et des commerces",
+        "Un petit État indépendant composé d'une ville et de sa campagne, avec son gouvernement, ses lois et sa monnaie",
+        "Un quartier d'Athènes",
+        "Un temple dédié aux dieux"
+      ],
+      "reponse": 1,
+      "explication": "Une cité grecque n'est pas une simple ville : c'est un État complet et indépendant, avec son propre gouvernement, ses lois, sa monnaie et son armée. Elle est composée d'une ville et de la campagne qui l'entoure."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce que l'Acropole ?",
+      "options": [
+        "La place publique où les citoyens se rassemblent",
+        "Le port de la cité",
+        "La colline fortifiée où se trouvent les temples des dieux protecteurs",
+        "Le tribunal de la cité"
+      ],
+      "reponse": 2,
+      "explication": "L'Acropole (« ville haute » en grec) est une colline fortifiée où se trouvent les temples des dieux protecteurs de la cité. C'est le lieu le plus sacré. La plus célèbre est l'Acropole d'Athènes avec le Parthénon."
+    },
+    {
+      "type": "qcm",
+      "question": "Comment appelle-t-on la croyance en plusieurs dieux ?",
+      "options": [
+        "Le monothéisme",
+        "L'athéisme",
+        "Le polythéisme",
+        "Le panthéisme"
+      ],
+      "reponse": 2,
+      "explication": "Le polythéisme est la croyance en plusieurs dieux (poly = plusieurs, theos = dieu). Les Grecs étaient polythéistes : ils croyaient en de nombreux dieux vivant sur le mont Olympe."
+    },
+    {
+      "type": "qcm",
+      "question": "Qui est le roi des dieux dans la mythologie grecque ?",
+      "options": [
+        "Poséidon",
+        "Apollon",
+        "Hermès",
+        "Zeus"
+      ],
+      "reponse": 3,
+      "explication": "Zeus est le roi des dieux et le dieu du ciel. Ses attributs sont la foudre, l'aigle et le sceptre. Le sanctuaire d'Olympie lui est dédié."
+    },
+    {
+      "type": "qcm",
+      "question": "Qui est Homère ?",
+      "options": [
+        "Un roi d'Athènes",
+        "Un poète qui a écrit l'Iliade et l'Odyssée",
+        "Un dieu de l'Olympe",
+        "Un stratège célèbre"
+      ],
+      "reponse": 1,
+      "explication": "Homère est un poète du VIIIe siècle av. J.-C. qui a transmis les mythes grecs à travers deux grandes épopées : l'Iliade (la guerre de Troie) et l'Odyssée (le voyage de retour d'Ulysse). Il est surnommé « l'éducateur de la Grèce »."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Pendant les Jeux Olympiques, une trêve sacrée suspendait toutes les guerres entre cités grecques.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 0,
+      "explication": "Vrai. Pendant les Jeux Olympiques d'Olympie, une trêve sacrée était proclamée dans toute la Grèce. Les guerres étaient suspendues et les athlètes pouvaient voyager en sécurité."
+    },
+    {
+      "type": "qcm",
+      "question": "Quand ont eu lieu les premiers Jeux Olympiques ?",
+      "options": [
+        "En 1896 ap. J.-C.",
+        "En 500 av. J.-C.",
+        "En 776 av. J.-C.",
+        "En 1000 av. J.-C."
+      ],
+      "reponse": 2,
+      "explication": "Les premiers Jeux Olympiques ont eu lieu en 776 av. J.-C. à Olympie, en l'honneur de Zeus. Ils ont été célébrés pendant plus de 1 000 ans, puis relancés en 1896 par Pierre de Coubertin."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel oracle les Grecs consultaient-ils à Delphes ?",
+      "options": [
+        "L'oracle de Zeus",
+        "L'oracle d'Athéna",
+        "L'oracle d'Apollon",
+        "L'oracle de Poséidon"
+      ],
+      "reponse": 2,
+      "explication": "Le sanctuaire de Delphes est dédié au dieu Apollon. Les Grecs venaient y consulter l'oracle : la Pythie, une prêtresse, transmettait les réponses du dieu."
+    },
+    {
+      "type": "qcm",
+      "question": "Quelle cité grecque a fondé Massalia (Marseille) ?",
+      "options": [
+        "Athènes",
+        "Sparte",
+        "Corinthe",
+        "Phocée"
+      ],
+      "reponse": 3,
+      "explication": "Vers 600 av. J.-C., des Grecs de Phocée (en Asie Mineure, l'actuelle Turquie) ont fondé Massalia, l'actuelle Marseille. C'est l'une des plus anciennes villes de France."
+    },
+    {
+      "type": "qcm",
+      "question": "Comment s'appelle la cité d'origine des colons grecs ?",
+      "options": [
+        "La colonie",
+        "La métropole",
+        "L'acropole",
+        "L'agora"
+      ],
+      "reponse": 1,
+      "explication": "La cité d'origine des colons s'appelle la métropole (« cité-mère »). Les colons emportaient le feu sacré et les statues des dieux de leur métropole pour fonder leur nouvelle cité."
+    },
+    {
+      "type": "qcm",
+      "question": "Que signifie le mot « démocratie » ?",
+      "options": [
+        "Le pouvoir d'un seul homme",
+        "Le pouvoir des meilleurs",
+        "Le pouvoir du peuple",
+        "Le pouvoir des riches"
+      ],
+      "reponse": 2,
+      "explication": "Démocratie vient du grec demos (le peuple) et kratos (le pouvoir). C'est le « pouvoir du peuple ». Athènes a inventé ce système politique au Ve siècle av. J.-C."
+    },
+    {
+      "type": "qcm",
+      "question": "Comment les membres de la Boulè (conseil de 500 citoyens) sont-ils désignés ?",
+      "options": [
+        "Par élection",
+        "Par le roi",
+        "Par tirage au sort",
+        "Par héritage familial"
+      ],
+      "reponse": 2,
+      "explication": "Les membres de la Boulè sont désignés par tirage au sort. Pour les Grecs, l'élection favorisait les riches et les beaux parleurs. Le tirage au sort garantissait l'égalité entre tous les citoyens."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel célèbre homme politique athénien a été élu stratège pendant 15 années consécutives ?",
+      "options": [
+        "Socrate",
+        "Périclès",
+        "Homère",
+        "Hérodote"
+      ],
+      "reponse": 1,
+      "explication": "Périclès (vers 495-429 av. J.-C.) a été élu stratège pendant 15 ans. Sous sa direction, Athènes a connu son « âge d'or » : construction du Parthénon, renforcement de la démocratie."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "À Athènes, tous les habitants pouvaient voter et participer à la vie politique.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 1,
+      "explication": "Faux. Seuls les citoyens (hommes adultes nés de père et de mère athéniens) pouvaient voter, soit environ 10 % de la population. Les femmes, les métèques (étrangers) et les esclaves étaient exclus."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce que l'ostracisme ?",
+      "options": [
+        "Une fête religieuse en l'honneur de Zeus",
+        "Un vote pour bannir un citoyen trop puissant pendant 10 ans",
+        "Une épreuve sportive des Jeux Olympiques",
+        "Une forme de sacrifice aux dieux"
+      ],
+      "reponse": 1,
+      "explication": "L'ostracisme est un vote pour bannir un citoyen jugé trop puissant ou dangereux pour la démocratie. Son nom est inscrit sur un tesson de poterie (ostrakon). Si plus de 6 000 citoyens votent, le plus désigné est banni pendant 10 ans."
+    },
+    {
+      "type": "qcm",
+      "question": "Pour les Grecs, qu'est-ce qu'un « Barbare » ?",
+      "options": [
+        "Un guerrier cruel et violent",
+        "Quelqu'un qui ne parle pas grec",
+        "Un criminel condamné par la justice",
+        "Un esclave en fuite"
+      ],
+      "reponse": 1,
+      "explication": "Pour un Grec, un « Barbare » est simplement quelqu'un qui ne parle pas grec. Ce mot n'était pas insultant à l'origine : les Grecs trouvaient que les langues étrangères faisaient « bar-bar-bar » à leurs oreilles."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Les colonies grecques étaient politiquement indépendantes de leur métropole.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 0,
+      "explication": "Vrai. Les colonies avaient leur propre gouvernement et étaient politiquement indépendantes. Mais elles restaient liées à leur métropole (cité-mère) par des liens religieux et culturels : mêmes cultes, même langue, mêmes traditions."
+    },
+    {
+      "type": "qcm",
+      "question": "Quelle est la seule magistrature élue (et non tirée au sort) à Athènes ?",
+      "options": [
+        "Les juges de l'Héliée",
+        "Les membres de la Boulè",
+        "Les stratèges",
+        "Les prêtres"
+      ],
+      "reponse": 2,
+      "explication": "Les 10 stratèges (généraux qui commandent l'armée) sont la seule magistrature élue à Athènes. Cette fonction nécessite des compétences militaires particulières, c'est pourquoi on ne les tire pas au sort."
+    }
+  ]
+}

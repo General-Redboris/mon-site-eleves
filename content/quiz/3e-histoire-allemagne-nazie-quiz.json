@@ -1,0 +1,338 @@
+{
+  "titre": "L'Allemagne nazie (1933-1939)",
+  "niveau": "3e",
+  "matiere": "histoire",
+  "chapitre": "allemagne-nazie",
+  "questions": [
+    {
+      "type": "qcm",
+      "question": "À quelle date Hitler est-il nommé chancelier d'Allemagne ?",
+      "options": [
+        "30 janvier 1933",
+        "28 février 1933",
+        "23 mars 1933",
+        "14 juillet 1933"
+      ],
+      "reponse": 0,
+      "explication": "Le 30 janvier 1933, le président Hindenburg nomme Hitler chancelier sous la pression des milieux conservateurs, qui pensent pouvoir le contrôler."
+    },
+    {
+      "type": "qcm",
+      "question": "Comment appelle-t-on la théorie selon laquelle l'armée allemande aurait été trahie par l'arrière en 1918 ?",
+      "options": [
+        "Le mythe de Versailles",
+        "Le mythe du « coup de poignard dans le dos »",
+        "Le mythe aryen",
+        "Le mythe du Lebensraum"
+      ],
+      "reponse": 1,
+      "explication": "Le Dolchstoßlegende est une théorie conspirationniste fausse, qui accusait des politiciens, révolutionnaires et Juifs d'avoir trahi l'armée. Les nazis l'ont abondamment exploitée."
+    },
+    {
+      "type": "qcm",
+      "question": "Pourquoi les Allemands qualifient-ils le traité de Versailles de « diktat » ?",
+      "options": [
+        "Parce qu'il a été rédigé en français",
+        "Parce qu'il leur a été imposé sans négociation",
+        "Parce qu'il a été signé dans une brasserie",
+        "Parce qu'il annulait la monarchie allemande"
+      ],
+      "reponse": 1,
+      "explication": "L'Allemagne n'a pas pu négocier les termes du traité. Elle est déclarée seule responsable de la guerre et doit accepter des conditions très dures : pertes territoriales, réparations financières colossales, limitation de l'armée."
+    },
+    {
+      "type": "qcm",
+      "question": "Combien de chômeurs l'Allemagne compte-t-elle en 1932, au plus fort de la crise ?",
+      "options": [
+        "1,4 million",
+        "3 millions",
+        "6 millions",
+        "10 millions"
+      ],
+      "reponse": 2,
+      "explication": "La crise de 1929 provoque un chômage massif en Allemagne : 6 millions de chômeurs en 1932, soit près d'un tiers de la population active. Cette détresse favorise la montée du parti nazi."
+    },
+    {
+      "type": "qcm",
+      "question": "Que signifie le sigle NSDAP ?",
+      "options": [
+        "Nouveau Syndicat Démocratique des Artisans de Prusse",
+        "Nationalsozialistische Deutsche Arbeiterpartei",
+        "Nationale Soziale Deutsche Allianz Partei",
+        "Nationaldeutsche Sozialistische Arbeiterbewegung Partei"
+      ],
+      "reponse": 1,
+      "explication": "Le NSDAP (Parti national-socialiste des travailleurs allemands) est le nom officiel du parti nazi, fondé en 1920 à partir du DAP."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Hitler a pris le pouvoir par un coup d'État militaire en 1933.",
+      "options": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "explication": "Faux. Après l'échec du putsch de la Brasserie en 1923, Hitler choisit la voie légale. Il est nommé chancelier par le président Hindenburg le 30 janvier 1933, grâce aux manœuvres des milieux conservateurs."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel livre Hitler rédige-t-il en prison après l'échec du putsch de 1923 ?",
+      "options": [
+        "Le Capital",
+        "Mein Kampf",
+        "Le Prince",
+        "Le Manifeste du parti nazi"
+      ],
+      "reponse": 1,
+      "explication": "Mein Kampf (« Mon combat »), publié en 1925-1926, expose l'idéologie nazie : antisémitisme, racisme, rejet de la démocratie, volonté de conquérir un « espace vital » à l'Est."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel événement permet aux nazis de suspendre les libertés fondamentales dès février 1933 ?",
+      "options": [
+        "La mort de Hindenburg",
+        "L'incendie du Reichstag",
+        "La Nuit des longs couteaux",
+        "Le boycott des commerces juifs"
+      ],
+      "reponse": 1,
+      "explication": "Dans la nuit du 27 au 28 février 1933, le Reichstag est incendié. Hitler en profite pour faire adopter un décret qui suspend les libertés (presse, réunion, expression). Ce décret « provisoire » restera en vigueur jusqu'en 1945."
+    },
+    {
+      "type": "qcm",
+      "question": "Que permet la « Loi des pleins pouvoirs » du 23 mars 1933 ?",
+      "options": [
+        "L'interdiction du parti communiste",
+        "La création de la Gestapo",
+        "Le droit pour Hitler de légiférer sans le Parlement",
+        "L'obligation d'adhérer au parti nazi"
+      ],
+      "reponse": 2,
+      "explication": "Cette loi autorise le gouvernement Hitler à légiférer sans l'accord du Parlement, et même à modifier la Constitution. C'est le « suicide légal » de la démocratie allemande."
+    },
+    {
+      "type": "qcm",
+      "question": "À quelle date le NSDAP devient-il le seul parti autorisé en Allemagne ?",
+      "options": [
+        "30 janvier 1933",
+        "23 mars 1933",
+        "14 juillet 1933",
+        "30 juin 1934"
+      ],
+      "reponse": 2,
+      "explication": "Le 14 juillet 1933, une loi proclame le NSDAP parti unique. Les autres partis ont été interdits ou se sont autodissous sous la pression dans les semaines précédentes."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce que la « Nuit des longs couteaux » (30 juin 1934) ?",
+      "options": [
+        "Un pogrom contre les Juifs",
+        "L'assassinat des chefs SA par la SS sur ordre d'Hitler",
+        "L'incendie du Reichstag",
+        "Un soulèvement de l'armée contre Hitler"
+      ],
+      "reponse": 1,
+      "explication": "Hitler fait assassiner Ernst Röhm et des centaines de chefs SA par la SS. Cette purge élimine les rivaux internes et fait de la SS le principal instrument de terreur du régime."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Après la mort de Hindenburg en août 1934, Hitler cumule les fonctions de chancelier et de président.",
+      "options": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "explication": "Vrai. La mort de Hindenburg le 2 août 1934 permet à Hitler de concentrer tous les pouvoirs. L'armée prête serment de fidélité personnelle au Führer."
+    },
+    {
+      "type": "qcm",
+      "question": "Comment les nazis appellent-ils la prétendue « race supérieure » ?",
+      "options": [
+        "La race germanique",
+        "La race aryenne",
+        "La race prussienne",
+        "La race nordique pure"
+      ],
+      "reponse": 1,
+      "explication": "Les nazis placent au sommet de leur hiérarchie raciale la prétendue « race aryenne » (ou « nordique »). Ce concept pseudo-scientifique n'a aucun fondement biologique : les « races » humaines n'existent pas."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Le concept de « race aryenne » repose sur des bases scientifiques solides.",
+      "options": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "explication": "Faux. Le terme « aryen » désignait à l'origine une famille de langues. Des théoriciens racistes du XIXe siècle l'ont transformé en catégorie raciale. La génétique a prouvé qu'il n'existe qu'une seule espèce humaine."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce que le « Lebensraum » dans l'idéologie nazie ?",
+      "options": [
+        "Le principe du chef unique",
+        "L'espace vital à conquérir à l'Est",
+        "Le programme d'eugénisme",
+        "Le nom du parlement allemand"
+      ],
+      "reponse": 1,
+      "explication": "Le Lebensraum (« espace vital ») désigne les territoires que l'Allemagne devrait conquérir à l'Est (Pologne, URSS) pour permettre l'expansion du peuple allemand. Ce concept implique la guerre et l'extermination des populations locales."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce que le programme « Aktion T4 » (1939-1941) ?",
+      "options": [
+        "Un plan de construction d'autoroutes",
+        "L'assassinat systématique d'environ 70 000 malades mentaux et handicapés",
+        "Un programme de propagande cinématographique",
+        "Un plan de colonisation de la Pologne"
+      ],
+      "reponse": 1,
+      "explication": "Le programme Aktion T4 organise l'assassinat de malades mentaux et handicapés allemands jugés « indignes de vivre ». Il préfigure les méthodes utilisées ensuite dans les camps d'extermination."
+    },
+    {
+      "type": "qcm",
+      "question": "Qui est le ministre de la Propagande du IIIe Reich ?",
+      "options": [
+        "Heinrich Himmler",
+        "Hermann Göring",
+        "Joseph Goebbels",
+        "Ernst Röhm"
+      ],
+      "reponse": 2,
+      "explication": "Joseph Goebbels contrôle tous les médias et la culture du IIIe Reich depuis mars 1933. Il met en place un système de propagande totale : radio, cinéma, affiches, rassemblements de masse."
+    },
+    {
+      "type": "qcm",
+      "question": "Comment s'appelle le récepteur radio bon marché diffusé par les nazis ?",
+      "options": [
+        "Le Reichsempfänger",
+        "Le Volksempfänger",
+        "Le Führerradio",
+        "Le Propagandaradio"
+      ],
+      "reponse": 1,
+      "explication": "Le Volksempfänger (« récepteur du peuple ») est un poste de radio vendu à bas prix pour que chaque foyer puisse écouter la propagande nazie et les discours du Führer."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce que la Gestapo ?",
+      "options": [
+        "L'armée de l'air allemande",
+        "La police secrète d'État nazie",
+        "L'organisation de jeunesse du parti",
+        "Le parlement allemand"
+      ],
+      "reponse": 1,
+      "explication": "La Gestapo (Geheime Staatspolizei) est la police secrète d'État, créée en 1933. Elle traque les opposants avec des pouvoirs illimités : arrestation sans mandat, détention sans jugement, torture."
+    },
+    {
+      "type": "qcm",
+      "question": "À partir de quel âge l'adhésion aux Jeunesses hitlériennes est-elle obligatoire (1936) ?",
+      "options": [
+        "6 ans",
+        "10 ans",
+        "14 ans",
+        "16 ans"
+      ],
+      "reponse": 1,
+      "explication": "À partir de 1936, tous les jeunes Allemands de 10 à 18 ans doivent rejoindre les Jeunesses hitlériennes. Les garçons passent par les Jungvolk (10-14 ans) puis la Hitlerjugend (14-18 ans)."
+    },
+    {
+      "type": "qcm",
+      "question": "Que sont les lois de Nuremberg (septembre 1935) ?",
+      "options": [
+        "Des lois interdisant le parti communiste",
+        "Des lois retirant la citoyenneté aux Juifs et interdisant les mariages « mixtes »",
+        "Des lois imposant le service militaire obligatoire",
+        "Des lois organisant les Jeunesses hitlériennes"
+      ],
+      "reponse": 1,
+      "explication": "Les lois de Nuremberg retirent aux Juifs la citoyenneté allemande et interdisent les mariages et relations entre Juifs et « Aryens ». Elles définissent qui est « juif » selon des critères raciaux, pas religieux."
+    },
+    {
+      "type": "qcm",
+      "question": "Que se passe-t-il lors de la « Nuit de cristal » (9-10 novembre 1938) ?",
+      "options": [
+        "Hitler prend le pouvoir",
+        "Les chefs SA sont assassinés",
+        "Un pogrom est organisé contre les Juifs dans toute l'Allemagne",
+        "Le Reichstag est incendié"
+      ],
+      "reponse": 2,
+      "explication": "La Nuit de cristal est un pogrom organisé par les nazis : 91 Juifs assassinés, 30 000 déportés, des centaines de synagogues incendiées et 7 500 commerces détruits. Son nom vient des vitrines brisées."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Les nazis ont obtenu la majorité absolue aux élections avant d'accéder au pouvoir.",
+      "options": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "explication": "Faux. Le meilleur score du NSDAP est 37,2 % en juillet 1932. C'est grâce aux manœuvres des milieux conservateurs (industriels, banquiers) qu'Hitler est nommé chancelier, pas par un vote majoritaire."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Le premier camp de concentration nazi, Dachau, ouvre dès mars 1933.",
+      "options": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "explication": "Vrai. Dachau ouvre le 20 mars 1933, près de Munich. Il sert d'abord à interner les opposants politiques (communistes, socialistes). D'autres camps suivront : Buchenwald, Sachsenhausen..."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel est le point commun principal entre l'Allemagne nazie et l'URSS stalinienne ?",
+      "options": [
+        "Les deux régimes sont fondés sur le racisme",
+        "Les deux régimes collectivisent l'économie",
+        "Les deux sont des régimes totalitaires avec un chef tout-puissant et un parti unique",
+        "Les deux régimes sont alliés militairement"
+      ],
+      "reponse": 2,
+      "explication": "L'Allemagne nazie et l'URSS stalinienne partagent les caractéristiques du totalitarisme : chef avec culte de la personnalité, parti unique, propagande massive, terreur policière, camps, embrigadement de la jeunesse."
+    },
+    {
+      "type": "qcm",
+      "question": "Quelle est la différence fondamentale entre le nazisme et le stalinisme concernant les « ennemis » désignés ?",
+      "options": [
+        "Le nazisme désigne des ennemis raciaux, le stalinisme des ennemis de classe",
+        "Le nazisme n'a pas d'ennemis désignés contrairement au stalinisme",
+        "Le stalinisme vise les Juifs, le nazisme vise les paysans",
+        "Il n'y a aucune différence"
+      ],
+      "reponse": 0,
+      "explication": "Le nazisme définit ses ennemis par leur « race » (Juifs, Tziganes, Slaves), tandis que le stalinisme les définit par leur position sociale (koulaks, « contre-révolutionnaires »). C'est une différence idéologique fondamentale."
+    },
+    {
+      "type": "reponse_courte",
+      "question": "Comment appelle-t-on le processus de nazification de toutes les institutions allemandes en 1933 ?",
+      "options": [],
+      "reponse": "Gleichschaltung",
+      "explication": "La Gleichschaltung (« mise au pas ») désigne le processus par lequel les nazis imposent leur contrôle sur toutes les institutions allemandes : partis, syndicats, presse, école, culture..."
+    },
+    {
+      "type": "reponse_courte",
+      "question": "Quel titre porte Adolf Hitler en tant que chef suprême du IIIe Reich ?",
+      "options": [],
+      "reponse": "Führer",
+      "explication": "Le mot Führer signifie « guide » en allemand. Ce titre exprime le pouvoir absolu d'Hitler sur le parti nazi puis sur l'État, selon le « principe du chef » (Führerprinzip)."
+    },
+    {
+      "type": "reponse_courte",
+      "question": "Qui dirige la SS à partir de 1929 ?",
+      "options": [],
+      "reponse": "Heinrich Himmler",
+      "explication": "Himmler transforme la SS en une organisation d'élite et un véritable État dans l'État. Il dirige aussi la Gestapo et sera le principal organisateur de la Shoah."
+    },
+    {
+      "type": "reponse_courte",
+      "question": "Quel est le nom du premier camp de concentration ouvert par les nazis en mars 1933 ?",
+      "options": [],
+      "reponse": "Dachau",
+      "explication": "Le camp de Dachau ouvre le 20 mars 1933 près de Munich. Il sert d'abord à interner les opposants politiques au régime nazi."
+    }
+  ]
+}

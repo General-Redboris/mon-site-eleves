@@ -1,0 +1,313 @@
+{
+  "titre": "La Seconde Guerre mondiale : une guerre d'anéantissement",
+  "niveau": "3e",
+  "matiere": "histoire",
+  "chapitre": "seconde-guerre-mondiale",
+  "questions": [
+    {
+      "type": "qcm",
+      "question": "Quel événement déclenche la Seconde Guerre mondiale le 1er septembre 1939 ?",
+      "options": [
+        "L'annexion de l'Autriche par l'Allemagne",
+        "L'invasion de la Pologne par l'Allemagne",
+        "Le bombardement de Pearl Harbor",
+        "La remilitarisation de la Rhénanie"
+      ],
+      "reponse": 1,
+      "explication": "Le 1er septembre 1939, l'Allemagne envahit la Pologne. La France et le Royaume-Uni déclarent la guerre à l'Allemagne le 3 septembre."
+    },
+    {
+      "type": "qcm",
+      "question": "Que sont les accords de Munich (septembre 1938) ?",
+      "options": [
+        "Un pacte d'alliance entre l'Allemagne et l'Italie",
+        "Un accord de paix entre la France et l'Allemagne",
+        "Un accord cédant les Sudètes à l'Allemagne pour éviter la guerre",
+        "Un traité mettant fin à la Première Guerre mondiale"
+      ],
+      "reponse": 2,
+      "explication": "Les accords de Munich sont le symbole de la politique d'apaisement : les démocraties cèdent les Sudètes (Tchécoslovaquie) à Hitler en espérant éviter la guerre. Un an plus tard, l'Europe est en guerre."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "L'URSS est alliée de l'Allemagne pendant toute la durée de la guerre.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 1,
+      "explication": "L'URSS et l'Allemagne signent un pacte de non-agression en août 1939, mais Hitler rompt ce pacte en envahissant l'URSS le 22 juin 1941 (opération Barbarossa). L'URSS rejoint alors le camp des Alliés."
+    },
+    {
+      "type": "qcm",
+      "question": "Les États-Unis entrent en guerre après quel événement ?",
+      "options": [
+        "L'invasion de la Pologne (septembre 1939)",
+        "La chute de la France (juin 1940)",
+        "L'attaque de Pearl Harbor par le Japon (décembre 1941)",
+        "Le débarquement en Normandie (juin 1944)"
+      ],
+      "reponse": 2,
+      "explication": "Le 7 décembre 1941, le Japon attaque la base américaine de Pearl Harbor (Hawaï). Les États-Unis entrent en guerre le lendemain, aux côtés des Alliés."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce qu'une « guerre totale » ?",
+      "options": [
+        "Une guerre où seuls les soldats combattent",
+        "Une guerre qui se déroule sur tous les continents",
+        "Une guerre qui mobilise toutes les ressources d'un pays : humaines, économiques et scientifiques",
+        "Une guerre qui dure plus de 5 ans"
+      ],
+      "reponse": 2,
+      "explication": "Une guerre totale mobilise l'ensemble des ressources d'un pays. La distinction entre le front et l'arrière s'efface : toute la société est engagée dans l'effort de guerre."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Pendant la Seconde Guerre mondiale, les femmes n'ont joué aucun rôle militaire.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 1,
+      "explication": "Les femmes ont joué un rôle essentiel : 850 000 femmes ont servi dans l'Armée rouge (dont 2 000 snipeuses), 450 000 dans l'armée britannique, 400 000 dans l'armée américaine. À l'arrière, elles ont remplacé les hommes dans les usines et les champs."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel pays est surnommé l'« arsenal des démocraties » pendant la guerre ?",
+      "options": [
+        "Le Royaume-Uni",
+        "L'URSS",
+        "Les États-Unis",
+        "La France Libre"
+      ],
+      "reponse": 2,
+      "explication": "Les États-Unis fournissent plus de 51 milliards de dollars d'aide matérielle aux Alliés grâce au système du Lend-Lease (prêt-bail). Leur puissance industrielle est un facteur décisif de la victoire."
+    },
+    {
+      "type": "qcm",
+      "question": "Quelle innovation scientifique marque un tournant dans l'histoire de l'humanité en 1945 ?",
+      "options": [
+        "Le premier avion à réaction (Me 262)",
+        "Le premier missile balistique (V2)",
+        "La bombe atomique",
+        "Le radar"
+      ],
+      "reponse": 2,
+      "explication": "La bombe atomique, développée dans le cadre du projet Manhattan, est utilisée sur Hiroshima (6 août 1945) et Nagasaki (9 août 1945). Elle inaugure l'ère nucléaire."
+    },
+    {
+      "type": "reponse_courte",
+      "question": "Comment s'appelle l'idéologie nazie qui prétend que les « Aryens » sont supérieurs aux autres peuples ?",
+      "options": [],
+      "reponse": "Le racisme (ou la théorie de la hiérarchie des races)",
+      "explication": "L'idéologie nazie repose sur la croyance en une hiérarchie des « races ». Les « Aryens » (Allemands) seraient supérieurs. Cette théorie pseudo-scientifique n'a aucun fondement biologique."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce que le Lebensraum (« espace vital ») dans l'idéologie nazie ?",
+      "options": [
+        "Le territoire colonial allemand en Afrique",
+        "Les territoires à conquérir à l'Est pour y installer des colons allemands",
+        "Le territoire protégé par le mur de l'Atlantique",
+        "Les zones réservées aux Aryens dans les villes allemandes"
+      ],
+      "reponse": 1,
+      "explication": "Le Lebensraum désigne les territoires que les nazis veulent conquérir à l'Est (Pologne, URSS) pour y installer des colons allemands, après avoir chassé ou exterminé les populations locales."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Pendant la Seconde Guerre mondiale, les civils représentent la majorité des victimes.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 0,
+      "explication": "Pour la première fois dans l'histoire, les civils constituent la majorité des victimes : 40 à 50 millions sur un total de 60 à 80 millions de morts. La distinction entre combattants et non-combattants est systématiquement violée."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel système est mis en place en France occupée pour gérer les pénuries alimentaires ?",
+      "options": [
+        "Le marché noir",
+        "Le rationnement avec des cartes d'alimentation",
+        "Les ersatz",
+        "Le Lend-Lease"
+      ],
+      "reponse": 1,
+      "explication": "Dès l'automne 1940, le rationnement entre en vigueur en France. Une carte d'alimentation permet de se procurer des aliments en quantité limitée. En 1944, la ration moyenne d'un Français est de seulement 1 200 kcal/jour."
+    },
+    {
+      "type": "qcm",
+      "question": "Quelles sont les deux villes japonaises frappées par des bombes atomiques en août 1945 ?",
+      "options": [
+        "Tokyo et Osaka",
+        "Hiroshima et Nagasaki",
+        "Kyoto et Yokohama",
+        "Nagasaki et Tokyo"
+      ],
+      "reponse": 1,
+      "explication": "Le 6 août 1945, la bombe « Little Boy » est larguée sur Hiroshima (≈ 80 000 morts immédiats). Le 9 août, « Fat Man » frappe Nagasaki (≈ 40 000 morts immédiats). Le Japon capitule le 2 septembre."
+    },
+    {
+      "type": "reponse_courte",
+      "question": "Comment appelle-t-on le génocide des Juifs d'Europe ?",
+      "options": [],
+      "reponse": "La Shoah",
+      "explication": "Shoah est un mot hébreu signifiant « catastrophe ». Il désigne le génocide de 6 millions de Juifs d'Europe par les nazis, soit environ 67 % de la population juive européenne."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce qu'un ghetto dans le contexte de la Seconde Guerre mondiale ?",
+      "options": [
+        "Un camp d'extermination",
+        "Un quartier fermé où les Juifs sont contraints de vivre",
+        "Un camp de prisonniers de guerre",
+        "Un quartier réservé aux soldats allemands"
+      ],
+      "reponse": 1,
+      "explication": "Les ghettos sont des quartiers fermés où les Juifs sont enfermés dans des conditions inhumaines : surpopulation, famine, travail forcé, épidémies. Le ghetto de Varsovie entasse 400 000 personnes."
+    },
+    {
+      "type": "qcm",
+      "question": "Que sont les Einsatzgruppen ?",
+      "options": [
+        "Les gardes des camps de concentration",
+        "Les unités d'élite de l'armée allemande",
+        "Des unités mobiles de tuerie qui massacrent les Juifs à l'Est",
+        "Les responsables de la propagande nazie"
+      ],
+      "reponse": 2,
+      "explication": "Les Einsatzgruppen sont des unités mobiles de tuerie qui suivent l'armée allemande en URSS à partir de juin 1941. Ils massacrent systématiquement les Juifs par fusillade (Shoah par balles) : environ 1,5 million de victimes."
+    },
+    {
+      "type": "reponse_courte",
+      "question": "Quel massacre fait près de 34 000 victimes juives en deux jours près de Kiev en septembre 1941 ?",
+      "options": [],
+      "reponse": "Le massacre de Babi Yar",
+      "explication": "Les 29 et 30 septembre 1941, près de 34 000 Juifs sont assassinés dans le ravin de Babi Yar, près de Kiev (Ukraine). C'est l'un des plus grands massacres de la Shoah par balles."
+    },
+    {
+      "type": "qcm",
+      "question": "Que décide la conférence de Wannsee (20 janvier 1942) ?",
+      "options": [
+        "L'invasion de l'URSS",
+        "L'organisation de la « Solution finale » : l'extermination de tous les Juifs d'Europe",
+        "La capitulation de l'Allemagne",
+        "La création de l'ONU"
+      ],
+      "reponse": 1,
+      "explication": "La conférence de Wannsee, présidée par Reinhard Heydrich, coordonne la déportation et l'extermination systématique de tous les Juifs d'Europe. C'est le passage à l'extermination industrielle."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel est le plus grand camp d'extermination nazi ?",
+      "options": [
+        "Treblinka",
+        "Dachau",
+        "Auschwitz-Birkenau",
+        "Buchenwald"
+      ],
+      "reponse": 2,
+      "explication": "Auschwitz-Birkenau, situé en Pologne, est le plus grand centre de mise à mort nazi : environ 1,1 million de personnes y sont assassinées, dont 1 million de Juifs. Dachau et Buchenwald sont des camps de concentration, pas d'extermination."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel gaz est utilisé dans les chambres à gaz des camps d'extermination ?",
+      "options": [
+        "Le gaz moutarde",
+        "Le monoxyde de carbone",
+        "Le Zyklon B",
+        "Le chlore"
+      ],
+      "reponse": 2,
+      "explication": "Le Zyklon B est un insecticide à base de cyanure détourné par les nazis pour assassiner les déportés dans les chambres à gaz. Son utilisation révèle la vision déshumanisante des nazis envers leurs victimes."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Les camps d'extermination et les camps de concentration sont la même chose.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 1,
+      "explication": "Non. Dans un camp de concentration (Dachau, Buchenwald), on meurt d'épuisement au travail forcé. Dans un camp d'extermination (Auschwitz-Birkenau, Treblinka), on est assassiné dès l'arrivée dans les chambres à gaz. Les six camps d'extermination sont tous situés en Pologne."
+    },
+    {
+      "type": "qcm",
+      "question": "Combien de Juifs d'Europe ont été victimes de la Shoah ?",
+      "options": [
+        "Environ 1 million",
+        "Environ 3 millions",
+        "Environ 6 millions",
+        "Environ 10 millions"
+      ],
+      "reponse": 2,
+      "explication": "Environ 6 millions de Juifs ont été assassinés, soit 67 % de la population juive européenne. En Pologne, 90 % des 3,3 millions de Juifs ont été exterminés."
+    },
+    {
+      "type": "reponse_courte",
+      "question": "Comment appelle-t-on le génocide des Tziganes ?",
+      "options": [],
+      "reponse": "Le Porajmos",
+      "explication": "Le Porajmos désigne le génocide des Tziganes par les nazis : 250 000 à 500 000 victimes, soit 25 à 50 % de la population tzigane d'Europe."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel est le nouveau concept juridique créé lors du procès de Nuremberg ?",
+      "options": [
+        "Le crime de guerre",
+        "Le crime contre l'humanité",
+        "Le génocide",
+        "Le droit d'asile"
+      ],
+      "reponse": 1,
+      "explication": "Le procès de Nuremberg (1945-1946) crée la notion juridique de « crime contre l'humanité » : extermination, déportation, réduction en esclavage pour des motifs politiques, raciaux ou religieux. Ce concept sera repris dans le droit international."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Au procès de Nuremberg, les accusés pouvaient se défendre en disant qu'ils obéissaient aux ordres.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 1,
+      "explication": "Le procès de Nuremberg établit le principe fondamental que les individus sont responsables de leurs actes, même s'ils obéissent à des ordres. L'obéissance aux ordres ne constitue pas une excuse pour des crimes contre l'humanité."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel pays a subi le plus de pertes humaines pendant la Seconde Guerre mondiale ?",
+      "options": [
+        "L'Allemagne",
+        "La Pologne",
+        "Les États-Unis",
+        "L'URSS"
+      ],
+      "reponse": 3,
+      "explication": "L'URSS est le pays le plus touché avec 25 à 27 millions de morts. La Chine suit avec 15 à 20 millions, puis l'Allemagne avec 7 à 9 millions et la Pologne avec 6 millions (17 % de sa population)."
+    },
+    {
+      "type": "reponse_courte",
+      "question": "Quelle organisation internationale est créée en 1945 pour maintenir la paix dans le monde ?",
+      "options": [],
+      "reponse": "L'ONU (Organisation des Nations Unies)",
+      "explication": "L'ONU est fondée en 1945 pour maintenir la paix mondiale. En 1948, elle adopte la Déclaration universelle des droits de l'homme, affirmant la dignité de tous les êtres humains."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Le débarquement en Normandie a eu lieu le 6 juin 1944.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 0,
+      "explication": "Le 6 juin 1944 (« Jour J » ou « D-Day »), les forces alliées débarquent sur les plages de Normandie. C'est le début de la libération de la France et de l'Europe occidentale."
+    },
+    {
+      "type": "qcm",
+      "question": "Qui sont les « Justes parmi les Nations » ?",
+      "options": [
+        "Les soldats alliés qui ont libéré les camps",
+        "Les survivants de la Shoah",
+        "Des non-Juifs qui ont aidé des Juifs à survivre au péril de leur vie",
+        "Les juges du procès de Nuremberg"
+      ],
+      "reponse": 2,
+      "explication": "Le titre de « Juste parmi les Nations » est décerné par le mémorial de Yad Vashem (Israël) aux non-Juifs qui ont risqué leur vie pour sauver des Juifs. Plus de 28 000 personnes ont reçu ce titre, dont près de 4 200 Français."
+    },
+    {
+      "type": "qcm",
+      "question": "Quelle est la date de la capitulation de l'Allemagne ?",
+      "options": [
+        "Le 6 juin 1944",
+        "Le 30 avril 1945",
+        "Le 8 mai 1945",
+        "Le 2 septembre 1945"
+      ],
+      "reponse": 2,
+      "explication": "L'Allemagne capitule le 8 mai 1945, mettant fin à la guerre en Europe. Le Japon capitulera le 2 septembre 1945, après les bombes atomiques sur Hiroshima et Nagasaki."
+    }
+  ]
+}

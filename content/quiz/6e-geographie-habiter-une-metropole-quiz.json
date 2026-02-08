@@ -1,0 +1,173 @@
+{
+  "titre": "Quiz — Habiter une métropole",
+  "niveau": "6e",
+  "matiere": "geographie",
+  "chapitre": "habiter-une-metropole",
+  "questions": [
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce qu'une métropole ?",
+      "options": [
+        "Une ville de plus de 10 000 habitants",
+        "Une très grande ville qui concentre population, activités et fonctions importantes",
+        "La capitale d'un pays",
+        "Une ville située en bord de mer"
+      ],
+      "reponse": 1,
+      "explication": "Une métropole est une très grande ville qui concentre une population nombreuse, des activités variées et des fonctions importantes (politique, économique, culturelle). Toutes les capitales ne sont pas des métropoles et toutes les métropoles ne sont pas des capitales."
+    },
+    {
+      "type": "qcm",
+      "question": "Quelle est la ville la plus peuplée d'Afrique ?",
+      "options": [
+        "Le Caire",
+        "Johannesburg",
+        "Lagos",
+        "Nairobi"
+      ],
+      "reponse": 2,
+      "explication": "Lagos, au Nigeria, est la ville la plus peuplée d'Afrique avec plus de 15 millions d'habitants. C'est une métropole d'un pays en développement qui connaît une croissance très rapide."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Lagos et Londres ont toutes les deux des bidonvilles.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 1,
+      "explication": "Faux. Lagos compte de nombreux bidonvilles (comme Makoko), mais Londres n'en a pas. C'est l'une des différences majeures entre une métropole d'un pays en développement et une métropole d'un pays développé."
+    },
+    {
+      "type": "qcm",
+      "question": "Que signifie « habiter » en géographie ?",
+      "options": [
+        "Avoir un logement dans une ville",
+        "Pratiquer l'espace au quotidien : se loger, se déplacer, travailler, consommer, avoir des loisirs",
+        "Payer un loyer chaque mois",
+        "Vivre dans un appartement"
+      ],
+      "reponse": 1,
+      "explication": "En géographie, « habiter » ne se limite pas à avoir un logement. C'est pratiquer l'espace au quotidien : s'y déplacer, y travailler, y étudier, y faire des courses, y avoir des loisirs, y rencontrer des gens."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel quartier de Londres est l'un des centres financiers les plus puissants du monde ?",
+      "options": [
+        "Brixton",
+        "Southall",
+        "La City",
+        "Hornchurch"
+      ],
+      "reponse": 2,
+      "explication": "La City de Londres (le « Square Mile ») est l'un des centres financiers les plus puissants du monde. Seules 8 000 personnes y vivent, mais plus de 500 000 y travaillent chaque jour."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel pourcentage de la population mondiale vivait en ville en 2007 ?",
+      "options": [
+        "30 %",
+        "50 %",
+        "70 %",
+        "90 %"
+      ],
+      "reponse": 1,
+      "explication": "En 2007, 50 % de la population mondiale vivait en ville (la moitié de l'humanité). Ce chiffre était de 30 % en 1950 et pourrait atteindre 70 % en 2050."
+    },
+    {
+      "type": "qcm",
+      "question": "Comment appelle-t-on le phénomène d'extension de la ville vers les espaces ruraux ?",
+      "options": [
+        "L'exode rural",
+        "L'urbanisation",
+        "L'étalement urbain",
+        "La gentrification"
+      ],
+      "reponse": 2,
+      "explication": "L'étalement urbain est l'extension de la ville vers les espaces ruraux environnants. Il pose des problèmes : destruction de terres agricoles, augmentation des déplacements en voiture, pollution."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Une ville cosmopolite est une ville où vivent des personnes de nationalités et de cultures très diverses.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 0,
+      "explication": "Vrai. « Cosmopolite » signifie que la ville réunit des personnes de cultures et d'origines différentes. À Londres, par exemple, plus de 300 langues sont parlées."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce que la ségrégation spatiale ?",
+      "options": [
+        "Le fait de construire des espaces verts en ville",
+        "La séparation des populations dans l'espace urbain selon leurs revenus ou origines",
+        "Le développement des transports en commun",
+        "L'installation de zones commerciales en périphérie"
+      ],
+      "reponse": 1,
+      "explication": "La ségrégation spatiale est la séparation des populations dans l'espace urbain selon leurs revenus ou leurs origines. On l'observe à Lagos (gratte-ciels à côté de bidonvilles) comme à Londres (quartiers très riches et très pauvres)."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel grand projet de transport est prévu pour mieux relier Paris et sa banlieue ?",
+      "options": [
+        "Le TGV Paris-Lyon",
+        "Le Grand Paris Express",
+        "Le tramway de Montpellier",
+        "L'Eurostar"
+      ],
+      "reponse": 1,
+      "explication": "Le Grand Paris Express prévoit 200 km de nouvelles lignes de métro et 68 nouvelles gares pour mieux relier Paris et sa banlieue. C'est un exemple de solution pour améliorer les transports dans une métropole."
+    },
+    {
+      "type": "qcm",
+      "question": "Que sont les « mobilités douces » ?",
+      "options": [
+        "Les déplacements en voiture électrique",
+        "Les déplacements en avion",
+        "Les modes de déplacement non motorisés ou peu polluants (marche, vélo, trottinette)",
+        "Les déplacements en taxi"
+      ],
+      "reponse": 2,
+      "explication": "Les mobilités douces sont les modes de déplacement non motorisés ou peu polluants comme la marche, le vélo, la trottinette ou le roller. Elles sont encouragées pour réduire la pollution et les embouteillages."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Le développement durable vise à améliorer la vie des habitants d'aujourd'hui tout en préservant l'environnement pour les générations futures.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 0,
+      "explication": "Vrai. Le développement durable cherche à répondre aux besoins du présent sans compromettre ceux des générations futures. Les solutions pour améliorer les métropoles (transports, environnement, mixité sociale) s'inscrivent dans cette logique."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce qu'un bidonville ?",
+      "options": [
+        "Un quartier d'affaires moderne",
+        "Un quartier d'habitat précaire construit avec des matériaux de récupération",
+        "Un quartier résidentiel avec des maisons individuelles",
+        "Un centre commercial en périphérie"
+      ],
+      "reponse": 1,
+      "explication": "Un bidonville est un quartier d'habitat précaire construit avec des matériaux de récupération (bois, tôle), souvent sans eau courante ni électricité. À Lagos, 2 habitants sur 3 vivent en bidonville."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel est le point commun entre Lagos et Londres ?",
+      "options": [
+        "Elles ont le même nombre d'habitants",
+        "Elles sont toutes deux des métropoles qui attirent des populations et connaissent des inégalités",
+        "Elles ont le même niveau de développement",
+        "Elles sont situées sur le même continent"
+      ],
+      "reponse": 1,
+      "explication": "Lagos et Londres sont toutes deux de grandes métropoles qui attirent des populations, connaissent des problèmes de transport et des inégalités entre quartiers. Cependant, elles se distinguent par leur niveau de développement."
+    },
+    {
+      "type": "qcm",
+      "question": "Comment appelle-t-on le départ massif des habitants des campagnes vers les villes ?",
+      "options": [
+        "L'urbanisation",
+        "La gentrification",
+        "L'exode rural",
+        "L'étalement urbain"
+      ],
+      "reponse": 2,
+      "explication": "L'exode rural est le départ massif des habitants des campagnes vers les villes. En Afrique et en Asie, des millions de personnes quittent chaque année la campagne pour tenter leur chance en ville."
+    }
+  ]
+}

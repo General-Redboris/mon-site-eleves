@@ -1,0 +1,228 @@
+{
+  "titre": "La France des années 1930 — Le Front populaire",
+  "niveau": "3e",
+  "matiere": "histoire",
+  "chapitre": "france-annees-1930",
+  "questions": [
+    {
+      "type": "qcm",
+      "question": "Quel événement marque le début de la crise économique mondiale en 1929 ?",
+      "options": [
+        "La faillite de la Banque de France",
+        "Le krach boursier de Wall Street",
+        "La chute du gouvernement français",
+        "L'invasion de la Pologne"
+      ],
+      "reponse": 1,
+      "explication": "En octobre 1929, la Bourse de New York (Wall Street) s'effondre. Cette crise financière se transforme rapidement en crise économique mondiale, touchant la France à partir de 1931."
+    },
+    {
+      "type": "qcm",
+      "question": "Quelle politique économique les gouvernements français appliquent-ils face à la crise des années 1930 ?",
+      "options": [
+        "Une politique de relance par les grands travaux",
+        "Une politique de déflation (réduction des salaires et des dépenses)",
+        "Une politique de nationalisation des banques",
+        "Une politique d'augmentation massive des impôts"
+      ],
+      "reponse": 1,
+      "explication": "Les gouvernements successifs appliquent une politique de déflation : ils réduisent les salaires des fonctionnaires et les dépenses publiques. Mais cette politique aggrave la crise en réduisant le pouvoir d'achat."
+    },
+    {
+      "type": "qcm",
+      "question": "Comment appelle-t-on les organisations d'extrême droite qui menacent la République dans les années 1930 ?",
+      "options": [
+        "Les syndicats",
+        "Les ligues",
+        "Les soviets",
+        "Les milices"
+      ],
+      "reponse": 1,
+      "explication": "Les ligues sont des organisations politiques d'extrême droite hostiles à la République parlementaire. Parmi les plus connues : les Croix-de-Feu du colonel de La Rocque et l'Action française de Charles Maurras."
+    },
+    {
+      "type": "qcm",
+      "question": "Que se passe-t-il le 6 février 1934 à Paris ?",
+      "options": [
+        "Les partis de gauche organisent une grande fête populaire",
+        "Léon Blum est élu président du Conseil",
+        "Les ligues d'extrême droite manifestent et tentent de marcher sur le Palais Bourbon",
+        "Les ouvriers occupent les usines"
+      ],
+      "reponse": 2,
+      "explication": "Le 6 février 1934, les ligues d'extrême droite organisent une manifestation violente à Paris, tentant de marcher sur le Palais Bourbon. Les affrontements font 15 morts et plus de 300 blessés. Le président du Conseil Daladier démissionne."
+    },
+    {
+      "type": "qcm",
+      "question": "Quels sont les trois partis qui forment le Front populaire ?",
+      "options": [
+        "Le PCF, la SFIO et le Parti radical",
+        "Le PCF, la SFIO et l'Action française",
+        "La SFIO, le Parti radical et les Croix-de-Feu",
+        "Le PCF, le Parti radical et les Camelots du roi"
+      ],
+      "reponse": 0,
+      "explication": "Le Front populaire est une alliance de trois partis de gauche : le PCF (communiste), la SFIO (socialiste) et le Parti radical (centre-gauche). Cette union est née en réaction à la menace des ligues d'extrême droite."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel est le slogan du Front populaire ?",
+      "options": [
+        "Liberté, Égalité, Fraternité",
+        "Le Pain, la Paix, la Liberté",
+        "Travail, Famille, Patrie",
+        "L'union fait la force"
+      ],
+      "reponse": 1,
+      "explication": "Le slogan « Le Pain, la Paix, la Liberté » résume le programme du Front populaire : lutter contre la misère (le Pain), éviter la guerre (la Paix) et défendre la République contre les ligues (la Liberté)."
+    },
+    {
+      "type": "qcm",
+      "question": "Qui est Léon Blum ?",
+      "options": [
+        "Le chef du Parti communiste français",
+        "Le dirigeant de la SFIO, premier chef de gouvernement socialiste de France",
+        "Le colonel qui dirige les Croix-de-Feu",
+        "Le président de la République en 1936"
+      ],
+      "reponse": 1,
+      "explication": "Léon Blum est le dirigeant de la SFIO (parti socialiste). En juin 1936, il devient président du Conseil (chef du gouvernement). C'est la première fois qu'un socialiste dirige la France."
+    },
+    {
+      "type": "qcm",
+      "question": "Que font les ouvriers après la victoire électorale du Front populaire en mai-juin 1936 ?",
+      "options": [
+        "Ils reprennent le travail avec enthousiasme",
+        "Ils organisent un coup d'État",
+        "Ils font grève et occupent les usines de manière pacifique et joyeuse",
+        "Ils quittent massivement la France"
+      ],
+      "reponse": 2,
+      "explication": "Près de 2 millions de travailleurs cessent le travail et occupent leurs usines. Ces grèves sont pacifiques et joyeuses : on y danse, on y chante. Les ouvriers veulent obtenir des améliorations concrètes de leurs conditions de vie."
+    },
+    {
+      "type": "qcm",
+      "question": "Que prévoient les accords de Matignon (7-8 juin 1936) ?",
+      "options": [
+        "La dissolution des ligues d'extrême droite",
+        "Des hausses de salaires, la liberté syndicale et des conventions collectives",
+        "La nationalisation de toutes les entreprises",
+        "L'interdiction du droit de grève"
+      ],
+      "reponse": 1,
+      "explication": "Les accords de Matignon, signés entre patronat et syndicats sous l'arbitrage du gouvernement Blum, prévoient une hausse des salaires de 12%, la liberté syndicale et la mise en place de conventions collectives."
+    },
+    {
+      "type": "qcm",
+      "question": "Quelles grandes lois sociales sont votées durant l'été 1936 ?",
+      "options": [
+        "Le droit de vote des femmes et le suffrage universel",
+        "Les congés payés (2 semaines) et la semaine de 40 heures",
+        "La Sécurité sociale et les allocations familiales",
+        "L'école gratuite et obligatoire"
+      ],
+      "reponse": 1,
+      "explication": "Le gouvernement Blum fait voter deux semaines de congés payés et la semaine de 40 heures (au lieu de 48). Pour la première fois, des familles ouvrières peuvent partir en vacances."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Le Front populaire a été créé pour défendre la République face à la menace des ligues d'extrême droite.",
+      "options": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "explication": "C'est vrai. L'émeute du 6 février 1934 provoque un électrochoc à gauche. Convaincus que la République est en danger, les partis de gauche (PCF, SFIO, Parti radical) décident de s'unir pour la défendre."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Les femmes obtiennent le droit de vote grâce au Front populaire en 1936.",
+      "options": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "explication": "C'est faux. Si trois femmes sont nommées au gouvernement Blum (une première), les femmes n'ont toujours pas le droit de vote en 1936. Elles ne l'obtiendront qu'en 1944."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Léon Blum a été la cible d'une violente campagne antisémite de la part de l'extrême droite.",
+      "options": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 0,
+      "explication": "C'est vrai. Léon Blum, qui est juif, subit une violente campagne antisémite. Il est même agressé physiquement en février 1936 par des militants d'extrême droite. Des slogans haineux comme « Plutôt Hitler que Blum » circulent."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Le Parti communiste français (PCF) participe directement au gouvernement de Léon Blum.",
+      "options": [
+        "Vrai",
+        "Faux"
+      ],
+      "reponse": 1,
+      "explication": "C'est faux. Le PCF soutient le Front populaire et vote pour ses lois, mais il ne participe pas directement au gouvernement. La propagande de droite prétendait pourtant que le gouvernement Blum était « aux ordres de Moscou »."
+    },
+    {
+      "type": "qcm",
+      "question": "Qui est Roger Salengro et quel est son destin tragique ?",
+      "options": [
+        "Un général qui organise un coup d'État en 1936",
+        "Un ministre du Front populaire qui se suicide après une campagne de calomnies",
+        "Un ouvrier tué lors des grèves de 1936",
+        "Un journaliste assassiné par les ligues"
+      ],
+      "reponse": 1,
+      "explication": "Roger Salengro est ministre de l'Intérieur du gouvernement Blum. Accusé faussement de désertion par la presse d'extrême droite, il se suicide le 17 novembre 1936, épuisé par cette campagne de calomnies."
+    },
+    {
+      "type": "qcm",
+      "question": "Pourquoi le Front populaire prend-il fin en 1938 ?",
+      "options": [
+        "Parce que Léon Blum est assassiné",
+        "Parce qu'un coup d'État militaire renverse le gouvernement",
+        "À cause des divisions internes, de l'opposition du patronat et du départ du Parti radical",
+        "Parce que la France entre en guerre contre l'Allemagne"
+      ],
+      "reponse": 2,
+      "explication": "Le Front populaire échoue pour plusieurs raisons : les difficultés économiques persistent, les capitaux fuient à l'étranger, le Sénat refuse les pleins pouvoirs à Blum et le Parti radical quitte l'alliance en avril 1938."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce que la politique de « non-intervention » adoptée par Léon Blum ?",
+      "options": [
+        "Le refus d'intervenir militairement dans la guerre civile espagnole",
+        "Le refus de participer à la Société des Nations",
+        "Le refus de signer un traité de paix avec l'Allemagne",
+        "Le refus d'envoyer des troupes dans les colonies"
+      ],
+      "reponse": 0,
+      "explication": "En 1936, une guerre civile éclate en Espagne. Blum refuse d'aider les républicains espagnols pour ne pas provoquer une guerre avec l'Allemagne et l'Italie. Cette décision lui vaut l'hostilité des communistes."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel héritage le Front populaire laisse-t-il à la France ?",
+      "options": [
+        "La création de la Ve République",
+        "Les congés payés, les droits syndicaux et l'idée de démocratie sociale",
+        "Le droit de vote des femmes",
+        "La création de l'Union européenne"
+      ],
+      "reponse": 1,
+      "explication": "Le Front populaire laisse un héritage social durable : congés payés, droits syndicaux, conventions collectives. Ses réformes inspireront le programme du Conseil National de la Résistance (CNR) après la Seconde Guerre mondiale."
+    },
+    {
+      "type": "reponse_courte",
+      "question": "En quelle année la crise économique mondiale commence-t-elle avec le krach de Wall Street ?",
+      "reponse": "1929",
+      "explication": "Le krach boursier de Wall Street survient en octobre 1929. Il marque le début d'une crise économique mondiale qui touche la France à partir de 1931."
+    },
+    {
+      "type": "reponse_courte",
+      "question": "Quel scandale politico-financier éclate en janvier 1934 et nourrit la colère de l'extrême droite ?",
+      "reponse": "L'affaire Stavisky",
+      "explication": "Alexandre Stavisky, un escroc protégé par des hommes politiques, est retrouvé mort dans des circonstances troubles. La presse d'extrême droite exploite ce scandale pour dénoncer la corruption des parlementaires."
+    }
+  ]
+}

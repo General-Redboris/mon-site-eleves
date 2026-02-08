@@ -1,0 +1,139 @@
+{
+  "titre": "Flashcards — Le monde habité",
+  "niveau": "6e",
+  "matiere": "geographie",
+  "cartes": [
+    {
+      "recto": "Densité de population",
+      "verso": "Nombre moyen d'habitants par km². Densité = Population ÷ Superficie. La densité moyenne mondiale est d'environ 60 hab/km².",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Foyer de peuplement",
+      "verso": "Vaste région du monde qui concentre une forte densité de population depuis très longtemps. Les trois principaux sont l'Asie de l'Est, l'Asie du Sud et l'Europe.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Désert humain",
+      "verso": "Espace très faiblement peuplé (moins de 5 hab/km²). Attention : un désert humain n'est pas forcément un désert de sable ! L'Amazonie et la Sibérie en sont aussi.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Contrainte naturelle",
+      "verso": "Élément du milieu naturel (climat, relief, végétation) qui rend difficile l'installation et la vie des êtres humains. Exemples : aridité, froid extrême, altitude, forêt dense.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Habiter (en géographie)",
+      "verso": "Pratiquer un espace au quotidien : se loger, se déplacer, travailler, étudier, consommer, avoir des loisirs. C'est l'ensemble des relations entre un individu et les lieux qu'il fréquente.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Urbanisation",
+      "verso": "Augmentation de la part de la population vivant en ville. En 1950 : 30 %. En 2007 : 50 %. En 2023 : plus de 56 %. Prévision 2050 : environ 68 %.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Littoralisation",
+      "verso": "Concentration croissante des populations et des activités économiques sur les littoraux (bords de mer). Environ 60 % de la population mondiale vit à moins de 100 km des côtes.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Croissance démographique",
+      "verso": "Augmentation de la population d'un territoire. L'Afrique subsaharienne et l'Asie du Sud connaissent une forte croissance démographique.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Exode rural",
+      "verso": "Départ massif des habitants des campagnes vers les villes, en espérant y trouver un emploi et de meilleures conditions de vie.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Bidonville",
+      "verso": "Quartier d'habitat précaire, sans eau courante ni électricité, construit avec des matériaux de récupération (bois, tôle).",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Combien d'habitants compte la Terre ?",
+      "verso": "Environ 8 milliards d'habitants (en 2023). La population a été multipliée par 4 depuis 1900.",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Cite les trois grands foyers de peuplement.",
+      "verso": "L'Asie de l'Est (1,6 milliard : Chine, Japon, Corée), l'Asie du Sud (2 milliards : Inde, Bangladesh, Pakistan) et l'Europe (750 millions).",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Cite les deux foyers de peuplement secondaires.",
+      "verso": "L'Asie du Sud-Est (Indonésie, Philippines, Vietnam) et le golfe de Guinée en Afrique (Nigeria, Ghana, Côte d'Ivoire).",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Cite quatre types de déserts humains.",
+      "verso": "Les déserts chauds (Sahara), les déserts froids (Sibérie, Arctique), les grandes forêts denses (Amazonie, Congo) et les hautes montagnes (Himalaya, Andes).",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Cite les quatre contraintes naturelles du chapitre.",
+      "verso": "L'aridité (sécheresse), le froid extrême, l'altitude élevée et la forêt dense.",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Quels facteurs expliquent la répartition de la population mondiale ?",
+      "verso": "Des facteurs naturels (climat, relief, eau), historiques (ancienneté du peuplement, agriculture) et économiques (industrialisation, littoralisation, commerce).",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Pourquoi l'Asie est-elle si peuplée ?",
+      "verso": "Grâce à l'ancienneté du peuplement (milliers d'années) et à la riziculture, une agriculture très productive qui peut nourrir une population nombreuse.",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Depuis quand plus de 50 % de la population mondiale vit-elle en ville ?",
+      "verso": "Depuis 2007. En 1950, seulement 30 % de la population était urbaine. En 2050, on prévoit environ 68 %.",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Cite deux différences entre habiter en ville et habiter à la campagne.",
+      "verso": "En ville : appartements, transports en commun, services nombreux. À la campagne : maisons, voiture indispensable, services parfois éloignés (« déserts médicaux »).",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Cite deux différences entre habiter dans un pays développé et dans un pays en développement.",
+      "verso": "Pays développé : logements confortables, bons réseaux de transport, accès aux soins. Pays en développement : logements parfois précaires (bidonvilles), transports insuffisants, accès aux soins difficile.",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Densité du Bangladesh",
+      "verso": "Environ 1 265 hab/km², l'une des plus fortes densités du monde. À titre de comparaison, la France compte environ 118 hab/km².",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "L'Égypte : pourquoi la densité moyenne est-elle trompeuse ?",
+      "verso": "L'Égypte a une densité moyenne de 100 hab/km², mais 95 % de la population vit le long du Nil et dans le Delta, sur seulement 5 % du territoire. Le reste est un désert vide.",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    }
+  ]
+}

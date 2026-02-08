@@ -1,0 +1,34 @@
+{
+  "chansons": [
+    {
+      "titre": "[EXEMPLE] Dans les tranchées",
+      "auteur": "Nicolas",
+      "theme": "Première Guerre mondiale",
+      "annee_scolaire": "2024-2025",
+      "description": "Une chanson qui raconte le quotidien des poilus dans les tranchées, entre peur, fraternité et espoir de paix.",
+      "plateforme": "youtube",
+      "embed_id": "dQw4w9WgXcQ",
+      "lien_externe": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "titre": "[EXEMPLE] Liberté, Égalité",
+      "auteur": "Élèves de 4eB",
+      "theme": "Révolution française",
+      "annee_scolaire": "2023-2024",
+      "description": "Chanson composée par les élèves de 4eB sur les idéaux de la Révolution française et la Déclaration des droits de l'homme.",
+      "plateforme": "soundcloud",
+      "embed_id": "https://soundcloud.com/exemple/liberte-egalite",
+      "lien_externe": "https://soundcloud.com/exemple/liberte-egalite"
+    },
+    {
+      "titre": "[EXEMPLE] La Terre nous parle",
+      "auteur": "Élèves de 5eA",
+      "theme": "Développement durable",
+      "annee_scolaire": "2024-2025",
+      "description": "Un rap engagé sur le changement climatique et la responsabilité de chacun, écrit et interprété par les élèves de 5eA.",
+      "plateforme": "soundcloud",
+      "embed_id": "https://soundcloud.com/exemple/la-terre-nous-parle",
+      "lien_externe": "https://soundcloud.com/exemple/la-terre-nous-parle"
+    }
+  ]
+}

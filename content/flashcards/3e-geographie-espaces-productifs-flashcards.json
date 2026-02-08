@@ -1,0 +1,175 @@
+{
+  "titre": "Les espaces productifs français et leurs évolutions",
+  "niveau": "3e",
+  "matiere": "geographie",
+  "cartes": [
+    {
+      "recto": "Espace productif",
+      "verso": "Lieu où s'exercent des activités économiques (industrielles, agricoles ou de services) qui produisent des richesses.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Quels sont les trois types d'espaces productifs ?",
+      "verso": "1. Espaces industriels (secteur secondaire) — 2. Espaces agricoles (secteur primaire) — 3. Espaces tertiaires (secteur des services)",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Airbus : quelques chiffres clés",
+      "verso": "Siège à Blagnac (Toulouse). Plus de 130 000 employés dans le monde. Site Aéroconstellation : 26 000 personnes, 700 hectares. Fabrique plus de la moitié des avions de ligne dans le monde.",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Le « Meccano européen » d'Airbus : qui fabrique quoi ?",
+      "verso": "France (Toulouse) : assemblage final, cockpit — Allemagne (Hambourg) : fuselage, cabine — Espagne (Getafe/Cadix) : empennage — Royaume-Uni (Broughton) : voilure (ailes)",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Comment les pièces d'Airbus arrivent-elles à Toulouse ?",
+      "verso": "3 moyens de transport exceptionnels : le Beluga (avion-cargo géant), des convois routiers de nuit sur 240 km, et le transport fluvial sur la Garonne depuis Bordeaux.",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Facteurs de localisation",
+      "verso": "Ensemble des éléments qui expliquent pourquoi une activité économique s'installe dans un lieu précis : main-d'oeuvre, transport, recherche, héritage historique…",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Quels sont les 3 facteurs de localisation d'Airbus à Toulouse ?",
+      "verso": "1. Héritage historique (Aéropostale, guerres mondiales, ville éloignée des frontières) — 2. Pôle de compétitivité Aerospace Valley (entreprises + recherche + formation) — 3. Infrastructures de transport (aéroport, autoroutes, itinéraire à grand gabarit)",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Pôle de compétitivité",
+      "verso": "Regroupement d'entreprises, de centres de recherche et d'organismes de formation autour d'un domaine précis sur un territoire. Exemple : Aerospace Valley à Toulouse.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Aerospace Valley : les 3 types d'acteurs",
+      "verso": "1. Entreprises : Airbus (donneur d'ordres) + sous-traitants (Latécoère, Safran, Thalès…) — 2. Centres de recherche : ONERA, CNES — 3. Etablissements de formation : ENAC, ISAE-SUPAERO, université Paul-Sabatier",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Donneur d'ordres",
+      "verso": "Grande entreprise qui confie la fabrication de certains composants ou services à d'autres entreprises (les sous-traitants). Exemple : Airbus.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Sous-traitant",
+      "verso": "Entreprise qui réalise une partie de la production pour le compte d'un donneur d'ordres. Exemples : Latécoère, Safran, Thalès pour Airbus.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Délocalisation",
+      "verso": "Transfert d'activités économiques d'un pays vers un autre, généralement pour réduire les coûts de production (main-d'oeuvre moins chère, avantages fiscaux…). Exemple : Latécoère (Toulouse → Mexique).",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Quels sont les 3 défis de l'espace productif toulousain ?",
+      "verso": "1. Concurrence internationale et risque de délocalisation — 2. Dépendance à un secteur unique (aéronautique) — 3. Transition écologique (réduction des émissions de CO₂, programme ZEROe)",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "L'exemple de Latécoère : pourquoi est-il révélateur ?",
+      "verso": "Sous-traitant historique d'Airbus, Latécoère a inauguré une usine ultramoderne près de Toulouse en 2018, puis a annoncé sa délocalisation vers le Mexique et la République tchèque en 2023. Même les espaces productifs les plus dynamiques sont soumis à la concurrence mondiale.",
+      "categorie": "reperes",
+      "niveau_difficulte": 3
+    },
+    {
+      "recto": "Tertiarisation",
+      "verso": "Processus par lequel le secteur des services devient dominant dans l'économie. En France, le tertiaire représente 78 % des emplois (contre 48 % en 1970).",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Evolution de l'emploi par secteur (1970 → 2024)",
+      "verso": "Primaire (agriculture) : 13 % → 2 % — Secondaire (industrie) : 39 % → 20 % — Tertiaire (services) : 48 % → 78 %",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Reconversion",
+      "verso": "Transformation d'un espace économique en crise par le développement de nouvelles activités en remplacement de celles qui ont disparu. Exemple : anciennes régions industrielles du Nord-Est.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Technopôle",
+      "verso": "Parc d'activités spécialisé dans les hautes technologies, souvent situé à proximité d'universités et de centres de recherche. Exemples : Sophia Antipolis (Nice), Grenoble.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Agriculture productiviste",
+      "verso": "Agriculture intensive cherchant à maximiser les rendements par l'utilisation massive de techniques modernes (mécanisation, engrais, irrigation). Exemple : grandes cultures céréalières du Bassin parisien.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Anciennes régions industrielles : où et pourquoi en crise ?",
+      "verso": "Nord-Pas-de-Calais, Lorraine. Développées au XIXe siècle autour du charbon, de l'acier et du textile. Déclin brutal à partir des années 1970 (fermeture des mines, des hauts fourneaux). En reconversion.",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Nouvelles régions industrielles : où et quels secteurs ?",
+      "verso": "Sud et Ouest de la France : Toulouse (aéronautique), Grenoble (électronique), Sophia Antipolis près de Nice (hautes technologies). Organisées en pôles de compétitivité et technopôles.",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "La Défense",
+      "verso": "Premier quartier d'affaires d'Europe, situé à l'ouest de Paris. Concentre sièges sociaux et services financiers. Exemple d'espace tertiaire majeur lié à la métropolisation.",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Quelles sont les 4 dynamiques des espaces productifs ?",
+      "verso": "1. Tertiarisation (78 % des emplois dans les services) — 2. Métropolisation (concentration dans les grandes villes) — 3. Mondialisation (intégration aux échanges internationaux) — 4. Reconversion (transformation des espaces en crise)",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Espaces dynamiques vs espaces en difficulté",
+      "verso": "Dynamiques : métropoles, façades maritimes, Sud et Ouest (héliotropisme), grandes régions agricoles — En difficulté : anciennes régions industrielles du Nord-Est, espaces ruraux isolés (diagonale du vide), espaces éloignés des métropoles",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Héliotropisme",
+      "verso": "Attractivité des régions du Sud et de l'Ouest de la France, liée à l'ensoleillement et à la qualité de vie. Profite à Toulouse, Bordeaux, Montpellier, Nantes depuis les années 1960.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Programme ZEROe d'Airbus",
+      "verso": "Projet d'avion commercial fonctionnant à l'hydrogène (« zéro émission »), prévu à l'horizon 2035. Illustre le défi de la transition écologique pour l'industrie aéronautique.",
+      "categorie": "reperes",
+      "niveau_difficulte": 3
+    },
+    {
+      "recto": "La France est-elle encore une puissance industrielle ?",
+      "verso": "Oui, 8e rang mondial. L'industrie s'est transformée : davantage tournée vers la haute technologie et l'innovation (aéronautique, pharmacie, luxe, agroalimentaire) que vers les productions de masse.",
+      "categorie": "reperes",
+      "niveau_difficulte": 3
+    },
+    {
+      "recto": "Rang de la France pour l'agriculture dans l'UE et le tourisme mondial",
+      "verso": "1re puissance agricole de l'Union européenne. 1re destination touristique mondiale.",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    }
+  ]
+}

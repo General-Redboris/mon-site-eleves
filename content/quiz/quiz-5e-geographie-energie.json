@@ -1,0 +1,127 @@
+{
+  "titre": "L'énergie : des ressources à ménager et à mieux utiliser",
+  "niveau": "5e",
+  "matiere": "geographie",
+  "chapitre": "energie-ressources-menager",
+  "questions": [
+    {
+      "type": "qcm",
+      "question": "Quelle part de l'énergie mondiale provient des énergies fossiles ?",
+      "options": ["Environ 50 %", "Environ 65 %", "Environ 80 %", "Environ 95 %"],
+      "reponse": 2,
+      "explication": "Les énergies fossiles (pétrole, gaz, charbon) représentent environ 80 % de l'énergie consommée dans le monde. C'est l'un des grands défis de la transition énergétique."
+    },
+    {
+      "type": "qcm",
+      "question": "Laquelle de ces énergies N'est PAS une énergie fossile ?",
+      "options": ["Le charbon", "Le gaz naturel", "La géothermie", "Le pétrole"],
+      "reponse": 2,
+      "explication": "La géothermie est une énergie renouvelable qui utilise la chaleur du sous-sol terrestre. Les trois énergies fossiles sont le pétrole, le gaz naturel et le charbon."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "L'énergie nucléaire est une énergie renouvelable.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 1,
+      "explication": "L'énergie nucléaire n'est ni fossile ni renouvelable. Elle fonctionne par fission d'atomes d'uranium, une ressource en quantité limitée."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel pays est le premier consommateur mondial d'énergie ?",
+      "options": ["Les États-Unis", "L'Inde", "La Chine", "La Russie"],
+      "reponse": 2,
+      "explication": "La Chine est le premier consommateur et producteur mondial d'énergie, en raison de sa croissance économique, de son urbanisation massive et de l'évolution des modes de vie."
+    },
+    {
+      "type": "qcm",
+      "question": "Quelle énergie fossile domine le mix énergétique chinois ?",
+      "options": ["Le pétrole", "Le gaz naturel", "Le charbon", "L'uranium"],
+      "reponse": 2,
+      "explication": "Le charbon représente environ 56 % de la consommation énergétique chinoise. C'est la principale cause de la forte pollution de l'air dans les grandes villes chinoises."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Un Américain consomme en moyenne 11 fois plus d'énergie qu'un habitant d'Afrique subsaharienne.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 0,
+      "explication": "Les États-Unis consomment 6,8 tep par habitant contre 0,6 tep en Afrique subsaharienne, soit un rapport de 11 environ. Cela illustre les inégalités mondiales de consommation."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce que la transition énergétique ?",
+      "options": [
+        "L'arrêt total de la production d'énergie",
+        "Le passage des énergies fossiles vers les énergies renouvelables",
+        "La construction de nouvelles centrales à charbon",
+        "L'augmentation de la consommation d'énergie"
+      ],
+      "reponse": 1,
+      "explication": "La transition énergétique désigne le passage progressif d'un système basé sur les fossiles vers un système utilisant davantage d'énergies renouvelables et plus économe en énergie."
+    },
+    {
+      "type": "qcm",
+      "question": "Quelle est la particularité du mix électrique français ?",
+      "options": [
+        "Il repose principalement sur le charbon",
+        "Il repose principalement sur l'énergie solaire",
+        "Il repose principalement sur le nucléaire",
+        "Il repose principalement sur le gaz naturel"
+      ],
+      "reponse": 2,
+      "explication": "La France produit environ 70 % de son électricité grâce au nucléaire, un choix qui remonte aux années 1970, après le choc pétrolier de 1973."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Le charbon émet deux fois plus de CO₂ que le gaz naturel.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 0,
+      "explication": "Le charbon est l'énergie fossile la plus polluante : sa combustion émet environ deux fois plus de CO₂ que celle du gaz naturel, pour une quantité d'énergie produite équivalente."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce que la dépendance énergétique ?",
+      "options": [
+        "Le fait de consommer trop d'énergie",
+        "Le fait de devoir importer une grande partie de son énergie",
+        "Le fait de ne produire que des énergies renouvelables",
+        "Le fait de posséder beaucoup de ressources fossiles"
+      ],
+      "reponse": 1,
+      "explication": "La dépendance énergétique désigne la situation d'un pays qui doit importer une grande partie de son énergie. Par exemple, le Japon importe 95 % de son énergie."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel accord international fixe l'objectif de limiter le réchauffement climatique à +1,5 °C ou +2 °C ?",
+      "options": ["Le protocole de Kyoto", "L'Accord de Paris (2015)", "Le Pacte vert européen", "Le traité de Maastricht"],
+      "reponse": 1,
+      "explication": "L'Accord de Paris, signé en 2015 lors de la COP21, engage les pays du monde à limiter le réchauffement climatique bien en dessous de +2 °C par rapport à l'ère préindustrielle."
+    },
+    {
+      "type": "qcm",
+      "question": "Quelle région du monde possède les plus grandes réserves de pétrole ?",
+      "options": ["L'Amérique du Nord", "L'Asie de l'Est", "Le Moyen-Orient", "L'Afrique centrale"],
+      "reponse": 2,
+      "explication": "Le Moyen-Orient (Arabie Saoudite, Irak, Émirats, Iran) détient les premières réserves mondiales de pétrole et de gaz, ce qui en fait une région stratégique majeure."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Les énergies renouvelables n'émettent aucun CO₂ lors de leur utilisation.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 0,
+      "explication": "Lors de leur utilisation (production d'électricité), les énergies renouvelables comme le solaire ou l'éolien n'émettent pas de CO₂, contrairement aux énergies fossiles."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel est le plus grand barrage hydroélectrique du monde ?",
+      "options": ["Le barrage d'Itaipu (Brésil)", "Le barrage des Trois-Gorges (Chine)", "Le barrage Hoover (États-Unis)", "Le barrage d'Assouan (Égypte)"],
+      "reponse": 1,
+      "explication": "Le barrage des Trois-Gorges, sur le fleuve Yangtsé en Chine, est le plus grand barrage hydroélectrique du monde. Il peut produire autant d'électricité que 15 centrales nucléaires."
+    },
+    {
+      "type": "reponse_courte",
+      "question": "Cite les trois piliers de la transition énergétique.",
+      "reponse": "Développer les énergies renouvelables, la sobriété énergétique (économiser) et l'efficacité énergétique.",
+      "explication": "La transition repose sur trois piliers complémentaires : développer les renouvelables, réduire la consommation (sobriété) et consommer mieux (efficacité)."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "photos": [
+    {
+      "fichier": "visite-struthof-2024.jpg",
+      "legende": "[EXEMPLE] Visite du camp de Natzweiler-Struthof, mars 2024",
+      "annee_scolaire": "2023-2024"
+    },
+    {
+      "fichier": "ceremonie-8-mai-2024.jpg",
+      "legende": "[EXEMPLE] Cérémonie du 8 mai au monument aux morts de Sancerre",
+      "annee_scolaire": "2023-2024"
+    },
+    {
+      "fichier": "lecture-archives-2024.jpg",
+      "legende": "[EXEMPLE] Séance de recherche aux archives départementales du Cher",
+      "annee_scolaire": "2023-2024"
+    }
+  ]
+}

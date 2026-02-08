@@ -1,0 +1,289 @@
+{
+  "titre": "La Seconde Guerre mondiale : une guerre d'anéantissement",
+  "niveau": "3e",
+  "matiere": "histoire",
+  "cartes": [
+    {
+      "recto": "1er septembre 1939",
+      "verso": "Invasion de la Pologne par l'Allemagne → début de la Seconde Guerre mondiale",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "8 mai 1945",
+      "verso": "Capitulation de l'Allemagne → fin de la guerre en Europe",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "2 septembre 1945",
+      "verso": "Capitulation du Japon → fin de la Seconde Guerre mondiale",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "6 juin 1944",
+      "verso": "Débarquement allié en Normandie (Jour J / D-Day)",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "6 et 9 août 1945",
+      "verso": "Bombes atomiques sur Hiroshima (6 août) et Nagasaki (9 août)",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "22 juin 1941",
+      "verso": "Invasion de l'URSS par l'Allemagne (opération Barbarossa) → début de la Shoah par balles",
+      "categorie": "dates",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "7 décembre 1941",
+      "verso": "Attaque japonaise sur Pearl Harbor → entrée en guerre des États-Unis",
+      "categorie": "dates",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "20 janvier 1942",
+      "verso": "Conférence de Wannsee → organisation de la « Solution finale » (extermination des Juifs d'Europe)",
+      "categorie": "dates",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Mars 1938",
+      "verso": "Anschluss : annexion de l'Autriche par l'Allemagne nazie",
+      "categorie": "dates",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Septembre 1938",
+      "verso": "Accords de Munich : les démocraties cèdent les Sudètes à Hitler (politique d'apaisement)",
+      "categorie": "dates",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "29-30 septembre 1941",
+      "verso": "Massacre de Babi Yar (près de Kiev) : 34 000 Juifs assassinés en 2 jours",
+      "categorie": "dates",
+      "niveau_difficulte": 3
+    },
+    {
+      "recto": "Avril-mai 1943",
+      "verso": "Insurrection du ghetto de Varsovie : les Juifs se soulèvent contre les nazis",
+      "categorie": "dates",
+      "niveau_difficulte": 3
+    },
+    {
+      "recto": "10 juin 1944",
+      "verso": "Massacre d'Oradour-sur-Glane par la SS Das Reich (643 morts)",
+      "categorie": "dates",
+      "niveau_difficulte": 3
+    },
+    {
+      "recto": "Novembre 1945 – octobre 1946",
+      "verso": "Procès de Nuremberg : les dirigeants nazis sont jugés pour crimes contre l'humanité",
+      "categorie": "dates",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Qu'est-ce qu'une guerre totale ?",
+      "verso": "Un conflit qui mobilise toutes les ressources d'un pays : humaines, économiques et scientifiques. La distinction entre le front et l'arrière disparaît.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Qu'est-ce qu'une guerre d'anéantissement ?",
+      "verso": "Une guerre dont l'objectif est la destruction totale de l'adversaire, y compris les populations civiles.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Qu'est-ce qu'un génocide ?",
+      "verso": "L'extermination volontaire, planifiée et systématique d'un groupe humain en raison de son origine ethnique, religieuse ou nationale.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Que signifie le mot « Shoah » ?",
+      "verso": "« Catastrophe » en hébreu. Désigne le génocide des Juifs d'Europe par les nazis (6 millions de victimes).",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Qu'est-ce que la « Solution finale » ?",
+      "verso": "Le nom donné par les nazis à leur projet d'extermination systématique de tous les Juifs d'Europe, organisé à partir de la conférence de Wannsee (janvier 1942).",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Qu'est-ce qu'un crime contre l'humanité ?",
+      "verso": "Crime visant à exterminer une population civile pour des raisons ethniques, religieuses ou politiques. Notion juridique créée lors du procès de Nuremberg.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Qu'est-ce qu'un ghetto ?",
+      "verso": "Un quartier fermé où les nazis enfermaient les Juifs dans des conditions inhumaines (surpopulation, famine, travail forcé, épidémies).",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Que sont les Einsatzgruppen ?",
+      "verso": "Des unités mobiles de tuerie qui suivent l'armée allemande en URSS et massacrent les Juifs par fusillade (Shoah par balles). Environ 1,5 million de victimes.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Qu'est-ce qu'un camp d'extermination ?",
+      "verso": "Un camp conçu pour assassiner les déportés dès leur arrivée (dans les chambres à gaz). Différent d'un camp de concentration (travail forcé). Les 6 camps sont en Pologne.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Qu'est-ce que le Zyklon B ?",
+      "verso": "Un insecticide à base de cyanure détourné par les nazis pour gazer les déportés dans les chambres à gaz des camps d'extermination.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Qu'est-ce que le Porajmos ?",
+      "verso": "Le génocide des Tziganes par les nazis : 250 000 à 500 000 victimes (25 à 50 % de la population tzigane d'Europe).",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Qu'est-ce que le Lebensraum ?",
+      "verso": "« Espace vital » : les territoires que les nazis veulent conquérir à l'Est (Pologne, URSS) pour y installer des colons allemands.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Qu'est-ce que le rationnement ?",
+      "verso": "La limitation des quantités de produits disponibles par personne, imposée par l'économie de guerre. En France, les civils reçoivent des cartes d'alimentation.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Qu'est-ce qu'un ersatz ?",
+      "verso": "Un produit de substitution remplaçant un produit devenu rare (ex : chicorée pour le café, saccharine pour le sucre, gazogène pour le pétrole).",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 3
+    },
+    {
+      "recto": "Qu'est-ce que le Lend-Lease (prêt-bail) ?",
+      "verso": "Le programme d'aide matérielle américaine aux Alliés : plus de 51 milliards de dollars de matériel militaire fourni au Royaume-Uni, à l'URSS et à la France Libre.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 3
+    },
+    {
+      "recto": "Qu'est-ce qu'un bombardement stratégique ?",
+      "verso": "Un bombardement massif des villes visant à détruire l'industrie ennemie et à démoraliser la population civile (ex : Dresde, Hambourg, Tokyo).",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 3
+    },
+    {
+      "recto": "Qu'est-ce que la « banalité du mal » ?",
+      "verso": "Concept de la philosophe Hannah Arendt : des hommes ordinaires peuvent commettre des crimes extraordinaires. Eichmann était un bureaucrate méticuleux, pas un monstre.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 3
+    },
+    {
+      "recto": "Quel est le bilan total de la Seconde Guerre mondiale ?",
+      "verso": "60 à 80 millions de morts, dont 40 à 50 millions de civils. C'est la guerre la plus meurtrière de l'histoire.",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Combien de Juifs ont été victimes de la Shoah ?",
+      "verso": "Environ 6 millions de Juifs assassinés (sur 9 millions en Europe), soit 67 % de la population juive européenne.",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Quel pays a subi le plus de pertes humaines ?",
+      "verso": "L'URSS : 25 à 27 millions de morts. Suivi de la Chine (15-20 millions), de l'Allemagne (7-9 millions) et de la Pologne (6 millions, soit 17 % de sa population).",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Quels sont les deux camps qui s'affrontent ?",
+      "verso": "L'Axe (Allemagne, Italie, Japon) contre les Alliés (Royaume-Uni, URSS à partir de 1941, États-Unis à partir de 1941, France Libre).",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Quels sont les 6 camps d'extermination ?",
+      "verso": "Auschwitz-Birkenau (1,1 M de victimes), Treblinka (800-900 000), Belzec (430-500 000), Sobibor (170-250 000), Chelmno (150-300 000), Majdanek (60-80 000). Tous en Pologne.",
+      "categorie": "reperes",
+      "niveau_difficulte": 3
+    },
+    {
+      "recto": "Quels sont les 3 chefs d'accusation au procès de Nuremberg ?",
+      "verso": "1. Crimes contre la Paix (guerre d'agression). 2. Crimes de guerre (massacres de civils, torture). 3. Crimes contre l'Humanité (extermination pour motifs raciaux, politiques ou religieux).",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Adolf Hitler",
+      "verso": "Führer de l'Allemagne nazie. Chef du parti nazi, chancelier en 1933. Responsable de la Seconde Guerre mondiale et de la Shoah. Suicide le 30 avril 1945.",
+      "categorie": "personnages",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Winston Churchill",
+      "verso": "Premier ministre britannique pendant la guerre. Il refuse de négocier avec Hitler et mène la résistance du Royaume-Uni, seul face à l'Allemagne en 1940-1941.",
+      "categorie": "personnages",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Franklin D. Roosevelt",
+      "verso": "Président des États-Unis. Il fait des États-Unis l'« arsenal des démocraties » (Lend-Lease) puis entre en guerre après Pearl Harbor (décembre 1941).",
+      "categorie": "personnages",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Joseph Staline",
+      "verso": "Dirigeant de l'URSS. Après le pacte germano-soviétique (1939), il rejoint les Alliés quand l'Allemagne envahit l'URSS (juin 1941). L'URSS subit les plus lourdes pertes.",
+      "categorie": "personnages",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Charles de Gaulle",
+      "verso": "Chef de la France Libre. Il lance l'appel du 18 juin 1940 depuis Londres et organise la résistance extérieure française.",
+      "categorie": "personnages",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Heinrich Himmler",
+      "verso": "Chef de la SS et de la police nazie. Principal organisateur de la Shoah : il supervise les Einsatzgruppen, les camps de concentration et d'extermination.",
+      "categorie": "personnages",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Reinhard Heydrich",
+      "verso": "Chef du RSHA, bras droit de Himmler. Il préside la conférence de Wannsee (janvier 1942) qui organise la « Solution finale ». Assassiné à Prague en juin 1942.",
+      "categorie": "personnages",
+      "niveau_difficulte": 3
+    },
+    {
+      "recto": "Adolf Eichmann",
+      "verso": "Responsable logistique de la déportation des Juifs vers les camps d'extermination. Jugé en Israël en 1961 (procès qui inspire le concept de « banalité du mal »).",
+      "categorie": "personnages",
+      "niveau_difficulte": 3
+    },
+    {
+      "recto": "Hannah Arendt",
+      "verso": "Philosophe qui a couvert le procès d'Eichmann (1961). Elle forge le concept de « banalité du mal » pour décrire comment des hommes ordinaires commettent des crimes monstrueux.",
+      "categorie": "personnages",
+      "niveau_difficulte": 3
+    },
+    {
+      "recto": "Qui sont les « Justes parmi les Nations » ?",
+      "verso": "Des non-Juifs qui ont risqué leur vie pour sauver des Juifs. Titre décerné par Yad Vashem (Israël). Plus de 28 000 personnes honorées, dont 4 200 Français (ex : Oskar Schindler, le village du Chambon-sur-Lignon).",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    }
+  ]
+}

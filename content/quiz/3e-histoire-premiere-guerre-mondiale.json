@@ -1,0 +1,73 @@
+{
+  "titre": "La Première Guerre mondiale",
+  "niveau": "3e",
+  "matiere": "histoire",
+  "questions": [
+    {
+      "type": "qcm",
+      "question": "Quand la Première Guerre mondiale a-t-elle commencé ?",
+      "options": ["1912", "1914", "1916", "1918"],
+      "reponse": 1,
+      "explication": "La Première Guerre mondiale débute en août 1914, après l'assassinat de l'archiduc François-Ferdinand à Sarajevo."
+    },
+    {
+      "type": "reponse_courte",
+      "question": "Quel événement du 28 juin 1914 a déclenché la guerre ?",
+      "reponses_acceptees": ["assassinat de françois-ferdinand", "attentat de sarajevo", "assassinat de l'archiduc", "l'assassinat de françois-ferdinand"],
+      "explication": "L'assassinat de l'archiduc François-Ferdinand d'Autriche à Sarajevo déclenche le jeu des alliances et mène à la guerre."
+    },
+    {
+      "type": "qcm",
+      "question": "Quels pays forment la Triple Entente ?",
+      "options": ["Allemagne, Autriche-Hongrie, Italie", "France, Royaume-Uni, Russie", "France, Allemagne, Russie", "Royaume-Uni, Italie, Russie"],
+      "reponse": 1,
+      "explication": "La Triple Entente regroupe la France, le Royaume-Uni et la Russie, face à la Triple Alliance (Allemagne, Autriche-Hongrie, Italie)."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Les soldats français de la Première Guerre mondiale étaient surnommés les « poilus ».",
+      "reponse": true,
+      "explication": "Les poilus est le surnom donné aux soldats français, en raison des conditions difficiles dans les tranchées qui ne leur permettaient pas de se raser."
+    },
+    {
+      "type": "qcm",
+      "question": "Quelle bataille de 1916 est devenue le symbole de la guerre de tranchées ?",
+      "options": ["La bataille de la Marne", "La bataille de Verdun", "La bataille de Normandie", "La bataille de Stalingrad"],
+      "reponse": 1,
+      "explication": "La bataille de Verdun (février-décembre 1916) est l'une des plus longues et des plus meurtrières de la guerre, avec environ 700 000 victimes."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Le génocide arménien a eu lieu pendant la Première Guerre mondiale.",
+      "reponse": true,
+      "explication": "En 1915-1916, l'Empire ottoman a organisé le massacre systématique de plus d'un million d'Arméniens."
+    },
+    {
+      "type": "qcm",
+      "question": "Quand l'armistice a-t-il été signé ?",
+      "options": ["11 novembre 1917", "11 novembre 1918", "28 juin 1919", "8 mai 1918"],
+      "reponse": 1,
+      "explication": "L'armistice est signé le 11 novembre 1918 à Rethondes, mettant fin aux combats."
+    },
+    {
+      "type": "reponse_courte",
+      "question": "Comment appelle-t-on le traité de paix signé avec l'Allemagne en 1919 ?",
+      "reponses_acceptees": ["traité de versailles", "versailles", "le traité de versailles"],
+      "explication": "Le traité de Versailles, signé le 28 juin 1919, impose des conditions très dures à l'Allemagne."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel pays entre en guerre aux côtés de l'Entente en 1917 ?",
+      "options": ["Le Japon", "L'Italie", "Les États-Unis", "La Turquie"],
+      "reponse": 2,
+      "explication": "Les États-Unis entrent en guerre en avril 1917, apportant des troupes fraîches et des ressources décisives pour la victoire finale."
+    },
+    {
+      "type": "qcm",
+      "question": "Environ combien de soldats sont morts pendant la Première Guerre mondiale ?",
+      "options": ["1 million", "5 millions", "10 millions", "20 millions"],
+      "reponse": 2,
+      "explication": "La Première Guerre mondiale a causé environ 10 millions de morts militaires, sans compter les millions de blessés et de civils victimes."
+    }
+  ]
+}

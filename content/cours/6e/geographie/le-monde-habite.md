@@ -1,0 +1,173 @@
+---
+titre: "Le monde habité"
+niveau: "6e"
+matiere: "geographie"
+chapitre: 2
+resume: "La Terre compte 8 milliards d'habitants répartis de manière très inégale. Trois grands foyers de peuplement (Asie de l'Est, Asie du Sud, Europe) concentrent plus de la moitié de l'humanité, tandis que de vastes espaces restent faiblement peuplés (déserts chauds et froids, forêts denses, hautes montagnes). Cette répartition s'explique par des facteurs naturels, historiques et économiques. La manière d'habiter varie selon le lieu de vie (ville ou campagne) et le niveau de développement du pays."
+vocabulaire:
+  - terme: "Densité de population"
+    definition: "Nombre moyen d'habitants par km². Densité = Population ÷ Superficie."
+  - terme: "Foyer de peuplement"
+    definition: "Vaste région du monde concentrant une forte population depuis longtemps."
+  - terme: "Désert humain"
+    definition: "Espace très faiblement peuplé (moins de 5 hab/km²), quelle que soit la raison."
+  - terme: "Contrainte naturelle"
+    definition: "Élément du milieu naturel rendant difficile l'installation humaine (climat, relief, végétation)."
+  - terme: "Habiter"
+    definition: "En géographie : pratiquer un espace au quotidien (se loger, se déplacer, travailler, etc.)."
+  - terme: "Urbanisation"
+    definition: "Augmentation de la part de la population vivant en ville."
+  - terme: "Littoralisation"
+    definition: "Concentration des populations et activités sur les bords de mer."
+  - terme: "Bidonville"
+    definition: "Quartier d'habitat précaire, sans eau courante ni électricité, construit avec des matériaux de récupération."
+  - terme: "Exode rural"
+    definition: "Départ massif des habitants des campagnes vers les villes."
+  - terme: "Croissance démographique"
+    definition: "Augmentation de la population d'un territoire."
+---
+
+# Le monde habité
+
+**Problématique : Comment les êtres humains sont-ils répartis sur la Terre et pourquoi ?**
+
+La Terre compte aujourd'hui environ **8 milliards d'habitants**. Mais cette population n'est pas répartie de manière uniforme sur la surface du globe : certaines régions du monde sont très peuplées, tandis que d'autres sont presque vides. Ce chapitre va nous permettre de comprendre **où vivent les êtres humains**, **pourquoi ils se concentrent dans certains endroits** et **comment ils habitent ces espaces de manières très différentes**.
+
+> **Le savais-tu ?** 8 milliards d'habitants en 2023 — La population mondiale a été multipliée par 4 depuis 1900.
+
+
+## I. Où sont les humains sur la Terre ?
+
+### A. Une répartition inégale de la population
+
+En observant un planisphère de la répartition de la population mondiale, on constate immédiatement que les êtres humains ne sont **pas répartis de façon égale** sur la surface de la Terre. De vastes régions sont très peuplées, alors que d'autres sont quasiment vides.
+
+La **densité de population** est le nombre moyen d'habitants par kilomètre carré (hab/km²). Elle se calcule en divisant la population totale d'un territoire par sa superficie. Par exemple, la France compte environ 118 hab/km², le Bangladesh environ 1 265 hab/km².
+
+La densité moyenne de la population mondiale est d'environ **60 hab/km²**. Mais ce chiffre cache d'énormes disparités : certaines régions dépassent les 1 000 hab/km² alors que d'autres en comptent moins de 1.
+
+> **Pour aller plus loin** — La densité est une moyenne qui peut être trompeuse. Par exemple, l'Égypte a une densité moyenne de 100 hab/km², mais en réalité, 95 % de la population vit le long du Nil et dans le Delta, sur seulement 5 % du territoire. Le reste du pays est un désert quasiment vide.
+
+### B. Les grands foyers de peuplement
+
+Un **foyer de peuplement** est une région du monde qui concentre une forte population sur une longue durée historique. On distingue trois grands foyers de peuplement dans le monde :
+
+**L'Asie de l'Est** (environ 1,6 milliard d'habitants) : Chine, Japon, Corée. Peuplement ancien lié à la riziculture. Grandes métropoles (Tokyo, Shanghai, Pékin).
+
+**L'Asie du Sud** (environ 2 milliards d'habitants) : Inde, Bangladesh, Pakistan. L'Inde est le pays le plus peuplé du monde (plus de 1,4 milliard). Forte croissance démographique.
+
+**L'Europe** (environ 750 millions d'habitants) : peuplement ancien favorisé par le climat tempéré et l'industrialisation. Population vieillissante. Grandes métropoles (Paris, Londres).
+
+On peut ajouter deux **foyers de peuplement secondaires** : l'**Asie du Sud-Est** (Indonésie, Philippines, Vietnam) et le **golfe de Guinée en Afrique** (Nigeria), un foyer en pleine croissance.
+
+> **Pour aller plus loin** — Le foyer de peuplement du golfe de Guinée (Nigeria, Ghana, Côte d'Ivoire) est en très forte croissance. Le Nigeria pourrait devenir le 3e pays le plus peuplé du monde d'ici 2050, avec plus de 400 millions d'habitants. Lagos, sa plus grande ville, pourrait devenir la plus grande métropole du monde.
+
+### C. Les espaces faiblement peuplés (les « déserts humains »)
+
+À l'inverse des foyers de peuplement, de vastes régions du monde sont très peu peuplées, avec des densités souvent inférieures à **5 hab/km²**. On les appelle parfois des « déserts humains » (même si ce ne sont pas forcément des déserts climatiques).
+
+Les principaux espaces faiblement peuplés sont :
+
+**Les déserts chauds** : Sahara, désert d'Arabie, désert australien (aridité extrême, manque d'eau).
+
+**Les déserts froids** : Arctique, Antarctique, Sibérie, Grand Nord canadien (froid extrême, sols gelés).
+
+**Les grandes forêts denses** : Amazonie, forêt du Congo (végétation très dense, climat chaud et humide, difficultés d'accès).
+
+**Les hautes montagnes** : Himalaya, Andes, Rocheuses (altitude, froid, pentes raides, isolement).
+
+> **Pour aller plus loin** — Les déserts humains ne sont pas totalement vides. Des peuples y vivent depuis des millénaires en s'adaptant aux conditions extrêmes : les Touaregs dans le Sahara, les Inuits dans l'Arctique, les peuples autochtones en Amazonie. Ces populations ont développé des modes de vie ingénieux pour survivre dans ces milieux hostiles.
+
+
+## II. Pourquoi cette répartition inégale ?
+
+### A. Le rôle des contraintes naturelles
+
+Le milieu naturel joue un rôle important dans la répartition de la population. Certaines conditions naturelles sont des **contraintes** qui rendent l'installation humaine difficile :
+
+**L'aridité (sécheresse)** : dans le Sahara, les déserts d'Arabie et d'Australie, il n'y a pas d'eau pour l'agriculture ni la vie quotidienne.
+
+**Le froid extrême** : en Sibérie, dans l'Arctique et en Antarctique, le sol est gelé (permafrost), l'agriculture est impossible et les conditions de vie sont très difficiles.
+
+**L'altitude élevée** : dans l'Himalaya, les Andes et les Alpes, le manque d'oxygène, les pentes raides, l'accès difficile et le froid freinent l'installation humaine.
+
+**La forêt dense** : en Amazonie, dans le bassin du Congo et à Bornéo, la végétation est impénétrable, la chaleur et l'humidité sont permanentes et les maladies tropicales sont fréquentes.
+
+Cependant, les contraintes naturelles n'expliquent pas tout. Les humains ont toujours su s'adapter et surmonter ces contraintes grâce à la **technique** : irrigation dans les déserts, chauffage dans les régions froides, tunnels et routes dans les montagnes.
+
+### B. Le rôle de l'histoire et de l'économie
+
+La répartition de la population s'explique aussi par des facteurs **historiques** et **économiques** :
+
+**L'ancienneté du peuplement** : les foyers de peuplement d'Asie et d'Europe se sont formés il y a des milliers d'années, avec les premières civilisations agricoles (riziculture en Asie, agriculture en Europe et au Moyen-Orient).
+
+**L'agriculture** : les régions où l'agriculture est possible et productive (plaines fertiles, présence d'eau) ont attiré les populations. La riziculture, très productive, explique la forte densité de l'Asie des moussons.
+
+**L'industrialisation** : à partir du XIXe siècle, les usines ont attiré les populations dans les villes d'Europe et d'Amérique du Nord, renforçant ces foyers de peuplement.
+
+**L'attractivité des littoraux** : les côtes concentrent aujourd'hui une part croissante de la population mondiale grâce au commerce maritime, au tourisme et aux ressources de la mer. On parle de **littoralisation**. Environ 60 % de la population mondiale vit à moins de 100 km des côtes.
+
+**La croissance démographique** : certaines régions connaissent une forte croissance de la population (Afrique subsaharienne, Asie du Sud), ce qui modifie la répartition mondiale.
+
+> **À retenir** — La répartition de la population mondiale s'explique par la combinaison de facteurs naturels (climat, relief, accès à l'eau), historiques (ancienneté de la civilisation, agriculture) et économiques (industrialisation, littoralisation, commerce).
+
+
+## III. Des manières d'habiter variées
+
+### A. Habiter, c'est quoi ?
+
+En géographie, le mot « habiter » ne signifie pas seulement « avoir un logement ». **Habiter un espace, c'est y vivre au quotidien** : s'y loger, mais aussi s'y déplacer, y travailler, y faire ses courses, y aller à l'école, y pratiquer des loisirs, y rencontrer d'autres personnes.
+
+La manière d'habiter varie selon de nombreux critères : le lieu de vie (ville ou campagne, pays riche ou pays pauvre, bord de mer ou montagne), la culture, le niveau de richesse, l'âge, etc.
+
+### B. Habiter en ville, habiter à la campagne
+
+Plus de la **moitié de la population mondiale vit en ville** depuis 2007. Ce phénomène s'appelle l'**urbanisation**. Mais les modes de vie en ville et à la campagne sont très différents.
+
+**Se loger** : en ville, on vit en appartements et immeubles, avec une forte densité ; à la campagne, on vit dans des maisons, des fermes, un habitat dispersé ou en village.
+
+**Se déplacer** : en ville, on utilise les transports en commun, la voiture ou le vélo, avec des embouteillages fréquents ; à la campagne, la voiture est indispensable, les distances sont plus longues.
+
+**Travailler** : en ville, on travaille dans des bureaux, des commerces, des services ou des usines ; à la campagne, on pratique l'agriculture, l'artisanat, et le télétravail se développe.
+
+**Les services** : en ville, les services sont nombreux et proches (écoles, hôpitaux, loisirs) ; à la campagne, ils sont moins nombreux et parfois éloignés (on parle de « déserts médicaux »).
+
+**L'environnement** : en ville, on rencontre le bruit, la pollution et peu d'espaces verts ; à la campagne, on profite du calme et de la nature, mais on peut souffrir d'isolement.
+
+> **Pour aller plus loin** — L'urbanisation n'avance pas au même rythme partout. En Europe et en Amérique du Nord, plus de 75 % de la population est déjà urbaine. En Afrique et en Asie, l'urbanisation est plus récente mais beaucoup plus rapide : des villes comme Lagos, Dacca ou Kinshasa grandissent à une vitesse spectaculaire.
+
+### C. Habiter dans un pays riche, habiter dans un pays pauvre
+
+La manière d'habiter dépend aussi du **niveau de développement** du pays. Les conditions de vie sont très différentes entre un pays développé et un pays en développement.
+
+**Le logement** : dans un pays développé, les logements sont confortables, avec eau courante et électricité ; dans un pays en développement, les logements sont parfois précaires (bidonvilles), avec un accès inégal à l'eau et à l'électricité.
+
+**Les transports** : dans un pays développé, les réseaux sont développés (métro, bus, routes) et la voiture est fréquente ; dans un pays en développement, les transports sont souvent insuffisants, avec des embouteillages et beaucoup de marche à pied.
+
+**La santé** : dans un pays développé, les hôpitaux sont nombreux et l'accès aux soins est assuré ; dans un pays en développement, l'accès aux soins est difficile, surtout en zone rurale.
+
+**L'éducation** : dans un pays développé, la scolarisation est assurée pour tous, avec des études longues ; dans un pays en développement, la scolarisation est parfois incomplète et le travail des enfants existe encore.
+
+**Les inégalités** : dans un pays développé, elles sont présentes mais limitées par les aides sociales ; dans un pays en développement, elles sont très fortes (quartiers riches à côté de bidonvilles).
+
+> **À retenir** — La manière d'habiter la Terre varie selon le lieu (ville ou campagne, littoral ou intérieur des terres) et selon le niveau de développement du pays. L'urbanisation transforme profondément les modes de vie partout dans le monde.
+
+
+## Conclusion
+
+La population mondiale est répartie de manière très inégale sur la Terre. Trois grands foyers de peuplement (Asie de l'Est, Asie du Sud, Europe) concentrent plus de la moitié de l'humanité, tandis que de vastes espaces restent faiblement peuplés en raison de contraintes naturelles (froid, sécheresse, altitude, forêt dense).
+
+Cette répartition s'explique par des facteurs naturels, mais aussi historiques et économiques. L'humanité est de plus en plus urbaine et de plus en plus concentrée sur les littoraux. Enfin, la manière d'habiter un espace varie considérablement selon que l'on vit en ville ou à la campagne, dans un pays riche ou dans un pays pauvre.
+
+
+## Repères géographiques à connaître
+
+Sur un planisphère, il faut être capable de localiser :
+
+**Les trois grands foyers de peuplement** : Asie de l'Est, Asie du Sud, Europe.
+
+**Les foyers secondaires** : Asie du Sud-Est, golfe de Guinée.
+
+**Les grands déserts humains** : Sahara, Amazonie, Sibérie, Arctique/Antarctique, Himalaya, désert australien.
+
+**Les continents et les océans.**

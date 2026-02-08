@@ -1,0 +1,245 @@
+---
+titre: "Le monde des cités grecques"
+niveau: "6e"
+matiere: "histoire"
+chapitre: 1
+resume: "Entre le VIIIe et le Ve siècle av. J.-C., les Grecs vivent dans des centaines de cités indépendantes et rivales, mais forment une civilisation unie grâce à une langue, une religion, des mythes et des sanctuaires communs. Ils colonisent les côtes de la Méditerranée et de la mer Noire. Athènes invente la démocratie au Ve siècle, mais celle-ci reste réservée à une minorité de la population."
+vocabulaire:
+  - terme: "Cité (polis)"
+    definition: "Petit État grec indépendant composé d'une ville et de sa campagne environnante, avec son gouvernement, ses lois et sa monnaie."
+  - terme: "Acropole"
+    definition: "« Ville haute » en grec. Colline fortifiée où se trouvent les temples des dieux protecteurs."
+  - terme: "Agora"
+    definition: "Place publique au centre de la ville, lieu de réunion, de commerce et de débat politique."
+  - terme: "Polythéisme"
+    definition: "Croyance en plusieurs dieux (poly = plusieurs, theos = dieu)."
+  - terme: "Mythe"
+    definition: "Récit légendaire mettant en scène des dieux et des héros."
+  - terme: "Héros"
+    definition: "Demi-dieu (un parent divin, un parent humain). Être mortel mais exceptionnel."
+  - terme: "Aède"
+    definition: "Poète-chanteur qui récite les mythes en s'accompagnant d'une lyre."
+  - terme: "Sanctuaire panhellénique"
+    definition: "Lieu sacré commun à tous les Grecs (pan = tous, hellène = grec)."
+  - terme: "Trêve sacrée"
+    definition: "Arrêt des guerres pendant les Jeux Olympiques pour permettre aux athlètes de voyager en sécurité."
+  - terme: "Oracle"
+    definition: "Réponse d'un dieu à une question posée par les hommes. À Delphes, la Pythie transmet les réponses d'Apollon."
+  - terme: "Colonie"
+    definition: "Nouvelle cité fondée par des Grecs en dehors de la Grèce."
+  - terme: "Métropole"
+    definition: "Cité d'origine des colons (« cité-mère »)."
+  - terme: "Barbare"
+    definition: "Pour un Grec, quelqu'un qui ne parle pas grec (= étranger). Pas péjoratif à l'origine."
+  - terme: "Démocratie"
+    definition: "Régime politique où le pouvoir appartient au peuple (demos = peuple, kratos = pouvoir)."
+  - terme: "Citoyen"
+    definition: "À Athènes : homme adulte né de père et de mère athéniens, qui peut voter et participer à la vie politique."
+  - terme: "Ecclesia"
+    definition: "Assemblée des citoyens qui vote les lois à Athènes."
+  - terme: "Boulè"
+    definition: "Conseil de 500 citoyens tirés au sort qui prépare les lois."
+  - terme: "Stratège"
+    definition: "Général qui commande l'armée. Les 10 stratèges sont élus (seule magistrature élue)."
+  - terme: "Ostracisme"
+    definition: "Vote pour bannir un citoyen trop puissant pendant 10 ans."
+  - terme: "Métèque"
+    definition: "Étranger résidant à Athènes, sans droits politiques mais libre de commercer."
+  - terme: "Esclave"
+    definition: "Personne privée de liberté, propriété de son maître, considérée comme un « outil vivant »."
+---
+
+# Le monde des cités grecques (VIIIe - Ve siècle av. J.-C.)
+
+**Problématique : Comment les Grecs, divisés en centaines de cités indépendantes et rivales, ont-ils formé une civilisation unie ?**
+
+Il y a environ 2 700 ans, sur les rivages de la mer Méditerranée, naissait une civilisation qui allait transformer le monde : la civilisation grecque. Les Grecs nous ont légué la philosophie, la démocratie, les Jeux Olympiques, le théâtre, et une façon de penser le monde qui influence encore notre quotidien.
+
+Pourtant, la Grèce antique n'était pas un pays unifié comme la France d'aujourd'hui. Elle était divisée en centaines de petits États indépendants appelés « cités » (*polis* en grec). Ces cités se faisaient souvent la guerre entre elles ! Alors, comment expliquer que tous ces Grecs, d'Athènes à Sparte, de Massalia (Marseille) aux rivages de la mer Noire, se sentaient appartenir au même peuple ?
+
+> **Le savais-tu ?** Les mots « démocratie », « politique », « économie », « philosophie », « histoire », « géographie », « mathématiques », « physique », « musique », « poésie », « tragédie », « comédie »... sont tous d'origine grecque ! Le marathon (42,195 km) tire son nom d'une bataille grecque. Et quand tu regardes les Jeux Olympiques à la télévision, tu assistes à une tradition vieille de 2 800 ans !
+
+
+## I. Le monde des cités grecques
+
+### A. Qu'est-ce qu'une cité grecque ?
+
+Au VIIIe siècle avant J.-C., les Grecs vivent dans des cités indépendantes autour de la mer Égée. Une **cité** (*polis* en grec) est un petit État composé d'une ville et de sa campagne environnante. Attention : une cité n'est pas simplement une ville ! C'est un État complet, avec son gouvernement, ses lois, sa monnaie et son armée.
+
+### Les éléments d'une cité grecque
+
+Chaque cité possède les mêmes éléments caractéristiques :
+
+**L'Acropole** : « ville haute » en grec. C'est une colline fortifiée où se trouvent les temples des dieux protecteurs de la cité. C'est le lieu le plus sacré.
+
+**L'Agora** : la place publique au centre de la ville, où les citoyens se réunissent pour discuter, commercer et participer à la vie politique. Le mot vient du grec « se rassembler ».
+
+**Les remparts** : les murailles qui protègent la ville des attaques ennemies.
+
+**La campagne** : le territoire agricole autour de la ville, avec des villages et des champs cultivés (blé, vigne, olivier).
+
+**Le port** : pour les cités côtières, indispensable au commerce maritime.
+
+> **Le savais-tu ?** L'Acropole d'Athènes, avec son célèbre Parthénon (temple dédié à la déesse Athéna), est aujourd'hui l'un des sites archéologiques les plus visités au monde. Au Ve siècle av. J.-C., le Parthénon abritait une statue d'Athéna de 12 mètres de haut, recouverte d'or et d'ivoire !
+
+### L'indépendance des cités
+
+Les cités grecques sont indépendantes et souvent rivales. Chacune possède son propre gouvernement, ses propres lois, sa propre monnaie et son propre territoire. Elles ont souvent des conflits entre elles, mais tous leurs habitants parlent la même langue et honorent les mêmes dieux.
+
+> **Pour aller plus loin** — Toutes les cités n'avaient pas le même système politique ! Certaines étaient des monarchies (gouvernées par un roi), d'autres des oligarchies (gouvernées par quelques familles riches), d'autres encore des tyrannies (gouvernées par un homme qui a pris le pouvoir par la force). Athènes a inventé la démocratie, mais Sparte avait un système unique avec deux rois et un conseil d'anciens !
+
+
+## II. L'unité culturelle des Grecs
+
+Malgré leurs divisions politiques, les Grecs formaient une civilisation unie. Plusieurs éléments les rassemblaient : la langue, la religion, les mythes et les sanctuaires communs.
+
+### A. Les mythes, les dieux et les héros
+
+#### Le polythéisme grec
+
+Les Grecs sont **polythéistes** : ils croient en plusieurs dieux qui vivent sur le mont **Olympe**, la plus haute montagne de Grèce. Ces dieux ont des pouvoirs extraordinaires, mais aussi des défauts très humains : ils sont jaloux, amoureux, colériques, rancuniers...
+
+#### Les principaux dieux de l'Olympe
+
+- **Zeus** : roi des dieux, dieu du ciel. Attributs : la foudre, l'aigle, le sceptre.
+- **Héra** : reine des dieux, déesse du mariage. Attributs : la couronne, le paon.
+- **Poséidon** : dieu de la mer et des séismes. Attributs : le trident, le cheval.
+- **Athéna** : déesse de la sagesse et de la guerre. Attributs : la chouette, le casque, l'égide.
+- **Apollon** : dieu du soleil, de la musique. Attributs : la lyre, l'arc, le laurier.
+- **Aphrodite** : déesse de l'amour et de la beauté. Attributs : la colombe, la rose, le miroir.
+- **Hermès** : messager des dieux, dieu du commerce. Attributs : sandales ailées, caducée.
+
+> **Le savais-tu ?** Les Romains ont adopté les dieux grecs en leur donnant des noms latins ! Zeus est devenu Jupiter, Héra est devenue Junon, Poséidon est devenu Neptune, Athéna est devenue Minerve, Aphrodite est devenue Vénus, Arès est devenu Mars... C'est pourquoi les planètes de notre système solaire portent des noms de dieux romains !
+
+#### Les héros : entre dieux et humains
+
+Les **héros** grecs ne sont pas de simples humains courageux. Ce sont des **demi-dieux** : ils ont un parent divin et un parent humain. Ils sont mortels, mais accomplissent des exploits extraordinaires.
+
+L'exemple le plus célèbre est **Achille** : sa mère est Thétis (déesse de la mer), son père est Pélée (roi humain). C'est pourquoi il est quasi-invincible... sauf au talon, le seul endroit non trempé dans le fleuve Styx quand sa mère l'a plongé pour le rendre immortel ! D'où l'expression « talon d'Achille » pour désigner un point faible.
+
+#### Les mythes et Homère
+
+Les Grecs partagent les mêmes **mythes**, des récits légendaires qui racontent les exploits des dieux et des héros. Le poète **Homère** (VIIIe siècle av. J.-C.) a transmis ces histoires à tous les Grecs à travers deux grandes épopées :
+
+- **L'Iliade** : récit de la guerre de Troie et de la colère d'Achille.
+- **L'Odyssée** : le long voyage de retour d'Ulysse vers son île d'Ithaque.
+
+Ces récits étaient appris par cœur et récités dans toute la Grèce par des poètes-chanteurs appelés **aèdes**. Homère est surnommé « l'éducateur de la Grèce » car ses poèmes enseignaient aux Grecs les valeurs de courage, d'honneur et de ruse.
+
+> **Pour aller plus loin** — Notre langue est riche d'expressions issues des mythes grecs ! « Le fil d'Ariane » (un guide dans une situation compliquée), « se brûler les ailes » (échouer par excès d'ambition, comme Icare), « un travail herculéen » (un travail très difficile), « ouvrir la boîte de Pandore » (déclencher une catastrophe), « être médusé » (être pétrifié de stupeur)...
+
+### B. Les sanctuaires panhelléniques
+
+Les Grecs se rassemblent dans des sanctuaires communs appelés **sanctuaires panhelléniques** (« pan » = tous, « hellène » = grec). Ces lieux sacrés accueillent des Grecs de toutes les cités, qui mettent de côté leurs rivalités pour honorer les mêmes dieux.
+
+#### Olympie et les Jeux Olympiques
+
+Le sanctuaire d'**Olympie** est dédié à Zeus, roi des dieux. C'est là que, tous les quatre ans depuis 776 av. J.-C., les Grecs célèbrent les **Jeux Olympiques**. Ce ne sont pas de simples compétitions sportives : c'est d'abord une fête **religieuse** en l'honneur de Zeus.
+
+Pendant les Jeux, une **trêve sacrée** suspend toutes les guerres entre cités. Des hérauts parcourent la Grèce pour l'annoncer, et les athlètes peuvent voyager en sécurité, même à travers les territoires ennemis.
+
+**Les épreuves olympiques** : la course (*stadion*, 192 m, la plus ancienne épreuve depuis 776 av. J.-C.), le pentathlon (5 épreuves : course, saut, disque, javelot, lutte), la lutte et le pugilat (le pancrace mélange lutte et boxe, presque tout est permis !), et la course de chars (très dangereuse, dans l'hippodrome).
+
+Seuls les **hommes grecs libres** peuvent participer aux Jeux. Les athlètes concourent nus et huilés (le mot « gymnase » vient du grec *gymnos* = nu). Les femmes mariées n'ont même pas le droit d'y assister ! Le vainqueur reçoit une simple couronne d'olivier sauvage, mais il devient un héros dans sa cité.
+
+> **Le savais-tu ?** Les Jeux Olympiques antiques ont été célébrés pendant plus de 1 000 ans, de 776 av. J.-C. à 393 ap. J.-C. ! Ils ont été relancés en 1896 à Athènes par le Français Pierre de Coubertin. Aujourd'hui encore, la flamme olympique est allumée à Olympie, en Grèce, avant chaque édition des Jeux.
+
+#### Delphes et l'oracle d'Apollon
+
+Le sanctuaire de **Delphes** est dédié au dieu Apollon. Les Grecs viennent de toutes les cités pour consulter l'**oracle** : la Pythie, une prêtresse, transmet les réponses du dieu aux questions des hommes. Avant de fonder une colonie, de partir en guerre ou de prendre une décision importante, on vient demander conseil à Apollon.
+
+À l'entrée du temple était gravée la célèbre maxime : « Connais-toi toi-même ». À Delphes aussi, il y avait des jeux sportifs : les Jeux Pythiques, tous les 4 ans, en l'honneur d'Apollon.
+
+> **Pour aller plus loin** — Olympie et Delphes étaient les plus célèbres, mais il existait deux autres grands sanctuaires panhelléniques : Némée (jeux en l'honneur de Zeus) et l'Isthme de Corinthe (jeux en l'honneur de Poséidon). Un athlète qui remportait les quatre compétitions était appelé « periodonikes » (vainqueur du circuit) et jouissait d'un prestige immense !
+
+
+## III. L'expansion du monde grec : la colonisation
+
+À partir du VIIIe siècle av. J.-C., des Grecs quittent leur cité d'origine pour fonder de nouvelles cités sur les côtes de la Méditerranée et de la mer Noire. Ce mouvement s'appelle la **colonisation grecque**.
+
+### A. Les causes de la colonisation
+
+Plusieurs raisons poussent les Grecs à partir : le **manque de terres agricoles** (la Grèce est montagneuse, les plaines fertiles sont rares et la population augmente), la **recherche de ressources** (métaux, blé), le **développement du commerce** (les colonies servent de comptoirs commerciaux) et les **conflits politiques** (les perdants d'une guerre civile partent parfois fonder une nouvelle cité).
+
+### B. L'exemple de Massalia (Marseille)
+
+Vers 600 av. J.-C., des Grecs de **Phocée** (en Asie Mineure, l'actuelle Turquie) fondent **Massalia**, l'actuelle Marseille. C'est l'une des plus anciennes villes de France !
+
+La légende raconte que le chef grec Protis arriva lors d'un banquet organisé par le roi local, Nannos, pour marier sa fille Gyptis. Selon la coutume gauloise, la princesse devait offrir de l'eau à celui qu'elle choisirait comme époux. Elle tendit la coupe à Protis ! Devenu gendre du roi, Protis reçut la terre où il fonda Massalia.
+
+> **Le savais-tu ?** Gyptis, la princesse gauloise, était ce que les Grecs appelaient une « Barbare ». Mais ce mot n'était pas insultant à l'origine ! Pour un Grec, un « Barbare » est simplement quelqu'un qui ne parle pas grec. Quand les Grecs entendaient parler une autre langue, ça faisait « bar-bar-bar » à leurs oreilles.
+
+### C. Le lien sacré entre métropole et colonie
+
+La cité d'origine des colons s'appelle la **métropole** (« cité-mère »). Avant de partir, les colons accomplissent plusieurs rites sacrés : ils consultent l'oracle de Delphes pour savoir où s'installer, ils emportent le feu sacré pris sur l'autel de leur cité d'origine, et ils transportent les statues des dieux protecteurs de leur métropole.
+
+Dans la nouvelle colonie, ils allument un nouveau foyer avec ce feu sacré et bâtissent des temples identiques à ceux de la métropole. Ainsi, la colonie garde les mêmes cultes, la même langue et les mêmes traditions. C'est pourquoi, malgré leur dispersion sur des milliers de kilomètres, tous les Grecs forment une même civilisation.
+
+Attention : les colonies sont **politiquement indépendantes** de leur métropole. Elles ont leur propre gouvernement. Mais elles restent liées par ces liens religieux et culturels.
+
+> **Pour aller plus loin** — Le philosophe Platon écrivait : « Nous autres Grecs, nous sommes installés autour de la Méditerranée comme des grenouilles autour d'une mare. » Les colonies grecques s'étendaient de l'Espagne à la mer Noire, en passant par le sud de la France (Massalia, Nice, Antibes), l'Italie du Sud (Syracuse, Naples), la Libye (Cyrène)...
+
+> **Le savais-tu ?** Plusieurs villes du sud de la France ont des noms d'origine grecque. Massalia est devenue Marseille, Nikaia (« la victorieuse ») est devenue Nice, Antipolis (« la ville d'en face ») est devenue Antibes, Agathè Tychè (« la bonne fortune ») est devenue Agde...
+
+
+## IV. Athènes au Ve siècle : naissance de la démocratie
+
+### A. Le fonctionnement de la démocratie athénienne
+
+Au Ve siècle av. J.-C., Athènes invente un nouveau système politique : la **démocratie**. Ce mot vient du grec *demos* (le peuple) et *kratos* (le pouvoir). C'est donc le « pouvoir du peuple ».
+
+C'est une **démocratie directe** : les citoyens votent eux-mêmes les lois, sans passer par des représentants élus (contrairement à notre démocratie actuelle, qui est « représentative »).
+
+#### L'Ecclesia
+
+L'**Ecclesia** est l'assemblée des citoyens. Elle se réunit environ 40 fois par an sur la colline de la Pnyx, face à l'Acropole. Jusqu'à 6 000 citoyens peuvent s'y rassembler ! Tous les citoyens peuvent y prendre la parole et voter à main levée. L'Ecclesia vote les lois, décide de la guerre et de la paix, et contrôle les magistrats.
+
+#### La Boulè et le tirage au sort
+
+La **Boulè** est un conseil de 500 citoyens qui prépare les lois avant de les soumettre à l'Ecclesia. Ses membres sont désignés par **tirage au sort**, pas par élection !
+
+Pourquoi le tirage au sort ? Pour les Grecs, l'élection favorise les riches et les beaux parleurs. Le tirage au sort garantit l'**égalité** : même un paysan pauvre peut être choisi ! Les Grecs pensaient aussi que les dieux guidaient le hasard.
+
+Seuls les **stratèges** (les 10 généraux qui commandent l'armée) sont élus, car cette fonction nécessite des compétences militaires particulières.
+
+#### Les institutions athéniennes
+
+- **Ecclesia** : vote les lois, décide de la guerre et de la paix. Composée de tous les citoyens.
+- **Boulè** : prépare les lois (500 membres). Désignée par tirage au sort.
+- **Héliée** : tribunal (6 000 juges). Désignée par tirage au sort.
+- **Stratèges** : commandent l'armée (10). Désignés par élection.
+
+### B. Périclès, le « premier citoyen »
+
+**Périclès** (vers 495-429 av. J.-C.) est le plus célèbre homme politique athénien. Il fut élu stratège pendant 15 années consécutives, ce qui montre la confiance que les citoyens lui accordaient. Sous sa direction, Athènes connut son « âge d'or » : construction du Parthénon et embellissement de l'Acropole, renforcement de la démocratie (indemnités pour les citoyens pauvres qui participent aux assemblées), domination d'Athènes sur la Ligue de Délos (alliance de cités grecques).
+
+Périclès mourut de la peste en 429 av. J.-C., pendant la terrible guerre du Péloponnèse contre Sparte.
+
+### C. L'ostracisme : la démocratie se protège
+
+Chaque année, les citoyens pouvaient voter pour bannir un homme politique qu'ils jugeaient trop puissant ou dangereux pour la démocratie. Ils écrivaient son nom sur un tesson de poterie appelé **ostrakon**. Si plus de 6 000 citoyens votaient, celui qui avait le plus de tessons à son nom était banni d'Athènes pendant 10 ans (sans perdre ses biens). C'est l'origine du mot « **ostracisme** ».
+
+> **Le savais-tu ?** « Politique » vient de *polis* (la cité). « Démagogie » vient de *demos* (le peuple) et *agein* (conduire) : c'est l'art de manipuler le peuple par de beaux discours. « Tyran » désignait à l'origine un chef qui avait pris le pouvoir par la force, même s'il gouvernait bien. « Aristocratie » vient de *aristos* (le meilleur) et *kratos* (le pouvoir). « Oligarchie » vient de *oligos* (peu nombreux).
+
+### D. Les limites de la démocratie athénienne
+
+La démocratie athénienne ne concerne qu'une **minorité de la population**. Seuls les **citoyens** (hommes adultes, nés de père et de mère athéniens) ont le droit de voter et de participer à la vie politique. Ils représentent environ **10 % de la population** seulement !
+
+#### Les exclus de la démocratie
+
+**Les femmes** : cantonnées au foyer (*oikos*), elles n'ont aucun droit politique. Elles ne peuvent ni voter, ni acheter, ni vendre, ni témoigner en justice. Elles passent leur vie dans le gynécée (appartement des femmes).
+
+**Les métèques** : étrangers résidant à Athènes, souvent commerçants ou artisans. Ils peuvent travailler et s'enrichir, mais n'ont pas le droit de voter ni de posséder une terre. Ils ont choisi de venir pour le commerce.
+
+**Les esclaves** : environ 100 000 personnes, sans aucun droit, considérées comme des « outils vivants ». Ils n'ont pas choisi leur condition : prisonniers de guerre, achetés, ou nés esclaves.
+
+La démocratie athénienne est donc une démocratie très **inégalitaire**, très différente de nos démocraties modernes où tous les adultes peuvent voter, quel que soit leur sexe ou leur origine.
+
+> **Pour aller plus loin** — En France, le suffrage universel masculin (vote de tous les hommes adultes) date de 1848. Les femmes n'ont obtenu le droit de vote qu'en 1944, il y a moins de 80 ans ! Il a donc fallu plus de 2 000 ans après Athènes pour que la démocratie s'étende vraiment à toute la population adulte.
+
+
+## Conclusion
+
+Le monde grec nous offre un paradoxe fascinant : des centaines de cités indépendantes et souvent rivales, mais une civilisation profondément unie. Cette unité repose sur des piliers culturels et religieux communs : une même langue (le grec, qui distingue les Hellènes des « Barbares »), une même religion (le polythéisme, avec les dieux de l'Olympe), des mythes communs (transmis par Homère et les aèdes), des sanctuaires panhelléniques (Olympie, Delphes, où tous les Grecs se retrouvent) et le lien sacré métropole-colonie (qui maintient l'unité malgré la dispersion géographique).
+
+Les Grecs nous ont aussi légué l'invention de la démocratie. Même si la démocratie athénienne était imparfaite (femmes, métèques et esclaves exclus), elle a posé les bases d'une idée révolutionnaire : le pouvoir peut appartenir au peuple, et non à un roi ou à quelques nobles.

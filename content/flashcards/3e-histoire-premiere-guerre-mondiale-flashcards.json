@@ -1,0 +1,253 @@
+{
+  "titre": "La Première Guerre mondiale : une guerre totale (1914-1918)",
+  "niveau": "3e",
+  "matiere": "histoire",
+  "cartes": [
+    {
+      "recto": "28 juin 1914",
+      "verso": "Assassinat de l'archiduc François-Ferdinand à Sarajevo, événement déclencheur de la Première Guerre mondiale.",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Août 1914",
+      "verso": "Début de la Première Guerre mondiale et mobilisation générale en France (1er août).",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Septembre 1914",
+      "verso": "Bataille de la Marne : l'offensive allemande est stoppée, c'est la fin de la guerre de mouvement.",
+      "categorie": "dates",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "1915-1916",
+      "verso": "Génocide des Arméniens perpétré par le gouvernement des Jeunes-Turcs de l'Empire ottoman (entre 1,2 et 1,5 million de morts).",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Février-décembre 1916",
+      "verso": "Bataille de Verdun : environ 700 000 victimes dans les deux camps. Symbole de la résistance française.",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Avril 1917",
+      "verso": "Entrée en guerre des États-Unis aux côtés des Alliés, provoquée notamment par la guerre sous-marine allemande.",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "1917",
+      "verso": "Année charnière : mutineries en France, révolutions russes (février et octobre), entrée en guerre des États-Unis.",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "11 novembre 1918",
+      "verso": "Signature de l'armistice à Rethondes. Les combats de la Première Guerre mondiale cessent à 11 heures.",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "28 juin 1919",
+      "verso": "Signature du traité de Versailles, qui met officiellement fin à la guerre avec l'Allemagne.",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Armistice",
+      "verso": "Convention par laquelle les belligérants suspendent les combats, sans mettre fin à l'état de guerre.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Guerre totale",
+      "verso": "Guerre dans laquelle un État mobilise toutes ses ressources (militaires, économiques, humaines, technologiques) et où les violences touchent aussi bien les soldats que les civils.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Génocide",
+      "verso": "Extermination systématique et planifiée d'un peuple en raison de son origine ethnique, religieuse ou nationale. Terme forgé en 1944 par Raphael Lemkin.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Violence de masse",
+      "verso": "Violences exercées à grande échelle contre des populations civiles ou militaires, causant des millions de victimes.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Brutalisation / Culture de guerre",
+      "verso": "Accoutumance à la violence générée par l'expérience de la guerre, qui imprègne durablement les sociétés (concept de l'historien George Mosse).",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Poilus",
+      "verso": "Surnom donné aux soldats français de la Première Guerre mondiale.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Tranchée",
+      "verso": "Fossé creusé dans le sol permettant aux soldats de se protéger des tirs ennemis. Caractéristique de la guerre de position (1915-1918).",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Économie de guerre",
+      "verso": "Organisation de l'économie d'un pays entièrement tournée vers l'effort de guerre, sous la direction de l'État.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Munitionnettes",
+      "verso": "Surnom donné aux femmes travaillant dans les usines d'armement pendant la Première Guerre mondiale, en remplacement des hommes mobilisés.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Propagande",
+      "verso": "Moyens utilisés par un État pour influencer l'opinion publique et mobiliser la population en diffusant des informations orientées ou déformées.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Censure",
+      "verso": "Contrôle exercé par l'État sur les informations diffusées (presse, courrier des soldats) pour empêcher la diffusion de nouvelles défavorables au moral.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Union sacrée",
+      "verso": "Accord politique par lequel les partis politiques français cessent leurs rivalités pour soutenir unanimement l'effort de guerre à partir d'août 1914.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Diktat",
+      "verso": "Terme utilisé par les Allemands pour désigner le traité de Versailles, qu'ils considèrent comme humiliant et imposé sans négociation.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "SDN (Société des Nations)",
+      "verso": "Organisation internationale créée par le traité de Versailles (1919) pour maintenir la paix par la négociation et le droit international. Affaiblie par l'absence des États-Unis.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Bolchevik",
+      "verso": "Membre du parti révolutionnaire russe dirigé par Lénine, partisan d'une révolution immédiate pour instaurer le communisme. Les bolcheviks prennent le pouvoir en octobre 1917.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Soviet",
+      "verso": "Conseil d'ouvriers, de paysans et de soldats, organe de base du pouvoir révolutionnaire en Russie.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Communisme",
+      "verso": "Idéologie politique fondée sur les théories de Karl Marx, prônant la suppression de la propriété privée des moyens de production et l'établissement d'une société sans classes.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Triple Alliance",
+      "verso": "Alliance militaire regroupant l'Allemagne, l'Autriche-Hongrie et l'Italie avant la guerre.",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Triple Entente",
+      "verso": "Alliance militaire regroupant la France, le Royaume-Uni et la Russie avant la guerre.",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Plan Schlieffen",
+      "verso": "Plan allemand prévoyant une victoire rapide contre la France en contournant ses défenses par la Belgique, avant de se retourner contre la Russie. Son échec à la Marne transforme la guerre en conflit d'usure.",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Guerre de mouvement / Guerre de position",
+      "verso": "La guerre de mouvement (1914) est marquée par des offensives rapides. Après son échec, la guerre de position (1915-1918) voit les armées s'enterrer dans les tranchées.",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Bilan humain de la Première Guerre mondiale",
+      "verso": "Environ 9,4 millions de soldats morts, 21 millions de blessés. La France : 1,4 million de morts, 4,25 millions de blessés.",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "« Classes creuses »",
+      "verso": "Génération peu nombreuse née pendant la guerre (naissances divisées par deux). Plus d'un million de naissances jamais rattrapées, visibles longtemps sur la pyramide des âges.",
+      "categorie": "reperes",
+      "niveau_difficulte": 3
+    },
+    {
+      "recto": "Les 14 points de Wilson",
+      "verso": "Programme de paix du président américain Woodrow Wilson (janvier 1918) fondé sur le droit des peuples, la diplomatie ouverte et la création de la SDN.",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Traité de Versailles : principales clauses",
+      "verso": "Restitution de l'Alsace-Lorraine à la France, armée allemande limitée à 100 000 hommes, clause de culpabilité (art. 231), lourdes réparations financières, création de la SDN.",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Les quatre empires qui disparaissent après la guerre",
+      "verso": "Empire allemand (→ République de Weimar), Empire austro-hongrois (→ éclaté), Empire russe (→ URSS), Empire ottoman (→ Turquie).",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Archiduc François-Ferdinand (1863-1914)",
+      "verso": "Héritier du trône d'Autriche-Hongrie. Son assassinat à Sarajevo le 28 juin 1914 est l'événement déclencheur de la Première Guerre mondiale.",
+      "categorie": "personnages",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Woodrow Wilson (1856-1924)",
+      "verso": "28e président des États-Unis. Auteur des « 14 points » (1918) et principal artisan de la création de la SDN. Prix Nobel de la paix 1919.",
+      "categorie": "personnages",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Lénine",
+      "verso": "Chef des bolcheviks. Il prend le pouvoir en Russie lors de la révolution d'Octobre 1917 et instaure un régime communiste. Il signe la paix de Brest-Litovsk avec l'Allemagne (mars 1918).",
+      "categorie": "personnages",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Suzanne Noël (1878-1954)",
+      "verso": "Pionnière de la chirurgie esthétique et réparatrice en France. Elle opère de nombreux soldats défigurés (les « gueules cassées ») pendant et après la guerre.",
+      "categorie": "personnages",
+      "niveau_difficulte": 3
+    },
+    {
+      "recto": "Général Joffre",
+      "verso": "Commandant en chef de l'armée française qui mène la contre-offensive victorieuse lors de la bataille de la Marne (septembre 1914).",
+      "categorie": "personnages",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Général Pétain (pendant la Première Guerre mondiale)",
+      "verso": "Général français qui rétablit l'ordre après les mutineries de 1917, par la répression mais aussi par l'amélioration des conditions de vie des soldats.",
+      "categorie": "personnages",
+      "niveau_difficulte": 2
+    }
+  ]
+}

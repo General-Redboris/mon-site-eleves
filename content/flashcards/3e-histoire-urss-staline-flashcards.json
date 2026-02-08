@@ -1,0 +1,247 @@
+{
+  "titre": "L'URSS de Staline : un régime totalitaire",
+  "niveau": "3e",
+  "matiere": "histoire",
+  "cartes": [
+    {
+      "recto": "Que signifie URSS ?",
+      "verso": "Union des Républiques Socialistes Soviétiques (1922-1991)",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Que signifie le mot « soviet » ?",
+      "verso": "« Conseil » en russe. Les soviets étaient des assemblées d'ouvriers et de soldats formées pendant la révolution de 1917.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Révolution d'Octobre 1917",
+      "verso": "Les bolcheviks de Lénine s'emparent du pouvoir à Petrograd (25 octobre / 7 novembre). Début du régime communiste en Russie.",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "1918-1921",
+      "verso": "Guerre civile entre les « Rouges » (bolcheviks) et les « Blancs » (opposants). Entre 7 et 12 millions de morts.",
+      "categorie": "dates",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "1922",
+      "verso": "Création officielle de l'URSS (30 décembre 1922).",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "1924",
+      "verso": "Mort de Lénine. Staline prend progressivement le pouvoir en éliminant ses rivaux.",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "1929",
+      "verso": "Début de la collectivisation des terres et du premier plan quinquennal. Staline est le maître absolu de l'URSS.",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "1932-1933",
+      "verso": "Holodomor : grande famine en Ukraine et dans d'autres régions de l'URSS (5 à 7 millions de morts).",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "1937-1938",
+      "verso": "Grande Terreur : vague d'arrestations et d'exécutions massives. Environ 750 000 exécutions.",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "1953",
+      "verso": "Mort de Staline, qui dirigeait l'URSS depuis 1924.",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Qui est Lénine ?",
+      "verso": "Vladimir Ilitch Oulianov (1870-1924). Chef des bolcheviks, il dirige la Révolution d'Octobre 1917 et devient le premier dirigeant de l'URSS.",
+      "categorie": "personnages",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Qui est Staline ?",
+      "verso": "Iossif Djougachvili (1878-1953). D'origine géorgienne, il dirige l'URSS de 1924 à 1953. Son nom signifie « homme d'acier ». Il instaure un régime totalitaire.",
+      "categorie": "personnages",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Qui est Trotski ?",
+      "verso": "Léon Trotski (1879-1940). Créateur de l'Armée rouge, rival de Staline. Exclu du Parti, exilé, puis assassiné au Mexique sur ordre de Staline.",
+      "categorie": "personnages",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Qui est Soljenitsyne ?",
+      "verso": "Alexandre Soljenitsyne, écrivain russe. Prisonnier du Goulag pendant 8 ans. Son livre « L'Archipel du Goulag » (1973) a révélé l'horreur des camps. Prix Nobel de littérature 1970.",
+      "categorie": "personnages",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Qui est Stakhanov ?",
+      "verso": "Alexeï Stakhanov, mineur de charbon soviétique. Héros de la propagande en 1935 pour avoir prétendument extrait 14 fois la norme de charbon. Son exploit, largement truqué, donna naissance au « stakhanovisme ».",
+      "categorie": "personnages",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Qu'est-ce que le totalitarisme ?",
+      "verso": "Régime politique où l'État, dirigé par un chef tout-puissant et un parti unique, cherche à contrôler la totalité de la vie sociale et individuelle par la propagande et la terreur.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Quels sont les trois piliers du totalitarisme ?",
+      "verso": "1. Un chef tout-puissant et un parti unique — 2. La propagande et le culte de la personnalité — 3. La terreur (police politique, camps, délation).",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Qu'est-ce que le culte de la personnalité ?",
+      "verso": "Glorification excessive d'un dirigeant, présenté comme un être exceptionnel, génial et infaillible. Tous les moyens de communication diffusent cette image.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Qu'est-ce que la propagande ?",
+      "verso": "Ensemble des techniques utilisées par un pouvoir pour diffuser ses idées, influencer l'opinion publique et obtenir l'adhésion de la population (affiches, journaux, radio, cinéma, école).",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Qu'est-ce que la collectivisation ?",
+      "verso": "Politique consistant à regrouper les terres, le bétail et les outils des paysans dans des fermes collectives (kolkhozes, sovkhozes) appartenant à l'État. Lancée en 1929.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Qu'est-ce qu'un kolkhoze ?",
+      "verso": "Ferme collective où les paysans travaillent ensemble pour l'État. Ils peuvent garder un petit lopin de terre individuel.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Qu'est-ce qu'un sovkhoze ?",
+      "verso": "Ferme d'État où les paysans sont des salariés, comme des ouvriers agricoles. Tout appartient à l'État.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Qu'est-ce qu'un koulak ?",
+      "verso": "Mot russe signifiant « poing ». Paysan considéré comme « riche » et désigné comme ennemi de classe. En réalité, tout paysan résistant à la collectivisation pouvait être qualifié de koulak.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Qu'est-ce que la dékoulakisation ?",
+      "verso": "Politique d'élimination des koulaks en tant que classe (à partir de 1930) : arrestations, confiscation des biens, déportations massives. Environ 1,8 million de déportés.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Qu'est-ce que l'Holodomor ?",
+      "verso": "Mot ukrainien signifiant « extermination par la faim ». Grande famine de 1932-1933 causée par la collectivisation et les réquisitions forcées de céréales. Entre 5 et 7 millions de morts.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Qu'est-ce qu'un plan quinquennal ?",
+      "verso": "Programme économique fixant des objectifs de production à atteindre en 5 ans. L'État planifie toute l'économie. Le premier plan quinquennal débute en 1929.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Qu'est-ce que le NKVD ?",
+      "verso": "Police politique soviétique (1934-1946). Elle surveille la population, traque les « ennemis du peuple », procède aux arrestations, mène les interrogatoires et gère les camps du Goulag.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Qu'est-ce que le Goulag ?",
+      "verso": "Système de camps de travail forcé soviétique. Les prisonniers travaillent 12 à 16h par jour dans des conditions extrêmes. Environ 18 à 20 millions de personnes y sont passées entre 1930 et 1953.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Qu'est-ce que la Grande Terreur ?",
+      "verso": "Période de répression massive (1937-1938). Environ 1,5 million d'arrestations et 680 000 à 750 000 exécutions. Toutes les couches de la société sont touchées.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Que sont les procès de Moscou ?",
+      "verso": "Procès truqués (1936-1938) où d'anciens dirigeants bolcheviks avouent sous la torture des crimes imaginaires (trahison, espionnage). Ils sont condamnés à mort et les procès sont filmés pour terroriser la population.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Qui sont les Pionniers ?",
+      "verso": "Organisation de jeunesse communiste pour les enfants de 9 à 14 ans. Foulard rouge, serment de fidélité à Staline et au Parti.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Qui sont les Komsomols ?",
+      "verso": "Organisation de jeunesse communiste pour les jeunes de 14 à 28 ans. Antichambre du Parti communiste.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Qu'est-ce que le réalisme socialiste ?",
+      "verso": "Style artistique officiel imposé à partir de 1934. Les artistes doivent représenter la réalité « telle qu'elle devrait être » : ouvriers joyeux, paysans fiers, Staline bienveillant. L'art « bourgeois » est interdit.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Qu'est-ce que le stakhanovisme ?",
+      "verso": "Culte du travailleur modèle qui dépasse tous les objectifs de production. Nommé d'après le mineur Stakhanov (1935). Utilisé par la propagande pour pousser les ouvriers à produire toujours plus.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Quels sont les trois régimes totalitaires du XXe siècle ?",
+      "verso": "L'URSS de Staline (communiste), l'Allemagne nazie d'Hitler (nazi), l'Italie fasciste de Mussolini (fasciste).",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Quel est le bilan humain estimé du régime stalinien ?",
+      "verso": "6 à 9 millions de morts : 680 000 à 800 000 exécutions, 1,5 à 1,8 million de morts au Goulag, 5 à 7 millions de morts lors de l'Holodomor, 1,8 million de déportés (dékoulakisation).",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Que symbolisent la faucille et le marteau sur le drapeau de l'URSS ?",
+      "verso": "La faucille représente les paysans et le marteau représente les ouvriers, sur fond rouge (couleur de la révolution).",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Qui est Pavlik Morozov ?",
+      "verso": "Jeune Pionnier présenté comme un héros par la propagande. En 1932, à 13 ans, il aurait dénoncé son propre père aux autorités. Le régime en fit un modèle : la loyauté envers le Parti doit passer avant la famille.",
+      "categorie": "personnages",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Qu'est-ce que la Tchéka ?",
+      "verso": "Première police politique soviétique, créée par Lénine en décembre 1917 pour traquer les « ennemis de la révolution ». Ancêtre du NKVD.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Qui était le tsar renversé en 1917 ?",
+      "verso": "Nicolas II, dernier empereur de Russie. Il abdique en février 1917 sous la pression des manifestations à Petrograd.",
+      "categorie": "personnages",
+      "niveau_difficulte": 1
+    }
+  ]
+}

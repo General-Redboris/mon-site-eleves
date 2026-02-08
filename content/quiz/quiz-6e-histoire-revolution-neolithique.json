@@ -1,0 +1,131 @@
+{
+  "titre": "La « révolution » néolithique",
+  "niveau": "6e",
+  "matiere": "histoire",
+  "chapitre": "revolution-neolithique",
+  "questions": [
+    {
+      "type": "qcm",
+      "question": "Vers quelle date l'agriculture apparaît-elle pour la première fois ?",
+      "options": ["Vers -100 000 ans", "Vers -40 000 ans", "Vers -10 000 ans", "Vers -3 300 ans"],
+      "reponse": 2,
+      "explication": "L'agriculture naît vers -10 000 ans au Proche-Orient, dans la région du Croissant fertile, avec la culture du blé et de l'orge."
+    },
+    {
+      "type": "qcm",
+      "question": "Comment appelle-t-on la région en forme d'arc de cercle où naît l'agriculture ?",
+      "options": ["Le Croissant fertile", "La Vallée du Nil", "La Mésopotamie", "Le Bassin méditerranéen"],
+      "reponse": 0,
+      "explication": "Le Croissant fertile s'étend de l'Égypte à la Mésopotamie en passant par le Levant. Son climat favorable et ses espèces domesticables en font le berceau de l'agriculture."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "L'agriculture a été inventée dans un seul endroit du monde, puis s'est répandue partout.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 1,
+      "explication": "Faux. L'agriculture a été inventée indépendamment dans plusieurs régions du monde : Croissant fertile, Chine, Mésoamérique, Andes, Afrique, Nouvelle-Guinée."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel est le premier animal domestiqué par les humains ?",
+      "options": ["Le mouton", "Le chien", "Le cheval", "Le chat"],
+      "reponse": 1,
+      "explication": "Le chien, probablement issu du loup, est le premier animal domestiqué, dès la fin du Paléolithique (vers -15 000 ans), avant même l'invention de l'agriculture."
+    },
+    {
+      "type": "qcm",
+      "question": "Que signifie « domestication » ?",
+      "options": [
+        "Tuer des animaux sauvages pour se nourrir",
+        "Construire des maisons en dur",
+        "Sélectionner et transformer des espèces sauvages pour les adapter à ses besoins",
+        "Se déplacer avec des animaux"
+      ],
+      "reponse": 2,
+      "explication": "La domestication est le processus par lequel les humains sélectionnent des plantes ou des animaux sauvages et les transforment sur plusieurs générations pour les adapter à leurs besoins."
+    },
+    {
+      "type": "reponse_courte",
+      "question": "Comment appelle-t-on le fait de se fixer en un lieu de manière permanente ?",
+      "reponse": "sédentarisation",
+      "explication": "La sédentarisation est le contraire du nomadisme. Elle est liée à l'agriculture, qui oblige à rester sur place pour cultiver les champs."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel village du Néolithique, en Turquie actuelle, est célèbre pour ses maisons collées les unes aux autres ?",
+      "options": ["Jéricho", "Çatalhöyük", "Stonehenge", "Carnac"],
+      "reponse": 1,
+      "explication": "Çatalhöyük (Turquie) comptait 5 000 à 8 000 habitants. Les maisons étaient collées les unes aux autres, sans rues. On entrait par le toit avec une échelle !"
+    },
+    {
+      "type": "qcm",
+      "question": "Quelles sont les trois grandes innovations techniques du Néolithique ?",
+      "options": [
+        "L'écriture, la roue, le bronze",
+        "La pierre polie, la poterie, le tissage",
+        "Le biface, le feu, l'arc",
+        "Le papyrus, le fer, la monnaie"
+      ],
+      "reponse": 1,
+      "explication": "Le Néolithique est marqué par trois innovations majeures : la pierre polie (outils plus efficaces), la poterie (stockage des récoltes) et le tissage (vêtements en laine ou en lin)."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Le mot « Néolithique » signifie « nouvelle pierre ».",
+      "options": ["Vrai", "Faux"],
+      "reponse": 0,
+      "explication": "Vrai. Néolithique vient du grec neos (nouveau) et lithos (pierre). Ce nom fait référence à la technique de la pierre polie, caractéristique de cette période."
+    },
+    {
+      "type": "qcm",
+      "question": "Comment appelle-t-on les grands monuments de pierre dressés au Néolithique ?",
+      "options": ["Des pyramides", "Des mégalithes", "Des temples", "Des ziggourats"],
+      "reponse": 1,
+      "explication": "Les mégalithes (du grec megas = grand, lithos = pierre) regroupent les menhirs (pierres dressées), les dolmens (tables de pierre) et les cromlechs (cercles de pierres, comme Stonehenge)."
+    },
+    {
+      "type": "qcm",
+      "question": "Quelle conséquence majeure la sédentarisation a-t-elle sur la société ?",
+      "options": [
+        "Les hommes deviennent nomades",
+        "La population diminue",
+        "Des inégalités sociales apparaissent",
+        "Les guerres disparaissent"
+      ],
+      "reponse": 2,
+      "explication": "La sédentarisation fait naître la propriété : certaines familles accumulent plus de richesses que d'autres. Des inégalités sociales et des conflits apparaissent."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "La « révolution » néolithique s'est produite en quelques années seulement.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 1,
+      "explication": "Faux. Le mot « révolution » est entre guillemets car cette transformation s'est étalée sur plusieurs milliers d'années. C'est un processus lent et progressif."
+    },
+    {
+      "type": "qcm",
+      "question": "En Chine, quelle céréale est cultivée au début du Néolithique ?",
+      "options": ["Le blé", "Le maïs", "Le riz", "L'orge"],
+      "reponse": 2,
+      "explication": "Le riz est la céréale domestiquée en Chine vers -9 000 ans, le long du fleuve Yangzi. Chaque région du monde a domestiqué des plantes différentes."
+    },
+    {
+      "type": "qcm",
+      "question": "Par quelles voies le Néolithique se diffuse-t-il vers l'Europe ?",
+      "options": [
+        "Par la voie maritime atlantique uniquement",
+        "Par les voies méditerranéenne et danubienne",
+        "Par la Béringie",
+        "Par la voie aérienne"
+      ],
+      "reponse": 1,
+      "explication": "Le Néolithique se diffuse du Croissant fertile vers l'Europe par deux voies : la voie méditerranéenne (le long des côtes) et la voie danubienne (à travers l'Europe centrale)."
+    },
+    {
+      "type": "reponse_courte",
+      "question": "Combien de temps faut-il environ pour que le Néolithique gagne toute l'Europe ?",
+      "reponse": "5 000 ans",
+      "explication": "La diffusion du Néolithique du Proche-Orient à l'ensemble de l'Europe prend environ 5 000 ans, à un rythme moyen d'environ 1 km par an."
+    }
+  ]
+}

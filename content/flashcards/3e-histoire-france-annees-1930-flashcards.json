@@ -1,0 +1,187 @@
+{
+  "titre": "La France des années 1930 — Le Front populaire",
+  "niveau": "3e",
+  "matiere": "histoire",
+  "cartes": [
+    {
+      "recto": "Octobre 1929",
+      "verso": "Krach boursier de Wall Street : début de la crise économique mondiale",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "6 février 1934",
+      "verso": "Émeute des ligues d'extrême droite à Paris : tentative de marche sur le Palais Bourbon (15 morts, plus de 300 blessés). Le président du Conseil Daladier démissionne.",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "14 juillet 1935",
+      "verso": "Naissance officielle du Front populaire : immenses manifestations dans toute la France",
+      "categorie": "dates",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Mai 1936",
+      "verso": "Victoire électorale du Front populaire. Léon Blum devient président du Conseil (premier socialiste à diriger la France).",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "7-8 juin 1936",
+      "verso": "Signature des accords de Matignon entre patronat et syndicats, sous l'arbitrage du gouvernement Blum",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Été 1936",
+      "verso": "Vote des lois sur les congés payés (2 semaines) et la semaine de 40 heures",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "17 novembre 1936",
+      "verso": "Suicide de Roger Salengro, ministre de l'Intérieur, après une campagne de calomnies de l'extrême droite",
+      "categorie": "dates",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Juin 1937",
+      "verso": "Démission de Léon Blum après le refus du Sénat de lui accorder les pleins pouvoirs financiers",
+      "categorie": "dates",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Avril 1938",
+      "verso": "Fin du Front populaire : le Parti radical quitte l'alliance",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Déflation",
+      "verso": "Politique économique qui vise à faire baisser les prix en réduisant les salaires et les dépenses de l'État. Dans les années 1930, cette politique a aggravé la crise.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Ligues",
+      "verso": "Organisations politiques d'extrême droite des années 1930, hostiles à la République parlementaire, favorables à un pouvoir autoritaire (ex : Croix-de-Feu, Action française).",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Antiparlementarisme",
+      "verso": "Hostilité envers le Parlement et le système parlementaire, considérés comme inefficaces et corrompus. Attitude caractéristique des ligues d'extrême droite.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Front populaire",
+      "verso": "Alliance électorale des trois partis de gauche (PCF, SFIO, Parti radical) née en réaction au 6 février 1934 pour défendre la République. Au pouvoir de 1936 à 1938.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Accords de Matignon",
+      "verso": "Accords signés le 7-8 juin 1936 entre patronat et syndicats : hausse des salaires de 12%, liberté syndicale, conventions collectives, délégués du personnel.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Congés payés",
+      "verso": "Périodes de vacances pendant lesquelles le salarié continue de percevoir son salaire. Deux semaines accordées par le Front populaire en 1936.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Convention collective",
+      "verso": "Accord écrit négocié entre syndicats et patronat d'un secteur d'activité, fixant les conditions de travail et de salaire.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Antisémitisme",
+      "verso": "Haine, hostilité et discrimination envers les personnes juives. Léon Blum en est victime de la part de l'extrême droite.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Non-intervention",
+      "verso": "Politique de Léon Blum consistant à ne pas s'engager militairement dans la guerre civile espagnole (1936), pour éviter un conflit avec l'Allemagne et l'Italie.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Calomnie",
+      "verso": "Accusation mensongère destinée à nuire à la réputation d'une personne. Roger Salengro en est la victime la plus tragique.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Quel est le slogan du Front populaire ?",
+      "verso": "« Le Pain, la Paix, la Liberté » — lutter contre la misère (Pain), éviter la guerre (Paix), défendre la République (Liberté).",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Quels sont les trois partis du Front populaire ?",
+      "verso": "Le PCF (Parti communiste, extrême gauche), la SFIO (parti socialiste) et le Parti radical (centre-gauche).",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Quelles sont les principales réformes du Front populaire ?",
+      "verso": "Accords de Matignon (hausse des salaires, liberté syndicale), congés payés (2 semaines), semaine de 40 heures.",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Pourquoi le Front populaire échoue-t-il ?",
+      "verso": "Difficultés économiques persistantes, fuite des capitaux organisée par le patronat, refus des pleins pouvoirs par le Sénat, divisions internes (non-intervention en Espagne), départ du Parti radical en 1938.",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Qu'est-ce que l'affaire Stavisky ?",
+      "verso": "Scandale politico-financier de janvier 1934 : un escroc protégé par des politiques est retrouvé mort. L'extrême droite exploite l'affaire pour dénoncer la corruption parlementaire.",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Léon Blum (1872-1950)",
+      "verso": "Dirigeant de la SFIO, premier chef de gouvernement socialiste de France (1936). Fait voter les congés payés et les 40 heures. Cible d'une campagne antisémite. Déporté sous Vichy.",
+      "categorie": "personnages",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Roger Salengro (1890-1936)",
+      "verso": "Ministre de l'Intérieur du gouvernement Blum, maire de Lille. Accusé faussement de désertion par la presse d'extrême droite, il se suicide le 17 novembre 1936.",
+      "categorie": "personnages",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Édouard Daladier (1884-1970)",
+      "verso": "Homme politique du Parti radical. Président du Conseil lors du 6 février 1934 (il démissionne). Redevient président du Conseil en 1938, signe les accords de Munich.",
+      "categorie": "personnages",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Colonel de La Rocque (1885-1946)",
+      "verso": "Chef des Croix-de-Feu, principale ligue d'extrême droite des années 1930. Mouvement nationaliste et antiparlementaire, dissous en 1936 par le Front populaire.",
+      "categorie": "personnages",
+      "niveau_difficulte": 3
+    },
+    {
+      "recto": "Charles Maurras (1868-1952)",
+      "verso": "Dirigeant de l'Action française, mouvement royaliste, nationaliste et antisémite. Ses Camelots du roi agressent Léon Blum en 1936. Soutient Vichy pendant la guerre.",
+      "categorie": "personnages",
+      "niveau_difficulte": 3
+    },
+    {
+      "recto": "Léo Lagrange (1900-1940)",
+      "verso": "Sous-secrétaire d'État aux Loisirs et aux Sports du gouvernement Blum. Crée les « billets Lagrange » (-40% sur les trains) pour permettre aux ouvriers de partir en vacances. Tué au combat en 1940.",
+      "categorie": "personnages",
+      "niveau_difficulte": 2
+    }
+  ]
+}

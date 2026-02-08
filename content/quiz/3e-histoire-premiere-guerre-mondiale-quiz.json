@@ -1,0 +1,210 @@
+{
+  "titre": "La Première Guerre mondiale : une guerre totale (1914-1918)",
+  "niveau": "3e",
+  "matiere": "histoire",
+  "chapitre": "premiere-guerre-mondiale",
+  "questions": [
+    {
+      "type": "qcm",
+      "question": "Quel événement déclenche la Première Guerre mondiale ?",
+      "options": [
+        "L'invasion de la Belgique par l'Allemagne",
+        "L'assassinat de l'archiduc François-Ferdinand à Sarajevo",
+        "La mobilisation générale en France",
+        "La déclaration de guerre de la Russie à l'Allemagne"
+      ],
+      "reponse": 1,
+      "explication": "L'assassinat de l'archiduc François-Ferdinand le 28 juin 1914 à Sarajevo déclenche l'engrenage diplomatique qui mène à la guerre, par le jeu des alliances."
+    },
+    {
+      "type": "qcm",
+      "question": "Quels pays composent la Triple Entente avant la guerre ?",
+      "options": [
+        "Allemagne, Autriche-Hongrie, Italie",
+        "France, Royaume-Uni, Russie",
+        "France, Allemagne, Royaume-Uni",
+        "Russie, Italie, Autriche-Hongrie"
+      ],
+      "reponse": 1,
+      "explication": "La Triple Entente regroupe la France, le Royaume-Uni et la Russie. Elle s'oppose à la Triple Alliance (Allemagne, Autriche-Hongrie, Italie)."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "La bataille de la Marne (septembre 1914) est une victoire allemande décisive.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 1,
+      "explication": "C'est faux. La bataille de la Marne stoppe l'offensive allemande grâce à la contre-offensive du général Joffre. C'est l'échec de la guerre-éclair et le début de la guerre de position."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce que la guerre de position ?",
+      "options": [
+        "Une guerre marquée par des offensives rapides et des mouvements de troupes",
+        "Une guerre où les armées s'affrontent dans des tranchées sur un front fixe",
+        "Une guerre menée uniquement par l'aviation et la marine",
+        "Une guerre limitée aux colonies européennes"
+      ],
+      "reponse": 1,
+      "explication": "La guerre de position (1915-1918) se caractérise par l'enlisement des armées dans des tranchées sur un front de plus de 700 km, avec des offensives meurtrières pour des gains de terrain dérisoires."
+    },
+    {
+      "type": "qcm",
+      "question": "Quelle bataille de 1916 devient le symbole de la résistance française ?",
+      "options": [
+        "La bataille de la Somme",
+        "La bataille de la Marne",
+        "La bataille de Verdun",
+        "La bataille du Chemin des Dames"
+      ],
+      "reponse": 2,
+      "explication": "La bataille de Verdun (février-décembre 1916) fait environ 700 000 victimes dans les deux camps et devient le symbole de la résistance française face à l'offensive allemande."
+    },
+    {
+      "type": "qcm",
+      "question": "Pourquoi l'année 1917 est-elle un tournant de la guerre ?",
+      "options": [
+        "L'Allemagne capitule et signe l'armistice",
+        "Les mutineries, les révolutions russes et l'entrée en guerre des États-Unis changent le cours du conflit",
+        "La France perd la bataille de Verdun",
+        "L'Empire ottoman rejoint la Triple Entente"
+      ],
+      "reponse": 1,
+      "explication": "1917 est une année charnière : les mutineries affaiblissent l'armée française, la Russie sort de la guerre après les révolutions, et l'entrée en guerre des États-Unis renforce les Alliés."
+    },
+    {
+      "type": "reponse_courte",
+      "question": "À quelle date l'armistice est-il signé, mettant fin aux combats de la Première Guerre mondiale ?",
+      "reponse": "11 novembre 1918",
+      "explication": "L'armistice est signé le 11 novembre 1918 à Rethondes, dans un wagon de chemin de fer. Les combats cessent à 11 heures."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "L'armistice du 11 novembre 1918 met officiellement fin à la guerre.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 1,
+      "explication": "C'est faux. L'armistice suspend les combats mais ne met pas fin à l'état de guerre. Seul le traité de Versailles (28 juin 1919) met officiellement fin au conflit."
+    },
+    {
+      "type": "qcm",
+      "question": "Pourquoi la Première Guerre mondiale est-elle qualifiée de « guerre totale » ?",
+      "options": [
+        "Parce qu'elle se déroule sur tous les continents",
+        "Parce qu'elle mobilise toutes les ressources des États et touche aussi bien les soldats que les civils",
+        "Parce qu'elle utilise uniquement des armes nouvelles",
+        "Parce qu'elle oppose tous les pays du monde"
+      ],
+      "reponse": 1,
+      "explication": "Une guerre totale mobilise toutes les ressources d'un État (militaires, économiques, humaines, technologiques) et se caractérise par des violences touchant aussi bien les militaires que les civils."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce que le génocide des Arméniens ?",
+      "options": [
+        "Une révolte des Arméniens contre l'Empire russe",
+        "L'extermination systématique des Arméniens par le gouvernement ottoman en 1915-1916",
+        "Une bataille entre les Arméniens et les Allemands",
+        "La déportation des Arméniens par la France"
+      ],
+      "reponse": 1,
+      "explication": "Le génocide des Arméniens (1915-1916), perpétré par le gouvernement des Jeunes-Turcs de l'Empire ottoman, a causé entre 1,2 et 1,5 million de morts. C'est le premier génocide du XXe siècle."
+    },
+    {
+      "type": "reponse_courte",
+      "question": "Quel surnom donne-t-on aux femmes qui travaillent dans les usines d'armement pendant la guerre ?",
+      "reponse": "Les munitionnettes",
+      "explication": "Les « munitionnettes » remplacent les hommes mobilisés dans les usines d'armement. Elles démontrent les capacités des femmes dans tous les domaines économiques et sociaux."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce que l'Union sacrée ?",
+      "options": [
+        "Une alliance militaire entre la France et le Royaume-Uni",
+        "Un accord par lequel les partis politiques français suspendent leurs rivalités pour soutenir l'effort de guerre",
+        "Un traité de paix signé entre les Alliés",
+        "Une organisation religieuse de soutien aux soldats"
+      ],
+      "reponse": 1,
+      "explication": "L'Union sacrée est l'accord politique par lequel tous les partis français, de la gauche à la droite, cessent leurs rivalités pour soutenir unanimement l'effort de guerre à partir d'août 1914."
+    },
+    {
+      "type": "qcm",
+      "question": "Comment les États financent-ils la guerre ?",
+      "options": [
+        "En augmentant les impôts uniquement",
+        "En s'endettant massivement, en émettant des emprunts nationaux et en créant de la monnaie",
+        "En vendant leurs colonies",
+        "En confisquant les biens des civils"
+      ],
+      "reponse": 1,
+      "explication": "Pour financer la guerre, les États s'endettent (notamment auprès des États-Unis), émettent des emprunts nationaux et créent de la monnaie, ce qui provoque une forte inflation."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "La propagande pendant la guerre consiste à diffuser des informations objectives sur le conflit.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 1,
+      "explication": "C'est faux. La propagande diffuse des informations orientées ou déformées : l'ennemi est diabolisé, les succès sont exagérés, les défaites minimisées. On parle de « bourrage de crâne »."
+    },
+    {
+      "type": "reponse_courte",
+      "question": "Combien de soldats sont morts environ pendant la Première Guerre mondiale ?",
+      "reponse": "9,4 millions",
+      "explication": "La guerre fait environ 9,4 millions de morts militaires et plus de 21 millions de blessés. La France déplore à elle seule 1,4 million de morts et disparus."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel traité met officiellement fin à la Première Guerre mondiale avec l'Allemagne ?",
+      "options": [
+        "Le traité de Brest-Litovsk",
+        "Le traité de Versailles",
+        "Le traité de Rethondes",
+        "Le traité de Paris"
+      ],
+      "reponse": 1,
+      "explication": "Le traité de Versailles, signé le 28 juin 1919 dans la galerie des Glaces, impose à l'Allemagne des conditions très dures (pertes territoriales, réparations, clause de culpabilité)."
+    },
+    {
+      "type": "qcm",
+      "question": "Pourquoi les Allemands qualifient-ils le traité de Versailles de « Diktat » ?",
+      "options": [
+        "Parce qu'il est rédigé en français",
+        "Parce qu'il est imposé par les vainqueurs sans négociation et jugé humiliant",
+        "Parce qu'il favorise l'Allemagne",
+        "Parce qu'il crée la Société des Nations"
+      ],
+      "reponse": 1,
+      "explication": "L'Allemagne n'a pas participé aux discussions et considère le traité comme humiliant, notamment la clause de culpabilité (art. 231) et les lourdes réparations. Ce ressentiment nourrira le nationalisme allemand."
+    },
+    {
+      "type": "qcm",
+      "question": "Quelle organisation internationale est créée par le traité de Versailles pour maintenir la paix ?",
+      "options": [
+        "L'ONU",
+        "L'OTAN",
+        "La Société des Nations (SDN)",
+        "L'Union européenne"
+      ],
+      "reponse": 2,
+      "explication": "La Société des Nations (SDN) est créée pour maintenir la paix par la négociation et le droit international. Mais elle est affaiblie par l'absence des États-Unis, qui refusent d'y adhérer."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Les femmes françaises obtiennent le droit de vote juste après la Première Guerre mondiale.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 1,
+      "explication": "C'est faux. Contrairement au Royaume-Uni (1918), à l'Allemagne (1919) ou aux États-Unis (1920), les Françaises devront attendre 1944 pour obtenir le droit de vote."
+    },
+    {
+      "type": "qcm",
+      "question": "Quels grands empires disparaissent à l'issue de la guerre ?",
+      "options": [
+        "L'Empire français et l'Empire britannique",
+        "L'Empire allemand, l'Empire austro-hongrois, l'Empire russe et l'Empire ottoman",
+        "L'Empire espagnol et l'Empire portugais",
+        "L'Empire japonais et l'Empire chinois"
+      ],
+      "reponse": 1,
+      "explication": "La guerre entraîne la disparition de quatre empires : l'Empire allemand (remplacé par la République de Weimar), l'Empire austro-hongrois, l'Empire russe (remplacé par l'URSS) et l'Empire ottoman (réduit à la Turquie)."
+    }
+  ]
+}

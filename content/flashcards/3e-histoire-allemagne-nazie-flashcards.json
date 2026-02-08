@@ -1,0 +1,247 @@
+{
+  "titre": "L'Allemagne nazie (1933-1939)",
+  "niveau": "3e",
+  "matiere": "histoire",
+  "cartes": [
+    {
+      "recto": "30 janvier 1933",
+      "verso": "Hitler est nommé chancelier d'Allemagne par le président Hindenburg.",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "27-28 février 1933",
+      "verso": "Incendie du Reichstag. Le lendemain, un décret suspend les libertés fondamentales.",
+      "categorie": "dates",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "23 mars 1933",
+      "verso": "Vote de la Loi des pleins pouvoirs : Hitler peut légiférer sans le Parlement et modifier la Constitution.",
+      "categorie": "dates",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "14 juillet 1933",
+      "verso": "Le NSDAP devient le seul parti autorisé en Allemagne (parti unique).",
+      "categorie": "dates",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "30 juin 1934",
+      "verso": "Nuit des longs couteaux : Hitler fait assassiner les chefs SA (dont Ernst Röhm) par la SS.",
+      "categorie": "dates",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "15 septembre 1935",
+      "verso": "Lois de Nuremberg : les Juifs perdent la citoyenneté allemande, les mariages « mixtes » sont interdits.",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "9-10 novembre 1938",
+      "verso": "Nuit de cristal (Kristallnacht) : pogrom contre les Juifs dans toute l'Allemagne (91 morts, 30 000 déportés, synagogues incendiées).",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "NSDAP",
+      "verso": "Nationalsozialistische Deutsche Arbeiterpartei (Parti national-socialiste des travailleurs allemands), dit « parti nazi ». Fondé en 1920, parti unique à partir de juillet 1933.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Führer",
+      "verso": "« Guide » en allemand. Titre d'Adolf Hitler désignant son pouvoir absolu. Lié au Führerprinzip (principe du chef).",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Totalitarisme",
+      "verso": "Régime politique où un parti unique, dirigé par un chef tout-puissant, cherche à contrôler tous les aspects de la vie sociale par la propagande, la terreur et l'embrigadement.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Antisémitisme",
+      "verso": "Haine des Juifs. L'antisémitisme nazi est fondé sur des théories raciales pseudo-scientifiques (question de « sang », pas de religion).",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Lois de Nuremberg",
+      "verso": "Lois antisémites de septembre 1935 : retrait de la citoyenneté aux Juifs, interdiction des mariages « mixtes ». Définition raciale (grands-parents) et non religieuse.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Lebensraum",
+      "verso": "« Espace vital ». Territoires à conquérir à l'Est (Pologne, URSS) pour le peuple allemand. Implique la guerre et l'extermination des populations slaves.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Gestapo",
+      "verso": "Geheime Staatspolizei (police secrète d'État). Créée en 1933, elle traque les opposants avec des pouvoirs illimités : arrestation sans mandat, torture, détention sans jugement.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "SS (Schutzstaffel)",
+      "verso": "« Section de protection ». Organisation d'élite nazie dirigée par Himmler. Contrôle la police, les camps de concentration, et organise plus tard le génocide.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "SA (Sturmabteilung)",
+      "verso": "« Section d'assaut ». Milice paramilitaire nazie (« chemises brunes »), dirigée par Röhm. Décimée lors de la Nuit des longs couteaux (1934).",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Gleichschaltung",
+      "verso": "« Mise au pas ». Processus de nazification de toutes les institutions allemandes (partis, syndicats, presse, école, culture) en 1933.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 3
+    },
+    {
+      "recto": "Darwinisme social",
+      "verso": "Idéologie appliquant abusivement la théorie de l'évolution aux sociétés humaines, justifiant la domination des « forts » sur les « faibles ». Sans fondement scientifique.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Eugénisme",
+      "verso": "Politique visant à « améliorer » la population en favorisant les « sains » et en éliminant les « indésirables » (handicapés, malades). Programme Aktion T4 : 70 000 victimes.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Nuit de cristal (Kristallnacht)",
+      "verso": "Pogrom organisé les 9-10 novembre 1938 : 91 Juifs assassinés, 30 000 déportés, synagogues incendiées, 7 500 commerces détruits. Passage de la discrimination légale à la violence ouverte.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Pogrom",
+      "verso": "Émeute violente, souvent organisée par le pouvoir, contre une minorité (notamment les Juifs).",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Jeunesses hitlériennes",
+      "verso": "Organisation de jeunesse nazie obligatoire dès 1936 pour tous les jeunes de 10 à 18 ans. Garçons : Jungvolk puis Hitlerjugend. Filles : Bund Deutscher Mädel.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Mythe du « coup de poignard dans le dos »",
+      "verso": "Dolchstoßlegende. Théorie conspirationniste fausse : l'armée allemande, invincue, aurait été trahie par des politiciens, révolutionnaires et Juifs en 1918. Exploitée par les nazis.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Volksempfänger",
+      "verso": "« Récepteur du peuple ». Poste de radio bon marché diffusé par les nazis pour que chaque foyer puisse écouter la propagande et les discours du Führer.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 3
+    },
+    {
+      "recto": "République de Weimar",
+      "verso": "Régime démocratique allemand (1919-1933). Née de la défaite de 1918, associée au « diktat » de Versailles, fragilisée par les crises économiques (hyperinflation 1923, crise de 1929).",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Traité de Versailles (1919)",
+      "verso": "Traité imposant à l'Allemagne : perte de 13% du territoire, réparations de 132 milliards de marks-or, armée limitée à 100 000 hommes. Perçu comme une humiliation (« diktat »).",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Putsch de la Brasserie (1923)",
+      "verso": "Tentative de coup d'État d'Hitler à Munich, les 8-9 novembre 1923. Échec. Hitler est emprisonné 9 mois et écrit Mein Kampf. Il en tire la leçon : conquérir le pouvoir par les urnes.",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Crise de 1929 en Allemagne",
+      "verso": "Le krach de Wall Street frappe durement l'Allemagne : faillites bancaires, 6 millions de chômeurs en 1932. Cette crise est le terreau de la montée du nazisme.",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Dachau",
+      "verso": "Premier camp de concentration nazi, ouvert le 20 mars 1933 près de Munich. Sert d'abord à interner les opposants politiques.",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Les « 3 K » pour les femmes dans l'idéologie nazie",
+      "verso": "Kinder, Küche, Kirche — Enfants, cuisine, église. Les nazis assignent aux femmes un rôle de mère et d'épouse au foyer.",
+      "categorie": "reperes",
+      "niveau_difficulte": 3
+    },
+    {
+      "recto": "Mein Kampf",
+      "verso": "« Mon combat ». Livre-programme d'Hitler (1925-1926) : antisémitisme, racisme (race aryenne), rejet de la démocratie, conquête de l'espace vital. Offert à tous les jeunes mariés après 1933.",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Adolf Hitler (1889-1945)",
+      "verso": "Führer du IIIe Reich. Autrichien, chef du parti nazi (1921), chancelier (1933), cumule tous les pouvoirs (1934). Responsable de la Seconde Guerre mondiale et de la Shoah. Suicide le 30 avril 1945.",
+      "categorie": "personnages",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Heinrich Himmler (1900-1945)",
+      "verso": "Reichsführer-SS. Chef de la SS et de la Gestapo. Contrôle les camps de concentration. Principal organisateur de la Shoah. Suicide en mai 1945.",
+      "categorie": "personnages",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Joseph Goebbels (1897-1945)",
+      "verso": "Ministre de la Propagande et de l'Information. Contrôle tous les médias et la culture du IIIe Reich. Antisémite fanatique. Suicide dans le bunker d'Hitler en mai 1945.",
+      "categorie": "personnages",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Paul von Hindenburg (1847-1934)",
+      "verso": "Président de la République de Weimar (1925-1934). Vieux maréchal conservateur, il nomme Hitler chancelier le 30 janvier 1933 sous pression des milieux d'affaires. Sa mort en août 1934 permet à Hitler de concentrer tous les pouvoirs.",
+      "categorie": "personnages",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Ernst Röhm (1887-1934)",
+      "verso": "Chef de la SA (3 millions de « chemises brunes »). Réclame une « seconde révolution ». Assassiné sur ordre d'Hitler lors de la Nuit des longs couteaux (30 juin 1934).",
+      "categorie": "personnages",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Hermann Göring (1893-1946)",
+      "verso": "Numéro 2 du régime. Crée la Gestapo (1933), dirige la Luftwaffe (armée de l'air). Responsable de l'« aryanisation » économique. Condamné à mort à Nuremberg, suicide avant l'exécution.",
+      "categorie": "personnages",
+      "niveau_difficulte": 3
+    },
+    {
+      "recto": "Reinhard Heydrich (1904-1942)",
+      "verso": "Chef du RSHA, bras droit de Himmler. Organise la conférence de Wannsee (1942) planifiant la « Solution finale ». Assassiné par des résistants tchèques à Prague.",
+      "categorie": "personnages",
+      "niveau_difficulte": 3
+    },
+    {
+      "recto": "Quels sont les 7 traits d'un État totalitaire ?",
+      "verso": "1) Chef tout-puissant — 2) Parti unique — 3) Idéologie officielle — 4) Propagande massive — 5) Terreur policière — 6) Embrigadement de la population — 7) Désignation d'« ennemis ».",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Différence fondamentale entre nazisme et stalinisme sur la désignation des « ennemis »",
+      "verso": "Nazisme : ennemis définis par leur « race » (Juifs, Tziganes, Slaves). Stalinisme : ennemis définis par leur classe sociale (koulaks, « contre-révolutionnaires »).",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    }
+  ]
+}

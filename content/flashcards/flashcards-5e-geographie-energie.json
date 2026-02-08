@@ -1,0 +1,157 @@
+{
+  "titre": "L'énergie : des ressources à ménager et à mieux utiliser",
+  "niveau": "5e",
+  "matiere": "geographie",
+  "cartes": [
+    {
+      "recto": "Énergie",
+      "verso": "Capacité à produire un travail, un mouvement, de la chaleur ou de la lumière.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Énergie fossile",
+      "verso": "Énergie issue de matières organiques formées il y a des millions d'années (pétrole, gaz, charbon). Stock limité et polluant.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Énergie renouvelable",
+      "verso": "Énergie provenant de sources naturelles inépuisables (soleil, vent, eau, chaleur terrestre). Fonctionne sur le principe du « flux ».",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Mix énergétique",
+      "verso": "Ensemble des sources d'énergie utilisées par un pays (comme une « recette » énergétique).",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Transition énergétique",
+      "verso": "Passage progressif d'un système basé sur les énergies fossiles vers un système utilisant davantage d'énergies renouvelables et plus économe en énergie.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Dépendance énergétique",
+      "verso": "Situation d'un pays qui doit importer une grande partie de son énergie car il n'en produit pas assez sur son territoire.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Précarité énergétique",
+      "verso": "Difficulté d'accès à l'énergie, notamment pour les populations les plus pauvres. Environ 750 millions de personnes n'ont pas accès à l'électricité.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Gaz à effet de serre (GES)",
+      "verso": "Gaz présents dans l'atmosphère (CO₂, méthane…) qui retiennent la chaleur et contribuent au réchauffement climatique.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Smog",
+      "verso": "Brouillard de pollution causé par les particules fines et les gaz polluants dans l'air (fréquent à Pékin ou Delhi).",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Quelles sont les trois énergies fossiles ?",
+      "verso": "Le pétrole, le gaz naturel et le charbon.",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Quelles sont les cinq principales énergies renouvelables ?",
+      "verso": "Solaire, éolien, hydraulique, biomasse et géothermie.",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Quelle part de l'énergie mondiale provient des fossiles ?",
+      "verso": "Environ 80 %.",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Quel pays est le 1er consommateur et producteur mondial d'énergie ?",
+      "verso": "La Chine.",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Quelle énergie domine le mix chinois et à quelle hauteur ?",
+      "verso": "Le charbon, à environ 56 % de la consommation totale.",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Quel est le plus grand barrage hydroélectrique du monde ?",
+      "verso": "Le barrage des Trois-Gorges, sur le Yangtsé en Chine.",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Quelle part de son électricité la France produit-elle grâce au nucléaire ?",
+      "verso": "Environ 70 %.",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Pourquoi la France a-t-elle choisi le nucléaire ?",
+      "verso": "Après le choc pétrolier de 1973, pour réduire sa dépendance au pétrole importé.",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Combien de réacteurs nucléaires la France possède-t-elle ?",
+      "verso": "56 réacteurs répartis sur 18 sites.",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Quelle part de son énergie l'Union européenne importe-t-elle ?",
+      "verso": "Environ 55 %.",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Accord de Paris (2015)",
+      "verso": "Accord international fixant l'objectif de limiter le réchauffement climatique à +1,5 °C ou +2 °C maximum par rapport à l'ère préindustrielle.",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Quels sont les trois piliers de la transition énergétique ?",
+      "verso": "1. Développer les énergies renouvelables. 2. La sobriété énergétique (économiser). 3. L'efficacité énergétique (consommer mieux).",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Quelle région possède les premières réserves mondiales de pétrole ?",
+      "verso": "Le Moyen-Orient (Arabie Saoudite, Irak, Émirats, Iran).",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Détroit d'Ormuz",
+      "verso": "Détroit stratégique entre le golfe Persique et l'océan Indien, par où transite 20 % du pétrole mondial.",
+      "categorie": "reperes",
+      "niveau_difficulte": 3
+    },
+    {
+      "recto": "Qu'est-ce que le Pacte vert européen (Green Deal) ?",
+      "verso": "Plan de l'UE visant la neutralité carbone en 2050, avec -55 % d'émissions de GES d'ici 2030 et 32 % de renouvelables dans le mix.",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Combien un Américain consomme-t-il d'énergie par rapport à un Africain ?",
+      "verso": "11 fois plus (6,8 tep contre 0,6 tep par habitant et par an).",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    }
+  ]
+}

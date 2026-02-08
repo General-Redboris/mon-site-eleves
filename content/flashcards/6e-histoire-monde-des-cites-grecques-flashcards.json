@@ -1,0 +1,187 @@
+{
+  "titre": "Flashcards — Le monde des cités grecques",
+  "niveau": "6e",
+  "matiere": "histoire",
+  "cartes": [
+    {
+      "recto": "Cité (polis)",
+      "verso": "Petit État grec indépendant composé d'une ville et de sa campagne environnante, avec son gouvernement, ses lois et sa monnaie.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Acropole",
+      "verso": "« Ville haute » en grec. Colline fortifiée où se trouvent les temples des dieux protecteurs de la cité.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Agora",
+      "verso": "Place publique au centre de la ville, lieu de réunion, de commerce et de débat politique.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Polythéisme",
+      "verso": "Croyance en plusieurs dieux (poly = plusieurs, theos = dieu). Les Grecs croyaient en les dieux de l'Olympe.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Mythe",
+      "verso": "Récit légendaire mettant en scène des dieux et des héros. Les mythes grecs étaient transmis par les aèdes.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Héros (dans la mythologie grecque)",
+      "verso": "Demi-dieu : un parent divin, un parent humain. Mortel mais accomplissant des exploits extraordinaires. Exemple : Achille.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Aède",
+      "verso": "Poète-chanteur qui récite les mythes en s'accompagnant d'une lyre. Homère est le plus célèbre.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Qui est Zeus ?",
+      "verso": "Roi des dieux, dieu du ciel. Attributs : la foudre, l'aigle, le sceptre. Le sanctuaire d'Olympie lui est dédié.",
+      "categorie": "personnages",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Qui est Athéna ?",
+      "verso": "Déesse de la sagesse et de la guerre. Attributs : la chouette, le casque, l'égide. Déesse protectrice d'Athènes (Parthénon).",
+      "categorie": "personnages",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Qui est Poséidon ?",
+      "verso": "Dieu de la mer et des séismes. Attributs : le trident, le cheval.",
+      "categorie": "personnages",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Qui est Homère ?",
+      "verso": "Poète du VIIIe siècle av. J.-C., auteur de l'Iliade (guerre de Troie) et de l'Odyssée (voyage d'Ulysse). Surnommé « l'éducateur de la Grèce ».",
+      "categorie": "personnages",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Sanctuaire panhellénique",
+      "verso": "Lieu sacré commun à tous les Grecs (pan = tous, hellène = grec). Exemples : Olympie (Zeus), Delphes (Apollon).",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "776 av. J.-C.",
+      "verso": "Date des premiers Jeux Olympiques à Olympie, en l'honneur de Zeus.",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Trêve sacrée",
+      "verso": "Arrêt des guerres pendant les Jeux Olympiques pour permettre aux athlètes de voyager en sécurité entre les cités.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Oracle",
+      "verso": "Réponse d'un dieu à une question posée par les hommes. À Delphes, la Pythie transmet les réponses d'Apollon.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Colonie grecque",
+      "verso": "Nouvelle cité fondée par des Grecs sur les côtes de la Méditerranée et de la mer Noire. Politiquement indépendante de sa métropole.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Métropole (sens grec)",
+      "verso": "« Cité-mère » : cité d'origine des colons grecs. Les colons emportent le feu sacré et les cultes de leur métropole.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Vers 600 av. J.-C.",
+      "verso": "Fondation de Massalia (Marseille) par des Grecs de Phocée. C'est l'une des plus anciennes villes de France.",
+      "categorie": "dates",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Barbare (sens grec)",
+      "verso": "Pour un Grec, quelqu'un qui ne parle pas grec (= étranger). Pas péjoratif à l'origine. Vient du son « bar-bar-bar » des langues étrangères.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Démocratie",
+      "verso": "Régime politique où le pouvoir appartient au peuple (demos = peuple, kratos = pouvoir). Inventé à Athènes au Ve siècle av. J.-C.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Ecclesia",
+      "verso": "Assemblée des citoyens athéniens qui vote les lois, décide de la guerre et de la paix. Se réunit sur la colline de la Pnyx.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Boulè",
+      "verso": "Conseil de 500 citoyens tirés au sort qui prépare les lois avant de les soumettre à l'Ecclesia.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Stratège",
+      "verso": "Général qui commande l'armée. Les 10 stratèges sont la seule magistrature élue à Athènes (et non tirée au sort).",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Qui est Périclès ?",
+      "verso": "Homme politique athénien (vers 495-429 av. J.-C.), élu stratège pendant 15 ans. Sous son « âge d'or » : construction du Parthénon, renforcement de la démocratie.",
+      "categorie": "personnages",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Ostracisme",
+      "verso": "Vote pour bannir un citoyen jugé trop puissant pendant 10 ans. Son nom est écrit sur un tesson de poterie (ostrakon). Il faut plus de 6 000 votes.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Citoyen athénien : qui peut l'être ?",
+      "verso": "Homme adulte, né de père ET de mère athéniens. Ils représentent seulement 10 % de la population. Ils peuvent voter et participer à la vie politique.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Métèque",
+      "verso": "Étranger résidant à Athènes, souvent commerçant ou artisan. Libre de travailler mais sans droits politiques (ne peut ni voter, ni posséder de terre).",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Quels sont les exclus de la démocratie athénienne ?",
+      "verso": "Les femmes (aucun droit politique), les métèques (étrangers, pas de vote) et les esclaves (aucun droit, considérés comme des « outils vivants »).",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Qu'est-ce qui unit tous les Grecs malgré les rivalités entre cités ?",
+      "verso": "Une même langue (le grec), une même religion (polythéisme), des mythes communs (Homère), des sanctuaires panhelléniques (Olympie, Delphes) et le lien sacré métropole-colonie.",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Quelle est la différence entre démocratie directe et démocratie représentative ?",
+      "verso": "Démocratie directe (Athènes) : les citoyens votent eux-mêmes les lois. Démocratie représentative (France aujourd'hui) : les citoyens élisent des représentants qui votent les lois.",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    }
+  ]
+}

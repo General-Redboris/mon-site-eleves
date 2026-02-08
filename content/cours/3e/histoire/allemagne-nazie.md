@@ -1,0 +1,435 @@
+---
+titre: "L'Allemagne nazie (1933-1939) — Un régime totalitaire"
+niveau: "3e"
+matiere: "histoire"
+chapitre: 3
+resume: "Le 30 janvier 1933, Hitler est nommé chancelier. En quelques mois, il transforme la République de Weimar en une dictature totalitaire fondée sur le racisme et l'antisémitisme : le IIIe Reich. Par la propagande, la terreur et l'embrigadement, les nazis soumettent la société allemande et persécutent les Juifs, préparant la guerre et le génocide."
+vocabulaire:
+  - terme: "NSDAP"
+    definition: "Parti national-socialiste des travailleurs allemands, dit « parti nazi ». Fondé en 1920, ce parti d'extrême droite combine nationalisme agressif, antisémitisme et discours anticapitaliste."
+  - terme: "Antisémitisme"
+    definition: "Haine des Juifs. L'antisémitisme nazi est fondé sur des théories raciales pseudo-scientifiques, pas sur la religion."
+  - terme: "Darwinisme social"
+    definition: "Idéologie qui applique abusivement la théorie de l'évolution de Darwin aux sociétés humaines, justifiant la domination des « forts » sur les « faibles ». Sans fondement scientifique."
+  - terme: "Eugénisme"
+    definition: "Théorie et pratique visant à « améliorer » l'espèce humaine en favorisant la reproduction des individus jugés « supérieurs » et en empêchant celle des individus jugés « inférieurs »."
+  - terme: "Espace vital (Lebensraum)"
+    definition: "Concept nazi désignant les territoires que l'Allemagne devrait conquérir à l'Est (Pologne, URSS) pour permettre l'expansion du « peuple allemand »."
+  - terme: "Führer"
+    definition: "« Guide » en allemand. Titre d'Adolf Hitler, désignant son pouvoir absolu sur le parti nazi puis sur l'État."
+  - terme: "Gestapo"
+    definition: "Geheime Staatspolizei (police secrète d'État). Créée en 1933, elle traque les opposants au régime. Pouvoirs illimités, recours systématique à la torture."
+  - terme: "Gleichschaltung"
+    definition: "« Mise au pas ». Processus de nazification de toutes les institutions allemandes en 1933."
+  - terme: "Jeunesses hitlériennes"
+    definition: "Organisation de jeunesse nazie, obligatoire à partir de 1936 pour tous les jeunes de 10 à 18 ans."
+  - terme: "Lois de Nuremberg"
+    definition: "Lois antisémites de septembre 1935 retirant aux Juifs la citoyenneté allemande et interdisant les mariages « mixtes »."
+  - terme: "Nuit de cristal (Kristallnacht)"
+    definition: "Pogrom antisémite organisé dans toute l'Allemagne les 9 et 10 novembre 1938. Son nom vient des vitrines brisées des commerces juifs."
+  - terme: "Nuit des longs couteaux"
+    definition: "Purge sanglante du 30 juin 1934 au cours de laquelle Hitler fait assassiner les chefs SA par la SS."
+  - terme: "Pogrom"
+    definition: "Émeute violente, souvent organisée, contre une minorité (notamment les Juifs)."
+  - terme: "Propagande"
+    definition: "Ensemble des techniques visant à influencer l'opinion publique pour obtenir son adhésion à une idéologie."
+  - terme: "SA (Sturmabteilung)"
+    definition: "Section d'assaut. Milice paramilitaire nazie (« chemises brunes »), décimée lors de la Nuit des longs couteaux en 1934."
+  - terme: "SS (Schutzstaffel)"
+    definition: "Section de protection. Organisation d'élite nazie dirigée par Himmler, responsable de la terreur et du génocide."
+  - terme: "Totalitarisme"
+    definition: "Régime politique où l'État, dirigé par un parti unique et un chef tout-puissant, cherche à contrôler tous les aspects de la vie sociale."
+---
+
+# L'Allemagne nazie (1933-1939) — Un régime totalitaire
+
+> **Problématique :** Comment le régime nazi s'est-il imposé en Allemagne et a-t-il transformé la société allemande en une dictature totalitaire ?
+
+## Introduction
+
+Le 30 janvier 1933, Adolf Hitler est nommé chancelier d'Allemagne par le président Hindenburg. En quelques mois, il transforme la République de Weimar en une dictature totalitaire : le IIIe Reich. Ce régime, fondé sur une idéologie raciste et expansionniste, va plonger l'Europe dans la guerre et perpétrer des crimes de masse sans précédent, dont le génocide des Juifs (la Shoah).
+
+Ce cours retrace l'accession au pouvoir des nazis, analyse leur idéologie meurtrière, et décrit comment ils ont soumis la société allemande par la terreur et la propagande.
+
+### Repères chronologiques essentiels
+
+| Date | Événement |
+|---|---|
+| **30 janvier 1933** | Hitler devient chancelier d'Allemagne |
+| **27-28 février 1933** | Incendie du Reichstag → Décret suspendant les libertés |
+| **23 mars 1933** | Loi des pleins pouvoirs |
+| **14 juillet 1933** | Le NSDAP devient parti unique |
+| **30 juin 1934** | Nuit des longs couteaux (élimination de la SA) |
+| **15 septembre 1935** | Lois de Nuremberg (lois antisémites) |
+| **9-10 novembre 1938** | Nuit de cristal (pogrom contre les Juifs) |
+
+---
+
+## I. L'accession au pouvoir des nazis
+
+### A. Une République fragilisée : la République de Weimar
+
+#### 1. Le traumatisme de la défaite de 1918
+
+La défaite de l'Allemagne lors de la Première Guerre mondiale est un choc immense pour la population. Jusqu'au bout, la propagande officielle avait affirmé que l'armée allemande était victorieuse. Le 11 novembre 1918, l'armistice est signé alors que les troupes allemandes occupent encore des territoires ennemis. Comment expliquer cette défaite inattendue ?
+
+Pour de nombreux Allemands, notamment dans les milieux nationalistes et militaires, la défaite ne peut s'expliquer que par une trahison. C'est la naissance du **mythe du « coup de poignard dans le dos »** (Dolchstoßlegende) : l'armée allemande, invincue sur le terrain, aurait été trahie par des politiciens, des révolutionnaires et des Juifs. Ce mythe, totalement faux historiquement, sera abondamment exploité par les nazis.
+
+:::definition
+**Le mythe du « coup de poignard dans le dos »** — Théorie conspirationniste selon laquelle l'armée allemande aurait été trahie par l'arrière (politiciens, révolutionnaires, Juifs) lors de la Première Guerre mondiale. Cette théorie fausse a été utilisée par les nationalistes et les nazis pour délégitimer la République de Weimar.
+:::
+
+#### 2. Le « diktat » de Versailles
+
+Le traité de Versailles, signé le 28 juin 1919, est perçu par les Allemands comme une humiliation nationale. L'Allemagne est déclarée seule responsable de la guerre (article 231) et doit accepter des conditions très dures :
+
+- Pertes territoriales importantes : Alsace-Lorraine rendue à la France, territoires cédés à la Pologne, perte de toutes les colonies
+- Réparations financières colossales (132 milliards de marks-or)
+- Limitation drastique de l'armée (100 000 hommes, pas d'aviation, pas de tanks)
+- Occupation de la Rhénanie par les Alliés
+
+Les Allemands qualifient ce traité de « diktat » (dictée) car ils n'ont pas pu négocier ses termes. La République de Weimar, née de la défaite, est associée à cette humiliation, ce qui la fragilise dès sa naissance.
+
+:::complement
+**Les conséquences territoriales du traité de Versailles** — L'Allemagne perd environ 13% de son territoire et 10% de sa population. L'Alsace-Lorraine retourne à la France, le couloir de Dantzig et une partie de la Silésie sont cédés à la Pologne (séparant la Prusse orientale du reste de l'Allemagne), le nord du Schleswig revient au Danemark, et les colonies africaines sont partagées entre les vainqueurs. Ces pertes créent un fort ressentiment nationaliste et le désir de « réviser » le traité. Hitler exploitera ce sentiment en promettant de réunir tous les Allemands dans un même État (le pangermanisme).
+:::
+
+#### 3. Les crises économiques
+
+La République de Weimar traverse plusieurs crises économiques majeures qui déstabilisent la société allemande.
+
+**L'hyperinflation de 1923 :** Pour payer les réparations de guerre, le gouvernement allemand imprime massivement de la monnaie. Les prix explosent : en janvier 1923, un dollar vaut 18 000 marks ; en novembre, il en vaut 4 200 milliards ! Les économies des classes moyennes sont anéanties. Un repas au restaurant peut coûter plusieurs milliards de marks.
+
+**La crise de 1929 :** Le krach boursier de Wall Street (octobre 1929) frappe durement l'Allemagne, très dépendante des capitaux américains. Les banques font faillite, les entreprises ferment, le chômage explose : 6 millions de chômeurs en 1932, soit près d'un tiers de la population active. Cette crise économique et sociale crée un terreau favorable à l'extrémisme politique.
+
+### B. La montée du parti nazi
+
+#### 1. Hitler et la création du NSDAP
+
+Adolf Hitler (1889-1945) est un Autrichien qui s'engage dans l'armée allemande pendant la Première Guerre mondiale. Traumatisé par la défaite, il rejoint en 1919 un petit parti nationaliste à Munich : le DAP (Parti des travailleurs allemands). Il en devient rapidement le chef charismatique et le transforme en 1920 en NSDAP (Parti national-socialiste des travailleurs allemands), communément appelé « parti nazi ».
+
+Le parti nazi se dote rapidement d'organisations paramilitaires qui utilisent la violence pour intimider les adversaires politiques :
+
+- **La SA (Sturmabteilung, Section d'assaut) :** créée en 1921, cette milice paramilitaire est reconnaissable à ses « chemises brunes ». Dirigée par Ernst Röhm, elle compte jusqu'à 3 millions de membres et se livre à des violences de rue contre les communistes et les Juifs.
+- **La SS (Schutzstaffel, Section de protection) :** créée en 1925 comme garde personnelle d'Hitler, elle devient sous la direction de Heinrich Himmler (à partir de 1929) une organisation d'élite qui jouera un rôle central dans la terreur nazie et l'extermination des Juifs.
+
+#### 2. Le putsch de la Brasserie (1923)
+
+Les 8 et 9 novembre 1923, Hitler tente de prendre le pouvoir par la force à Munich (Bavière). Ce coup d'État, parti d'une brasserie, échoue lamentablement. Hitler est arrêté, jugé et condamné à 5 ans de prison (il n'en fera que 9 mois).
+
+Cet échec est paradoxalement bénéfique pour Hitler : son procès lui offre une tribune médiatique nationale, et il rédige en prison son livre-programme, *Mein Kampf* (« Mon combat »), dans lequel il expose son idéologie raciste et ses projets de conquête. Surtout, il tire une leçon de cet échec : il faut conquérir le pouvoir par les urnes, en utilisant les règles de la démocratie pour la détruire de l'intérieur.
+
+:::complement
+**Mein Kampf : un programme de haine** — Publié en 1925-1926, *Mein Kampf* expose les grandes lignes de l'idéologie nazie : antisémitisme virulent (les Juifs sont présentés comme responsables de tous les maux de l'Allemagne), racisme (théorie de la supériorité de la « race aryenne »), rejet de la démocratie et du communisme, volonté de conquérir un « espace vital » (Lebensraum) à l'Est. Ce livre, souvent considéré comme illisible en raison de son style confus, s'est vendu à des millions d'exemplaires en Allemagne. Après 1933, il est offert à tous les jeunes mariés. Tout était écrit : les nazis ont mis en oeuvre ce qu'Hitler avait annoncé.
+:::
+
+#### 3. La conquête légale du pouvoir
+
+La crise de 1929 offre aux nazis l'opportunité qu'ils attendaient. Exploitant la détresse économique et sociale, ils obtiennent des succès électoraux spectaculaires :
+
+| Élection | % des voix | Sièges | Chômeurs |
+|---|---|---|---|
+| Mai 1928 | 2,6 % | 12 | 1,4 million |
+| Sept. 1930 | 18,3 % | 107 | 3 millions |
+| **Juillet 1932** | **37,2 %** | **230** | **5,4 millions** |
+| Nov. 1932 | 33 % | 196 | 5,6 millions |
+
+La corrélation entre la montée du chômage et le vote nazi est frappante. Les nazis promettent du travail, du pain et la restauration de la grandeur allemande. Leur propagande efficace (meetings spectaculaires, affiches, radio) séduit les classes moyennes ruinées, les paysans endettés et une partie des ouvriers.
+
+Cependant, les nazis n'ont jamais obtenu la majorité absolue aux élections. C'est grâce aux **manoeuvres politiques des milieux conservateurs** (grands industriels, banquiers, propriétaires terriens) qu'Hitler accède au pouvoir. Ces derniers pensent pouvoir utiliser Hitler pour éliminer la menace communiste, puis le contrôler. Le 30 janvier 1933, le président Hindenburg nomme Hitler chancelier d'Allemagne.
+
+:::personnage
+**Adolf Hitler** (1889-1945) — *Führer du IIIe Reich.* Autrichien d'origine, ancien combattant de 14-18, il prend la tête du parti nazi en 1921. Orateur charismatique, il exploite les frustrations des Allemands pour accéder au pouvoir. Il concentre progressivement tous les pouvoirs et mène l'Allemagne à la guerre et au génocide.
+:::
+
+:::personnage
+**Paul von Hindenburg** (1847-1934) — *Président de la République de Weimar (1925-1934).* Héros de la Première Guerre mondiale, ce vieux maréchal conservateur méprise Hitler mais finit par le nommer chancelier sous la pression des milieux d'affaires. Il meurt en août 1934, permettant à Hitler de cumuler les fonctions de chancelier et de président.
+:::
+
+---
+
+## II. L'idéologie nazie
+
+Le nazisme n'est pas seulement un mouvement politique : c'est une idéologie globale, une vision du monde (*Weltanschauung*) qui prétend expliquer l'histoire et guider l'action. Cette idéologie, exposée dans *Mein Kampf* et les discours d'Hitler, repose sur plusieurs piliers fondamentaux.
+
+### A. Le darwinisme social : la loi du plus fort
+
+Les nazis considèrent que les sociétés humaines sont régies par les mêmes lois que la nature : la lutte pour la survie et la sélection naturelle. Pour eux, la vie est un combat permanent entre les forts et les faibles, entre les races « supérieures » et « inférieures ». La guerre n'est pas un mal mais une nécessité naturelle qui permet aux plus forts de s'imposer.
+
+Cette vision justifie la violence, la conquête et l'élimination des « faibles ». Comme le déclare Hitler : « Celui qui ne se bat pas ne mérite pas de vivre ». Le pacifisme est considéré comme une faiblesse mortelle.
+
+### B. Le racisme et la supériorité de la « race aryenne »
+
+Au coeur de l'idéologie nazie se trouve la croyance en l'existence de « races » humaines hiérarchisées. Les nazis placent au sommet la prétendue « race aryenne » (ou « nordique »), dont les Allemands seraient les représentants les plus purs. Selon Hitler, les Aryens seraient les créateurs de toute civilisation, les « Prométhée de l'humanité ».
+
+À l'opposé, les nazis considèrent d'autres groupes comme des « races inférieures » (Untermenschen, « sous-hommes ») : les Slaves (Polonais, Russes...), les Tziganes, et surtout les Juifs, présentés comme l'anti-race par excellence. Cette classification pseudo-scientifique n'a aucun fondement biologique : les « races » humaines n'existent pas au sens biologique du terme.
+
+:::complement
+**Le mythe aryen : une construction pseudo-scientifique** — Le terme « aryen » désignait à l'origine une famille de langues (les langues indo-européennes). Au XIXe siècle, des théoriciens racistes comme Gobineau ont transformé cette notion linguistique en catégorie raciale, inventant une prétendue « race aryenne » supérieure, blonde aux yeux bleus. Cette théorie n'a aucun fondement scientifique. L'ironie veut que ni Hitler (brun), ni Goebbels (petit et boiteux), ni Himmler (myope) ne correspondaient au type « aryen » qu'ils prétendaient incarner. Aujourd'hui, la génétique a définitivement prouvé qu'il n'existe qu'une seule espèce humaine et que les « races » sont une construction sociale sans réalité biologique.
+:::
+
+### C. L'antisémitisme : la haine des Juifs
+
+L'antisémitisme est l'élément central et le plus meurtrier de l'idéologie nazie. Les Juifs sont présentés comme les ennemis absolus de l'humanité, responsables de tous les maux : défaite de 1918, crise économique, décadence culturelle, communisme et capitalisme à la fois (ce qui est contradictoire, mais la propagande nazie n'est pas à une incohérence près).
+
+Hitler utilise un vocabulaire médical et biologique pour désigner les Juifs : « parasite », « bacille », « infection », « virus ». Cette déshumanisation prépare psychologiquement l'opinion à accepter leur élimination physique, présentée comme une mesure d'« hygiène raciale ».
+
+### D. L'eugénisme : « améliorer » la race
+
+Les nazis veulent « améliorer » la « race allemande » en favorisant la reproduction des individus jugés « sains » et en éliminant les individus jugés « indésirables ». Cette politique eugéniste vise les personnes handicapées physiques ou mentales, les malades héréditaires, les « asociaux ».
+
+Dès 1933, une loi autorise la stérilisation forcée des personnes atteintes de maladies supposément héréditaires. Entre 1939 et 1941, le programme « Aktion T4 » organise l'assassinat systématique d'environ 70 000 malades mentaux et handicapés allemands, préfigurant les méthodes qui seront utilisées dans les camps d'extermination.
+
+### E. Le culte du Führer
+
+Le nazisme rejette la démocratie, jugée faible et corrompue. Il lui oppose le « principe du chef » (*Führerprinzip*) : un homme providentiel, incarnation de la volonté du peuple, doit détenir un pouvoir absolu. Hitler est présenté comme ce chef infaillible, quasi divin, dont les décisions ne peuvent être discutées.
+
+Le culte du Führer imprègne toute la société : son portrait est affiché partout, les Allemands se saluent par « Heil Hitler ! », les enfants apprennent à vénérer le chef dès l'école. Cette relation quasi mystique entre le Führer et son peuple est au fondement du régime totalitaire.
+
+### F. L'espace vital (Lebensraum)
+
+Hitler estime que le peuple allemand, en pleine croissance démographique, a besoin d'un « espace vital » (Lebensraum) pour se développer. Cet espace doit être conquis à l'Est, sur les territoires de la Pologne et de l'URSS, considérés comme habités par des « races inférieures » (les Slaves).
+
+Ce concept implique nécessairement la guerre de conquête, l'asservissement et l'extermination des populations locales pour faire place aux colons allemands. La notion d'espace vital est donc indissociable du projet génocidaire nazi.
+
+---
+
+## III. L'installation de la dictature
+
+En quelques mois, de février à juillet 1933, Hitler transforme l'Allemagne démocratique en dictature totalitaire. Cette « mise au pas » (*Gleichschaltung*) s'opère par étapes, en utilisant la légalité pour détruire la légalité.
+
+### A. L'incendie du Reichstag et la suspension des libertés
+
+Dans la nuit du 27 au 28 février 1933, le Reichstag (parlement allemand) est détruit par un incendie. Un jeune communiste néerlandais, Marinus van der Lubbe, est arrêté sur place. Les nazis accusent immédiatement le Parti communiste d'avoir organisé cet attentat, prélude à une insurrection révolutionnaire.
+
+Dès le lendemain, le 28 février 1933, Hitler fait adopter le **« décret pour la protection du peuple et de l'État »** qui suspend les libertés fondamentales : liberté de la presse, liberté de réunion, liberté d'expression, inviolabilité du domicile, secret des correspondances. Ce décret « provisoire » restera en vigueur jusqu'en 1945.
+
+Dans les jours qui suivent, des milliers de communistes, socialistes et opposants sont arrêtés et internés dans des camps improvisés. Le premier camp de concentration officiel ouvre à Dachau, près de Munich, le 20 mars 1933.
+
+:::complement
+**Qui a incendié le Reichstag ?** — La question de la responsabilité de l'incendie du Reichstag fait encore débat. Trois hypothèses existent : Van der Lubbe a agi seul (thèse aujourd'hui dominante parmi les historiens) ; les nazis ont organisé l'incendie eux-mêmes pour avoir un prétexte à la répression ; les communistes sont réellement responsables (thèse nazie, sans preuve). Quelle que soit la vérité, les nazis ont magistralement exploité cet événement pour éliminer leurs adversaires politiques et suspendre les libertés. C'est un exemple classique de ce qu'on appelle une « stratégie du choc » : utiliser une crise pour imposer des mesures d'exception.
+:::
+
+### B. La loi des pleins pouvoirs (23 mars 1933)
+
+Le 23 mars 1933, le Reichstag vote la **« Loi des pleins pouvoirs »** (Ermächtigungsgesetz). Cette loi autorise le gouvernement Hitler à légiférer sans l'accord du Parlement, et même à modifier la Constitution. C'est le suicide légal de la démocratie allemande.
+
+Le vote a lieu dans une atmosphère de terreur : le Parlement siège dans l'Opéra Kroll (le Reichstag ayant brûlé), encerclé par les SA. Les députés communistes sont en prison ou en fuite. Seuls les sociaux-démocrates (SPD) votent contre. Les autres partis, y compris le parti catholique du Centre, votent pour, croyant pouvoir « canaliser » Hitler.
+
+### C. L'instauration du parti unique
+
+Les nazis éliminent méthodiquement tous les autres partis politiques :
+
+- Le Parti communiste (KPD) est interdit dès le 28 février 1933
+- Le Parti social-démocrate (SPD) est interdit le 22 juin 1933
+- Les autres partis s'autodissolvent sous la pression
+- Le 14 juillet 1933, une loi proclame le NSDAP seul parti autorisé
+
+Parallèlement, les syndicats sont dissous et remplacés par le Front allemand du travail (DAF), organisation unique contrôlée par les nazis. La presse est mise au pas, les journaux d'opposition interdits ou rachetés. Le 10 mai 1933, des autodafés de livres « contraires à l'esprit allemand » sont organisés dans toute l'Allemagne.
+
+### D. La Nuit des longs couteaux (30 juin 1934)
+
+Ernst Röhm, chef de la SA (3 millions de membres), réclame une « seconde révolution » : nationalisation des entreprises, intégration de la SA dans l'armée régulière. Ces revendications inquiètent l'armée (Reichswehr) et les milieux industriels, dont Hitler a besoin pour consolider son pouvoir.
+
+Dans la nuit du 29 au 30 juin 1934, Hitler fait assassiner Röhm et plusieurs centaines de chefs SA par la SS. Cette purge sanglante, baptisée « Nuit des longs couteaux », élimine également d'anciens rivaux politiques (comme l'ex-chancelier von Schleicher). Hitler justifie ces meurtres en invoquant un prétendu complot.
+
+Cette nuit marque un tournant : la SS d'Himmler remplace la SA comme principal instrument de terreur. L'armée, satisfaite de l'élimination de Röhm, prête serment de fidélité personnelle à Hitler le 2 août 1934, après la mort de Hindenburg. Hitler cumule désormais les fonctions de chancelier et de président : il est le Führer tout-puissant.
+
+:::personnage
+**Heinrich Himmler** (1900-1945) — *Reichsführer-SS, chef de la SS et de la Gestapo.* Ancien éleveur de poules devenu chef de la SS, il transforme cette organisation en un État dans l'État. Il dirige la police politique (Gestapo), le système des camps de concentration, et sera le principal organisateur de la Shoah. Il se suicide en mai 1945 après sa capture.
+:::
+
+:::personnage
+**Ernst Röhm** (1887-1934) — *Chef de la SA.* Vétéran de 14-18, il dirige la SA et ses millions de « chemises brunes ». Ses ambitions révolutionnaires et son homosexualité le rendent suspect aux yeux de l'armée et des conservateurs. Hitler le fait assassiner lors de la Nuit des longs couteaux.
+:::
+
+---
+
+## IV. Une société embrigadée et persécutée
+
+Le régime nazi ne se contente pas de détenir le pouvoir politique : il veut contrôler tous les aspects de la vie des Allemands, façonner les esprits et les corps pour créer un « homme nouveau ». Ce contrôle total de la société s'exerce par trois moyens complémentaires : la propagande, la terreur et l'embrigadement.
+
+### A. La propagande : contrôler les esprits
+
+Joseph Goebbels, ministre de la Propagande et de l'Information depuis mars 1933, met en place un système de contrôle total des médias et de la culture. Rien ne peut être publié, diffusé ou exposé sans l'approbation du ministère.
+
+**Les moyens de la propagande nazie :**
+
+- **La radio :** Les nazis produisent des récepteurs bon marché (le « Volksempfänger ») pour que chaque foyer puisse écouter la parole du Führer. Des haut-parleurs sont installés dans les usines et les lieux publics.
+- **Le cinéma :** Les actualités cinématographiques diffusent la propagande avant chaque film. Leni Riefenstahl réalise des films spectaculaires glorifiant le régime (*Le Triomphe de la volonté*, *Les Dieux du stade*).
+- **Les rassemblements de masse :** Les congrès annuels du parti à Nuremberg sont des spectacles grandioses (« cathédrales de lumière ») destinés à impressionner et à créer un sentiment d'appartenance à une communauté invincible.
+- **Les affiches :** Omniprésentes, elles glorifient le Führer, exaltent la « race aryenne », stigmatisent les Juifs et appellent au sacrifice pour la patrie.
+- **Le culte du Führer :** Hitler est présenté comme un demi-dieu, infaillible et providentiel. Son portrait est affiché partout, le salut « Heil Hitler ! » est obligatoire.
+
+:::personnage
+**Joseph Goebbels** (1897-1945) — *Ministre de la Propagande et de l'Information.* Docteur en philosophie, orateur talentueux et antisémite fanatique, il contrôle tous les médias et la culture du IIIe Reich. Maitre de la manipulation des masses, il met son intelligence au service de la haine. Il se suicide avec sa famille dans le bunker d'Hitler en mai 1945.
+:::
+
+### B. La terreur : surveiller et punir
+
+Parallèlement à la propagande, le régime nazi utilise la terreur pour éliminer toute opposition. Cette terreur est exercée par plusieurs organisations qui se complètent :
+
+- **La Gestapo (Geheime Staatspolizei, police secrète d'État) :** créée en 1933, elle traque les opposants politiques, les résistants, les « asociaux ». Elle dispose de pouvoirs illimités : arrestation sans mandat, détention sans jugement, torture.
+- **La SS (Schutzstaffel) :** dirigée par Himmler, elle devient un véritable État dans l'État, contrôlant la police, les camps de concentration, et plus tard les Einsatzgruppen (commandos de tueurs) et les camps d'extermination.
+- **Les camps de concentration :** dès 1933, des camps sont ouverts pour interner les opposants (Dachau, Buchenwald, Sachsenhausen). Les conditions y sont terribles : travail forcé, malnutrition, violences, exécutions. L'inscription « Arbeit macht frei » (« Le travail rend libre ») orne cyniquement leur entrée.
+
+La délation est encouragée : voisins, collègues, même membres de la famille sont incités à dénoncer tout comportement « anti-allemand ». Cette atmosphère de suspicion généralisée isole les individus et empêche toute résistance collective.
+
+### C. L'embrigadement de la jeunesse
+
+Pour les nazis, l'avenir du Reich repose sur la jeunesse. Celle-ci doit être formée dès le plus jeune âge pour devenir des nazis convaincus, prêts à se battre et à mourir pour le Führer.
+
+Les **Jeunesses hitlériennes (Hitlerjugend)**, créées en 1926, deviennent obligatoires en 1936 pour tous les jeunes de 10 à 18 ans. Les garçons passent d'abord par les Jungvolk (10-14 ans) puis par la Hitlerjugend proprement dite (14-18 ans). Les filles rejoignent le Bund Deutscher Mädel (Ligue des jeunes filles allemandes).
+
+**Ce que l'on enseigne aux jeunes nazis :**
+
+- L'obéissance aveugle au Führer et la discipline militaire
+- L'entrainement physique et sportif (préparation militaire)
+- L'idéologie raciste et antisémite
+- Le mépris de la réflexion intellectuelle au profit de l'action
+- Pour les filles : la préparation au rôle de mère et d'épouse (les « 3 K » : Kinder, Küche, Kirche — enfants, cuisine, église)
+
+Comme le déclare Hitler : « Ces jeunes n'apprennent rien d'autre qu'à penser allemand et à agir en Allemand [...] et ils ne seront plus jamais libres de toute leur vie ». L'école est également nazifiée : les professeurs « tièdes » sont renvoyés, les manuels réécrits, les théories racistes enseignées.
+
+### D. La persécution des Juifs (1933-1939)
+
+Dès leur arrivée au pouvoir, les nazis mettent en oeuvre leur programme antisémite. La persécution des Juifs allemands (environ 500 000 personnes, soit moins de 1% de la population) s'intensifie progressivement.
+
+**Les étapes de la persécution :**
+
+- **1er avril 1933 :** Boycott national des commerces juifs, organisé par les SA.
+- **Avril 1933 :** Les Juifs sont exclus de la fonction publique, de l'enseignement, de la presse.
+- **15 septembre 1935 — Lois de Nuremberg :** Les Juifs perdent la citoyenneté allemande. Les mariages et relations sexuelles entre Juifs et « Aryens » sont interdits (« loi de protection du sang »).
+- **1936-1938 :** Exclusion progressive des Juifs de la vie économique (« aryanisation » des entreprises juives).
+- **9-10 novembre 1938 — Nuit de cristal (Kristallnacht) :** Pogrom organisé dans toute l'Allemagne : 91 Juifs assassinés, 30 000 déportés en camp de concentration, des centaines de synagogues incendiées, 7 500 commerces détruits.
+
+Après la Nuit de cristal, l'émigration devient la seule issue pour les Juifs allemands. Mais les pays étrangers ferment leurs frontières. Entre 1933 et 1939, environ 300 000 Juifs quittent l'Allemagne. Ceux qui restent seront victimes du génocide pendant la guerre.
+
+:::complement
+**Les Justes : ceux qui ont résisté** — Face à la persécution des Juifs, la grande majorité des Allemands sont restés passifs, par peur, indifférence ou adhésion au régime. Mais certains ont pris des risques considérables pour aider les persécutés : cacher des Juifs, les aider à fuir, leur fournir de faux papiers. Ces « Justes parmi les nations » (titre décerné par Yad Vashem, le mémorial de la Shoah en Israel) ont agi par humanité, au péril de leur vie. Leur exemple montre que même dans les pires circonstances, il est possible de résister au mal.
+:::
+
+---
+
+## V. Synthèse : l'Allemagne nazie, un État totalitaire
+
+L'Allemagne nazie, comme l'URSS stalinienne et l'Italie fasciste, est un exemple de régime totalitaire. Ce concept, forgé dans l'entre-deux-guerres, désigne un type de régime politique nouveau dans l'histoire.
+
+### A. Qu'est-ce qu'un État totalitaire ?
+
+:::definition
+**État totalitaire** — Un État totalitaire est un régime politique dans lequel un parti unique, dirigé par un chef tout-puissant, cherche à contrôler tous les aspects de la vie sociale (politique, économique, culturelle, privée). Ce contrôle s'exerce par la propagande massive, la terreur policière et l'embrigadement de la population. L'État totalitaire nie les libertés individuelles et cherche à créer un « homme nouveau » conforme à son idéologie. Il désigne des « ennemis » (intérieurs ou extérieurs) qu'il persécute ou élimine.
+:::
+
+### B. Les caractéristiques de l'État totalitaire nazi
+
+| Caractéristique | Application en Allemagne nazie |
+|---|---|
+| **Un chef tout-puissant** | Hitler, le Führer, détient tous les pouvoirs. Culte de la personnalité, serment de fidélité. |
+| **Un parti unique** | Le NSDAP est le seul parti autorisé (loi du 14 juillet 1933). Il contrôle l'État et la société. |
+| **Une idéologie officielle** | Nazisme : racisme, antisémitisme, culte du chef, espace vital. Exposé dans *Mein Kampf*. |
+| **La propagande** | Ministère de Goebbels : contrôle total des médias, culte du Führer, congrès de Nuremberg. |
+| **La terreur policière** | SS, Gestapo, camps de concentration (Dachau). Arrestations arbitraires, torture, exécutions. |
+| **L'embrigadement** | Jeunesses hitlériennes obligatoires, Front du travail, nazification de l'école et de la culture. |
+| **Des « ennemis » désignés** | Juifs, communistes, Tziganes, homosexuels, handicapés, « asociaux ». Persécution et extermination. |
+
+### C. Comparaison avec l'URSS stalinienne
+
+L'Allemagne nazie et l'URSS stalinienne sont toutes deux des régimes totalitaires, mais avec des différences importantes :
+
+| Critère | Allemagne nazie | URSS stalinienne |
+|---|---|---|
+| **Idéologie** | Nazisme (racisme, nationalisme) | Communisme (société sans classes) |
+| **Chef** | Hitler (Führer) | Staline (« Petit père des peuples ») |
+| **Économie** | Capitalisme dirigé (alliance avec industriels) | Économie planifiée, collectivisée |
+| **« Ennemis »** | Ennemis raciaux (Juifs, Tziganes) | Ennemis de classe (koulaks, « contre-révolutionnaires ») |
+| **Camps** | Camps de concentration, puis d'extermination | Goulag (camps de travail forcé) |
+
+**Points communs :** Chef tout-puissant avec culte de la personnalité, parti unique, propagande massive, terreur policière et camps, embrigadement de la jeunesse, suppression des libertés, désignation d'« ennemis » à éliminer.
+
+**Différences fondamentales :** L'idéologie nazie est fondée sur le racisme (les ennemis sont définis par leur « race »), celle du stalinisme sur la lutte des classes (les ennemis sont définis par leur position sociale). Le nazisme accepte la propriété privée et s'allie aux capitalistes ; le stalinisme collectivise l'économie.
+
+---
+
+## Conclusion
+
+Entre 1933 et 1939, l'Allemagne nazie se transforme en un État totalitaire qui nie les libertés fondamentales, persécute des millions de personnes et prépare la guerre. Arrivés au pouvoir légalement grâce à la crise économique et aux erreurs des élites conservatrices, les nazis détruisent méthodiquement la démocratie de Weimar.
+
+Leur idéologie, fondée sur le racisme, l'antisémitisme et la volonté de conquête, conduit inévitablement à la guerre et au génocide. La Seconde Guerre mondiale (1939-1945), déclenchée par l'Allemagne nazie, causera la mort de plus de 60 millions de personnes, dont 6 millions de Juifs systématiquement exterminés dans la Shoah.
+
+L'étude du nazisme nous rappelle la fragilité de la démocratie et les dangers des idéologies de haine. Elle nous invite à la vigilance face aux discours qui désignent des boucs émissaires, promeuvent la violence ou promettent des solutions simples à des problèmes complexes.
+
+> *« Ceux qui ne peuvent se rappeler le passé sont condamnés à le répéter. »*
+> — George Santayana, philosophe (1863-1952)
+
+---
+
+## Annexe 1 : Les personnages clés du régime nazi
+
+:::personnage
+**Adolf Hitler** (1889-1945) — *Führer du IIIe Reich.* Autrichien d'origine, il prend la tête du parti nazi en 1921. Chancelier en 1933, il cumule tous les pouvoirs à partir de 1934. Responsable de la Seconde Guerre mondiale et de la Shoah, il se suicide dans son bunker à Berlin le 30 avril 1945.
+:::
+
+:::personnage
+**Heinrich Himmler** (1900-1945) — *Reichsführer-SS.* Chef de la SS et de la Gestapo, il contrôle l'appareil de terreur nazi : police politique, camps de concentration, et plus tard les Einsatzgruppen et camps d'extermination. Principal organisateur de la Shoah. Suicide en mai 1945.
+:::
+
+:::personnage
+**Joseph Goebbels** (1897-1945) — *Ministre de la Propagande.* Maitre de la propagande nazie, il contrôle tous les médias et la culture. Antisémite fanatique, orateur talentueux. Il se suicide avec sa famille dans le bunker d'Hitler en mai 1945, après avoir fait empoisonner ses six enfants.
+:::
+
+:::personnage
+**Hermann Göring** (1893-1946) — *Numéro 2 du régime, chef de la Luftwaffe.* Héros de l'aviation en 14-18, il crée la Gestapo en 1933 et dirige l'armée de l'air allemande (Luftwaffe). Responsable du plan de quatre ans et de l'« aryanisation » économique. Condamné à mort à Nuremberg, il se suicide avant son exécution.
+:::
+
+:::personnage
+**Ernst Röhm** (1887-1934) — *Chef de la SA.* Compagnon de la première heure d'Hitler, il dirige les SA (3 millions de « chemises brunes »). Ses ambitions révolutionnaires inquiètent l'armée et les industriels. Hitler le fait assassiner lors de la Nuit des longs couteaux (30 juin 1934).
+:::
+
+:::personnage
+**Reinhard Heydrich** (1904-1942) — *Chef du RSHA, bras droit de Himmler.* Surnommé « le bourreau » ou « l'homme au coeur de fer », il dirige les services de sécurité nazis et organise la conférence de Wannsee (janvier 1942) qui planifie la « Solution finale ». Assassiné par des résistants tchèques à Prague en juin 1942.
+:::
+
+---
+
+## Annexe 2 : Bibliographie et sitographie
+
+### Ouvrages accessibles aux élèves de 3e
+
+- DELPARD Raphaël, *Les Enfants cachés*, J'ai Lu, 2009. Témoignages d'enfants juifs cachés pendant la guerre.
+- FRANK Anne, *Journal*, Le Livre de Poche, 1950. Le journal intime d'une jeune fille juive cachée à Amsterdam.
+- WIEVIORKA Annette, *Auschwitz expliqué à ma fille*, Seuil, 1999. Introduction claire à la Shoah.
+- SPIEGELMAN Art, *Maus*, Flammarion, 1987-1992. Bande dessinée majeure sur la Shoah (Prix Pulitzer 1992).
+
+### Pour approfondir (enseignants et élèves motivés)
+
+- CHAPOUTOT Johann, *La Révolution culturelle nazie*, Gallimard, 2017. Analyse de l'idéologie nazie.
+- KERSHAW Ian, *Hitler*, Flammarion, 2008. La biographie de référence.
+- EVANS Richard J., *Le Troisième Reich (3 tomes)*, Flammarion, 2009-2016. Somme historique majeure.
+- HILBERG Raul, *La Destruction des Juifs d'Europe*, Gallimard, 2006. L'ouvrage fondateur sur la Shoah.
+- KLEMPERER Victor, *LTI, la langue du IIIe Reich*, Pocket, 1996. Analyse de la langue nazie par un philologue juif resté en Allemagne.
+
+### Films et documentaires
+
+- *La Liste de Schindler* (Steven Spielberg, 1993). L'histoire d'un industriel allemand qui sauve des Juifs.
+- *Le Pianiste* (Roman Polanski, 2002). Survie d'un pianiste juif dans le ghetto de Varsovie.
+- *Shoah* (Claude Lanzmann, 1985). Documentaire monumental de 9h30 (extraits utilisables en classe).
+- *Apocalypse — Hitler* (Isabelle Clarke et Daniel Costelle, 2011). Documentaire en images d'archives colorisées.
+- *Un village français* (série France 3, 2009-2017). La vie sous l'Occupation (fiction historique rigoureuse).
+
+### Sites internet de référence
+
+- **Encyclopédie du United States Holocaust Memorial Museum (USHMM)** — [encyclopedia.ushmm.org/fr](https://encyclopedia.ushmm.org/fr) — Articles de référence sur la Shoah et le nazisme.
+- **Mémorial de la Shoah (Paris)** — [memorialdelashoah.org](https://www.memorialdelashoah.org) — Ressources pédagogiques, expositions virtuelles, témoignages.
+- **Yad Vashem (Jérusalem)** — [yadvashem.org/fr](https://www.yadvashem.org/fr.html) — Mémorial mondial de la Shoah, base de données des victimes.
+- **Bundesarchiv (Archives fédérales allemandes)** — [bundesarchiv.de](https://www.bundesarchiv.de) — Photographies et documents d'archives sur le IIIe Reich.
+- **Lumni (France Télévisions)** — [lumni.fr](https://www.lumni.fr) — Vidéos pédagogiques sur la Seconde Guerre mondiale et la Shoah.
+
+### Lieux de mémoire à visiter
+
+- Mémorial de la Shoah, Paris (17 rue Geoffroy-l'Asnier, 75004)
+- Camp de Natzweiler-Struthof, Alsace (seul camp de concentration sur le territoire français actuel)
+- Mémorial de Caen (Normandie) — Musée de la Seconde Guerre mondiale
+- Centre d'Histoire de la Résistance et de la Déportation, Lyon
+- Camp d'Auschwitz-Birkenau, Pologne (site classé au patrimoine mondial de l'UNESCO)
+- Mémorial du camp de Dachau, Allemagne

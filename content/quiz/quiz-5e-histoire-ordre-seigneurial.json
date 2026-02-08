@@ -1,0 +1,181 @@
+{
+  "titre": "L'ordre seigneurial (XIe-XVe siècle)",
+  "niveau": "5e",
+  "matiere": "histoire",
+  "chapitre": "ordre-seigneurial",
+  "questions": [
+    {
+      "type": "qcm",
+      "question": "Comment appelle-t-on le territoire sur lequel un seigneur exerce son autorité ?",
+      "options": ["Un fief", "Une seigneurie", "Une paroisse", "Un diocèse"],
+      "reponse": 1,
+      "explication": "La seigneurie est le territoire du seigneur, comprenant le château, le village, les terres cultivées, les forêts et les cours d'eau. Le fief, lui, est la terre accordée à un vassal."
+    },
+    {
+      "type": "qcm",
+      "question": "Comment s'appellent les deux parties principales d'une seigneurie ?",
+      "options": ["Le fief et le ban", "La réserve et les tenures", "Le domaine et la paroisse", "Le château et le village"],
+      "reponse": 1,
+      "explication": "La réserve est cultivée pour le seigneur, les tenures sont les parcelles confiées aux paysans en échange de redevances et de services."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce que le droit de ban ?",
+      "options": [
+        "Le droit de quitter la seigneurie",
+        "Le droit de commander, interdire et punir sur sa seigneurie",
+        "Le droit de se marier librement",
+        "Le droit de ne pas payer d'impôts"
+      ],
+      "reponse": 1,
+      "explication": "Le droit de ban donne au seigneur le pouvoir de commander, d'interdire et de punir tous les habitants de sa seigneurie. Il rend aussi la justice et lève des impôts."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Les banalités obligent les paysans à utiliser le four, le moulin et le pressoir du seigneur.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 0,
+      "explication": "Les banalités sont l'obligation d'utiliser les équipements du seigneur (four, moulin, pressoir) moyennant le paiement d'une taxe. C'est un monopole économique important."
+    },
+    {
+      "type": "qcm",
+      "question": "Comment appelle-t-on le seigneur qui accorde un fief à un vassal ?",
+      "options": ["Un chevalier", "Un suzerain", "Un écuyer", "Un abbé"],
+      "reponse": 1,
+      "explication": "Le suzerain accorde un fief et sa protection à un vassal. En échange, le vassal jure fidélité et doit aider son suzerain."
+    },
+    {
+      "type": "qcm",
+      "question": "Quelles sont les trois étapes de la cérémonie de l'hommage ?",
+      "options": [
+        "Le bain, la veillée d'armes, la colée",
+        "L'hommage, la féauté, l'investiture",
+        "La prière, le serment, le combat",
+        "L'adoubement, le serment, la remise du fief"
+      ],
+      "reponse": 1,
+      "explication": "L'hommage comprend trois étapes : l'hommage proprement dit (mains jointes), la féauté (serment de fidélité) et l'investiture (remise symbolique du fief)."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "La félonie, c'est-à-dire la trahison de son seigneur, est considérée comme un péché mortel.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 0,
+      "explication": "Le serment de fidélité est prêté sur les reliques ou la Bible. Rompre ce serment (la félonie) est considéré comme un péché mortel, une trahison envers Dieu lui-même."
+    },
+    {
+      "type": "qcm",
+      "question": "À quel âge un jeune noble commence-t-il généralement sa formation de chevalier en devenant page ?",
+      "options": ["5 ans", "7 ans", "12 ans", "14 ans"],
+      "reponse": 1,
+      "explication": "La formation de chevalier commence vers 7 ans comme page (bonnes manières, équitation), puis vers 14 ans comme écuyer (accompagne un chevalier au combat)."
+    },
+    {
+      "type": "qcm",
+      "question": "Comment appelle-t-on le coup donné au nouvel chevalier lors de l'adoubement ?",
+      "options": ["La félonie", "La colée", "La taille", "Le cens"],
+      "reponse": 1,
+      "explication": "La colée est un coup donné sur l'épaule ou la nuque lors de l'adoubement. C'est le dernier coup que le chevalier doit recevoir sans répondre."
+    },
+    {
+      "type": "qcm",
+      "question": "Quelles sont les trois fonctions du château fort ?",
+      "options": [
+        "Prison, marché, église",
+        "Forteresse, résidence, centre de pouvoir",
+        "Moulin, forge, grenier",
+        "Caserne, hôpital, école"
+      ],
+      "reponse": 1,
+      "explication": "Le château fort est à la fois une forteresse (défense), une résidence (vie du seigneur et de sa famille) et un centre de pouvoir (justice, administration)."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Les défenseurs d'un château versaient de l'huile bouillante sur les assaillants.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 1,
+      "explication": "C'est un mythe ! L'huile était trop précieuse et coûteuse. On utilisait plutôt de l'eau bouillante, du sable chauffé (qui s'infiltre dans les armures) ou des pierres."
+    },
+    {
+      "type": "qcm",
+      "question": "Quelle est la différence entre un vilain et un serf ?",
+      "options": [
+        "Le vilain est un noble, le serf est un paysan",
+        "Le vilain est libre, le serf est attaché à la terre",
+        "Le vilain est riche, le serf est pauvre",
+        "Il n'y a aucune différence"
+      ],
+      "reponse": 1,
+      "explication": "Le vilain est un paysan libre qui peut quitter la seigneurie. Le serf est attaché à la terre : il ne peut pas partir sans l'autorisation du seigneur."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce que la dîme ?",
+      "options": [
+        "Un impôt versé au roi",
+        "Un dixième de la récolte versé à l'Église",
+        "Une taxe pour utiliser le moulin",
+        "Un travail gratuit sur les terres du seigneur"
+      ],
+      "reponse": 1,
+      "explication": "La dîme est un impôt en nature correspondant à un dixième de la récolte, versé à l'Église pour l'entretien du clergé et des pauvres."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Le mot « vilain » était une insulte au Moyen Âge.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 1,
+      "explication": "Au Moyen Âge, « vilain » vient du latin « villanus » (habitant d'un domaine rural) et n'est pas péjoratif. Le sens insultant n'apparaît qu'à partir du XVe siècle."
+    },
+    {
+      "type": "qcm",
+      "question": "Quelle est la différence entre le clergé séculier et le clergé régulier ?",
+      "options": [
+        "Le séculier est riche, le régulier est pauvre",
+        "Le séculier vit au contact des fidèles, le régulier vit retiré dans des monastères",
+        "Le séculier est plus puissant que le régulier",
+        "Il n'y a aucune différence"
+      ],
+      "reponse": 1,
+      "explication": "Le clergé séculier (prêtres, évêques) vit « dans le siècle », au contact des fidèles. Le clergé régulier (moines) vit « selon une règle », retiré dans des monastères."
+    },
+    {
+      "type": "qcm",
+      "question": "Que signifie la devise monastique « Ora et Labora » ?",
+      "options": ["Mange et dors", "Prie et travaille", "Lis et écris", "Chante et médite"],
+      "reponse": 1,
+      "explication": "« Ora et Labora » signifie « Prie et Travaille ». La journée des moines est partagée entre les offices religieux (prière) et le travail manuel ou intellectuel."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce qu'un scriptorium ?",
+      "options": [
+        "Une salle de prière dans le monastère",
+        "Une salle où les moines copient les manuscrits",
+        "Un tribunal où le seigneur rend la justice",
+        "Un atelier de forge dans le château"
+      ],
+      "reponse": 1,
+      "explication": "Le scriptorium est la salle où les moines copient les manuscrits. Ce travail patient a permis de conserver les textes de l'Antiquité grecque et romaine."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Les gens du Moyen Âge pensaient que la Terre était plate.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 1,
+      "explication": "C'est une idée fausse qui date du XIXe siècle. Les savants médiévaux, héritiers des connaissances grecques, savaient parfaitement que la Terre était ronde."
+    },
+    {
+      "type": "reponse_courte",
+      "question": "Quels sont les trois ordres de la société médiévale ?",
+      "reponse": "Ceux qui prient (le clergé), ceux qui combattent (les seigneurs et chevaliers) et ceux qui travaillent (les paysans).",
+      "explication": "La société médiévale est traditionnellement divisée en trois ordres : oratores (ceux qui prient), bellatores (ceux qui combattent) et laboratores (ceux qui travaillent)."
+    },
+    {
+      "type": "reponse_courte",
+      "question": "Quels sont les trois vœux prononcés par les moines ?",
+      "reponse": "Chasteté, pauvreté et obéissance.",
+      "explication": "En entrant au monastère, les moines et moniales prononcent trois vœux : chasteté (ne pas se marier), pauvreté (ne rien posséder en propre) et obéissance (à l'abbé ou l'abbesse)."
+    }
+  ]
+}

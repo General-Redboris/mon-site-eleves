@@ -1,0 +1,170 @@
+---
+titre: "Les débuts de l'humanité"
+niveau: "6e"
+matiere: "histoire"
+chapitre: 1
+theme: "La longue histoire de l'humanité et des migrations"
+resume: "L'humanité naît en Afrique il y a 7 millions d'années. Les hominidés évoluent progressivement (bipédie, outils, feu, art) et peuplent l'ensemble de la planète grâce aux grandes migrations d'Homo sapiens à partir de -80 000 ans."
+vocabulaire:
+  - terme: "Préhistoire"
+    definition: "Période très longue qui s'étend depuis l'apparition des premiers hominidés (environ -7 millions d'années) jusqu'à l'invention de l'écriture (vers -3 300)."
+  - terme: "Hominidés"
+    definition: "Famille de primates qui regroupe les grands singes et les humains, distingués par la bipédie (marche sur deux pieds)."
+  - terme: "Fossile"
+    definition: "Reste ou empreinte d'un être vivant conservé dans la roche depuis très longtemps."
+  - terme: "Paléontologue"
+    definition: "Scientifique qui étudie les fossiles pour reconstituer l'histoire de la vie sur Terre."
+  - terme: "Archéologue"
+    definition: "Scientifique qui recherche et étudie les traces matérielles laissées par les sociétés du passé (outils, ossements, constructions, etc.)."
+  - terme: "Bipédie"
+    definition: "Capacité de marcher debout sur deux pieds, ce qui libère les mains."
+  - terme: "Chopper (galet aménagé)"
+    definition: "Galet dont on a détaché quelques éclats pour obtenir un bord tranchant. C'est l'un des premiers types d'outils."
+  - terme: "Biface"
+    definition: "Outil en pierre taillée sur les deux faces, de forme symétrique, utilisé pour couper, racler ou creuser."
+  - terme: "Paléolithique"
+    definition: "Première et plus longue période de la Préhistoire, marquée par l'usage d'outils en pierre taillée. Du grec palaios (ancien) et lithos (pierre)."
+  - terme: "Nomade"
+    definition: "Personne qui se déplace régulièrement pour trouver sa nourriture, sans habitat fixe."
+  - terme: "Chasseurs-cueilleurs"
+    definition: "Groupes humains qui vivent de la chasse, de la pêche et de la cueillette de plantes sauvages."
+  - terme: "Migration"
+    definition: "Déplacement d'un groupe de population d'un lieu vers un autre pour s'y installer."
+  - terme: "Béringie"
+    definition: "Bande de terre qui reliait l'Asie à l'Amérique du Nord lors des périodes glaciaires, lorsque le niveau de la mer était plus bas."
+  - terme: "Art pariétal"
+    definition: "Peintures et gravures réalisées sur les parois des grottes par les hommes préhistoriques."
+  - terme: "Sépulture"
+    definition: "Tombe où un défunt est enterré, parfois avec des objets et de l'ocre rouge, témoignant de croyances liées à la mort."
+---
+
+# Les débuts de l'humanité
+
+*Des premiers hominidés aux grandes migrations*
+
+## Introduction
+
+D'où venons-nous ? C'est l'une des questions les plus anciennes que l'humanité se pose. Grâce aux découvertes des **paléontologues** et des **archéologues**, nous savons aujourd'hui que l'histoire de l'humanité commence en **Afrique**, il y a plusieurs millions d'années.
+
+Ce chapitre retrace les grandes étapes de cette aventure : l'apparition des premiers hominidés, la fabrication des premiers outils, les modes de vie des hommes préhistoriques et les grandes migrations qui ont conduit notre espèce, **Homo sapiens**, à peupler l'ensemble de la planète.
+
+---
+
+## I. L'Afrique, berceau de l'humanité
+
+### A. Les premiers hominidés
+
+Les plus anciens hominidés connus sont apparus en **Afrique** il y a environ **7 millions d'années**. Le plus ancien d'entre eux est **Toumaï** (*Sahelanthropus tchadensis*), dont le crâne a été découvert en **2001** au **Tchad** par l'équipe du paléontologue français **Michel Brunet**.
+
+Un autre fossile célèbre est **Lucy**, une **Australopithèque** découverte en **1974** en **Éthiopie**. Lucy vivait il y a environ **3,2 millions d'années**. Son squelette, conservé à près de 40 %, a permis de prouver que les hominidés marchaient déjà sur deux pieds : c'est la **bipédie**. Lucy mesurait environ 1,10 m et pesait autour de 29 kg.
+
+> **Le savais-tu ?** Le nom « Lucy » a été choisi par les chercheurs parce qu'ils écoutaient la chanson des Beatles *Lucy in the Sky with Diamonds* au moment de la découverte ! En éthiopien, elle est appelée **Dinknesh**, ce qui signifie « tu es merveilleuse ».
+
+### B. Ce qui distingue les hominidés
+
+Plusieurs caractéristiques distinguent progressivement les hominidés des autres primates :
+
+- La **bipédie** : la capacité de marcher debout sur deux pieds, ce qui libère les mains.
+- L'augmentation du **volume du cerveau** : de 360 cm³ (Toumaï) à 1 400 cm³ (Homo sapiens).
+- La **fabrication d'outils** de plus en plus élaborés.
+- La **maîtrise du feu**.
+- Le développement du **langage**.
+- La création des **premières formes d'art**.
+
+> **À retenir :** Les premiers hominidés apparaissent en **Afrique** il y a environ **7 millions d'années**. L'Afrique est le « berceau de l'humanité ». La **bipédie** est le premier caractère qui distingue les hominidés des autres primates.
+
+---
+
+## II. Les premiers outils et la maîtrise du feu
+
+### A. Les premiers outils en pierre
+
+Les plus anciens outils connus datent d'environ **3,3 millions d'années** (site de **Lomekwi**, au **Kenya**). À partir d'environ 2,6 millions d'années, **Homo habilis** (« homme habile ») fabrique des **choppers** (galets aménagés) en frappant un galet contre un autre pour obtenir un éclat tranchant.
+
+**Homo erectus** perfectionne la taille de la pierre et invente le **biface**, un outil symétrique taillé sur les deux faces, plus tranchant et plus polyvalent. Bien plus tard, Homo sapiens et Homo neanderthalensis développeront des techniques encore plus fines : lames, grattoirs, pointes de flèches, aiguilles en os.
+
+### B. La maîtrise du feu
+
+La **maîtrise du feu** est une étape décisive. Les plus anciens foyers bien datés remontent à environ **400 000 ans**. C'est **Homo erectus** qui est généralement considéré comme le premier à utiliser et entretenir le feu de manière régulière.
+
+Le feu transforme profondément la vie des hommes préhistoriques :
+
+- **Se chauffer** et résister au froid.
+- **Cuire les aliments** (plus digestes, destruction des parasites).
+- **S'éclairer** dans les grottes.
+- **Se protéger** des prédateurs.
+- **Renforcer les liens sociaux** : les hommes se réunissent autour du foyer.
+
+### C. Un mode de vie nomade
+
+Les hommes du Paléolithique sont des **nomades** : ils se déplacent régulièrement pour suivre le gibier et trouver de nouvelles ressources. Ils vivent de la **chasse**, de la **pêche** et de la **cueillette**. On les appelle des **chasseurs-cueilleurs**.
+
+Ils s'installent dans des abris naturels (grottes, abris sous roche) ou construisent des campements temporaires. Ils vivent en petits groupes de 20 à 50 individus environ.
+
+> **À retenir :** Au **Paléolithique**, les hominidés fabriquent des outils en pierre de plus en plus perfectionnés (choppers, bifaces, lames). La **maîtrise du feu** (vers -400 000 ans) transforme leur quotidien. Les hommes sont **nomades** et vivent de **chasse**, de **pêche** et de **cueillette**.
+
+---
+
+## III. Les grandes migrations : le peuplement de la Terre
+
+### A. La première sortie d'Afrique : Homo erectus
+
+Le premier hominidé à quitter l'Afrique est **Homo erectus**, il y a environ **2 millions d'années**. Il se répand progressivement vers le Proche-Orient, l'Asie (Chine, Java) et l'Europe (Espagne, site d'Atapuerca).
+
+Ces migrations se font très lentement, sur des centaines de milliers d'années, au gré des variations climatiques et des déplacements des troupeaux d'animaux.
+
+### B. Homo sapiens peuple la planète entière
+
+Notre espèce, **Homo sapiens**, apparaît en **Afrique** il y a environ **300 000 ans** (site de **Jebel Irhoud**, au **Maroc**). À partir d'environ **-80 000 ans**, des groupes d'Homo sapiens quittent l'Afrique et migrent progressivement vers tous les continents :
+
+- Vers le **Proche-Orient** et l'**Asie** (environ -70 000 ans).
+- Vers l'**Europe** (environ -45 000 ans), où ils coexistent un temps avec l'**Homme de Néandertal**.
+- Vers l'**Australie** (environ -65 000 ans), en traversant des bras de mer.
+- Vers l'**Amérique** (environ -20 000 ans), en passant par la **Béringie**.
+
+> **À retenir :** **Homo erectus** quitte l'Afrique il y a environ **2 millions d'années**. **Homo sapiens** migre hors d'Afrique il y a environ **80 000 ans** et peuple progressivement l'ensemble de la planète. En Europe, Sapiens coexiste un temps avec **Néandertal** avant la disparition de ce dernier vers -30 000 ans.
+
+---
+
+## IV. Les premières créations artistiques
+
+### A. L'art pariétal : peindre dans les grottes
+
+À partir d'environ **-40 000 ans**, Homo sapiens produit les premières œuvres d'art connues. L'**art pariétal** désigne les peintures et gravures réalisées sur les parois des grottes.
+
+Les grottes les plus célèbres sont la **grotte Chauvet** (Ardèche, environ -36 000 ans) et la **grotte de Lascaux** (Dordogne, environ -20 000 ans). On y trouve des représentations d'animaux peintes avec des pigments naturels (ocre, charbon de bois, manganèse).
+
+> **Le savais-tu ?** Découverte en 1994, la grotte Chauvet contient plus de **1 000 dessins** montrant une maîtrise remarquable du mouvement et de la perspective. Elle est inscrite au patrimoine mondial de l'UNESCO depuis 2014.
+
+### B. Statuettes, parures et sépultures
+
+L'art préhistorique ne se limite pas aux grottes. Les hommes du Paléolithique supérieur créent également des **statuettes** (les **Vénus**, comme la Vénus de Willendorf), des **parures** (colliers de coquillages) et des **instruments de musique** (flûtes en os).
+
+La découverte de **sépultures** (tombes avec des objets, parfois saupoudrés d'ocre rouge) montre que les hommes préhistoriques avaient des pratiques funéraires et probablement des croyances liées à la mort.
+
+> **À retenir :** À partir de **-40 000 ans**, Homo sapiens produit de l'**art pariétal** (grottes Chauvet et Lascaux), des **statuettes** (les Vénus) et des **parures**. Les premières **sépultures** montrent des croyances liées à la mort. Ces créations témoignent d'une **pensée symbolique**.
+
+---
+
+## Conclusion
+
+L'histoire de l'humanité commence en Afrique il y a plusieurs millions d'années. Les premiers hominidés évoluent lentement : bipédie, fabrication d'outils, maîtrise du feu. Homo sapiens, apparu il y a 300 000 ans, est la seule espèce à avoir colonisé l'ensemble de la planète. Ses créations artistiques révèlent un être capable de penser, imaginer, croire et créer.
+
+---
+
+## Frise chronologique
+
+| Date | Événement |
+|------|-----------|
+| -7 000 000 | Toumaï, plus ancien hominidé connu (Tchad) |
+| -3 300 000 | Plus anciens outils connus (Lomekwi, Kenya) |
+| -3 200 000 | Lucy, Australopithèque (Éthiopie) |
+| -2 800 000 | Homo habilis, premier fabricant d'outils régulier |
+| -2 000 000 | Homo erectus quitte l'Afrique |
+| -400 000 | Maîtrise du feu attestée |
+| -300 000 | Apparition d'Homo sapiens en Afrique |
+| -80 000 | Début des grandes migrations de Sapiens hors d'Afrique |
+| -45 000 | Homo sapiens arrive en Europe |
+| -40 000 | Premières œuvres d'art (grotte Chauvet) |
+| -30 000 | Disparition de l'Homme de Néandertal |
+| -20 000 | Peuplement de l'Amérique |

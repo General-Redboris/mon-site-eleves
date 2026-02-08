@@ -1,0 +1,127 @@
+{
+  "titre": "Flashcards — Habiter une métropole",
+  "niveau": "6e",
+  "matiere": "geographie",
+  "cartes": [
+    {
+      "recto": "Métropole",
+      "verso": "Très grande ville qui concentre une population nombreuse, des activités variées et des fonctions importantes (politique, économique, culturelle).",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Habiter (en géographie)",
+      "verso": "Pratiquer l'espace au quotidien : se loger, se déplacer, travailler, consommer, avoir des loisirs, rencontrer des gens.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Urbanisation",
+      "verso": "Augmentation de la population vivant en ville. En 2007, 50 % de la population mondiale vivait en ville.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Bidonville",
+      "verso": "Quartier d'habitat précaire construit avec des matériaux de récupération (bois, tôle), souvent sans eau courante ni électricité. Exemple : Makoko à Lagos.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Cosmopolite",
+      "verso": "Se dit d'une ville où vivent des personnes de nationalités et cultures très diverses. Exemple : Londres, où plus de 300 langues sont parlées.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Quartier d'affaires",
+      "verso": "Espace concentrant bureaux, entreprises et gratte-ciels. Beaucoup y travaillent mais peu y habitent. Exemple : la City à Londres, la Défense à Paris.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Étalement urbain",
+      "verso": "Extension de la ville vers les espaces ruraux environnants. Problèmes : destruction de terres agricoles, pollution, dépendance à la voiture.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Ségrégation spatiale",
+      "verso": "Séparation des populations dans l'espace urbain selon leurs revenus ou origines. Exemple : quartiers riches et bidonvilles côte à côte à Lagos.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Exode rural",
+      "verso": "Départ massif des habitants des campagnes vers les villes, en espérant y trouver un emploi et de meilleures conditions de vie.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Mobilités douces",
+      "verso": "Modes de déplacement non motorisés ou peu polluants : marche, vélo, trottinette, roller.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Mixité sociale",
+      "verso": "Coexistence dans un même quartier de personnes aux revenus et aux origines différentes.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Développement durable",
+      "verso": "Développement qui répond aux besoins du présent sans compromettre ceux des générations futures.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Lagos : combien d'habitants ?",
+      "verso": "Plus de 15 millions d'habitants. C'est la ville la plus peuplée d'Afrique, située au Nigeria (Afrique de l'Ouest).",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Londres : combien d'habitants ?",
+      "verso": "8,2 millions d'habitants. Capitale du Royaume-Uni, c'est une métropole mondiale et une place financière majeure.",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Quel pourcentage de la population mondiale vivra en ville en 2050 (prévision) ?",
+      "verso": "70 % (contre 30 % en 1950 et 50 % en 2007).",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Cite 3 avantages de vivre dans une métropole.",
+      "verso": "Accès aux services (santé, éducation), nombreuses opportunités d'emploi, vie culturelle riche et diversité.",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Cite 3 problèmes des métropoles.",
+      "verso": "Embouteillages et transports difficiles, coût du logement élevé, inégalités entre quartiers (ségrégation spatiale).",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Cite 3 solutions pour améliorer la vie dans les métropoles.",
+      "verso": "Développer les transports en commun, créer des espaces verts et réduire la pollution, favoriser la mixité sociale (logements sociaux).",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Qu'est-ce qu'un grand ensemble ?",
+      "verso": "Quartier d'habitat collectif (barres et tours) construit dans les années 1960-1970 pour loger rapidement une population en forte croissance.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Quelle est la différence entre un pays développé et un pays en développement ?",
+      "verso": "Dans un pays développé, les conditions de vie sont globalement satisfaisantes (soins, éducation). Dans un pays en développement, elles ne le sont pas encore pour tous.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    }
+  ]
+}

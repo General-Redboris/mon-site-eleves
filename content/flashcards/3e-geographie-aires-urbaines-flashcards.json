@@ -1,0 +1,175 @@
+{
+  "titre": "Les aires urbaines dans une France mondialisée",
+  "niveau": "3e",
+  "matiere": "geographie",
+  "cartes": [
+    {
+      "recto": "Mondialisation",
+      "verso": "Processus de développement des échanges (marchandises, capitaux, humains) à l'échelle de la planète, qui s'accompagne d'une interconnexion croissante des territoires.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Aire urbaine",
+      "verso": "Espace formé par un pôle urbain (ville-centre + banlieue) et par une couronne périurbaine.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Pôle urbain (ou agglomération)",
+      "verso": "Ensemble urbain composé d'une ville-centre et de ses banlieues.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Couronne périurbaine",
+      "verso": "Ensemble des communes dont au moins 40 % des actifs travaillent dans le pôle urbain.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Taux d'urbanisation de la France",
+      "verso": "78 % — environ 48 millions de Français sont des citadins.",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Part de la population française vivant dans les aires urbaines",
+      "verso": "85 % de la population. L'espace à dominante urbaine en concentre près de 95 %.",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Quelle est la première aire urbaine française ?",
+      "verso": "Paris, avec 12,4 millions d'habitants (plus de 5 fois Lyon, la deuxième). On parle de macrocéphalie.",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Quelles sont les 5 premières aires urbaines françaises ?",
+      "verso": "1. Paris (12,4 M) — 2. Lyon (2,2 M) — 3. Marseille-Aix (1,8 M) — 4. Toulouse (1,3 M) — 5. Lille (1,15 M)",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Solde naturel",
+      "verso": "Différence entre le nombre de naissances et le nombre de décès dans un territoire sur une période donnée.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Solde migratoire",
+      "verso": "Différence entre le nombre de personnes arrivant sur un territoire et le nombre de personnes qui en partent.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Pôle de compétitivité",
+      "verso": "Regroupement d'entreprises, de laboratoires de recherche et d'établissements de formation autour d'un domaine précis sur un territoire.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Aerospace Valley",
+      "verso": "Premier pôle de compétitivité européen de la filière aérospatiale, basé à Toulouse. Il associe plus de 1 200 établissements (entreprises, recherche, formation).",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Pourquoi l'aire urbaine de Toulouse est-elle attractive ? (4 raisons)",
+      "verso": "1. Économie puissante (aéronautique, Airbus) — 2. Pôle de compétitivité Aerospace Valley — 3. Formation et recherche (universités, grandes écoles, CNES) — 4. Cadre de vie agréable (climat, patrimoine, vie étudiante)",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Mobilité (ou migration) pendulaire",
+      "verso": "Déplacement quotidien entre le domicile et le lieu de travail.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Navetteur",
+      "verso": "Personne effectuant régulièrement un trajet domicile-travail.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Étalement urbain",
+      "verso": "Augmentation de la superficie des espaces urbains, liée à un habitat peu dense et à la généralisation de l'automobile.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Quelles sont les 3 causes de la périurbanisation ?",
+      "verso": "1. Le coût de l'immobilier élevé en centre-ville — 2. La recherche d'un cadre de vie (maison avec jardin) — 3. L'accessibilité (réseau routier, automobile)",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Métropolisation",
+      "verso": "Processus par lequel une ville concentre toujours plus d'hommes, d'activités et de fonctions de commandement, devenant ainsi une métropole.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Périurbanisation",
+      "verso": "Diffusion de l'urbanisation dans les espaces ruraux en périphérie des villes.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Artificialisation des sols",
+      "verso": "Conversion de terres agricoles ou de forêts en zones construites. Environ 10 000 km² sont urbanisés tous les 10 ans en France depuis les années 1980.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Gentrification (ou embourgeoisement)",
+      "verso": "Processus par lequel les catégories sociales aisées s'installent dans des quartiers populaires du centre-ville, entraînant une hausse des prix et le départ progressif des habitants modestes.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Qu'est-ce que la « ville à trois vitesses » ?",
+      "verso": "Expression désignant la séparation socio-spatiale : 1. Centres-villes gentrifiés (catégories aisées) — 2. Espace périurbain (classes moyennes) — 3. Grands ensembles (populations fragiles).",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Ville durable : quels sont les 3 piliers ?",
+      "verso": "1. Environnemental (éco-quartiers, lutte contre l'artificialisation) — 2. Social (mixité, vivre ensemble) — 3. Transports (transports en commun, mobilités douces)",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "La Défense",
+      "verso": "Premier quartier d'affaires d'Europe, situé à l'ouest de Paris. Exemple de centre directionnel qui illustre le caractère multipolaire des grandes villes.",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Combien d'habitants compte l'aire urbaine de Toulouse ?",
+      "verso": "Environ 1,3 million d'habitants. C'est la 4e aire urbaine française. Elle s'étend sur un rayon d'environ 50 km autour du centre-ville.",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Airbus à Toulouse : quelques chiffres",
+      "verso": "26 000 employés — 700 hectares — 6 sites. Installation en décembre 1970. Plus de la moitié des avions de ligne dans le monde sont des Airbus.",
+      "categorie": "reperes",
+      "niveau_difficulte": 3
+    },
+    {
+      "recto": "Que signifie le « Meccano européen » d'Airbus ?",
+      "verso": "Les pièces d'un avion Airbus sont fabriquées dans plusieurs pays (France, Allemagne, Espagne, Royaume-Uni) puis assemblées à Toulouse. Transport par le Beluga (avion-cargo), convois routiers de nuit et voie fluviale.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 3
+    },
+    {
+      "recto": "Part de la population française vivant dans les couronnes périurbaines",
+      "verso": "25 % de la population française vit dans les couronnes périurbaines.",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    }
+  ]
+}

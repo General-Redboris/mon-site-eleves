@@ -1,0 +1,278 @@
+---
+titre: "Des ressources à ménager et à mieux utiliser"
+niveau: "5e"
+matiere: "geographie"
+chapitre: 1
+resume: "L'énergie est indispensable à nos sociétés mais son utilisation, fondée à 80 % sur les fossiles, menace l'environnement. La transition énergétique vise à développer les renouvelables, économiser l'énergie et améliorer l'efficacité énergétique. Chine, France et UE illustrent des parcours différents."
+vocabulaire:
+  - terme: "Énergie"
+    definition: "Capacité à produire un travail, un mouvement, de la chaleur ou de la lumière."
+  - terme: "Énergie fossile"
+    definition: "Énergie issue de matières organiques formées il y a des millions d'années (pétrole, gaz, charbon). Stock limité et polluant."
+  - terme: "Énergie renouvelable"
+    definition: "Énergie provenant de sources naturelles inépuisables (soleil, vent, eau, chaleur terrestre)."
+  - terme: "Mix énergétique"
+    definition: "Ensemble des sources d'énergie utilisées par un pays (comme une « recette » énergétique)."
+  - terme: "Transition énergétique"
+    definition: "Passage progressif d'un système énergétique basé sur les énergies fossiles vers un système utilisant davantage d'énergies renouvelables."
+  - terme: "Dépendance énergétique"
+    definition: "Situation d'un pays qui doit importer une grande partie de son énergie car il n'en produit pas assez sur son territoire."
+  - terme: "Précarité énergétique"
+    definition: "Difficulté d'accès à l'énergie, notamment pour les populations les plus pauvres."
+  - terme: "Développement durable"
+    definition: "Développement qui répond aux besoins du présent sans compromettre la capacité des générations futures à répondre aux leurs."
+  - terme: "Gaz à effet de serre (GES)"
+    definition: "Gaz présents dans l'atmosphère qui retiennent la chaleur et contribuent au réchauffement climatique (CO₂, méthane, etc.)."
+  - terme: "Smog"
+    definition: "Brouillard de pollution causé par les particules fines et les gaz polluants dans l'air."
+---
+
+# Des ressources à ménager et à mieux utiliser
+
+> *« Sans énergie, rien ne fonctionne. »*
+
+Lève-toi le matin, allume la lumière, prends une douche chaude, consulte ton téléphone, va au collège en bus ou en voiture, utilise un ordinateur en classe… Toutes ces actions du quotidien ont un point commun : elles nécessitent de l'**énergie**. Mais d'où vient cette énergie ? Comment est-elle produite ? Pourquoi certains pays en consomment-ils beaucoup plus que d'autres ? Et surtout, comment gérer cette ressource essentielle pour assurer un avenir durable à notre planète ?
+
+Ce chapitre va te permettre de comprendre les grands enjeux énergétiques du XXIe siècle, à travers des exemples concrets comme la Chine, géant énergétique mondial, la France et sa particularité nucléaire, ou encore l'Union européenne face à sa dépendance énergétique.
+
+---
+
+## I. Qu'est-ce que l'énergie ?
+
+### 1. Définition scientifique
+
+**L'énergie**, c'est **la capacité à produire un travail, un mouvement, de la chaleur ou de la lumière**. Sans énergie, rien ne peut fonctionner : pas de déplacement, pas de chauffage, pas d'éclairage, pas de fonctionnement des machines.
+
+> **Lien avec la physique-chimie** — En cours de physique-chimie, tu étudies les différentes formes d'énergie : l'énergie cinétique (liée au mouvement), l'énergie potentielle (stockée, comme l'eau en haut d'un barrage), l'énergie thermique (chaleur), l'énergie lumineuse (soleil), l'énergie chimique (pétrole, batteries) et l'énergie électrique (courant). **Principe de conservation :** l'énergie ne se crée pas et ne se détruit pas, elle se transforme. Par exemple, dans une centrale hydroélectrique, l'énergie potentielle de l'eau devient énergie cinétique puis énergie électrique.
+
+### 2. L'énergie dans notre vie quotidienne
+
+L'énergie est partout autour de nous, même si on ne la voit pas toujours :
+
+- **À la maison** : chauffage, eau chaude, éclairage, électroménager, ordinateurs, téléphones, cuisson des aliments.
+- **Dans les transports** : voitures (essence, diesel), bus, métros, tramways, trains, avions.
+- **Dans l'industrie** : machines-outils, hauts fourneaux, climatisation, éclairage des usines.
+
+---
+
+## II. Les différentes sources d'énergie
+
+Pour produire l'énergie dont nous avons besoin, l'humanité utilise différentes **sources d'énergie**. On les classe généralement en trois grandes catégories.
+
+### 1. Les énergies fossiles : le stock qui s'épuise
+
+> **Définition** — Les **énergies fossiles** sont des énergies issues de la décomposition de matières organiques (plantes, animaux) il y a des millions d'années. Elles sont stockées dans le sous-sol sous forme de pétrole, de gaz naturel ou de charbon.
+
+**Les trois principales énergies fossiles :**
+
+- **Pétrole** — Utilisé pour les transports (essence, diesel), le chauffage, les plastiques et la pétrochimie. Principaux producteurs : Arabie Saoudite, Russie, États-Unis, Irak, Émirats arabes unis.
+- **Gaz naturel** — Utilisé pour le chauffage, l'électricité et l'industrie chimique. Principaux producteurs : Russie, États-Unis, Iran, Qatar.
+- **Charbon** — Utilisé pour la production d'électricité (centrales thermiques) et la sidérurgie. Principaux producteurs : Chine, Inde, États-Unis, Australie, Indonésie.
+
+**Avantages :** énergie très concentrée, facile à transporter et à stocker, infrastructure bien développée, bon rendement énergétique.
+
+**Inconvénients :** ressources limitées et non renouvelables, émissions de CO₂ (réchauffement climatique), pollution de l'air (particules fines), dégradation des paysages (mines, forages), conflits géopolitiques pour l'accès aux ressources.
+
+> **Chiffres clés** — Les énergies fossiles représentent environ 80 % de l'énergie consommée dans le monde. Au rythme actuel, les réserves de pétrole pourraient s'épuiser dans 50 à 100 ans. Le charbon est l'énergie fossile la plus polluante : il émet 2 fois plus de CO₂ que le gaz naturel.
+
+### 2. Les énergies renouvelables : le flux inépuisable
+
+> **Définition** — Les **énergies renouvelables** sont des énergies provenant de sources naturelles qui se renouvellent en permanence et ne s'épuisent pas à l'échelle humaine. Elles fonctionnent sur le principe du « flux » et non du « stock ».
+
+**Les cinq principales énergies renouvelables :**
+
+- **Solaire** — Captation de la lumière du soleil avec des panneaux photovoltaïques. Exemples : fermes solaires du désert (Sahara, Gobi), panneaux sur les toits.
+- **Éolien** — Utilisation de la force du vent pour faire tourner des éoliennes. Exemples : parcs éoliens terrestres et offshore (en mer).
+- **Hydraulique** — Utilisation de la force de l'eau (chute, courant) pour produire de l'électricité. Exemples : barrages (Trois-Gorges en Chine), centrales au fil de l'eau.
+- **Biomasse** — Combustion ou transformation de matières organiques (bois, déchets végétaux, biogaz). Exemples : chauffage au bois, méthanisation agricole, biocarburants.
+- **Géothermie** — Utilisation de la chaleur du sous-sol terrestre. Exemples : centrales géothermiques (Islande, Philippines), chauffage urbain.
+
+**Avantages :** ressources inépuisables, pas d'émissions de CO₂ lors de l'utilisation, énergie locale (réduit la dépendance), technologies en progrès constant.
+
+**Limites :** production variable (dépend du soleil, du vent…), coût d'installation élevé, impact sur les paysages (éoliennes visibles), barrages (déplacement de populations, modification des écosystèmes).
+
+> **Pour aller plus loin — Les énergies marines.** Les océans recèlent un potentiel énergétique énorme encore peu exploité : énergie marémotrice (utilise les marées, comme l'usine de la Rance en Bretagne), énergie houlomotrice (force des vagues), énergie thermique des mers (différence de température entre eaux chaudes de surface et eaux froides profondes).
+
+### 3. L'énergie nucléaire : un cas à part
+
+**L'énergie nucléaire** occupe une place particulière. Elle n'est **ni fossile** (bien que l'uranium soit en quantité limitée), **ni renouvelable**. Elle fonctionne par **fission** d'atomes d'uranium dans des centrales nucléaires, produisant une chaleur immense qui permet de fabriquer de l'électricité.
+
+**Avantages :** pas d'émissions de CO₂, production massive et stable, peu d'espace nécessaire.
+
+**Inconvénients :** déchets radioactifs dangereux pendant des milliers d'années, risque d'accident nucléaire (Tchernobyl 1986, Fukushima 2011), coût de démantèlement très élevé, uranium en quantité limitée.
+
+---
+
+## III. L'énergie dans le monde : une ressource inégalement répartie
+
+### 1. Qui consomme ? Des inégalités mondiales
+
+La consommation d'énergie n'est pas la même partout dans le monde. Elle reflète le **niveau de développement économique** et les **modes de vie** des populations.
+
+| Pays / Région | Consommation par habitant et par an (tep) | Écart avec l'Afrique |
+|---|---|---|
+| États-Unis | 6,8 tep | × 11 |
+| France | 3,6 tep | × 6 |
+| Chine | 2,4 tep | × 4 |
+| Inde | 0,7 tep | × 1,2 |
+| Afrique subsaharienne | 0,6 tep | × 1 (référence) |
+
+*tep = tonne équivalent pétrole — Source : AIE, 2023*
+
+> **Définition** — La **précarité énergétique** désigne la difficulté d'accès à l'énergie, notamment pour les populations les plus pauvres. Dans le monde, environ 750 millions de personnes n'ont toujours pas accès à l'électricité (principalement en Afrique subsaharienne et en Asie du Sud).
+
+### 2. Qui produit ? Une géographie des ressources
+
+Les ressources énergétiques, notamment les énergies fossiles, sont **inégalement réparties** sur la planète. Quelques régions concentrent l'essentiel des réserves :
+
+- **Moyen-Orient** — 1re réserve mondiale de pétrole (Arabie Saoudite, Irak, Émirats, Iran) et de gaz (Qatar, Iran).
+- **Russie** — 1er producteur mondial de gaz naturel, importantes réserves de pétrole.
+- **États-Unis** — Gaz de schiste (extraction controversée), charbon, pétrole (Texas).
+- **Chine** — 1er producteur et consommateur mondial de charbon.
+- **Golfe de Guinée** — Pétrole offshore (Nigeria, Angola).
+
+### 3. Les flux mondiaux d'énergie
+
+Comme les lieux de **production** ne correspondent pas toujours aux lieux de **consommation**, l'énergie circule massivement dans le monde, principalement sous forme de pétrole et de gaz.
+
+**Les principales routes énergétiques :**
+
+- Du Moyen-Orient vers l'Asie : tankers de pétrole vers la Chine, le Japon, la Corée du Sud.
+- Du Moyen-Orient vers l'Europe : via le canal de Suez ou contournement de l'Afrique.
+- De Russie vers l'Europe : gazoducs (Nord Stream, TurkStream).
+- Du Golfe de Guinée vers l'Europe et les États-Unis : tankers de pétrole.
+
+> **Définition** — La **dépendance énergétique** désigne la situation d'un pays qui doit importer une grande partie de son énergie car il n'en produit pas assez sur son territoire. Cela crée une vulnérabilité économique et géopolitique. Le Japon importe 95 % de son énergie. L'Europe importe environ 55 % de son énergie, notamment du gaz russe.
+
+> **Pour aller plus loin — L'énergie, source de tensions géopolitiques.** L'accès aux ressources énergétiques est une source majeure de conflits : guerres du Golfe (1990-1991 et 2003), tensions Russie-Ukraine pour le gaz, conflit au Soudan pour le pétrole. Certains détroits comme le détroit d'Ormuz (20 % du pétrole mondial y transite) sont des points stratégiques essentiels.
+
+---
+
+## IV. Les défis énergétiques du XXIe siècle
+
+### 1. L'impact environnemental
+
+La production et la consommation d'énergie ont des **conséquences majeures sur l'environnement**, notamment à cause de l'utilisation massive des énergies fossiles :
+
+- **Réchauffement climatique** — Émissions de gaz à effet de serre (CO₂, méthane) qui emprisonnent la chaleur et provoquent la hausse des températures globales.
+- **Pollution de l'air** — Particules fines émises par la combustion, causant maladies respiratoires et smog dans les grandes villes (Pékin, Delhi…).
+- **Dégradation des paysages** — Mines à ciel ouvert (charbon), déforestation pour les barrages, marées noires.
+- **Épuisement des ressources** — Les réserves de pétrole, gaz et charbon sont limitées et non renouvelables.
+
+> **Chiffres clés** — La température moyenne mondiale a augmenté de +1,2 °C depuis l'ère préindustrielle. Le secteur énergétique est responsable de 75 % des émissions de gaz à effet de serre. L'Accord de Paris (2015) fixe l'objectif de limiter le réchauffement à +1,5 °C ou +2 °C maximum.
+
+### 2. La transition énergétique : une nécessité
+
+> **Définition** — La **transition énergétique** désigne le passage progressif d'un système énergétique basé sur les énergies fossiles vers un système utilisant davantage d'énergies renouvelables et plus économe en énergie. C'est un enjeu majeur du XXIe siècle pour assurer un développement durable.
+
+**Les trois piliers de la transition énergétique :**
+
+1. **Développer les énergies renouvelables** — Solaire, éolien, hydraulique, biomasse, géothermie.
+2. **Économiser (sobriété énergétique)** — Réduire le gaspillage, baisser le chauffage, privilégier les transports doux, limiter la surconsommation.
+3. **Améliorer l'efficacité énergétique** — Isoler les bâtiments, utiliser des LED, des moteurs performants, de l'électroménager classe A.
+
+**Les défis de la transition :**
+
+- **Coût élevé** : les infrastructures renouvelables nécessitent des investissements massifs.
+- **Stockage de l'énergie** : le solaire et l'éolien produisent de manière intermittente ; il faut développer des batteries performantes.
+- **Résistances politiques et économiques** : les lobbies des énergies fossiles freinent le changement.
+- **Acceptabilité sociale** : les éoliennes ou les barrages peuvent être rejetés par les populations locales.
+
+---
+
+## V. Étude de cas : la Chine, un géant énergétique
+
+La Chine, avec 1,4 milliard d'habitants et une croissance économique spectaculaire, est devenue le **premier consommateur et producteur mondial d'énergie**.
+
+### 1. Une explosion des besoins énergétiques
+
+Les causes principales sont la **croissance économique** (la Chine est devenue « l'usine du monde »), l'**urbanisation massive** (exode rural depuis les années 1980) et l'**évolution des modes de vie** (voitures individuelles, climatisation, électroménager, écrans).
+
+### 2. Un mix énergétique dominé par le charbon
+
+| Source d'énergie | Part (%) | Type |
+|---|---|---|
+| Charbon | 56 % | Fossile |
+| Pétrole | 18 % | Fossile |
+| Gaz naturel | 9 % | Fossile |
+| Hydroélectricité | 8 % | Renouvelable |
+| Autres (éolien, solaire, nucléaire) | 9 % | Renouvelable |
+
+*Source : Agence Internationale de l'Énergie, 2023 — Bilan : 83 % d'énergies fossiles*
+
+### 3. Des conséquences environnementales majeures
+
+- **Pollution de l'air** : les grandes villes chinoises (Pékin, Shanghai) connaissent régulièrement des épisodes de smog intense ; les particules fines provoquent des maladies respiratoires.
+- **Émissions de CO₂** : la Chine est le premier émetteur mondial de gaz à effet de serre (environ 30 % du total mondial).
+- **Dégradation des paysages** : les mines de charbon à ciel ouvert dévastent des régions entières.
+
+### 4. La transition énergétique chinoise
+
+Face à ces défis, la Chine s'est engagée dans une transition énergétique ambitieuse et est devenue le **premier investisseur mondial dans les énergies renouvelables** :
+
+- **Le barrage des Trois-Gorges** : le plus grand barrage hydroélectrique du monde, sur le fleuve Yangtsé, capable de produire autant que 15 centrales nucléaires.
+- **Fermes solaires géantes** : notamment dans le désert de Gobi. La Chine produit 80 % des panneaux solaires mondiaux.
+- **Parcs éoliens offshore** : développement à grande échelle en mer de Chine.
+- **Bus électriques** : remplacement massif des bus diesel dans les grandes villes.
+- **Fermeture de centrales à charbon** : les vieilles centrales proches des villes sont progressivement fermées.
+
+> **Le savais-tu ?** En 2023, la Chine a installé plus de capacités solaires que le reste du monde réuni ! Malgré cela, elle continue de construire de nouvelles centrales à charbon pour répondre à sa demande croissante. C'est tout le paradoxe chinois : leader de la transition énergétique ET plus gros pollueur de la planète.
+
+---
+
+## VI. Le cas français et européen
+
+### 1. La France : une exception nucléaire
+
+La France produit environ **70 % de son électricité grâce au nucléaire**. Ce choix remonte aux années 1970, après le choc pétrolier de 1973.
+
+**Le mix énergétique français :**
+
+| Source d'énergie | Part (%) | Caractéristique |
+|---|---|---|
+| Nucléaire | ≈ 37 % | 56 réacteurs |
+| Pétrole | ≈ 28 % | Surtout transports |
+| Gaz naturel | ≈ 16 % | Chauffage, industrie |
+| Énergies renouvelables | ≈ 16 % | Hydro, éolien, solaire |
+| Charbon | ≈ 3 % | En forte baisse |
+
+*Source : Ministère de la Transition écologique, 2023*
+
+La France possède **56 réacteurs nucléaires** répartis sur **18 sites** à travers le territoire (Flamanville, Gravelines, Cattenom, Bugey, Tricastin, etc.).
+
+**Avantages :** faibles émissions de CO₂, production stable et massive, indépendance énergétique relative, électricité moins chère.
+
+**Débats :** gestion des déchets radioactifs, risque d'accident (même si très faible), vieillissement du parc nucléaire, dépendance à l'uranium importé.
+
+### 2. L'Union européenne : une mosaïque énergétique
+
+L'Union européenne regroupe 27 pays aux **choix énergétiques très différents** :
+
+- **Allemagne** — Sortie du nucléaire (2023), forte part de charbon et lignite, développement massif des renouvelables.
+- **Norvège** — Quasi 100 % hydroélectrique pour l'électricité, mais grand producteur de pétrole et gaz.
+- **Espagne** — Développement important de l'éolien et du solaire grâce au climat favorable.
+- **Pologne** — Dépendance très forte au charbon (environ 70 % du mix), transition lente.
+- **Danemark** — Leader de l'éolien offshore, 50 % de l'électricité d'origine éolienne.
+
+**La dépendance énergétique européenne :** l'UE importe environ **55 % de son énergie** (gaz russe, pétrole du Moyen-Orient et de Russie, uranium).
+
+> **Pour aller plus loin — La crise du gaz et la guerre en Ukraine.** En février 2022, la Russie a envahi l'Ukraine. L'UE a décidé de réduire drastiquement ses importations de gaz russe, provoquant une crise énergétique : flambée des prix, appels à la sobriété, recherche de nouveaux fournisseurs (GNL américain, norvégien, qatari). Cet épisode a montré la vulnérabilité de l'Europe face à sa dépendance énergétique.
+
+**Les objectifs climatiques européens (Pacte vert / Green Deal) :**
+
+- Neutralité carbone en 2050.
+- Réduction de 55 % des émissions de GES d'ici 2030 (par rapport à 1990).
+- 32 % d'énergies renouvelables dans le mix en 2030.
+- Amélioration de l'efficacité énergétique.
+
+---
+
+## Conclusion
+
+L'énergie est au cœur des enjeux du XXIe siècle. Indispensable au développement économique et au bien-être des populations, son utilisation actuelle — fondée à 80 % sur les fossiles — pose de graves problèmes environnementaux.
+
+Les inégalités mondiales d'accès à l'énergie sont criantes : un Américain consomme 11 fois plus d'énergie qu'un Africain. Les ressources fossiles, inégalement réparties, créent des flux mondiaux et des situations de dépendance.
+
+Face à l'urgence climatique, la **transition énergétique** s'impose. Les exemples de la Chine, de la France et de l'Union européenne montrent que chaque territoire doit trouver son propre chemin. À l'échelle individuelle, chacun peut agir : économiser l'énergie, privilégier les transports doux, consommer de manière plus responsable.
+
+> *« Nous n'héritons pas de la Terre de nos ancêtres, nous l'empruntons à nos enfants. » — Antoine de Saint-Exupéry*

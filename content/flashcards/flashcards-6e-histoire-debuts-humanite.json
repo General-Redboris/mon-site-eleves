@@ -1,0 +1,115 @@
+{
+  "titre": "Les débuts de l'humanité",
+  "niveau": "6e",
+  "matiere": "histoire",
+  "cartes": [
+    {
+      "recto": "Qu'est-ce que la Préhistoire ?",
+      "verso": "Période qui s'étend de l'apparition des premiers hominidés (environ -7 millions d'années) jusqu'à l'invention de l'écriture (vers -3 300).",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Qu'est-ce que la bipédie ?",
+      "verso": "La capacité de marcher debout sur deux pieds. C'est le premier caractère qui distingue les hominidés des autres primates.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Qui est Toumaï ?",
+      "verso": "Le plus ancien hominidé connu (~7 millions d'années). Son crâne a été découvert au Tchad en 2001 par Michel Brunet.",
+      "categorie": "personnages",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Qui est Lucy ?",
+      "verso": "Une Australopithèque découverte en Éthiopie en 1974. Elle vivait il y a 3,2 millions d'années et prouve la bipédie des premiers hominidés.",
+      "categorie": "personnages",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Environ -7 millions d'années",
+      "verso": "Apparition des premiers hominidés en Afrique (Toumaï).",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Environ -400 000 ans",
+      "verso": "Maîtrise du feu attestée (par Homo erectus).",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Environ -300 000 ans",
+      "verso": "Apparition d'Homo sapiens en Afrique (site de Jebel Irhoud, Maroc).",
+      "categorie": "dates",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Environ -80 000 ans",
+      "verso": "Début des grandes migrations d'Homo sapiens hors d'Afrique.",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Qu'est-ce qu'un chopper ?",
+      "verso": "Un galet aménagé : on détache quelques éclats pour obtenir un bord tranchant. C'est l'un des premiers types d'outils.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Qu'est-ce qu'un biface ?",
+      "verso": "Outil en pierre taillé sur les deux faces, de forme symétrique. Inventé par Homo erectus, il sert à couper, racler ou creuser.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Quels sont les quatre avantages de la maîtrise du feu ?",
+      "verso": "Se chauffer, cuire les aliments, s'éclairer et se protéger des prédateurs. Le feu renforce aussi les liens sociaux.",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Qu'est-ce qu'un chasseur-cueilleur ?",
+      "verso": "Un être humain qui vit de la chasse, de la pêche et de la cueillette de plantes sauvages, sans pratiquer l'agriculture.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Qui est Homo erectus ?",
+      "verso": "Hominidé qui invente le biface, maîtrise le feu et est le premier à quitter l'Afrique (il y a ~2 millions d'années).",
+      "categorie": "personnages",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Qu'est-ce que la Béringie ?",
+      "verso": "Bande de terre qui reliait la Sibérie à l'Alaska lors des périodes glaciaires. Homo sapiens l'a traversée pour atteindre l'Amérique (~-20 000 ans).",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Qu'est-ce que l'art pariétal ?",
+      "verso": "Peintures et gravures réalisées sur les parois des grottes (du latin paries = paroi). Exemples : grottes Chauvet et Lascaux.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Environ -40 000 ans",
+      "verso": "Premières œuvres d'art connues (grotte Chauvet, Ardèche, datée d'environ -36 000 ans).",
+      "categorie": "dates",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Pourquoi dit-on que l'Afrique est le « berceau de l'humanité » ?",
+      "verso": "Parce que tous les premiers hominidés (Toumaï, Lucy, Homo habilis, Homo erectus, Homo sapiens) sont apparus en Afrique.",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Que sont les Vénus préhistoriques ?",
+      "verso": "Petites statuettes féminines aux formes généreuses, sculptées en ivoire, os ou pierre. Exemples : Vénus de Willendorf, Vénus de Brassempouy.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    }
+  ]
+}
