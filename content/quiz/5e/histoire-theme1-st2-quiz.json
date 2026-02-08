@@ -1,0 +1,220 @@
+{
+  "titre": "Quiz — De la naissance de l'islam à la prise de Bagdad par les Mongols",
+  "niveau": "5e",
+  "matiere": "histoire",
+  "chapitre": "theme1-st2-islam",
+  "questions": [
+    {
+      "type": "qcm",
+      "question": "Dans quelle région du monde l'islam naît-il ?",
+      "options": ["En Afrique du Nord", "En Perse", "Dans la péninsule Arabique", "En Égypte"],
+      "reponse": 2,
+      "explication": "L'islam naît au VIIe siècle dans la péninsule Arabique, à La Mecque puis à Médine."
+    },
+    {
+      "type": "qcm",
+      "question": "Comment s'appelle le sanctuaire situé à La Mecque ?",
+      "options": ["Le mihrab", "La Kaaba", "La médersa", "Le minaret"],
+      "reponse": 1,
+      "explication": "La Kaaba est un sanctuaire cubique situé à La Mecque, considéré par les musulmans comme la « Maison de Dieu »."
+    },
+    {
+      "type": "qcm",
+      "question": "À quelle tribu Muhammad appartient-il ?",
+      "options": ["Les Bédouins", "Les Quraysh", "Les Omeyyades", "Les Abbassides"],
+      "reponse": 1,
+      "explication": "Muhammad appartient à la tribu des Quraysh, qui contrôle La Mecque et son sanctuaire."
+    },
+    {
+      "type": "qcm",
+      "question": "Comment s'appelle le livre sacré des musulmans ?",
+      "options": ["La Bible", "La Torah", "Le Coran", "La Sunna"],
+      "reponse": 2,
+      "explication": "Le Coran est le livre sacré des musulmans. Il rassemble les révélations faites à Muhammad, organisées en 114 sourates."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce que l'Hégire ?",
+      "options": [
+        "La naissance de Muhammad",
+        "Le départ de Muhammad de La Mecque vers Médine en 622",
+        "La prise de La Mecque par Muhammad",
+        "La mort de Muhammad"
+      ],
+      "reponse": 1,
+      "explication": "L'Hégire (« émigration ») est le départ de Muhammad et de ses compagnons de La Mecque vers Médine en 622. C'est le point de départ du calendrier musulman."
+    },
+    {
+      "type": "qcm",
+      "question": "En quelle année débute le calendrier musulman ?",
+      "options": ["570", "610", "622", "632"],
+      "reponse": 2,
+      "explication": "Le calendrier musulman débute en 622, année de l'Hégire (départ de Muhammad de La Mecque vers Médine)."
+    },
+    {
+      "type": "qcm",
+      "question": "Combien de piliers compte la pratique musulmane ?",
+      "options": ["3", "4", "5", "7"],
+      "reponse": 2,
+      "explication": "La pratique musulmane repose sur cinq piliers : la profession de foi (shahâda), la prière (salât), l'aumône (zakât), le jeûne du ramadan (sawm) et le pèlerinage à La Mecque (hajj)."
+    },
+    {
+      "type": "qcm",
+      "question": "Comment appelle-t-on la niche dans le mur de la mosquée qui indique la direction de La Mecque ?",
+      "options": ["Le minaret", "Le minbar", "Le mihrab", "Le souk"],
+      "reponse": 2,
+      "explication": "Le mihrab est la niche dans le mur de la mosquée, orientée vers La Mecque (direction de la prière, appelée qibla)."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce qu'un calife ?",
+      "options": [
+        "Un chef militaire musulman",
+        "Le successeur de Muhammad à la tête de la communauté musulmane",
+        "Un savant musulman",
+        "Un marchand arabe"
+      ],
+      "reponse": 1,
+      "explication": "Le calife (« successeur » en arabe) est le successeur de Muhammad à la tête de la communauté musulmane. Il détient le pouvoir politique et religieux."
+    },
+    {
+      "type": "qcm",
+      "question": "Quelle est la capitale de l'empire sous les Omeyyades ?",
+      "options": ["Bagdad", "La Mecque", "Damas", "Le Caire"],
+      "reponse": 2,
+      "explication": "Sous les Omeyyades (661-750), la capitale de l'empire musulman est Damas, en Syrie."
+    },
+    {
+      "type": "qcm",
+      "question": "Quelle est la capitale de l'empire sous les Abbassides ?",
+      "options": ["Damas", "Bagdad", "Cordoue", "Médine"],
+      "reponse": 1,
+      "explication": "Les Abbassides fondent en 762 la ville de Bagdad, sur le Tigre, qui devient la capitale de leur empire."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel calife abbasside est célèbre pour sa cour luxueuse qui inspire les Mille et Une Nuits ?",
+      "options": ["Al-Mansour", "Hârûn al-Rachîd", "Saladin", "Ali"],
+      "reponse": 1,
+      "explication": "Hârûn al-Rachîd (786-809) est le calife abbasside le plus célèbre. Sa cour luxueuse à Bagdad inspire les récits des Mille et Une Nuits."
+    },
+    {
+      "type": "qcm",
+      "question": "Comment appelle-t-on les territoires musulmans de la péninsule Ibérique ?",
+      "options": ["La Lotharingie", "Al-Andalus", "Le Levant", "La Francie"],
+      "reponse": 1,
+      "explication": "Al-Andalus est le nom donné aux territoires de la péninsule Ibérique sous domination musulmane, du VIIIe au XVe siècle. Cordoue en est la capitale."
+    },
+    {
+      "type": "qcm",
+      "question": "Quelle est l'origine de la division entre sunnites et chiites ?",
+      "options": [
+        "Un désaccord sur le texte du Coran",
+        "La question de la succession de Muhammad",
+        "Un conflit avec les chrétiens",
+        "La fondation de Bagdad"
+      ],
+      "reponse": 1,
+      "explication": "La division entre sunnites et chiites naît de la question de la succession de Muhammad. Les chiites estiment que seuls Ali et ses descendants pouvaient diriger la communauté."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Les sunnites représentent environ 85 % des musulmans actuels.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 0,
+      "explication": "C'est vrai. Le sunnisme est le courant majoritaire de l'islam. Les chiites sont minoritaires mais majoritaires dans certains pays (Iran, Irak, Bahreïn)."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce qu'un souk ?",
+      "options": [
+        "Un bain public",
+        "Un marché couvert",
+        "Une école coranique",
+        "Une auberge pour marchands"
+      ],
+      "reponse": 1,
+      "explication": "Le souk est un marché couvert où les artisans et les marchands sont regroupés par métier. C'est un élément central de la ville musulmane."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel savant musulman est considéré comme l'inventeur de l'algèbre ?",
+      "options": ["Avicenne", "Averroès", "Al-Khwârizmî", "Al-Idrîsî"],
+      "reponse": 2,
+      "explication": "Al-Khwârizmî (IXe siècle) est un mathématicien perse qui invente l'algèbre et contribue à la diffusion des chiffres « arabes » et du zéro. Le mot « algorithme » vient de son nom."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel savant musulman est l'auteur du Canon de la médecine, utilisé en Europe jusqu'au XVIIe siècle ?",
+      "options": ["Al-Khwârizmî", "Ibn al-Haytham", "Avicenne (Ibn Sînâ)", "Al-Battânî"],
+      "reponse": 2,
+      "explication": "Avicenne (Ibn Sînâ), médecin et philosophe du Xe-XIe siècle, est l'auteur du Canon de la médecine, un ouvrage de référence pendant des siècles."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Les savants du monde musulman n'ont fait que transmettre le savoir grec sans rien inventer.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 1,
+      "explication": "C'est faux ! Les savants musulmans ont traduit les œuvres grecques, perses et indiennes, mais ils ont aussi produit des connaissances nouvelles considérables, notamment en algèbre, optique et médecine."
+    },
+    {
+      "type": "qcm",
+      "question": "Quels sont les trois éléments principaux de l'art décoratif musulman ?",
+      "options": [
+        "La sculpture, le vitrail, la fresque",
+        "La calligraphie, les arabesques, les motifs géométriques",
+        "Les icônes, les mosaïques, les enluminures",
+        "La peinture, la tapisserie, la poterie"
+      ],
+      "reponse": 1,
+      "explication": "L'art musulman est fondé sur la calligraphie (art de l'écriture), les arabesques (motifs végétaux) et les motifs géométriques, car la tradition déconseille la représentation des êtres vivants."
+    },
+    {
+      "type": "qcm",
+      "question": "Quelle ville espagnole joue un rôle majeur dans la traduction des œuvres arabes en latin ?",
+      "options": ["Cordoue", "Grenade", "Tolède", "Séville"],
+      "reponse": 2,
+      "explication": "Les écoles de traduction de Tolède jouent un rôle majeur dans le transfert des savoirs du monde musulman vers l'Europe. Des chrétiens, des musulmans et des juifs y collaborent."
+    },
+    {
+      "type": "qcm",
+      "question": "En quelle année a lieu la première croisade ?",
+      "options": ["1054", "1096-1099", "1187", "1258"],
+      "reponse": 1,
+      "explication": "La première croisade (1096-1099), lancée par le pape Urbain II, aboutit à la prise de Jérusalem et à la création des États latins d'Orient."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel sultan musulman reprend Jérusalem en 1187 ?",
+      "options": ["Hârûn al-Rachîd", "Al-Mansour", "Saladin", "Hülégü"],
+      "reponse": 2,
+      "explication": "Saladin (Salah al-Din), sultan d'Égypte et de Syrie, reprend Jérusalem en 1187 après la bataille de Hattin."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Les croisades sont uniquement motivées par la religion.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 1,
+      "explication": "C'est faux. Les motivations des croisés sont multiples : la foi, mais aussi le goût de l'aventure, l'espoir de terres et de richesses, et les intérêts commerciaux."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel événement met fin au califat abbasside en 1258 ?",
+      "options": [
+        "Le schisme de l'islam",
+        "La prise de Bagdad par les Mongols",
+        "La dernière croisade",
+        "La conquête ottomane"
+      ],
+      "reponse": 1,
+      "explication": "En 1258, les armées mongoles de Hülégü s'emparent de Bagdad, pillent la ville et exécutent le dernier calife abbasside. C'est la fin du califat abbasside."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "« Arabe » et « musulman » désignent la même chose.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 1,
+      "explication": "Non ! « Arabe » désigne une langue et une culture, « musulman » désigne une religion. Il existe des chrétiens arabes et des musulmans non arabes (Turcs, Perses, Indonésiens...)."
+    }
+  ]
+}

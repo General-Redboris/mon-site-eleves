@@ -1,0 +1,242 @@
+{
+  "titre": "Flashcards — Byzance et l'Europe carolingienne",
+  "niveau": "5e",
+  "matiere": "histoire",
+  "chapitre": "theme1-st1-byzance-carolingiens",
+  "cartes": [
+    {
+      "recto": "330",
+      "verso": "Fondation de Constantinople par l'empereur Constantin",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "476",
+      "verso": "Chute de l'Empire romain d'Occident",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "527-565",
+      "verso": "Règne de Justinien, apogée de l'Empire byzantin",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "768-814",
+      "verso": "Règne de Charlemagne",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "800",
+      "verso": "Couronnement impérial de Charlemagne par le pape Léon III à Rome",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "843",
+      "verso": "Traité de Verdun : partage de l'empire carolingien en trois royaumes",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "1054",
+      "verso": "Schisme entre la chrétienté d'Orient (orthodoxe) et la chrétienté d'Occident (catholique)",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "1204",
+      "verso": "Prise et pillage de Constantinople par les croisés lors de la Quatrième croisade",
+      "categorie": "dates",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Empire byzantin",
+      "verso": "Empire romain d'Orient, qui survit à la chute de Rome (476) et dure jusqu'en 1453. Capitale : Constantinople.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Empire carolingien",
+      "verso": "Empire fondé par Charlemagne en 800, couvrant une grande partie de l'Europe occidentale. Capitale : Aix-la-Chapelle.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Basileus",
+      "verso": "Titre de l'empereur byzantin (mot grec signifiant « roi »). Il est considéré comme le représentant de Dieu sur terre.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Césaropapisme",
+      "verso": "Système dans lequel l'empereur byzantin (César) domine l'Église, réunissant autorité politique et autorité religieuse.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Icône",
+      "verso": "Image sacrée peinte sur bois, représentant le Christ, la Vierge ou les saints, vénérée par les chrétiens orthodoxes.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Mosaïque",
+      "verso": "Composition décorative réalisée à partir de petits fragments de pierre, de verre ou de céramique colorés. Typique de l'art byzantin.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Code Justinien",
+      "verso": "Recueil des lois romaines rédigé sur ordre de Justinien. Il sert de base au droit européen.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Besant",
+      "verso": "Monnaie d'or de l'Empire byzantin, acceptée dans tout le bassin méditerranéen.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Croix grecque",
+      "verso": "Plan d'église en forme de croix dont les quatre branches sont de longueur égale. Typique des églises byzantines.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Patriarche",
+      "verso": "Chef de l'Église chrétienne d'Orient (orthodoxe), nommé par l'empereur byzantin.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Comté",
+      "verso": "Territoire administratif de l'empire carolingien, dirigé par un comte nommé par l'empereur.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Missi dominici",
+      "verso": "« Envoyés du maître » : inspecteurs envoyés en binôme (un laïc et un religieux) pour contrôler les comtes au nom de Charlemagne.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Capitulaire",
+      "verso": "Texte législatif de l'empereur carolingien, organisé en chapitres (capitula).",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Scriptorium",
+      "verso": "Atelier d'écriture dans un monastère, où les moines copient et enluminent des manuscrits.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Minuscule caroline",
+      "verso": "Nouvelle écriture claire et lisible, mise au point sous Charlemagne. Ancêtre de notre écriture actuelle.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Renaissance carolingienne",
+      "verso": "Renouveau culturel et intellectuel sous Charlemagne : copie des textes antiques, développement des écoles et de la minuscule caroline.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Schisme",
+      "verso": "Rupture, séparation au sein d'une Église. Le schisme de 1054 sépare catholiques (Occident) et orthodoxes (Orient).",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Filioque",
+      "verso": "Mot latin signifiant « et du Fils ». Désaccord théologique central du schisme de 1054 : l'Esprit Saint procède-t-il du Père seul ou du Père et du Fils ?",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 3
+    },
+    {
+      "recto": "Féodalité",
+      "verso": "Système politique et social fondé sur les liens entre seigneurs et vassaux, qui se développe après la dislocation de l'empire carolingien.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Justinien",
+      "verso": "Empereur byzantin (527-565) qui porte l'empire à son apogée : reconquêtes en Occident, Code Justinien, construction de Sainte-Sophie.",
+      "categorie": "personnages",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Théodora",
+      "verso": "Impératrice byzantine, épouse de Justinien. Elle joue un rôle politique majeur, notamment lors de la révolte Nika (532).",
+      "categorie": "personnages",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Charlemagne",
+      "verso": "Roi des Francs (768-814), couronné empereur en 800. Il bâtit un vaste empire carolingien et lance la renaissance carolingienne.",
+      "categorie": "personnages",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Pépin le Bref",
+      "verso": "Fondateur de la dynastie carolingienne en 751. Père de Charlemagne.",
+      "categorie": "personnages",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Cyrille et Méthode",
+      "verso": "Missionnaires byzantins qui évangélisent les Slaves au IXe siècle. Ils inventent l'alphabet glagolitique, ancêtre du cyrillique.",
+      "categorie": "personnages",
+      "niveau_difficulte": 3
+    },
+    {
+      "recto": "Où se trouve Constantinople ?",
+      "verso": "Sur le détroit du Bosphore, entre l'Europe et l'Asie (actuelle Istanbul, en Turquie).",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Où se trouve Aix-la-Chapelle ?",
+      "verso": "En Allemagne actuelle (Aachen). Capitale de l'Empire carolingien.",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Quels sont les trois royaumes créés par le traité de Verdun ?",
+      "verso": "Francie occidentale (future France), Francie orientale (futur Saint-Empire) et Lotharingie (entre les deux).",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Quelle est la langue officielle de l'Empire byzantin ?",
+      "verso": "Le grec (qui remplace progressivement le latin).",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Quelle est la langue officielle de l'Empire carolingien ?",
+      "verso": "Le latin.",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Que deviennent les mosaïques de Ravenne ?",
+      "verso": "Elles représentent Justinien et Théodora et comptent parmi les plus célèbres mosaïques byzantines conservées.",
+      "categorie": "reperes",
+      "niveau_difficulte": 3
+    },
+    {
+      "recto": "Germigny-des-Prés",
+      "verso": "Oratoire construit vers 806, abritant l'une des rares mosaïques carolingiennes conservées en France. Témoignage des échanges entre art byzantin et carolingien.",
+      "categorie": "reperes",
+      "niveau_difficulte": 3
+    }
+  ]
+}

@@ -2,6 +2,7 @@ import fs from "fs";
 import path from "path";
 
 const quizDir = path.join(process.cwd(), "content", "quiz");
+const niveaux = ["6e", "5e", "4e", "3e"];
 
 export interface QuestionQCM {
   type: "qcm";
@@ -36,25 +37,41 @@ export interface Quiz {
 }
 
 export function getAllQuizzes(): Omit<Quiz, "questions">[] {
-  if (!fs.existsSync(quizDir)) return [];
-  const files = fs.readdirSync(quizDir).filter((f) => f.endsWith(".json"));
-  return files.map((file) => {
-    const slug = file.replace(/\.json$/, "");
-    const raw = fs.readFileSync(path.join(quizDir, file), "utf-8");
-    const data = JSON.parse(raw);
-    return {
-      titre: data.titre,
-      niveau: data.niveau,
-      matiere: data.matiere,
-      slug,
-    };
-  });
+  const results: Omit<Quiz, "questions">[] = [];
+
+  for (const niveau of niveaux) {
+    const dir = path.join(quizDir, niveau);
+    if (!fs.existsSync(dir)) continue;
+    const files = fs.readdirSync(dir).filter((f) => f.endsWith(".json"));
+    for (const file of files) {
+      const fileName = file.replace(/\.json$/, "");
+      const slug = `${niveau}-${fileName}`;
+      const raw = fs.readFileSync(path.join(dir, file), "utf-8");
+      const data = JSON.parse(raw);
+      results.push({
+        titre: data.titre,
+        niveau: data.niveau || niveau,
+        matiere: data.matiere,
+        slug,
+      });
+    }
+  }
+
+  return results;
 }
 
 export function getQuiz(slug: string): Quiz | null {
-  const filePath = path.join(quizDir, `${slug}.json`);
-  if (!fs.existsSync(filePath)) return null;
-  const raw = fs.readFileSync(filePath, "utf-8");
-  const data = JSON.parse(raw);
-  return { ...data, slug };
+  for (const niveau of niveaux) {
+    const prefix = `${niveau}-`;
+    if (slug.startsWith(prefix)) {
+      const fileName = slug.slice(prefix.length);
+      const filePath = path.join(quizDir, niveau, `${fileName}.json`);
+      if (fs.existsSync(filePath)) {
+        const raw = fs.readFileSync(filePath, "utf-8");
+        const data = JSON.parse(raw);
+        return { ...data, slug };
+      }
+    }
+  }
+  return null;
 }

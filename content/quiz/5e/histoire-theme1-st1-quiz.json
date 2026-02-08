@@ -1,0 +1,223 @@
+{
+  "titre": "Quiz — Byzance et l'Europe carolingienne",
+  "niveau": "5e",
+  "matiere": "histoire",
+  "chapitre": "theme1-st1-byzance-carolingiens",
+  "questions": [
+    {
+      "type": "qcm",
+      "question": "En quelle année l'Empire romain d'Occident disparaît-il ?",
+      "options": ["330", "476", "527", "800"],
+      "reponse": 1,
+      "explication": "L'Empire romain d'Occident chute en 476. C'est après cette date que l'Empire romain d'Orient prend le nom d'Empire byzantin."
+    },
+    {
+      "type": "qcm",
+      "question": "Quelle est la capitale de l'Empire byzantin ?",
+      "options": ["Rome", "Aix-la-Chapelle", "Constantinople", "Athènes"],
+      "reponse": 2,
+      "explication": "Constantinople, fondée en 330 par l'empereur Constantin sur le site de l'ancienne cité de Byzance, est la capitale de l'Empire byzantin."
+    },
+    {
+      "type": "qcm",
+      "question": "Sur quel détroit se trouve Constantinople ?",
+      "options": ["Le détroit de Gibraltar", "Le détroit du Bosphore", "Le détroit de Messine", "Le canal de Suez"],
+      "reponse": 1,
+      "explication": "Constantinople est bâtie sur le détroit du Bosphore, qui sépare l'Europe de l'Asie, ce qui lui donne une position stratégique exceptionnelle."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel empereur porte l'Empire byzantin à son apogée ?",
+      "options": ["Constantin", "Justinien", "Charlemagne", "Théodose"],
+      "reponse": 1,
+      "explication": "Justinien (527-565) porte l'Empire byzantin à son apogée grâce à ses reconquêtes, la rédaction du Code Justinien et la construction de Sainte-Sophie."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Le Code Justinien est un recueil de lois romaines qui servira de base au droit européen.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 0,
+      "explication": "Le Code Justinien est bien une vaste compilation du droit romain, qui constitue l'un des fondements du droit européen actuel."
+    },
+    {
+      "type": "qcm",
+      "question": "Comment s'appelle la célèbre église construite par Justinien à Constantinople ?",
+      "options": ["Saint-Pierre de Rome", "La basilique Sainte-Sophie", "La chapelle palatine", "Notre-Dame de Paris"],
+      "reponse": 1,
+      "explication": "La basilique Sainte-Sophie, achevée en 537, est un chef-d'œuvre d'architecture coiffé d'une immense coupole. Elle symbolise la puissance de l'Empire byzantin."
+    },
+    {
+      "type": "qcm",
+      "question": "Comment appelle-t-on le titre de l'empereur byzantin ?",
+      "options": ["César", "Basileus", "Calife", "Pharaon"],
+      "reponse": 1,
+      "explication": "Le basileus est le titre de l'empereur byzantin. Ce mot grec signifie « roi »."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce que le césaropapisme ?",
+      "options": [
+        "Un système où le pape dirige l'empire",
+        "Un système où l'empereur domine l'Église",
+        "Un système où l'Église et l'empire sont totalement séparés",
+        "Un système où les moines gouvernent les comtés"
+      ],
+      "reponse": 1,
+      "explication": "Le césaropapisme est le système dans lequel l'empereur byzantin (César) exerce un pouvoir sur l'Église, réunissant autorité politique et autorité religieuse."
+    },
+    {
+      "type": "qcm",
+      "question": "Comment appelle-t-on les images sacrées vénérées par les chrétiens orthodoxes ?",
+      "options": ["Les enluminures", "Les icônes", "Les fresques", "Les vitraux"],
+      "reponse": 1,
+      "explication": "Les icônes sont des images sacrées peintes sur bois, représentant le Christ, la Vierge ou les saints. Elles occupent une place centrale dans la piété orthodoxe."
+    },
+    {
+      "type": "qcm",
+      "question": "Quelle monnaie d'or byzantine est utilisée dans tout le bassin méditerranéen ?",
+      "options": ["Le dinar", "Le denier", "Le besant", "Le florin"],
+      "reponse": 2,
+      "explication": "Le besant est la monnaie d'or de l'Empire byzantin. Elle est acceptée dans tout le bassin méditerranéen, témoignant du rayonnement commercial de Constantinople."
+    },
+    {
+      "type": "qcm",
+      "question": "Quelle dynastie fonde l'Empire carolingien ?",
+      "options": ["Les Mérovingiens", "Les Carolingiens", "Les Capétiens", "Les Omeyyades"],
+      "reponse": 1,
+      "explication": "La dynastie carolingienne, fondée par Pépin le Bref en 751, donne naissance à l'Empire carolingien. Charlemagne en est le représentant le plus célèbre."
+    },
+    {
+      "type": "qcm",
+      "question": "En quelle année Charlemagne est-il couronné empereur ?",
+      "options": ["751", "768", "800", "843"],
+      "reponse": 2,
+      "explication": "Le 25 décembre 800, le pape Léon III couronne Charlemagne empereur des Romains à Rome, dans la basilique Saint-Pierre."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Charlemagne a inventé l'école.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 1,
+      "explication": "C'est une idée reçue ! Des écoles existaient déjà avant Charlemagne, notamment dans les monastères. Il a ordonné le développement de l'enseignement, pas sa création."
+    },
+    {
+      "type": "qcm",
+      "question": "Où se trouve la capitale de l'Empire carolingien ?",
+      "options": ["Paris", "Rome", "Aix-la-Chapelle", "Constantinople"],
+      "reponse": 2,
+      "explication": "La capitale de l'Empire carolingien est Aix-la-Chapelle (aujourd'hui Aachen, en Allemagne), où Charlemagne fait construire un palais et une chapelle palatine."
+    },
+    {
+      "type": "qcm",
+      "question": "Qui sont les missi dominici ?",
+      "options": [
+        "Les chefs de l'armée carolingienne",
+        "Des inspecteurs envoyés pour contrôler les comtes",
+        "Les moines copistes des monastères",
+        "Les conseillers du pape"
+      ],
+      "reponse": 1,
+      "explication": "Les missi dominici (« envoyés du maître ») sont des inspecteurs envoyés en binôme par Charlemagne pour vérifier que les comtes appliquent bien les décisions impériales."
+    },
+    {
+      "type": "qcm",
+      "question": "Comment appelle-t-on les textes législatifs de l'empereur carolingien ?",
+      "options": ["Les décrets", "Les capitulaires", "Les bulles", "Les chartes"],
+      "reponse": 1,
+      "explication": "Les capitulaires sont des textes législatifs organisés en chapitres (capitula), qui règlent tous les aspects de la vie de l'empire carolingien."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce qu'un scriptorium ?",
+      "options": [
+        "Une salle de prière dans un monastère",
+        "Un atelier d'écriture où les moines copient des manuscrits",
+        "Une école pour les enfants de nobles",
+        "Un tribunal de justice carolingien"
+      ],
+      "reponse": 1,
+      "explication": "Le scriptorium est l'atelier d'écriture d'un monastère, où les moines copient et enluminent des manuscrits. C'est un lieu essentiel de la renaissance carolingienne."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce que la minuscule caroline ?",
+      "options": [
+        "Un type de mosaïque carolingienne",
+        "Une nouvelle écriture plus lisible mise au point sous Charlemagne",
+        "Le nom de la fille de Charlemagne",
+        "Un petit monastère de l'époque carolingienne"
+      ],
+      "reponse": 1,
+      "explication": "La minuscule caroline est une écriture plus claire et lisible, avec des lettres arrondies et des espaces entre les mots. Elle est à l'origine de notre écriture actuelle."
+    },
+    {
+      "type": "qcm",
+      "question": "En quelle année le traité de Verdun partage-t-il l'Empire carolingien ?",
+      "options": ["800", "814", "843", "1054"],
+      "reponse": 2,
+      "explication": "En 843, le traité de Verdun partage l'empire carolingien en trois royaumes entre les petits-fils de Charlemagne. Ce partage préfigure la carte politique de l'Europe."
+    },
+    {
+      "type": "qcm",
+      "question": "Combien de royaumes le traité de Verdun crée-t-il ?",
+      "options": ["2", "3", "4", "5"],
+      "reponse": 1,
+      "explication": "Le traité de Verdun crée trois royaumes : la Francie occidentale (future France), la Francie orientale (futur Saint-Empire) et la Lotharingie."
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce que le schisme de 1054 ?",
+      "options": [
+        "La chute de l'Empire romain d'Occident",
+        "Le partage de l'Empire carolingien",
+        "La séparation entre l'Église catholique et l'Église orthodoxe",
+        "La prise de Constantinople par les croisés"
+      ],
+      "reponse": 2,
+      "explication": "Le schisme de 1054 est la rupture définitive entre la chrétienté d'Occident (catholique, dirigée par le pape) et la chrétienté d'Orient (orthodoxe, dirigée par le patriarche de Constantinople)."
+    },
+    {
+      "type": "qcm",
+      "question": "Quel désaccord théologique est au cœur du schisme de 1054 ?",
+      "options": [
+        "La question du Filioque",
+        "Le nombre de sacrements",
+        "La date de Pâques",
+        "Le rôle des moines"
+      ],
+      "reponse": 0,
+      "explication": "Le Filioque (« et du Fils ») est un désaccord majeur : l'Esprit Saint procède-t-il du Père seul (position orthodoxe) ou du Père et du Fils (position catholique) ?"
+    },
+    {
+      "type": "qcm",
+      "question": "Quels missionnaires byzantins évangélisent les Slaves au IXe siècle ?",
+      "options": [
+        "Alcuin et Eginhard",
+        "Cyrille et Méthode",
+        "Léon III et Charlemagne",
+        "Justinien et Théodora"
+      ],
+      "reponse": 1,
+      "explication": "Cyrille et Méthode sont des missionnaires byzantins qui évangélisent les Slaves de Moravie et inventent l'alphabet glagolitique, ancêtre de l'alphabet cyrillique."
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Le Moyen Âge est une époque sombre, sans aucune création culturelle.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 1,
+      "explication": "C'est faux ! L'Empire byzantin est une civilisation brillante et l'Empire carolingien connaît un véritable renouveau culturel. Le Moyen Âge est une période de création et d'échanges."
+    },
+    {
+      "type": "qcm",
+      "question": "Que se passe-t-il à Constantinople en 1204 ?",
+      "options": [
+        "Elle est fondée par Constantin",
+        "Elle est prise et pillée par les croisés occidentaux",
+        "Elle est conquise par les Ottomans",
+        "Un tremblement de terre la détruit"
+      ],
+      "reponse": 1,
+      "explication": "En 1204, lors de la Quatrième croisade, les croisés occidentaux détournent leur expédition et pillent Constantinople pendant trois jours, creusant un fossé définitif entre chrétiens d'Orient et d'Occident."
+    }
+  ]
+}

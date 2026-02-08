@@ -2,7 +2,7 @@
 titre: "La France des années 1930 — Le Front populaire (1934-1938)"
 niveau: "3e"
 matiere: "histoire"
-chapitre: 3
+chapitre: 4
 resume: "Dans les années 1930, la France traverse une grave crise économique et politique. Les ligues d'extrême droite menacent la République. En réponse, les partis de gauche s'unissent dans le Front populaire. Dirigé par Léon Blum, il remporte les élections en 1936 et vote des réformes sociales majeures (congés payés, 40 heures, accords de Matignon). Mais l'opposition du patronat et les divisions internes provoquent sa chute en 1938."
 vocabulaire:
   - terme: "Déflation"

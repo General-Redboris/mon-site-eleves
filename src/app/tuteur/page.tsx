@@ -39,7 +39,7 @@ const chatbots: Chatbot[] = [
     description:
       "Révision de géographie générale : mondialisation, territoires, dynamiques",
     icon: "🌍",
-    niveau: "3e",
+    niveau: "4e",
     matiere: "Géographie",
     plateforme: "chatgpt",
     lien: "https://chatgpt.com/g/g-6924600002408191ba71c4468fea9bc6-geosphere-comprendre-le-monde",
@@ -49,8 +49,8 @@ const chatbots: Chatbot[] = [
     description:
       "Révision sur le développement durable et les défis environnementaux",
     icon: "🌱",
-    niveau: "3e/Cycle 4",
-    matiere: "Géographie/EMC",
+    niveau: "5e",
+    matiere: "Géographie",
     plateforme: "chatgpt",
     lien: "https://chatgpt.com/g/g-692470b6729881919019a17a610ad3e3-ecosphere-defis-de-la-terre",
   },

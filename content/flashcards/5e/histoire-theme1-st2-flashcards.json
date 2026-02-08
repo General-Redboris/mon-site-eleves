@@ -1,0 +1,278 @@
+{
+  "titre": "Flashcards — De la naissance de l'islam à la prise de Bagdad par les Mongols",
+  "niveau": "5e",
+  "matiere": "histoire",
+  "chapitre": "theme1-st2-islam",
+  "cartes": [
+    {
+      "recto": "Vers 610",
+      "verso": "Muhammad reçoit la Révélation de Dieu (selon la tradition musulmane), transmise par l'ange Gabriel.",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "622",
+      "verso": "Hégire : départ de Muhammad de La Mecque vers Médine. Début du calendrier musulman.",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "632",
+      "verso": "Mort de Muhammad. Début des conquêtes menées par les califes.",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "661-750",
+      "verso": "Califat omeyyade. Capitale : Damas. L'empire atteint son extension maximale.",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "750-1258",
+      "verso": "Califat abbasside. Capitale : Bagdad (fondée en 762).",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "756",
+      "verso": "Fondation de l'émirat omeyyade de Cordoue (al-Andalus), en Espagne.",
+      "categorie": "dates",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "786-809",
+      "verso": "Règne d'Hârûn al-Rachîd à Bagdad, apogée de l'empire abbasside.",
+      "categorie": "dates",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "1096-1099",
+      "verso": "Première croisade. Prise de Jérusalem et création des États latins d'Orient.",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "1187",
+      "verso": "Saladin reprend Jérusalem aux croisés après la bataille de Hattin.",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "1258",
+      "verso": "Prise de Bagdad par les Mongols de Hülégü. Fin du califat abbasside.",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Islam",
+      "verso": "Religion monothéiste fondée au VIIe siècle par Muhammad. Le mot signifie « soumission » (à la volonté de Dieu) en arabe.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Coran",
+      "verso": "Livre sacré des musulmans. Il rassemble les révélations faites à Muhammad, organisées en 114 chapitres (sourates).",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Hégire",
+      "verso": "Départ de Muhammad et de ses compagnons de La Mecque vers Médine en 622. Début du calendrier musulman.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Umma",
+      "verso": "Communauté des croyants musulmans, au-delà des différences ethniques ou tribales.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Kaaba",
+      "verso": "Sanctuaire cubique situé à La Mecque, considéré comme la « Maison de Dieu ». Lieu de pèlerinage central de l'islam.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Calife",
+      "verso": "Successeur de Muhammad à la tête de la communauté musulmane. Il détient le pouvoir politique et religieux.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Mosquée",
+      "verso": "Lieu de culte des musulmans, avec une salle de prière, un mihrab, un minbar et un minaret.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Mihrab",
+      "verso": "Niche dans le mur de la mosquée, orientée vers La Mecque (direction de la prière).",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Minaret",
+      "verso": "Tour d'une mosquée, du haut de laquelle le muezzin lance l'appel à la prière.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Minbar",
+      "verso": "Chaire à l'intérieur de la mosquée, d'où l'imam prononce le sermon du vendredi.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Sunnites",
+      "verso": "Courant majoritaire de l'islam (~85 %). Reconnaissent la légitimité des quatre premiers califes et s'appuient sur la Sunna.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Chiites",
+      "verso": "Courant minoritaire de l'islam. Considèrent qu'Ali et ses descendants sont les seuls guides légitimes de la communauté.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Sunna",
+      "verso": "Ensemble des paroles, actes et habitudes de Muhammad, consignés dans les hadiths. Modèle de vie pour les musulmans.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Sultan",
+      "verso": "Titre porté par certains souverains musulmans détenant le pouvoir politique et militaire effectif (ex : les Turcs seldjoukides).",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Souk",
+      "verso": "Marché couvert où artisans et marchands sont regroupés par métier. Centre économique de la ville musulmane.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Médersa",
+      "verso": "École où l'on enseigne le Coran, la théologie et les sciences.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Caravansérail",
+      "verso": "Auberge fortifiée où les marchands et les voyageurs font halte le long des routes commerciales.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Calligraphie",
+      "verso": "Art de l'écriture arabe, considéré comme la forme d'art la plus noble dans l'islam, car il donne forme à la parole de Dieu.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Arabesque",
+      "verso": "Motif décoratif formé de végétaux stylisés et entrelacés, symbolisant la création divine.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Croisade",
+      "verso": "Expédition militaire organisée par les chrétiens d'Occident pour reprendre les Lieux saints (Jérusalem) aux musulmans.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Al-Andalus",
+      "verso": "Territoires de la péninsule Ibérique sous domination musulmane (VIIIe-XVe siècle). Capitale : Cordoue.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Dinar",
+      "verso": "Monnaie d'or utilisée dans l'empire musulman.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Les cinq piliers de l'islam",
+      "verso": "1. Profession de foi (shahâda) — 2. Prière (salât) — 3. Aumône (zakât) — 4. Jeûne du ramadan (sawm) — 5. Pèlerinage à La Mecque (hajj)",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Muhammad",
+      "verso": "Fondateur de l'islam (vers 570-632). Marchand de La Mecque qui reçoit la Révélation vers 610. Considéré par les musulmans comme le dernier prophète.",
+      "categorie": "personnages",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Hârûn al-Rachîd",
+      "verso": "Calife abbasside (786-809). Son règne marque l'apogée de l'empire abbasside. Sa cour luxueuse inspire les Mille et Une Nuits.",
+      "categorie": "personnages",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Saladin",
+      "verso": "Sultan d'Égypte et de Syrie (1138-1193). Il unifie les forces musulmanes et reprend Jérusalem aux croisés en 1187.",
+      "categorie": "personnages",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Al-Khwârizmî",
+      "verso": "Mathématicien perse du IXe siècle. Inventeur de l'algèbre, il contribue à diffuser les chiffres « arabes » et le zéro. Le mot « algorithme » vient de son nom.",
+      "categorie": "personnages",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Avicenne (Ibn Sînâ)",
+      "verso": "Médecin et philosophe (Xe-XIe siècle). Auteur du Canon de la médecine, ouvrage de référence en Europe jusqu'au XVIIe siècle.",
+      "categorie": "personnages",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Averroès (Ibn Rushd)",
+      "verso": "Philosophe andalou du XIIe siècle. Auteur de commentaires d'Aristote, il cherche à réconcilier raison et foi.",
+      "categorie": "personnages",
+      "niveau_difficulte": 3
+    },
+    {
+      "recto": "Ibn Battuta",
+      "verso": "Voyageur marocain du XIVe siècle. Il parcourt pendant 30 ans le monde musulman et au-delà. Son récit (la Rihla) est un témoignage unique.",
+      "categorie": "personnages",
+      "niveau_difficulte": 3
+    },
+    {
+      "recto": "Omeyyades",
+      "verso": "Première dynastie de califes héréditaires (661-750). Capitale : Damas. L'empire atteint son extension maximale.",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Abbassides",
+      "verso": "Seconde grande dynastie de califes (750-1258). Capitale : Bagdad. Apogée sous Hârûn al-Rachîd.",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Quels mots français viennent de l'arabe ?",
+      "verso": "Algèbre (al-jabr), algorithme (al-Khwârizmî), zéro (sifr), alchimie, almanach, zénith, nadir, chèque (sakk)...",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Maison de la Sagesse (Bayt al-Hikma)",
+      "verso": "Centre intellectuel fondé à Bagdad au IXe siècle. Des savants de toutes origines y traduisent et étudient les œuvres grecques, perses et indiennes.",
+      "categorie": "reperes",
+      "niveau_difficulte": 3
+    },
+    {
+      "recto": "Écoles de traduction de Tolède",
+      "verso": "Lieu majeur de transfert des savoirs entre monde musulman et Europe. Chrétiens, musulmans et juifs y traduisent des œuvres arabes en latin.",
+      "categorie": "reperes",
+      "niveau_difficulte": 3
+    }
+  ]
+}

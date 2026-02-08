@@ -2,7 +2,7 @@
 titre: "L'URSS de Staline : un régime totalitaire (1924-1953)"
 niveau: "3e"
 matiere: "histoire"
-chapitre: 1
+chapitre: 2
 resume: "L'URSS, née de la Révolution d'Octobre 1917, devient sous Staline (1924-1953) un régime totalitaire. Le pouvoir repose sur trois piliers : un chef tout-puissant et un parti unique, la propagande et le culte de la personnalité, et la terreur (police politique, Goulag, Grande Terreur). L'économie est entièrement contrôlée par l'État (collectivisation, plans quinquennaux). Ce régime cause la mort de millions de personnes."
 vocabulaire:
   - terme: "URSS"

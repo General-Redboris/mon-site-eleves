@@ -2,7 +2,7 @@
 titre: "Des ressources à ménager et à mieux utiliser"
 niveau: "5e"
 matiere: "geographie"
-chapitre: 1
+chapitre: 2
 resume: "L'énergie est indispensable à nos sociétés mais son utilisation, fondée à 80 % sur les fossiles, menace l'environnement. La transition énergétique vise à développer les renouvelables, économiser l'énergie et améliorer l'efficacité énergétique. Chine, France et UE illustrent des parcours différents."
 vocabulaire:
   - terme: "Énergie"

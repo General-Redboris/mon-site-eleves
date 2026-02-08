@@ -1,0 +1,317 @@
+---
+titre: "De la naissance de l'islam à la prise de Bagdad par les Mongols : pouvoirs, sociétés, cultures"
+niveau: "5e"
+matiere: "histoire"
+chapitre: 2
+resume: "Au VIIe siècle, l'islam naît dans la péninsule Arabique. En un siècle, les conquêtes créent un immense empire. La civilisation musulmane développe des villes brillantes, un commerce intense et un essor scientifique remarquable. Elle entretient avec les chrétientés des relations faites d'échanges et de conflits, jusqu'à la prise de Bagdad par les Mongols en 1258."
+vocabulaire:
+  - terme: "Islam"
+    definition: "Religion monothéiste fondée au VIIe siècle par Muhammad. Le mot signifie « soumission » (à la volonté de Dieu) en arabe."
+  - terme: "Monothéisme"
+    definition: "Croyance en un dieu unique. Les trois grandes religions monothéistes sont le judaïsme, le christianisme et l'islam."
+  - terme: "Péninsule Arabique"
+    definition: "Vaste péninsule située entre la mer Rouge et le golfe Persique, berceau de l'islam."
+  - terme: "Polythéisme"
+    definition: "Croyance en plusieurs dieux."
+  - terme: "Kaaba"
+    definition: "Sanctuaire cubique situé à La Mecque, considéré par les musulmans comme la « Maison de Dieu », bâtie selon la tradition par Abraham et son fils Ismaël."
+  - terme: "Bédouins"
+    definition: "Populations arabes nomades vivant dans le désert."
+  - terme: "Caravane"
+    definition: "Groupe de marchands voyageant ensemble à dos de chameaux pour transporter des marchandises à travers le désert."
+  - terme: "Muhammad"
+    definition: "Fondateur de l'islam. Considéré par les musulmans comme le dernier prophète envoyé par Dieu, dans la lignée d'Abraham, Moïse et Jésus."
+  - terme: "Allah"
+    definition: "Mot arabe signifiant « Dieu ». Désigne le Dieu unique dans l'islam. Ce terme est également utilisé par les chrétiens et les juifs arabophones."
+  - terme: "Coran"
+    definition: "Livre sacré des musulmans. Il rassemble les révélations faites à Muhammad, organisées en 114 chapitres appelés sourates."
+  - terme: "Hégire"
+    definition: "Départ de Muhammad et de ses compagnons de La Mecque vers Médine en 622. Début du calendrier musulman."
+  - terme: "Umma"
+    definition: "Communauté des croyants musulmans, au-delà des différences ethniques ou tribales."
+  - terme: "Mosquée"
+    definition: "Lieu de culte des musulmans."
+  - terme: "Imam"
+    definition: "Celui qui dirige la prière collective dans une mosquée."
+  - terme: "Mihrab"
+    definition: "Niche dans le mur de la mosquée, orientée vers La Mecque (direction de la prière, appelée qibla)."
+  - terme: "Minaret"
+    definition: "Tour d'une mosquée, du haut de laquelle le muezzin lance l'appel à la prière."
+  - terme: "Minbar"
+    definition: "Chaire à l'intérieur de la mosquée, d'où l'imam prononce le sermon du vendredi."
+  - terme: "Calife"
+    definition: "Successeur de Muhammad à la tête de la communauté musulmane. Il détient le pouvoir politique et religieux."
+  - terme: "Califat"
+    definition: "Territoire gouverné par un calife ; désigne aussi le régime politique lui-même."
+  - terme: "Omeyyades"
+    definition: "Première dynastie de califes héréditaires (661-750), installée à Damas."
+  - terme: "Abbassides"
+    definition: "Seconde grande dynastie de califes (750-1258), installée à Bagdad."
+  - terme: "Dinar"
+    definition: "Monnaie d'or utilisée dans l'empire musulman."
+  - terme: "Al-Andalus"
+    definition: "Nom donné aux territoires de la péninsule Ibérique sous domination musulmane (VIIIe-XVe siècle)."
+  - terme: "Sunnites"
+    definition: "Courant majoritaire de l'islam, qui reconnaît la légitimité des quatre premiers califes et s'appuie sur la Sunna."
+  - terme: "Chiites"
+    definition: "Courant de l'islam qui considère qu'Ali et ses descendants sont les seuls guides légitimes de la communauté musulmane."
+  - terme: "Sunna"
+    definition: "Ensemble des paroles, actes et habitudes de Muhammad, consignés dans les hadiths. Sert de modèle de vie pour les musulmans."
+  - terme: "Hadiths"
+    definition: "Recueils des paroles et des actes attribués à Muhammad, transmis par chaîne de témoins."
+  - terme: "Sultan"
+    definition: "Titre porté par certains souverains musulmans détenant le pouvoir politique et militaire effectif."
+  - terme: "Fatimides"
+    definition: "Dynastie chiite qui fonde un califat en Afrique du Nord puis en Égypte (Xe-XIIe siècle)."
+  - terme: "Turcs seldjoukides"
+    definition: "Peuple turc converti à l'islam sunnite qui s'empare du pouvoir dans l'empire abbasside au XIe siècle."
+  - terme: "Souk"
+    definition: "Marché couvert où les artisans et les marchands sont regroupés par métier."
+  - terme: "Hammam"
+    definition: "Bain public, lieu d'hygiène et de sociabilité."
+  - terme: "Médersa"
+    definition: "École où l'on enseigne le Coran, la théologie et les sciences."
+  - terme: "Caravansérail"
+    definition: "Auberge fortifiée où les marchands et les voyageurs font halte le long des routes commerciales."
+  - terme: "Calligraphie"
+    definition: "Art de l'écriture. Dans l'islam, la calligraphie arabe est la forme d'art la plus valorisée."
+  - terme: "Arabesque"
+    definition: "Motif décoratif formé de végétaux stylisés et entrelacés."
+  - terme: "Croisade"
+    definition: "Expédition militaire organisée par les chrétiens d'Occident pour reprendre ou défendre les Lieux saints (Jérusalem) aux musulmans."
+  - terme: "Lieux saints"
+    definition: "Sites associés à la vie de Jésus à Jérusalem et en Terre sainte, sacrés pour les chrétiens."
+  - terme: "États latins d'Orient"
+    definition: "Territoires fondés par les croisés au Proche-Orient après la première croisade (1099-1291)."
+  - terme: "Saladin"
+    definition: "Sultan d'Égypte et de Syrie (1138-1193), il unifie les forces musulmanes et reprend Jérusalem en 1187."
+  - terme: "Mongols"
+    definition: "Peuple nomade d'Asie centrale, unifié par Gengis Khan au début du XIIIe siècle, qui fonde le plus vaste empire continental de l'histoire."
+  - terme: "Mamelouks"
+    definition: "Anciens esclaves militaires d'origine turque ou caucasienne, qui fondent un sultanat en Égypte (1250-1517)."
+---
+
+# THÈME 1 — Chrétientés et islam (VIe-XIIIe siècles) — Des mondes en contact
+
+## Leçon 2 — De la naissance de l'islam à la prise de Bagdad par les Mongols : pouvoirs, sociétés, cultures
+
+> **Problématique :** Comment naît et se développe la civilisation musulmane du VIIe au XIIIe siècle ? Comment s'organisent les pouvoirs, les sociétés et les cultures dans le monde musulman, et quels contacts entretient-il avec les chrétientés voisines ?
+
+> **Point de laïcité :** Dans cette leçon, l'islam est étudié comme un **fait historique et culturel**. On ne porte aucun jugement de valeur sur les croyances. On distingue clairement ce que les musulmans croient (« selon la tradition musulmane... ») de ce que les historiens établissent à partir des sources.
+
+### Repères chronologiques
+
+| Date | Événement | Période / Contexte |
+|------|-----------|-------------------|
+| vers 610 | Muhammad reçoit la Révélation (selon la tradition musulmane) | Naissance de l'islam |
+| 622 | Hégire : départ de Muhammad de La Mecque vers Médine | Début du calendrier musulman |
+| 632 | Mort de Muhammad | Début des conquêtes |
+| 632-661 | Califat des quatre premiers califes (« califes bien guidés ») | Expansion rapide |
+| 661-750 | Califat omeyyade (capitale : Damas) | Empire omeyyade |
+| 750-1258 | Califat abbasside (capitale : Bagdad) | Empire abbasside |
+| VIIIe s. | Apogée de l'Empire omeyyade (de l'Espagne à l'Indus) | Étendue maximale |
+| 756 | Fondation de l'émirat omeyyade de Cordoue | Al-Andalus |
+| 786-809 | Règne d'Hârûn al-Rachîd à Bagdad | Apogée abbasside |
+| XIe s. | Prise de pouvoir des Turcs seldjoukides | Fragmentation politique |
+| 1096-1099 | Première croisade | Contacts chrétiens-musulmans |
+| 1187 | Saladin reprend Jérusalem | Contacts chrétiens-musulmans |
+| 1258 | Prise de Bagdad par les Mongols | Fin du califat abbasside |
+
+### Introduction
+
+Au début du VIIe siècle, dans la péninsule Arabique, naît une nouvelle religion monothéiste : l'**islam**. En moins d'un siècle, les conquêtes militaires donnent naissance à un immense empire, qui s'étend de l'Espagne à l'Asie centrale. Au-delà de la dimension religieuse et militaire, cette expansion donne naissance à une **civilisation brillante**, caractérisée par une vie urbaine dynamique, des échanges commerciaux intenses et un essor remarquable des sciences et des arts.
+
+Cette civilisation n'est cependant ni uniforme ni figée : elle connaît des divisions politiques et religieuses internes, et entretient avec les chrétientés voisines des relations faites à la fois d'échanges et de conflits.
+
+---
+
+## I. La naissance de l'islam
+
+### A. L'Arabie avant l'islam
+
+Avant l'apparition de l'islam, la péninsule Arabique est peuplée de tribus arabes, pour la plupart nomades (les **Bédouins**), qui vivent de l'élevage et du commerce caravanier. La région est majoritairement **polythéiste** : on y vénère de multiples divinités, mais on y trouve également des communautés juives et chrétiennes.
+
+**La Mecque** est une cité commerciale prospère, située sur les routes caravanières reliant le Yémen à la Syrie. Elle abrite un sanctuaire, la **Kaaba**, lieu de pèlerinage où sont rassemblées les idoles de nombreuses divinités. La tribu des **Quraysh**, à laquelle appartient Muhammad, contrôle la ville et le sanctuaire.
+
+### B. Muhammad et la Révélation
+
+> **Point de laïcité :** Les informations sur la vie de Muhammad proviennent essentiellement de la tradition musulmane (la Sîra, biographie du Prophète, et les hadiths, recueils de ses paroles). Les historiens disposent de peu de sources extérieures contemporaines. On présentera donc les événements en distinguant bien ce qui relève de la croyance et ce qui est établi historiquement.
+
+Selon la tradition musulmane, **Muhammad** (vers 570-632) est un marchand de La Mecque qui, vers 610, reçoit la **Révélation** de Dieu (**Allah** en arabe) par l'intermédiaire de l'ange Gabriel (Jibrîl). Ces révélations, transmises progressivement pendant plus de vingt ans, seront rassemblées après sa mort dans un livre sacré : le **Coran**.
+
+Muhammad prêche un monothéisme strict : il n'y a qu'un seul Dieu, et Muhammad est son prophète. Ce message se heurte à l'hostilité des élites mecquoises, qui tirent profit du polythéisme et des pèlerinages à la Kaaba.
+
+En **622**, Muhammad et ses partisans quittent La Mecque pour **Médine** (Yathrib) : c'est l'**Hégire** (« émigration »). Cet événement est si important pour les musulmans qu'il marque le début du **calendrier musulman** (calendrier lunaire). À Médine, Muhammad organise la communauté des croyants (l'**Umma**) et devient à la fois un chef religieux, politique et militaire.
+
+Après plusieurs années de conflit avec les Mecquois, Muhammad prend La Mecque en 630. Il purifie la Kaaba de ses idoles et la consacre au culte du Dieu unique. À sa mort en 632, la majeure partie de la péninsule Arabique est unifiée sous la bannière de l'islam.
+
+> **Pour aller plus loin — L'islam et les autres monothéismes :** L'islam se présente comme le dernier des trois grands monothéismes. Le Coran reconnaît Abraham (Ibrahim), Moïse (Moussa) et Jésus (Issa) comme des prophètes, mais considère que leurs messages ont été altérés par les hommes. Muhammad est désigné comme le « sceau des prophètes », c'est-à-dire le dernier messager de Dieu. Juifs et chrétiens sont appelés dans le Coran « gens du Livre » (Ahl al-Kitâb), car ils possèdent eux aussi des écritures révélées.
+
+### C. Les fondements de la foi et de la pratique musulmanes
+
+La religion musulmane repose sur des croyances fondamentales et des pratiques rituelles. La foi musulmane s'articule autour de **cinq piliers** que tout croyant doit respecter :
+
+| Pilier | Nom arabe | Description |
+|--------|-----------|-------------|
+| 1. La profession de foi | Shahâda | « Il n'y a de dieu que Dieu, et Muhammad est son prophète. » Formule que prononce tout musulman pour affirmer sa foi. |
+| 2. La prière | Salât | Cinq prières quotidiennes, orientées vers La Mecque. |
+| 3. L'aumône | Zakât | Don obligatoire aux pauvres, calculé en proportion de la richesse. |
+| 4. Le jeûne du ramadan | Sawm | Jeûne du lever au coucher du soleil pendant le mois sacré du ramadan. |
+| 5. Le pèlerinage à La Mecque | Hajj | Voyage à La Mecque au moins une fois dans sa vie, si on en a les moyens. |
+
+Le lieu de culte des musulmans est la **mosquée**. Elle sert à la prière collective du vendredi, dirigée par un **imam**. La mosquée comprend généralement une cour, une salle de prière orientée vers La Mecque (indiquée par le **mihrab**, une niche dans le mur), un **minbar** (chaire pour le sermon) et un **minaret** (tour du haut de laquelle le muezzin appelle à la prière).
+
+---
+
+## II. Un empire, des empires : le pouvoir dans le monde musulman
+
+### A. Les conquêtes et la formation de l'empire
+
+Après la mort de Muhammad en 632, ses successeurs, les **califes** (« successeurs » en arabe), poursuivent l'expansion de l'islam par des **conquêtes militaires** extrêmement rapides. En un siècle, les armées musulmanes s'emparent de la Syrie, de l'Égypte, de la Perse, de l'Afrique du Nord, de l'Espagne et d'une partie de l'Asie centrale.
+
+Plusieurs facteurs expliquent la rapidité de ces conquêtes : la ferveur religieuse des combattants, l'affaiblissement des empires byzantin et perse (épuisés par leurs guerres mutuelles), et les conditions parfois favorables offertes aux populations conquises (tolérance envers les « gens du Livre » moyennant un impôt spécifique).
+
+> **Idée reçue à corriger — « L'islam s'est répandu uniquement par la guerre » :** Si les conquêtes militaires ont permis l'expansion territoriale, la conversion des populations conquises a été un processus lent et progressif, s'étalant sur plusieurs siècles. Les chrétiens et les juifs n'étaient pas contraints de se convertir : ils bénéficiaient du statut de dhimmis (« protégés »), qui leur garantissait la liberté de culte en échange du paiement d'un impôt spécifique (la jizya). Ce statut, s'il n'est pas égalitaire au sens moderne, reflète une forme de coexistence organisée.
+
+### B. Des Omeyyades aux Abbassides : deux dynasties, deux capitales
+
+Les quatre premiers califes (632-661), choisis parmi les compagnons de Muhammad, sont appelés par la tradition sunnite les **« califes bien guidés »**. Mais la question de la succession provoque rapidement des divisions. En 661, après l'assassinat du calife Ali (gendre de Muhammad), la famille des **Omeyyades** prend le pouvoir et installe la capitale à **Damas** (Syrie).
+
+Sous les Omeyyades (661-750), l'empire atteint son extension maximale. C'est un empire centralisé qui s'appuie sur l'administration héritée des Byzantins et des Perses. L'arabe devient la langue officielle de l'administration et une monnaie d'or commune est frappée, le **dinar**.
+
+En 750, les Omeyyades sont renversés par une révolution menée par la famille des **Abbassides**. La capitale est transférée à **Bagdad**, une ville nouvelle fondée en 762 sur le Tigre, au cœur de l'Irak actuel. L'empire abbasside connaît son apogée sous le calife **Hârûn al-Rachîd** (786-809), dont la cour luxueuse inspire les récits des **Mille et Une Nuits**.
+
+Cependant, un membre de la famille omeyyade s'échappe et fonde un émirat indépendant à **Cordoue** (Espagne) en 756. Ce territoire, appelé **al-Andalus**, deviendra un brillant foyer de civilisation.
+
+### C. Sunnites et chiites : une division durable
+
+La question de la succession de Muhammad provoque une division profonde au sein de l'islam, qui perdure encore aujourd'hui.
+
+Les **sunnites** (environ 85 % des musulmans actuels) reconnaissent la légitimité des quatre premiers califes et considèrent que le calife peut être choisi parmi les membres de la communauté. Ils se réfèrent au Coran et à la **Sunna** (l'ensemble des paroles et des actes de Muhammad, rassemblés dans les **hadiths**).
+
+Les **chiites** estiment que le pouvoir aurait dû revenir exclusivement à Ali, gendre et cousin de Muhammad, et à ses descendants. Pour eux, seuls les membres de la famille du Prophète peuvent légitimement diriger la communauté. Le meurtre d'Ali (661) puis le massacre de son fils Hussein à Kerbala (680) sont des événements fondateurs du chiisme.
+
+### D. La fragmentation politique du monde musulman
+
+À partir du IXe siècle, le califat abbasside s'affaiblit progressivement. Des dynasties locales prennent le pouvoir dans les provinces éloignées, tout en reconnaissant parfois l'autorité symbolique du calife de Bagdad. Le monde musulman se morcelle en plusieurs États indépendants.
+
+Les **Fatimides** (chiites) fondent un califat rival en Égypte avec Le Caire pour capitale (Xe siècle). Les Omeyyades de Cordoue se proclament également califes au Xe siècle. Au XIe siècle, les **Turcs seldjoukides**, convertis à l'islam sunnite, s'emparent de Bagdad et prennent le pouvoir réel sous le titre de **sultan**, ne laissant au calife qu'un rôle religieux symbolique.
+
+Cette fragmentation politique ne signifie pas un déclin de la civilisation : les échanges commerciaux et culturels restent intenses à travers tout le monde musulman, unis par la langue arabe, la religion et des réseaux marchands communs.
+
+---
+
+## III. Une civilisation brillante
+
+### A. Des villes au cœur de la civilisation musulmane
+
+Le monde musulman est une **civilisation urbaine**. Les grandes villes — **Bagdad**, **Cordoue**, **Le Caire**, Damas, Kairouan, Samarcande — comptent parmi les plus grandes et les plus prospères du monde médiéval.
+
+La ville musulmane s'organise autour de la **grande mosquée** et du **souk** (marché couvert), où s'exercent de nombreux métiers (artisans, commerçants, changeurs). Le palais du souverain, les **hammams** (bains publics), les **médersas** (écoles coraniques) et les **caravansérails** (auberges pour les marchands) complètent l'espace urbain.
+
+> **Pour aller plus loin — Bagdad, la ville ronde :** Fondée en 762 par le calife al-Mansour, Bagdad est conçue selon un plan circulaire unique. Elle abrite peut-être un million d'habitants à son apogée et constitue le plus grand centre intellectuel et commercial du monde. La « Maison de la Sagesse » (Bayt al-Hikma), fondée au IXe siècle, y rassemble des savants de toutes origines et de toutes religions pour traduire et étudier les œuvres grecques, perses et indiennes.
+
+> **Pour aller plus loin — Cordoue, perle d'al-Andalus :** Au Xe siècle, Cordoue rivalise avec Bagdad et Constantinople. La ville compte des centaines de mosquées, des bains publics, des bibliothèques et un réseau d'éclairage public. Sa grande mosquée, avec ses centaines de colonnes et ses arcs bicolores, est un chef-d'œuvre de l'architecture islamique.
+
+### B. Un monde relié par le commerce
+
+Le monde musulman est traversé par d'immenses **réseaux commerciaux** qui relient l'Afrique, l'Asie et l'Europe. Les marchands musulmans circulent sur les **routes caravanières** terrestres (route de la soie, routes transsahariennes) et sur les **routes maritimes** (océan Indien, Méditerranée).
+
+Les produits échangés sont variés : **épices** (poivre, cannelle, clous de girofle), **soieries**, **or** (d'Afrique de l'Ouest), **ivoire**, pierres précieuses, céramiques, parfums, papier (venu de Chine) et **esclaves**. Le commerce favorise également la diffusion des techniques (papier, numération indienne), des cultures agricoles (agrumes, riz, canne à sucre) et des idées.
+
+Les marchands musulmans mettent au point des **techniques financières** avancées : lettres de change (**suftaja**), sociétés commerciales, système bancaire. Le mot « chèque » vient d'ailleurs du mot arabe **sakk**.
+
+> **Pour aller plus loin — Ibn Battuta, le plus grand voyageur du Moyen Âge :** Né à Tanger (Maroc) en 1304, Ibn Battuta parcourt pendant près de trente ans l'ensemble du monde musulman et au-delà : Afrique de l'Est, Inde, Chine, Asie du Sud-Est. Son récit de voyage (la Rihla) décrit avec précision les sociétés, les villes et les coutumes rencontrées, offrant un témoignage unique sur le monde du XIVe siècle.
+
+### C. L'âge d'or des sciences et des savoirs
+
+Entre le VIIIe et le XIIIe siècle, le monde musulman connaît un extraordinaire essor intellectuel. Les savants musulmans ne se contentent pas de recueillir et de transmettre les héritages grecs, perses et indiens : ils les enrichissent considérablement par leurs propres découvertes.
+
+| Discipline | Savants célèbres | Contributions majeures |
+|-----------|-----------------|----------------------|
+| Mathématiques | Al-Khwârizmî (IXe s.) | Invention de l'algèbre, diffusion des chiffres « arabes » (d'origine indienne) et du zéro. |
+| Médecine | Avicenne / Ibn Sînâ (Xe-XIe s.) | Canon de la médecine, ouvrage de référence utilisé en Europe jusqu'au XVIIe siècle. |
+| Astronomie | Al-Battânî (Xe s.) | Perfectionnement de l'astrolabe, calculs astronomiques précis, correction de Ptolémée. |
+| Optique | Ibn al-Haytham (XIe s.) | Traité d'optique fondateur, méthode expérimentale avant l'heure. |
+| Géographie | Al-Idrîsî (XIIe s.) | Planisphère et description systématique du monde connu. |
+| Philosophie | Averroès / Ibn Rushd (XIIe s.) | Commentaires d'Aristote, réconciliation entre raison et foi. |
+
+Beaucoup de mots scientifiques utilisés en français viennent de l'arabe : **algèbre** (al-jabr), **algorithme** (du nom d'al-Khwârizmî), **zéro** (sifr), **alchimie**, **almanach**, **zénith**, **nadir**... Ce vocabulaire témoigne de l'immense dette intellectuelle de l'Europe envers la civilisation musulmane médiévale.
+
+> **Idée reçue à corriger — « Les musulmans n'ont fait que transmettre le savoir grec » :** C'est inexact. Si les savants du monde musulman ont effectivement traduit et préservé des œuvres grecques, perses et indiennes, ils ont surtout produit des connaissances originales considérables. L'algèbre, les avancées en optique, en médecine et en astronomie ne sont pas de simples copies : ce sont des créations nouvelles qui ont transformé les savoirs mondiaux.
+
+### D. Un art original et raffiné
+
+L'art musulman se caractérise par une grande originalité. La tradition musulmane déconseillant la représentation des êtres vivants dans les lieux de culte, les artistes développent un art décoratif d'une richesse exceptionnelle, fondé sur trois éléments :
+
+La **calligraphie** (l'art de l'écriture) : la belle écriture arabe est considérée comme la forme d'art la plus noble, car elle donne forme à la parole de Dieu contenue dans le Coran.
+
+Les **arabesques** : motifs végétaux stylisés qui s'entrelacent à l'infini, symbolisant la création divine.
+
+Les **motifs géométriques** : combinaisons complexes de formes géométriques (cercles, étoiles, polygones) dont la répétition évoque l'infini divin.
+
+L'**architecture** musulmane se distingue par l'utilisation des arcs (outrepassés, en fer à cheval, brisés), des coupoles, des muqarnas (ornements en nid d'abeilles) et des cours intérieures avec jardins et fontaines. Les grandes mosquées, comme celle de Cordoue, sont des chefs-d'œuvre reconnus universellement.
+
+> **Pour aller plus loin — L'Alhambra de Grenade :** Construit entre le XIIIe et le XIVe siècle par les sultans nasrides de Grenade, l'Alhambra est considéré comme l'un des sommets de l'art islamique. Ses cours ornées de fontaines, ses murs couverts de calligraphies et d'arabesques, et ses plafonds de muqarnas (« stalactites » de plâtre sculpté) en font un véritable paradis sur terre, inspiré de la description du paradis dans le Coran.
+
+---
+
+## IV. Contacts entre chrétientés et islam
+
+### A. Les échanges commerciaux et culturels
+
+Malgré les conflits, les relations entre le monde musulman et les chrétientés sont aussi marquées par d'intenses **échanges**. La Méditerranée est un espace de circulation commerciale où marchands italiens (Vénitiens, Génois), byzantins et musulmans se rencontrent dans les ports.
+
+Les **échanges culturels** sont fondamentaux. En Espagne et en Sicile, des chrétiens, des musulmans et des juifs collaborent pour **traduire** des œuvres philosophiques et scientifiques arabes en latin. C'est par ce biais que l'Europe redécouvre les œuvres d'Aristote, enrichies des commentaires d'Averroès (Ibn Rushd). Les **écoles de traduction de Tolède** jouent un rôle majeur dans ce transfert de savoirs.
+
+De nombreuses **techniques et innovations** passent du monde musulman vers l'Europe : le papier (d'origine chinoise, adopté par les Arabes puis transmis à l'Europe), les chiffres « arabes » et le zéro, l'astrolabe, des techniques agricoles (irrigation) et des plantes (agrumes, riz, coton, canne à sucre).
+
+> **Pour aller plus loin — La Sicile, carrefour des trois civilisations :** La Sicile offre un exemple remarquable de contacts entre les trois civilisations. Conquérant l'île aux musulmans au XIe siècle, les Normands y maintiennent une société pluriculturelle. Le roi Roger II (XIIe siècle) se fait couronner dans un manteau portant des inscriptions en arabe, s'entoure de savants musulmans (comme le géographe al-Idrîsî) et fait construire des édifices mêlant styles byzantin, arabe et latin, comme la chapelle Palatine de Palerme.
+
+### B. Les croisades : guerre sainte et rencontres
+
+En 1095, le pape Urbain II appelle les chrétiens d'Occident à partir en **croisade** pour reprendre **Jérusalem** et les **Lieux saints** aux musulmans. La **première croisade** (1096-1099) aboutit à la prise de Jérusalem et à la création d'**États latins d'Orient** (royaume de Jérusalem, comté de Tripoli, principauté d'Antioche, comté d'Édesse).
+
+Huit croisades se succèdent entre 1096 et 1270. Du côté musulman, la réaction s'organise progressivement. **Saladin** (Salah al-Din), sultan d'Égypte et de Syrie, reprend Jérusalem en **1187** après la bataille de Hattin. Les derniers États latins d'Orient disparaissent en 1291.
+
+Les croisades sont des épisodes violents, mais elles sont aussi l'occasion de **contacts prolongés** entre Occidentaux et Orientaux. Dans les États latins d'Orient, les croisés côtoient des populations musulmanes, juives et chrétiennes orientales. Des échanges commerciaux, techniques et culturels s'y développent.
+
+> **Idée reçue à corriger — « Les croisades sont une guerre de religions » :** Les motivations des croisés sont multiples et ne se réduisent pas à la seule dimension religieuse. Le goût de l'aventure, l'espoir de terres et de richesses, les intérêts commerciaux des républiques italiennes et les rivalités entre princes chrétiens jouent un rôle important. De même, les alliances dépassent parfois les frontières religieuses : il arrive que des seigneurs chrétiens s'allient à des princes musulmans contre d'autres chrétiens, et inversement.
+
+### C. La prise de Bagdad par les Mongols (1258)
+
+En **1258**, les armées mongoles de **Hülégü** (petit-fils de Gengis Khan) s'emparent de Bagdad. La ville est pillée et le dernier calife abbasside est exécuté. Cet événement marque la **fin du califat abbasside** et constitue un traumatisme profond pour le monde musulman.
+
+Cependant, la prise de Bagdad ne signifie pas la fin de la civilisation musulmane. L'islam survit et se diffuse : les Mongols eux-mêmes se convertissent à l'islam au cours des décennies suivantes. En Égypte, les **Mamelouks** arrêtent l'avance mongole (bataille d'Aïn Djalout, 1260) et prennent le relais comme puissance dominante du monde musulman oriental. L'islam continue de se répandre en Afrique, en Asie du Sud-Est et en Inde.
+
+> **Pour aller plus loin — La destruction de Bagdad en 1258 :** Selon les chroniqueurs, le siège de Bagdad dure environ deux semaines. La prise de la ville s'accompagne de destructions massives : les bibliothèques sont incendiées, les canaux d'irrigation détruits. La légende raconte que les eaux du Tigre étaient noires de l'encre des manuscrits jetés dans le fleuve. Même si certains récits sont exagérés, la chute de Bagdad reste l'un des événements les plus marquants de l'histoire médiévale.
+
+---
+
+## Conclusion
+
+Entre le VIIe et le XIIIe siècle, la civilisation musulmane connaît un essor remarquable. Née dans la péninsule Arabique, elle s'étend rapidement pour former un immense empire, puis un ensemble de royaumes partageant une religion, une langue savante (l'arabe) et une culture commune. Les villes du monde musulman sont parmi les plus brillantes de l'époque médiévale, abritant des centres de savoir dont les découvertes marqueront durablement les sciences universelles.
+
+Les contacts avec les chrétientés voisines (byzantine et occidentale) sont faits à la fois de conflits (croisades) et d'échanges (commerce, transferts de savoirs). Ces échanges contribuent à la circulation des hommes, des idées et des techniques à travers l'espace méditerranéen, faisant du Moyen Âge une période de mise en contact des civilisations bien plus que de simple affrontement.
+
+---
+
+## Ce qu'il faut retenir
+
+1. L'islam naît au VIIe siècle dans la péninsule Arabique. Muhammad en est le fondateur et le Coran le livre sacré.
+2. L'Hégire (622), départ de Muhammad de La Mecque vers Médine, marque le début du calendrier musulman.
+3. La pratique musulmane repose sur cinq piliers : profession de foi, prière, aumône, jeûne du ramadan, pèlerinage à La Mecque.
+4. Après la mort de Muhammad (632), les califes dirigent un vaste empire : les Omeyyades depuis Damas (661-750), puis les Abbassides depuis Bagdad (750-1258).
+5. La division entre sunnites et chiites naît de la question de la succession de Muhammad.
+6. La civilisation musulmane est urbaine et commerçante. Bagdad et Cordoue comptent parmi les plus grandes villes du monde médiéval.
+7. Les savants du monde musulman font progresser les mathématiques, la médecine, l'astronomie, l'optique et la philosophie.
+8. L'art musulman se caractérise par la calligraphie, les arabesques et les motifs géométriques.
+9. Les croisades (1096-1291) sont des conflits mais aussi des moments de contacts entre chrétiens et musulmans.
+10. En 1258, la prise de Bagdad par les Mongols met fin au califat abbasside, mais la civilisation musulmane se poursuit et continue de se diffuser.
+
+---
+
+## Idées reçues à corriger
+
+- **« Arabe et musulman, c'est la même chose » :** Non. « Arabe » désigne une langue et une culture ; « musulman » désigne une religion. Tous les Arabes ne sont pas musulmans (il existe des chrétiens arabes, par exemple au Liban ou en Égypte) et tous les musulmans ne sont pas arabes (les Turcs, les Perses, les Indonésiens sont musulmans mais pas arabes). Dès l'époque médiévale, la civilisation musulmane intègre des peuples très divers.
+- **« La civilisation musulmane médiévale est uniquement arabe » :** La civilisation musulmane est une civilisation composite, nourrie des héritages grec, perse, indien, égyptien et de bien d'autres. Ses grands savants viennent d'horizons très divers : al-Khwârizmî est perse, Avicenne est originaire d'Asie centrale, Ibn Rushd (Averroès) est andalou. C'est la langue arabe et la religion musulmane qui unifient cet ensemble, non l'ethnie.

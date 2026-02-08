@@ -2,7 +2,7 @@
 titre: "Le monde habité"
 niveau: "6e"
 matiere: "geographie"
-chapitre: 2
+chapitre: 1
 resume: "La Terre compte 8 milliards d'habitants répartis de manière très inégale. Trois grands foyers de peuplement (Asie de l'Est, Asie du Sud, Europe) concentrent plus de la moitié de l'humanité, tandis que de vastes espaces restent faiblement peuplés (déserts chauds et froids, forêts denses, hautes montagnes). Cette répartition s'explique par des facteurs naturels, historiques et économiques. La manière d'habiter varie selon le lieu de vie (ville ou campagne) et le niveau de développement du pays."
 vocabulaire:
   - terme: "Densité de population"

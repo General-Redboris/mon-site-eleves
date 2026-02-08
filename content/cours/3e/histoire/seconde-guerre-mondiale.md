@@ -2,7 +2,7 @@
 titre: "La Seconde Guerre mondiale : une guerre d'anéantissement"
 niveau: "3e"
 matiere: "histoire"
-chapitre: 4
+chapitre: 5
 resume: "La Seconde Guerre mondiale (1939-1945) est le conflit le plus meurtrier de l'histoire. Guerre totale, idéologique et génocidaire, elle oppose les puissances de l'Axe aux Alliés. Elle se distingue par la mobilisation totale des sociétés, les bombardements massifs de civils, et surtout par le génocide des Juifs (Shoah) et des Tziganes (Porajmos). Le procès de Nuremberg crée la notion de crime contre l'humanité."
 vocabulaire:
   - terme: "Guerre totale"

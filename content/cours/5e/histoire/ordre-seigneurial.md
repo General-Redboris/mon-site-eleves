@@ -2,7 +2,7 @@
 titre: "L'ordre seigneurial — La formation et la domination des campagnes (XIe-XVe siècle)"
 niveau: "5e"
 matiere: "histoire"
-chapitre: 2
+chapitre: 3
 resume: "Entre le XIe et le XVe siècle, l'Europe est organisée autour de la seigneurie. Le seigneur domine les campagnes grâce au droit de ban. Les liens de vassalité structurent la noblesse. Les paysans (vilains et serfs) cultivent la terre et doivent redevances et corvées. L'Église encadre la vie des fidèles et les monastères jouent un rôle culturel et économique majeur."
 vocabulaire:
   - terme: "Seigneurie"

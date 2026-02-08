@@ -2,7 +2,7 @@
 titre: "Habiter une métropole"
 niveau: "6e"
 matiere: "geographie"
-chapitre: 1
+chapitre: 2
 resume: "Les métropoles sont de très grandes villes qui concentrent population, activités et fonctions importantes. Elles offrent de nombreux avantages (emplois, services, culture) mais posent aussi des défis (embouteillages, pollution, inégalités). Des solutions existent pour construire la ville de demain : transports en commun, espaces verts, mixité sociale."
 vocabulaire:
   - terme: "Métropole"

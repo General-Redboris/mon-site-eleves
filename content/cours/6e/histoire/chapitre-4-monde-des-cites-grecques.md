@@ -2,7 +2,7 @@
 titre: "Le monde des cités grecques"
 niveau: "6e"
 matiere: "histoire"
-chapitre: 1
+chapitre: 4
 resume: "Entre le VIIIe et le Ve siècle av. J.-C., les Grecs vivent dans des centaines de cités indépendantes et rivales, mais forment une civilisation unie grâce à une langue, une religion, des mythes et des sanctuaires communs. Ils colonisent les côtes de la Méditerranée et de la mer Noire. Athènes invente la démocratie au Ve siècle, mais celle-ci reste réservée à une minorité de la population."
 vocabulaire:
   - terme: "Cité (polis)"
