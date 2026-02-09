@@ -18,8 +18,8 @@ export default function AlerteIA({ niveau }: AlerteIAProps) {
         <div>
           <p className="font-bold text-purple-900 mb-1">Alerte IA</p>
           <p className="text-sm text-purple-800">
-            Si tu utilises une IA (ChatGPT, Gemini...), verifie TOUJOURS les informations
-            avec le reflexe <strong>{acronyme}</strong> : {signification}.
+            Si tu utilises une IA (ChatGPT, Gemini...), vérifie TOUJOURS les informations
+            avec le réflexe <strong>{acronyme}</strong> : {signification}.
             Une IA peut inventer des faits !
           </p>
           <Link

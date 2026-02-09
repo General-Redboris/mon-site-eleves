@@ -6,10 +6,8 @@ import BoutonEntrainer from "@/components/BoutonEntrainer";
 import { notFound } from "next/navigation";
 import { MDXRemote } from "next-mdx-remote/rsc";
 import remarkGfm from "remark-gfm";
-import rehypeRaw from "rehype-raw";
 import rehypeSlug from "rehype-slug";
-import { PointMethode, Chronologie, MiniQuiz, VocabHighlight } from "@/components/mdx";
-import AlerteIA from "@/components/AlerteIA";
+import { PointMethode, Chronologie, MiniQuiz, VocabHighlight, AlerteIA } from "@/components/mdx";
 import ScrollTracker from "@/components/ScrollTracker";
 import QRCodeModal from "@/components/QRCodeModal";
 
@@ -92,7 +90,7 @@ export default async function CoursDetailPage({ params }: Props) {
           options={{
             mdxOptions: {
               remarkPlugins: [remarkGfm],
-              rehypePlugins: [rehypeRaw, rehypeSlug],
+              rehypePlugins: [rehypeSlug],
             },
           }}
         />
