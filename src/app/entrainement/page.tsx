@@ -1,10 +1,5 @@
-import { getAllQuizzes } from "@/lib/quiz";
-import { getAllFlashcardSets } from "@/lib/flashcards";
-import EntrainementClient from "./EntrainementClient";
+import { redirect } from "next/navigation";
 
 export default function EntrainementPage() {
-  const quizzes = getAllQuizzes();
-  const flashcards = getAllFlashcardSets();
-
-  return <EntrainementClient quizzes={quizzes} flashcards={flashcards} />;
+  redirect("/entrainement/quiz");
 }

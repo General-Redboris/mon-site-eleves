@@ -36,8 +36,16 @@ export interface Quiz {
   questions: Question[];
 }
 
-export function getAllQuizzes(): Omit<Quiz, "questions">[] {
-  const results: Omit<Quiz, "questions">[] = [];
+export interface QuizMeta {
+  titre: string;
+  niveau: string;
+  matiere: string;
+  slug: string;
+  nbQuestions: number;
+}
+
+export function getAllQuizzes(): QuizMeta[] {
+  const results: QuizMeta[] = [];
 
   for (const niveau of niveaux) {
     const dir = path.join(quizDir, niveau);
@@ -53,6 +61,7 @@ export function getAllQuizzes(): Omit<Quiz, "questions">[] {
         niveau: data.niveau || niveau,
         matiere: data.matiere,
         slug,
+        nbQuestions: Array.isArray(data.questions) ? data.questions.length : 0,
       });
     }
   }

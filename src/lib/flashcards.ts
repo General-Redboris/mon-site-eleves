@@ -19,8 +19,17 @@ export interface FlashcardSet {
   cartes: Carte[];
 }
 
-export function getAllFlashcardSets(): Omit<FlashcardSet, "cartes">[] {
-  const results: Omit<FlashcardSet, "cartes">[] = [];
+export interface FlashcardSetMeta {
+  titre: string;
+  niveau: string;
+  matiere?: string;
+  slug: string;
+  nbCartes: number;
+  categories: Record<string, number>;
+}
+
+export function getAllFlashcardSets(): FlashcardSetMeta[] {
+  const results: FlashcardSetMeta[] = [];
 
   for (const niveau of niveaux) {
     const dir = path.join(flashcardsDir, niveau);
@@ -31,11 +40,19 @@ export function getAllFlashcardSets(): Omit<FlashcardSet, "cartes">[] {
       const slug = `${niveau}-${fileName}`;
       const raw = fs.readFileSync(path.join(dir, file), "utf-8");
       const data = JSON.parse(raw);
+      const cartes: Carte[] = Array.isArray(data.cartes) ? data.cartes : [];
+      const categories: Record<string, number> = {};
+      for (const c of cartes) {
+        const cat = c.categorie || "autre";
+        categories[cat] = (categories[cat] || 0) + 1;
+      }
       results.push({
         titre: data.titre,
         niveau: data.niveau || niveau,
         matiere: data.matiere,
         slug,
+        nbCartes: cartes.length,
+        categories,
       });
     }
   }

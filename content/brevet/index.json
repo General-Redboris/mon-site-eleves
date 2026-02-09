@@ -1,0 +1,28 @@
+{
+  "sujets": [
+    {
+      "id": "2024-metropole-juin",
+      "annee": 2024,
+      "session": "Métropole — Juin 2024",
+      "themes": ["histoire", "geographie"],
+      "types_exercice": ["analyse_documents", "developpement_construit"],
+      "description": "[EXEMPLE] La Seconde Guerre mondiale / L'Union européenne",
+      "sujet_format": "markdown",
+      "sujet_fichier": "2024-metropole-juin.md",
+      "corrige_format": "markdown",
+      "corrige_fichier": "2024-metropole-juin-corrige.md"
+    },
+    {
+      "id": "2023-metropole-juin",
+      "annee": 2023,
+      "session": "Métropole — Juin 2023",
+      "themes": ["histoire", "emc"],
+      "types_exercice": ["analyse_documents", "reperes"],
+      "description": "[EXEMPLE] La guerre froide / La laïcité en France",
+      "sujet_format": "markdown",
+      "sujet_fichier": "2023-metropole-juin.md",
+      "corrige_format": "markdown",
+      "corrige_fichier": "2023-metropole-juin-corrige.md"
+    }
+  ]
+}

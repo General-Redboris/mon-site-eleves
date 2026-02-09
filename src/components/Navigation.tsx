@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useRef, useEffect } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 
@@ -10,17 +10,19 @@ interface NavLink {
   icon: string;
 }
 
-interface NavGroup {
-  label: string;
-  icon: string;
-  links: NavLink[];
-}
-
 const mainLinks: NavLink[] = [
   { href: "/", label: "Accueil", icon: "🏠" },
   { href: "/cours", label: "Mes cours", icon: "📚" },
   { href: "/methodes", label: "Méthodes", icon: "🧭" },
-  { href: "/entrainement", label: "S'entraîner", icon: "🎯" },
+];
+
+const entrainementLinks: NavLink[] = [
+  { href: "/entrainement/quiz", label: "Quiz", icon: "❓" },
+  { href: "/entrainement/flashcards", label: "Flashcards", icon: "🃏" },
+  { href: "/entrainement/brevet", label: "Sujets de brevet", icon: "📝" },
+];
+
+const afterLinks: NavLink[] = [
   { href: "/tuteur", label: "Mon tuteur IA", icon: "🤖" },
 ];
 
@@ -29,17 +31,38 @@ const projetLinks: NavLink[] = [
   { href: "/chansons", label: "Nos chansons", icon: "🎵" },
 ];
 
-// All links flat for desktop
-const allDesktopLinks: NavLink[] = [...mainLinks, ...projetLinks];
-
 export default function Navigation() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const [dropdownOpen, setDropdownOpen] = useState(false);
+  const dropdownRef = useRef<HTMLDivElement>(null);
   const pathname = usePathname();
 
   function isActive(href: string): boolean {
     if (href === "/") return pathname === "/";
     return pathname.startsWith(href);
   }
+
+  const isEntrainementActive = pathname.startsWith("/entrainement");
+
+  // Close dropdown when clicking outside
+  useEffect(() => {
+    function handleClickOutside(e: MouseEvent) {
+      if (
+        dropdownRef.current &&
+        !dropdownRef.current.contains(e.target as Node)
+      ) {
+        setDropdownOpen(false);
+      }
+    }
+    document.addEventListener("mousedown", handleClickOutside);
+    return () => document.removeEventListener("mousedown", handleClickOutside);
+  }, []);
+
+  // Close dropdown on route change
+  useEffect(() => {
+    setDropdownOpen(false);
+    setMobileMenuOpen(false);
+  }, [pathname]);
 
   return (
     <header className="sticky top-0 z-50 bg-white/95 backdrop-blur-sm border-b border-gray-200 shadow-sm">
@@ -57,7 +80,90 @@ export default function Navigation() {
 
           {/* Desktop nav */}
           <div className="hidden lg:flex items-center gap-0.5">
-            {allDesktopLinks.map((link) => (
+            {mainLinks.map((link) => (
+              <Link
+                key={link.href}
+                href={link.href}
+                className={`px-2.5 py-2 rounded-lg text-sm font-medium transition-colors whitespace-nowrap ${
+                  isActive(link.href)
+                    ? "bg-accent/10 text-accent"
+                    : "text-gray-600 hover:bg-gray-100 hover:text-foreground"
+                }`}
+              >
+                <span className="mr-1">{link.icon}</span>
+                {link.label}
+              </Link>
+            ))}
+
+            {/* S'entraîner dropdown */}
+            <div className="relative" ref={dropdownRef}>
+              <button
+                onClick={() => setDropdownOpen(!dropdownOpen)}
+                onMouseEnter={() => setDropdownOpen(true)}
+                className={`px-2.5 py-2 rounded-lg text-sm font-medium transition-colors whitespace-nowrap flex items-center gap-1 ${
+                  isEntrainementActive
+                    ? "bg-accent/10 text-accent"
+                    : "text-gray-600 hover:bg-gray-100 hover:text-foreground"
+                }`}
+              >
+                <span className="mr-1">🎯</span>
+                S&apos;entraîner
+                <svg
+                  className={`w-3.5 h-3.5 transition-transform ${
+                    dropdownOpen ? "rotate-180" : ""
+                  }`}
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth={2}
+                    d="M19 9l-7 7-7-7"
+                  />
+                </svg>
+              </button>
+
+              {dropdownOpen && (
+                <div
+                  className="absolute top-full left-0 mt-1 bg-white rounded-xl border border-gray-200 shadow-lg py-1 min-w-[200px] z-50"
+                  onMouseLeave={() => setDropdownOpen(false)}
+                >
+                  {entrainementLinks.map((link) => (
+                    <Link
+                      key={link.href}
+                      href={link.href}
+                      className={`block px-4 py-2.5 text-sm font-medium transition-colors ${
+                        isActive(link.href)
+                          ? "bg-accent/10 text-accent"
+                          : "text-gray-600 hover:bg-gray-50 hover:text-foreground"
+                      }`}
+                    >
+                      <span className="mr-2">{link.icon}</span>
+                      {link.label}
+                    </Link>
+                  ))}
+                </div>
+              )}
+            </div>
+
+            {afterLinks.map((link) => (
+              <Link
+                key={link.href}
+                href={link.href}
+                className={`px-2.5 py-2 rounded-lg text-sm font-medium transition-colors whitespace-nowrap ${
+                  isActive(link.href)
+                    ? "bg-accent/10 text-accent"
+                    : "text-gray-600 hover:bg-gray-100 hover:text-foreground"
+                }`}
+              >
+                <span className="mr-1">{link.icon}</span>
+                {link.label}
+              </Link>
+            ))}
+
+            {projetLinks.map((link) => (
               <Link
                 key={link.href}
                 href={link.href}
@@ -112,7 +218,43 @@ export default function Navigation() {
               <Link
                 key={link.href}
                 href={link.href}
-                onClick={() => setMobileMenuOpen(false)}
+                className={`block px-4 py-3 rounded-lg text-base font-medium transition-colors ${
+                  isActive(link.href)
+                    ? "bg-accent/10 text-accent"
+                    : "text-gray-600 hover:bg-gray-50"
+                }`}
+              >
+                <span className="mr-2">{link.icon}</span>
+                {link.label}
+              </Link>
+            ))}
+
+            {/* S'entraîner group */}
+            <div className="mt-2 pt-2 border-t border-gray-100">
+              <p className="px-4 pb-1 text-xs font-semibold text-gray-400 uppercase tracking-wider">
+                S&apos;entraîner
+              </p>
+              {entrainementLinks.map((link) => (
+                <Link
+                  key={link.href}
+                  href={link.href}
+                  className={`block px-4 py-3 pl-6 rounded-lg text-base font-medium transition-colors ${
+                    isActive(link.href)
+                      ? "bg-accent/10 text-accent"
+                      : "text-gray-600 hover:bg-gray-50"
+                  }`}
+                >
+                  <span className="mr-2">{link.icon}</span>
+                  {link.label}
+                </Link>
+              ))}
+            </div>
+
+            {/* Tuteur */}
+            {afterLinks.map((link) => (
+              <Link
+                key={link.href}
+                href={link.href}
                 className={`block px-4 py-3 rounded-lg text-base font-medium transition-colors ${
                   isActive(link.href)
                     ? "bg-accent/10 text-accent"
@@ -125,7 +267,7 @@ export default function Navigation() {
             ))}
 
             {/* Projets group */}
-            <div className="mt-3 pt-3 border-t border-gray-100">
+            <div className="mt-2 pt-2 border-t border-gray-100">
               <p className="px-4 pb-1 text-xs font-semibold text-gray-400 uppercase tracking-wider">
                 Projets
               </p>
@@ -133,7 +275,6 @@ export default function Navigation() {
                 <Link
                   key={link.href}
                   href={link.href}
-                  onClick={() => setMobileMenuOpen(false)}
                   className={`block px-4 py-3 rounded-lg text-base font-medium transition-colors ${
                     isActive(link.href)
                       ? "bg-accent/10 text-accent"

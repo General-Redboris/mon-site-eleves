@@ -19,8 +19,8 @@ export default async function FlashcardsPage({ params }: Props) {
     <div className="max-w-4xl mx-auto px-4 sm:px-6 py-10">
       {/* Breadcrumb */}
       <nav className="text-sm text-gray-500 mb-6">
-        <Link href="/entrainement" className="hover:text-accent">
-          S&apos;entraîner
+        <Link href="/entrainement/flashcards" className="hover:text-accent">
+          Flashcards
         </Link>
         <span className="mx-2">/</span>
         <span className="text-foreground font-medium">{set.titre}</span>
@@ -30,10 +30,10 @@ export default async function FlashcardsPage({ params }: Props) {
 
       <div className="mt-8 text-center">
         <Link
-          href="/entrainement"
+          href="/entrainement/flashcards"
           className="text-accent hover:underline font-medium"
         >
-          &larr; Retour aux exercices
+          &larr; Retour aux flashcards
         </Link>
       </div>
     </div>
