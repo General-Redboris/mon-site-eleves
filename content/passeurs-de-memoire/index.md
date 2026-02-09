@@ -1,11 +1,19 @@
 ---
-titre: "Passeurs de mémoire"
+titre: "Passeurs de memoire"
 ---
 
-[EXEMPLE — À remplacer par le vrai contenu]
+Le projet « Carnet de Passeur de Memoire » est un projet interdisciplinaire mene par les trois classes de 3e du college Francine Leca autour de la tragedie des Puits de Guerry (ete 1944).
 
-Le projet « Passeurs de mémoire » est né de la volonté de transmettre aux élèves du Collège Francine Leca l'histoire de ceux qui ont vécu les heures les plus sombres du XXe siècle. Chaque année, les élèves de troisième s'engagent dans un travail de recherche, de rencontre et de création autour de la Shoah, des guerres mondiales et de la déportation.
+Il associe six disciplines — histoire-geographie-EMC, francais, documentation et webradio, arts plastiques, education musicale — et s'appuie sur des partenaires institutionnels et culturels : la Delegation Militaire Departementale du Cher, la DSDEN du Cher, le Musee de la Resistance et de la Deportation du Cher, le Memorial de la Shoah et les Archives departementales du Cher.
 
-Ce projet prend des formes multiples : visites de lieux de mémoire, rencontres avec des témoins ou leurs descendants, lectures d'archives, et productions artistiques — textes, podcasts, dessins. Les élèves deviennent ainsi des passeurs : ils portent la parole de ceux qui ne peuvent plus témoigner, et s'engagent à ne pas oublier.
+## Les trois classes, les trois parcours
 
-Cette page rassemble les traces de ce travail mémoriel : les épisodes du podcast « La Voix des Puits », les photographies prises lors des sorties et cérémonies, et les textes rédigés par les élèves eux-mêmes.
+Chaque classe de 3e s'engage dans un parcours specifique qui aboutira a des productions presentees lors de la journee du 2 avril 2026 aux Puits de Guerry.
+
+## Le calendrier du projet
+
+- **Decembre 2025** : lancement du projet, premieres seances en classe
+- **Janvier-Fevrier 2026** : recherches documentaires, travail sur les sources
+- **Mars 2026** : interventions des partenaires, ateliers de creation
+- **2 avril 2026** : journee aux Puits de Guerry (rallye memoriel + ceremonie commemorative)
+- **Avril-Juin 2026** : finalisation des productions, restitution, remise des diplomes

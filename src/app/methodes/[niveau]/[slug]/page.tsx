@@ -8,6 +8,8 @@ import ChecklistAutoEval from "@/components/ChecklistAutoEval";
 import ProgressionSpiralaire from "@/components/ProgressionSpiralaire";
 import FichesLiees from "@/components/FichesLiees";
 import AlerteIA from "@/components/AlerteIA";
+import SignalerErreur from "@/components/SignalerErreur";
+import QRCodeModal from "@/components/QRCodeModal";
 
 const domaineColors: Record<string, string> = {
   "Histoire-Geographie": "bg-histoire-light text-histoire",
@@ -106,6 +108,11 @@ export default async function FicheMethodePage({ params }: Props) {
           progression={fiche.progression}
         />
       )}
+
+      <div className="mt-4 flex items-center gap-4">
+        <SignalerErreur pageTitle={fiche.titre} />
+        <QRCodeModal path={`/methodes/${niveau}/${slug}`} />
+      </div>
 
       {/* Back link */}
       <div className="mt-8">

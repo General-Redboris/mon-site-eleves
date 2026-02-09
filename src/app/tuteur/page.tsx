@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import BibliothequePrompts from "@/components/BibliothequePrompts";
 
 interface Chatbot {
   nom: string;
@@ -401,6 +402,42 @@ export default function TuteurPage() {
           </button>
         </div>
       )}
+
+      {/* Bibliotheque de prompts */}
+      <section className="mt-12 pt-10 border-t border-gray-200">
+        <h2 className="text-2xl font-bold mb-2">Bibliotheque de prompts</h2>
+        <p className="text-gray-600 mb-6">
+          Des prompts prets a l&apos;emploi pour tirer le meilleur de ton tuteur IA.
+          Clique sur &quot;Copier&quot; puis colle dans le chatbot.
+        </p>
+        <BibliothequePrompts
+          categories={[
+            {
+              categorie: "Revision",
+              prompts: [
+                { label: "Resume de cours", texte: "Resume-moi les points essentiels du chapitre sur [sujet]. Fais une liste claire avec les dates, les personnages et les notions cles." },
+                { label: "Quiz personnalise", texte: "Pose-moi 5 questions sur [chapitre] sous forme de QCM. Attends ma reponse avant de passer a la suivante, et explique-moi quand je me trompe." },
+                { label: "Fiche de revision", texte: "Cree-moi une fiche de revision sur [sujet] avec : les definitions cles, les dates importantes, un schema ou plan, et 3 questions pour verifier que j'ai compris." },
+              ],
+            },
+            {
+              categorie: "Methode",
+              prompts: [
+                { label: "Analyser un document", texte: "Je dois analyser ce document : [description du document]. Guide-moi etape par etape : nature, auteur, date, contexte, idee principale, interet du document." },
+                { label: "Developpement construit", texte: "Aide-moi a structurer un developpement construit sur le sujet : [sujet]. Propose-moi un plan en 2 ou 3 parties avec des arguments et des exemples." },
+                { label: "Lire une carte", texte: "Explique-moi comment lire et decrire cette carte de geographie sur [sujet]. Quels elements dois-je reperer (titre, legende, echelle, orientation) ?" },
+              ],
+            },
+            {
+              categorie: "Comprehension",
+              prompts: [
+                { label: "Expliquer simplement", texte: "Explique-moi [concept] comme si j'avais 12 ans. Utilise des exemples concrets et simples." },
+                { label: "Comparer deux notions", texte: "Quelle est la difference entre [notion A] et [notion B] ? Fais un tableau comparatif clair." },
+              ],
+            },
+          ]}
+        />
+      </section>
     </div>
   );
 }

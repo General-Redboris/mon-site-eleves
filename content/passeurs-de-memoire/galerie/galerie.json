@@ -1,19 +1,49 @@
 {
-  "photos": [
+  "sections": [
     {
-      "fichier": "visite-struthof-2024.jpg",
-      "legende": "[EXEMPLE] Visite du camp de Natzweiler-Struthof, mars 2024",
-      "annee_scolaire": "2023-2024"
+      "titre": "Visite du Musee de la Resistance et de la Deportation",
+      "photos": [
+        {
+          "fichier": "musee-resistance-01.jpg",
+          "legende": "[DEMONSTRATION] Les eleves devant le Musee de la Resistance et de la Deportation du Cher",
+          "date": "2026-01-15"
+        }
+      ]
     },
     {
-      "fichier": "ceremonie-8-mai-2024.jpg",
-      "legende": "[EXEMPLE] Cérémonie du 8 mai au monument aux morts de Sancerre",
-      "annee_scolaire": "2023-2024"
+      "titre": "Atelier aux Archives departementales",
+      "photos": [
+        {
+          "fichier": "archives-departementales-01.jpg",
+          "legende": "[DEMONSTRATION] Seance de recherche aux Archives departementales du Cher",
+          "date": "2026-02-10"
+        }
+      ]
     },
     {
-      "fichier": "lecture-archives-2024.jpg",
-      "legende": "[EXEMPLE] Séance de recherche aux archives départementales du Cher",
-      "annee_scolaire": "2023-2024"
+      "titre": "Intervention du Memorial de la Shoah",
+      "photos": [
+        {
+          "fichier": "memorial-shoah-01.jpg",
+          "legende": "[DEMONSTRATION] Intervention d'un mediateur du Memorial de la Shoah aupres des eleves",
+          "date": "2026-03-05"
+        }
+      ]
+    },
+    {
+      "titre": "Journee du 2 avril 2026 aux Puits de Guerry",
+      "photos": [
+        {
+          "fichier": "puits-guerry-ceremonie-01.jpg",
+          "legende": "[DEMONSTRATION] Les eleves lors de la ceremonie commemorative",
+          "date": "2026-04-02"
+        },
+        {
+          "fichier": "puits-guerry-rallye-01.jpg",
+          "legende": "[DEMONSTRATION] Le rallye memoriel sur le site des Puits de Guerry",
+          "date": "2026-04-02"
+        }
+      ]
     }
   ]
 }

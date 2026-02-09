@@ -1,7 +1,17 @@
 import Link from "next/link";
 import { getCourse, getAllCourses } from "@/lib/courses";
-import LessonView from "@/components/LessonView";
+import CoursClient from "@/components/CoursClient";
+import SignalerErreur from "@/components/SignalerErreur";
+import BoutonEntrainer from "@/components/BoutonEntrainer";
 import { notFound } from "next/navigation";
+import { MDXRemote } from "next-mdx-remote/rsc";
+import remarkGfm from "remark-gfm";
+import rehypeRaw from "rehype-raw";
+import rehypeSlug from "rehype-slug";
+import { PointMethode, Chronologie, MiniQuiz, VocabHighlight } from "@/components/mdx";
+import AlerteIA from "@/components/AlerteIA";
+import ScrollTracker from "@/components/ScrollTracker";
+import QRCodeModal from "@/components/QRCodeModal";
 
 const matiereLabels: Record<string, string> = {
   histoire: "Histoire",
@@ -60,7 +70,42 @@ export default async function CoursDetailPage({ params }: Props) {
         </span>
       </div>
 
-      <LessonView titre={course.titre} content={course.content} />
+      <CoursClient
+        titre={course.titre}
+        vocabulaire={course.vocabulaire}
+        resume={course.resume}
+        dates_cles={course.dates_cles}
+        methodes_liees={course.methodes_liees}
+        niveau={niveau}
+        matiere={matiere}
+        slug={slug}
+      >
+        <MDXRemote
+          source={course.content}
+          components={{
+            PointMethode,
+            Chronologie,
+            MiniQuiz,
+            VocabHighlight,
+            AlerteIA,
+          }}
+          options={{
+            mdxOptions: {
+              remarkPlugins: [remarkGfm],
+              rehypePlugins: [rehypeRaw, rehypeSlug],
+            },
+          }}
+        />
+      </CoursClient>
+
+      <BoutonEntrainer niveau={niveau} matiere={matiere} slug={slug} />
+
+      <ScrollTracker niveau={niveau} matiere={matiere} slug={slug} />
+
+      <div className="mt-4 flex items-center gap-4">
+        <SignalerErreur pageTitle={course.titre} />
+        <QRCodeModal path={`/cours/${niveau}/${matiere}/${slug}`} />
+      </div>
 
       {/* Back link */}
       <div className="mt-8">

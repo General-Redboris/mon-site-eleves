@@ -1,0 +1,49 @@
+[
+  {
+    "categorie": "Revision",
+    "prompts": [
+      {
+        "label": "Resume de cours",
+        "texte": "Resume-moi les points essentiels du chapitre sur [sujet]. Fais une liste claire avec les dates, les personnages et les notions cles."
+      },
+      {
+        "label": "Quiz personnalise",
+        "texte": "Pose-moi 5 questions sur [chapitre] sous forme de QCM. Attends ma reponse avant de passer a la suivante, et explique-moi quand je me trompe."
+      },
+      {
+        "label": "Fiche de revision",
+        "texte": "Cree-moi une fiche de revision sur [sujet] avec : les definitions cles, les dates importantes, un schema ou plan, et 3 questions pour verifier que j'ai compris."
+      }
+    ]
+  },
+  {
+    "categorie": "Methode",
+    "prompts": [
+      {
+        "label": "Analyser un document",
+        "texte": "Je dois analyser ce document : [description du document]. Guide-moi etape par etape : nature, auteur, date, contexte, idee principale, interet du document."
+      },
+      {
+        "label": "Developement construit",
+        "texte": "Aide-moi a structurer un developpement construit sur le sujet : [sujet]. Propose-moi un plan en 2 ou 3 parties avec des arguments et des exemples."
+      },
+      {
+        "label": "Lire une carte",
+        "texte": "Explique-moi comment lire et decrire cette carte de geographie sur [sujet]. Quels elements dois-je reperer (titre, legende, echelle, orientation) ?"
+      }
+    ]
+  },
+  {
+    "categorie": "Comprehension",
+    "prompts": [
+      {
+        "label": "Expliquer simplement",
+        "texte": "Explique-moi [concept] comme si j'avais 12 ans. Utilise des exemples concrets et simples."
+      },
+      {
+        "label": "Comparer deux notions",
+        "texte": "Quelle est la difference entre [notion A] et [notion B] ? Fais un tableau comparatif clair."
+      }
+    ]
+  }
+]

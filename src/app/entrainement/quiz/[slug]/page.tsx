@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { getQuiz, getAllQuizzes } from "@/lib/quiz";
 import Quiz from "@/components/Quiz";
+import SignalerErreur from "@/components/SignalerErreur";
 import { notFound } from "next/navigation";
 
 interface Props {
@@ -25,7 +26,9 @@ export default async function QuizDetailPage({ params }: Props) {
         <span className="text-foreground font-medium">{quiz.titre}</span>
       </nav>
 
-      <Quiz titre={quiz.titre} questions={quiz.questions} />
+      <Quiz titre={quiz.titre} questions={quiz.questions} slug={slug} />
+
+      <SignalerErreur pageTitle={quiz.titre} />
 
       <div className="mt-8 text-center">
         <Link

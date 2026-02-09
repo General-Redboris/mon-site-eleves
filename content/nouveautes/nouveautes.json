@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2026-02-09",
+    "type": "fonctionnalite",
+    "titre": "Mode sombre et mode Dys",
+    "description": "Vous pouvez maintenant activer le mode sombre ou le mode Dys (police OpenDyslexic) depuis le menu en haut de page."
+  },
+  {
+    "date": "2026-02-09",
+    "type": "fonctionnalite",
+    "titre": "Flashcard du jour",
+    "description": "Une flashcard aleatoire vous est proposee sur la page d'accueil pour reviser chaque jour."
+  },
+  {
+    "date": "2026-02-09",
+    "type": "contenu",
+    "titre": "Nouveaux cours de 3e",
+    "description": "Ajout des cours sur l'Allemagne nazie, l'URSS de Staline, la France des annees 1930 et la Seconde Guerre mondiale."
+  },
+  {
+    "date": "2026-02-01",
+    "type": "contenu",
+    "titre": "Fiches methodes enrichies",
+    "description": "Les fiches methodes ont ete reorganisees par niveau avec de nouveaux contenus et une navigation amelioree."
+  },
+  {
+    "date": "2026-01-15",
+    "type": "fonctionnalite",
+    "titre": "Passeurs de memoire",
+    "description": "Nouvelle rubrique dediee au devoir de memoire : portraits, textes d'eleves et creations poetiques."
+  }
+]

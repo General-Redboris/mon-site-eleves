@@ -1,5 +1,7 @@
 @import "tailwindcss";
 
+@custom-variant dark (&:where(.dark, .dark *));
+
 :root {
   --background: #faf9f6;
   --foreground: #1a1a2e;
@@ -12,6 +14,14 @@
   --accent: #e76f51;
 }
 
+.dark {
+  --background: #111827;
+  --foreground: #f3f4f6;
+  --histoire-light: #3d2e1e;
+  --geographie-light: #1a3044;
+  --emc-light: #2d1b4e;
+}
+
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
@@ -22,6 +32,11 @@
   --color-emc: var(--emc);
   --color-emc-light: var(--emc-light);
   --color-accent: var(--accent);
+  --color-passeurs-dark: #1F2937;
+  --color-passeurs-fg: #374151;
+  --color-passeurs-bg: #F9FAFB;
+  --color-passeurs-light: #D1D5DB;
+  --color-passeurs-accent: #7F1D1D;
   --font-sans: "Inter", system-ui, sans-serif;
 }
 
@@ -31,6 +46,7 @@ body {
   font-family: "Inter", system-ui, sans-serif;
   font-size: 16px;
   line-height: 1.6;
+  transition: background-color 150ms, color 150ms;
 }
 
 /* Markdown content styles */
@@ -61,6 +77,16 @@ body {
 .prose a { color: var(--geographie); text-decoration: underline; }
 .prose a:hover { color: var(--accent); }
 
+/* ===== Dark mode for courses & methodes ===== */
+.dark .prose h2 { border-bottom-color: #374151; }
+.dark .prose strong { color: #f3f4f6; }
+.dark .prose blockquote { background: #292524; }
+.dark .prose th { background: #1e293b; color: #e5e7eb; }
+.dark .prose td, .dark .prose th { border-color: #374151; }
+.dark .prose code { background: #1e293b; color: #e2e8f0; }
+.dark .prose a { color: #93c5fd; }
+.dark .prose a:hover { color: var(--accent); }
+
 /* Flashcard flip animation */
 .perspective { perspective: 1000px; }
 .card-flip { transition: transform 0.6s; transform-style: preserve-3d; }
@@ -77,8 +103,127 @@ body {
   margin: 1.5rem 0;
   font-style: normal;
 }
+.dark .prose .alerte-ia { background: #2d1b4e; border-color: #7c3aed; }
 .prose .alerte-ia p:first-child { margin-top: 0; }
 .prose .alerte-ia p:last-child { margin-bottom: 0; }
 
-/* Tooltip styles */
-.tooltip-trigger { border-bottom: 2px dotted var(--accent); cursor: help; }
+/* ===== Passeurs de memoire — memorial styles ===== */
+
+.passeurs-smallcaps { font-variant: small-caps; }
+
+.passeurs-section-title {
+  font-size: 1.5rem;
+  font-weight: 300;
+  letter-spacing: 0.05em;
+  color: #1F2937;
+  margin-bottom: 1rem;
+  font-variant: small-caps;
+}
+
+.passeurs-prose {
+  color: #4B5563;
+  line-height: 1.8;
+  font-size: 0.9375rem;
+}
+.passeurs-prose h2 {
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: #1F2937;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+.passeurs-prose h3 {
+  font-size: 1rem;
+  font-weight: 600;
+  color: #374151;
+  margin-top: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+.passeurs-prose p { margin-bottom: 0.75rem; }
+.passeurs-prose ul, .passeurs-prose ol { margin-bottom: 0.75rem; padding-left: 1.25rem; }
+.passeurs-prose ul { list-style-type: disc; }
+.passeurs-prose ol { list-style-type: decimal; }
+.passeurs-prose li { margin-bottom: 0.25rem; }
+.passeurs-prose strong { font-weight: 600; color: #1F2937; }
+.passeurs-prose hr { border-color: #E5E7EB; margin: 1.5rem 0; }
+.passeurs-prose a { color: #7F1D1D; text-decoration: underline; }
+.passeurs-prose a:hover { color: #1F2937; }
+
+/* Poetry display — centered, airy */
+.passeurs-poem .prose {
+  text-align: center;
+  font-size: 1.0625rem;
+  line-height: 2;
+  color: #374151;
+}
+.passeurs-poem .prose p { margin-bottom: 1.5rem; }
+
+/* ===== Tooltip styles ===== */
+.tooltip-trigger { border-bottom: 2px dotted var(--accent); cursor: help; position: relative; }
+.vocab-tooltip {
+  position: absolute;
+  bottom: calc(100% + 8px);
+  left: 50%;
+  transform: translateX(-50%);
+  background: #1e293b;
+  color: #f8fafc;
+  padding: 0.5rem 0.75rem;
+  border-radius: 0.5rem;
+  font-size: 0.8125rem;
+  line-height: 1.4;
+  white-space: normal;
+  max-width: 280px;
+  min-width: 180px;
+  z-index: 50;
+  pointer-events: none;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+.vocab-tooltip::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  border: 6px solid transparent;
+  border-top-color: #1e293b;
+}
+
+/* ===== OpenDyslexic font ===== */
+@font-face {
+  font-family: "OpenDyslexic";
+  src: url("/fonts/OpenDyslexic-Regular.woff2") format("woff2");
+  font-weight: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "OpenDyslexic";
+  src: url("/fonts/OpenDyslexic-Bold.woff2") format("woff2");
+  font-weight: bold;
+  font-display: swap;
+}
+
+/* ===== Dys mode ===== */
+.dys,
+.dys .prose {
+  font-family: "OpenDyslexic", sans-serif !important;
+  font-size: 18px;
+  line-height: 2;
+  word-spacing: 0.2em;
+  letter-spacing: 0.05em;
+}
+
+/* ===== Accordion animations ===== */
+.accordion-content {
+  overflow: hidden;
+  transition: max-height 0.3s ease-out, opacity 0.3s ease-out;
+}
+.accordion-content.collapsed {
+  max-height: 0 !important;
+  opacity: 0;
+}
+.accordion-chevron {
+  transition: transform 0.2s ease;
+}
+.accordion-chevron.rotated {
+  transform: rotate(90deg);
+}

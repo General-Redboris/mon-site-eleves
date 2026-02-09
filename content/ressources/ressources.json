@@ -1,0 +1,50 @@
+[
+  {
+    "titre": "Frise chronologique interactive",
+    "description": "Frise interactive couvrant les grandes periodes de l'histoire, de la Prehistoire a nos jours.",
+    "url": "https://www.frisechronos.fr",
+    "type": "site",
+    "niveau": ["6e", "5e", "4e", "3e"],
+    "matiere": "histoire"
+  },
+  {
+    "titre": "Geoportail",
+    "description": "Portail de cartes geographiques de l'IGN. Utile pour les etudes de cas en geographie.",
+    "url": "https://www.geoportail.gouv.fr",
+    "type": "site",
+    "niveau": ["6e", "5e", "4e", "3e"],
+    "matiere": "geographie"
+  },
+  {
+    "titre": "Lumni - Histoire-Geographie",
+    "description": "Videos et articles educatifs pour reviser le programme d'histoire-geographie au college.",
+    "url": "https://www.lumni.fr/college/histoire-geographie",
+    "type": "video",
+    "niveau": ["6e", "5e", "4e", "3e"],
+    "matiere": "histoire"
+  },
+  {
+    "titre": "Educ'Arte",
+    "description": "Documentaires et ressources pedagogiques de qualite sur l'histoire et la geographie.",
+    "url": "https://educarte.arte.tv",
+    "type": "video",
+    "niveau": ["4e", "3e"],
+    "matiere": "histoire"
+  },
+  {
+    "titre": "Vie publique - EMC",
+    "description": "Ressources sur la citoyennete, les institutions et les valeurs de la Republique.",
+    "url": "https://www.vie-publique.fr",
+    "type": "site",
+    "niveau": ["4e", "3e"],
+    "matiere": "emc"
+  },
+  {
+    "titre": "Memorial de la Shoah",
+    "description": "Ressources pedagogiques sur la Shoah, le devoir de memoire et l'histoire du XXe siecle.",
+    "url": "https://www.memorialdelashoah.org",
+    "type": "site",
+    "niveau": ["3e"],
+    "matiere": "histoire"
+  }
+]

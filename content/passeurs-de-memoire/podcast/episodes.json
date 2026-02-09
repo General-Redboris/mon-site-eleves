@@ -1,28 +1,32 @@
 {
-  "titre_podcast": "La Voix des Puits",
-  "description": "Le podcast des élèves du Collège Francine Leca — Histoires, témoignages et mémoire.",
+  "titre_podcast": "Les Voix des Puits",
+  "description": "Le podcast des eleves du College Francine Leca — Temoignages, recherches et memoire autour de la tragedie des Puits de Guerry.",
   "episodes": [
     {
       "numero": 1,
-      "titre": "[EXEMPLE] Les enfants de Sancerre — Sur les traces des familles déportées",
-      "description": "Dans ce premier épisode, les élèves de 3eB partent à la recherche des familles juives de Sancerre déportées pendant la Seconde Guerre mondiale. À travers les archives municipales et les témoignages recueillis, ils reconstituent le parcours de ces familles.",
+      "titre": "[DEMONSTRATION] Qui etaient les victimes des Puits de Guerry ?",
+      "description": "Dans ce premier episode, les eleves presentent le contexte historique de la tragedie des Puits de Guerry et retracent le parcours des familles juives arretees a l'ete 1944.",
       "duree": "12:34",
-      "date": "2024-05-15",
-      "annee_scolaire": "2023-2024",
+      "date": "2026-02-15",
+      "annee_scolaire": "2025-2026",
       "plateforme": "youtube",
       "embed_id": "dQw4w9WgXcQ",
-      "lien_externe": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+      "lien_externe": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "type": "reportage",
+      "classe": "3e2"
     },
     {
       "numero": 2,
-      "titre": "[EXEMPLE] Visite au Struthof — Quand le silence raconte",
-      "description": "Les élèves de 3eA racontent leur visite du camp de concentration de Natzweiler-Struthof. Leurs impressions, leurs émotions et ce qu'ils ont appris sur la déportation et le système concentrationnaire nazi.",
+      "titre": "[DEMONSTRATION] Charles Krameisen, le rescape",
+      "description": "Les eleves retracent le parcours de Charles Krameisen, seul homme a avoir echappe au massacre des Puits de Guerry. Un portrait sonore realise a partir de son temoignage.",
       "duree": "18:07",
-      "date": "2024-03-28",
-      "annee_scolaire": "2023-2024",
+      "date": "2026-03-01",
+      "annee_scolaire": "2025-2026",
       "plateforme": "soundcloud",
-      "embed_id": "https://soundcloud.com/exemple/visite-struthof",
-      "lien_externe": "https://soundcloud.com/exemple/visite-struthof"
+      "embed_id": "https://soundcloud.com/exemple/charles-krameisen",
+      "lien_externe": "https://soundcloud.com/exemple/charles-krameisen",
+      "type": "portrait sonore",
+      "classe": "3e3"
     }
   ]
 }

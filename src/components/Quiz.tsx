@@ -1,6 +1,8 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
+import Link from "next/link";
+import { markQuizReussi } from "@/lib/progression";
 
 interface QuestionQCM {
   type: "qcm";
@@ -8,6 +10,7 @@ interface QuestionQCM {
   options: string[];
   reponse: number;
   explication: string;
+  methode_liee?: { slug: string; niveau: string; label: string };
 }
 
 interface QuestionVraiFaux {
@@ -15,6 +18,7 @@ interface QuestionVraiFaux {
   question: string;
   reponse: boolean;
   explication: string;
+  methode_liee?: { slug: string; niveau: string; label: string };
 }
 
 interface QuestionReponseCourte {
@@ -22,6 +26,7 @@ interface QuestionReponseCourte {
   question: string;
   reponses_acceptees: string[];
   explication: string;
+  methode_liee?: { slug: string; niveau: string; label: string };
 }
 
 type Question = QuestionQCM | QuestionVraiFaux | QuestionReponseCourte;
@@ -29,9 +34,10 @@ type Question = QuestionQCM | QuestionVraiFaux | QuestionReponseCourte;
 interface QuizProps {
   titre: string;
   questions: Question[];
+  slug?: string;
 }
 
-export default function Quiz({ titre, questions }: QuizProps) {
+export default function Quiz({ titre, questions, slug }: QuizProps) {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [selectedAnswer, setSelectedAnswer] = useState<number | boolean | string | null>(null);
   const [showResult, setShowResult] = useState(false);
@@ -58,7 +64,15 @@ export default function Quiz({ titre, questions }: QuizProps) {
       );
     }
 
-    if (isCorrect) setScore((s) => s + 1);
+    if (isCorrect) {
+      setScore((s) => s + 1);
+    } else if (question.methode_liee) {
+      setWrongMethodes((prev) => {
+        const next = new Map(prev);
+        next.set(question.methode_liee!.slug, question.methode_liee!);
+        return next;
+      });
+    }
     setShowResult(true);
   }
 
@@ -93,8 +107,22 @@ export default function Quiz({ titre, questions }: QuizProps) {
     return false;
   }
 
+  // Track progression when quiz is finished with >= 70%
+  useEffect(() => {
+    if (finished && slug) {
+      const percent = Math.round((score / total) * 100);
+      if (percent >= 70) {
+        markQuizReussi(slug);
+      }
+    }
+  }, [finished, score, total, slug]);
+
+  // Collect methode links from wrong answers for the result screen
+  const [wrongMethodes, setWrongMethodes] = useState<Map<string, { slug: string; niveau: string; label: string }>>(new Map());
+
   if (finished) {
     const percent = Math.round((score / total) * 100);
+    const methodesList = Array.from(wrongMethodes.values());
     return (
       <div className="max-w-2xl mx-auto">
         <div className="bg-white rounded-2xl shadow-lg p-8 text-center">
@@ -124,6 +152,25 @@ export default function Quiz({ titre, questions }: QuizProps) {
               ? "Pas mal ! Continue à réviser pour t'améliorer."
               : "Continue tes efforts, révise le cours et recommence !"}
           </p>
+
+          {methodesList.length > 0 && (
+            <div className="mb-6 p-4 bg-emc-light rounded-xl text-left">
+              <p className="text-sm font-semibold text-emc mb-2">Fiches a revoir :</p>
+              <div className="flex flex-wrap gap-2">
+                {methodesList.map((m) => (
+                  <Link
+                    key={m.slug}
+                    href={`/methodes/${m.niveau}/${m.slug}`}
+                    className="inline-flex items-center gap-1 text-sm px-3 py-1.5 rounded-lg bg-white border border-emc/20 hover:border-emc transition-colors"
+                  >
+                    <span>📋</span>
+                    <span>{m.label}</span>
+                  </Link>
+                ))}
+              </div>
+            </div>
+          )}
+
           <button
             onClick={restart}
             className="bg-accent text-white px-6 py-3 rounded-xl font-semibold hover:bg-accent/90 transition-colors"
@@ -259,9 +306,17 @@ export default function Quiz({ titre, questions }: QuizProps) {
             }`}
           >
             <p className="font-semibold mb-1">
-              {isCorrectAnswer() ? "✅ Bonne réponse !" : "❌ Mauvaise réponse"}
+              {isCorrectAnswer() ? "Bonne reponse !" : "Mauvaise reponse"}
             </p>
             <p className="text-sm text-gray-700">{question.explication}</p>
+            {!isCorrectAnswer() && question.methode_liee && (
+              <Link
+                href={`/methodes/${question.methode_liee.niveau}/${question.methode_liee.slug}`}
+                className="inline-flex items-center gap-1 mt-2 text-sm text-emc hover:underline font-medium"
+              >
+                📋 Revoir : {question.methode_liee.label}
+              </Link>
+            )}
           </div>
         )}
 

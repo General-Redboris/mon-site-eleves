@@ -6,6 +6,7 @@ import {
 } from "@/lib/brevet";
 import { notFound } from "next/navigation";
 import BrevetSujetClient from "./BrevetSujetClient";
+import SignalerErreur from "@/components/SignalerErreur";
 
 interface Props {
   params: Promise<{ id: string }>;
@@ -46,6 +47,8 @@ export default async function BrevetSujetPage({ params }: Props) {
         sujetContent={sujetContent}
         corrigeContent={corrigeContent}
       />
+
+      <SignalerErreur pageTitle={sujet.session} />
 
       <div className="mt-8 text-center">
         <Link

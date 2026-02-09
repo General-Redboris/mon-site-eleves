@@ -1,4 +1,12 @@
 import Link from "next/link";
+import { getAllCourses } from "@/lib/courses";
+import { getAllQuizzes } from "@/lib/quiz";
+import { getRecentNouveautes } from "@/lib/nouveautes";
+import ProgressionHome from "@/components/ProgressionHome";
+import FlashcardDuJour from "@/components/FlashcardDuJour";
+import NouveautesHome from "@/components/NouveautesHome";
+import fs from "fs";
+import path from "path";
 
 const sections = [
   {
@@ -42,14 +50,50 @@ const niveaux = [
   { label: "3e", href: "/cours/3e" },
 ];
 
+interface SimpleCarte {
+  recto: string;
+  verso: string;
+}
+
+function getAllCartes(): SimpleCarte[] {
+  const flashcardsDir = path.join(process.cwd(), "content", "flashcards");
+  const niveauxList = ["6e", "5e", "4e", "3e"];
+  const allCartes: SimpleCarte[] = [];
+  for (const niveau of niveauxList) {
+    const dir = path.join(flashcardsDir, niveau);
+    if (!fs.existsSync(dir)) continue;
+    const files = fs.readdirSync(dir).filter((f: string) => f.endsWith(".json"));
+    for (const file of files) {
+      const raw = fs.readFileSync(path.join(dir, file), "utf-8");
+      const data = JSON.parse(raw);
+      if (Array.isArray(data.cartes)) {
+        for (const c of data.cartes) {
+          allCartes.push({ recto: c.recto, verso: c.verso });
+        }
+      }
+    }
+  }
+  return allCartes;
+}
+
 export default function Home() {
+  const courses = getAllCourses();
+  const quizzes = getAllQuizzes();
+  const nouveautes = getRecentNouveautes(3);
+  const allCartes = getAllCartes();
+
+  const coursParNiveau: Record<string, number> = {};
+  for (const c of courses) {
+    coursParNiveau[c.niveau] = (coursParNiveau[c.niveau] || 0) + 1;
+  }
+
   return (
     <div>
       {/* Hero section */}
       <section className="bg-gradient-to-br from-white to-gray-50 py-12 sm:py-20">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 text-center">
           <h1 className="text-3xl sm:text-5xl font-bold text-foreground mb-4">
-            Bienvenue sur ton espace de révision
+            Bienvenue sur Chronogéo
           </h1>
           <p className="text-lg sm:text-xl text-gray-600 max-w-2xl mx-auto mb-8">
             Histoire-Géographie et EMC au Collège Francine Leca de Sancerre.
@@ -69,6 +113,13 @@ export default function Home() {
         </div>
       </section>
 
+      {/* Progression */}
+      <ProgressionHome
+        totalCours={courses.length}
+        totalQuiz={quizzes.length}
+        coursParNiveau={coursParNiveau}
+      />
+
       {/* Main sections */}
       <section className="max-w-6xl mx-auto px-4 sm:px-6 py-12">
         <h2 className="text-2xl font-bold text-foreground mb-8 text-center">
@@ -86,6 +137,14 @@ export default function Home() {
               <p className="text-sm opacity-80">{section.description}</p>
             </Link>
           ))}
+        </div>
+      </section>
+
+      {/* Flashcard du jour + Nouveautes */}
+      <section className="max-w-6xl mx-auto px-4 sm:px-6 py-8">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+          <FlashcardDuJour cartes={allCartes} />
+          <NouveautesHome nouveautes={nouveautes} />
         </div>
       </section>
 

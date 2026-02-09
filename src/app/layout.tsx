@@ -3,6 +3,8 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import Navigation from "@/components/Navigation";
 import Footer from "@/components/Footer";
+import ThemeProvider from "@/components/ThemeProvider";
+import { SITE_FULL_TITLE, SITE_DESCRIPTION } from "@/config/site";
 
 const inter = Inter({
   variable: "--font-inter",
@@ -10,9 +12,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Histoire-Géo Sancerre | Mon compagnon de révision",
-  description:
-    "Plateforme de révision en histoire-géographie et EMC pour les élèves du Collège Francine Leca à Sancerre.",
+  title: SITE_FULL_TITLE,
+  description: SITE_DESCRIPTION,
 };
 
 export default function RootLayout({
@@ -21,11 +22,13 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="fr">
+    <html lang="fr" suppressHydrationWarning>
       <body className={`${inter.variable} antialiased flex flex-col min-h-screen`}>
-        <Navigation />
-        <main className="flex-1">{children}</main>
-        <Footer />
+        <ThemeProvider>
+          <Navigation />
+          <main className="flex-1">{children}</main>
+          <Footer />
+        </ThemeProvider>
       </body>
     </html>
   );

@@ -5,7 +5,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 text-sm text-gray-600">
           <div>
             <h3 className="font-semibold text-foreground mb-2">
-              Histoire-Géo Sancerre
+              Chronogéo
             </h3>
             <p>
               Plateforme de révision pour les élèves du Collège Francine Leca.
@@ -42,7 +42,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="mt-6 pt-4 border-t border-gray-200 text-center text-xs text-gray-400">
-          &copy; {new Date().getFullYear()} Histoire-Géo Sancerre. Tous droits réservés.
+          &copy; {new Date().getFullYear()} Chronogéo. Tous droits réservés.
         </div>
       </div>
     </footer>

@@ -1,0 +1,60 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Parcours de revision",
+  "description": "Schema pour definir des parcours de revision structures. Chaque parcours guide l'eleve a travers une sequence de cours, fiches methode et exercices.",
+  "type": "object",
+  "required": ["titre", "niveau", "matiere", "etapes"],
+  "properties": {
+    "titre": {
+      "type": "string",
+      "description": "Titre du parcours"
+    },
+    "niveau": {
+      "type": "string",
+      "enum": ["6e", "5e", "4e", "3e"]
+    },
+    "matiere": {
+      "type": "string",
+      "enum": ["histoire", "geographie", "emc"]
+    },
+    "description": {
+      "type": "string",
+      "description": "Description courte du parcours"
+    },
+    "duree_estimee": {
+      "type": "string",
+      "description": "Duree estimee (ex: '45 min', '1h30')"
+    },
+    "etapes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["type", "titre"],
+        "properties": {
+          "type": {
+            "type": "string",
+            "enum": ["cours", "methode", "quiz", "flashcards", "activite"],
+            "description": "Type de l'etape"
+          },
+          "titre": {
+            "type": "string",
+            "description": "Titre affiche de l'etape"
+          },
+          "lien": {
+            "type": "string",
+            "description": "Chemin relatif vers la ressource (ex: /cours/3e/histoire/la-premiere-guerre-mondiale)"
+          },
+          "consigne": {
+            "type": "string",
+            "description": "Consigne ou conseil pour cette etape"
+          },
+          "optionnel": {
+            "type": "boolean",
+            "default": false,
+            "description": "Si true, l'etape est optionnelle"
+          }
+        }
+      }
+    }
+  }
+}
