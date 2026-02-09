@@ -226,7 +226,7 @@ export default function CoursClient({
                 : "text-gray-500 dark:text-gray-400 hover:text-foreground"
             }`}
           >
-            Fiche de synthese
+            Fiche de synthèse
           </button>
         </div>
       )}
@@ -236,14 +236,14 @@ export default function CoursClient({
         <div className="space-y-6">
           {resume && (
             <div className="p-4 bg-accent/5 dark:bg-accent/10 rounded-xl border border-accent/10">
-              <p className="text-sm font-medium text-accent mb-1">Resume du chapitre</p>
+              <p className="text-sm font-medium text-accent mb-1">Résumé du chapitre</p>
               <p className="text-gray-700 dark:text-gray-300 text-sm leading-relaxed">{resume}</p>
             </div>
           )}
 
           {vocabulaire && vocabulaire.length > 0 && (
             <div className="p-4 bg-geographie-light rounded-xl border border-geographie/10">
-              <p className="text-sm font-medium text-geographie mb-2">Vocabulaire cle</p>
+              <p className="text-sm font-medium text-geographie mb-2">Vocabulaire clé</p>
               <dl className="space-y-1">
                 {vocabulaire.map((v) => (
                   <div key={v.terme} className="flex gap-2 text-sm">
@@ -257,7 +257,7 @@ export default function CoursClient({
 
           {dates_cles && dates_cles.length > 0 && (
             <div className="p-4 bg-histoire-light rounded-xl border border-histoire/10">
-              <p className="text-sm font-medium text-histoire mb-2">Dates cles</p>
+              <p className="text-sm font-medium text-histoire mb-2">Dates clés</p>
               <ul className="space-y-1 text-sm">
                 {dates_cles.map((d) => (
                   <li key={d.date} className="flex gap-2">
@@ -271,7 +271,7 @@ export default function CoursClient({
 
           {methodes_liees && methodes_liees.length > 0 && (
             <div className="p-4 bg-emc-light rounded-xl border border-emc/10">
-              <p className="text-sm font-medium text-emc mb-2">Fiches methode liees</p>
+              <p className="text-sm font-medium text-emc mb-2">Fiches méthode liées</p>
               <div className="flex flex-wrap gap-2">
                 {methodes_liees.map((m) => (
                   <a
@@ -298,7 +298,7 @@ export default function CoursClient({
               onClick={handleToggleAll}
               className="text-xs text-gray-500 dark:text-gray-400 hover:text-accent transition-colors"
             >
-              {allOpen ? "▼ Tout replier" : "▶ Tout deplier"}
+              {allOpen ? "▼ Tout replier" : "▶ Tout déplier"}
             </button>
           </div>
 
@@ -307,10 +307,10 @@ export default function CoursClient({
             {children}
           </div>
 
-          {/* Methodes liees at bottom */}
+          {/* Méthodes liées at bottom */}
           {methodes_liees && methodes_liees.length > 0 && (
             <div className="mt-8 pt-6 border-t border-gray-200 dark:border-gray-700">
-              <p className="text-sm font-semibold text-emc mb-3">Fiches methode liees</p>
+              <p className="text-sm font-semibold text-emc mb-3">Fiches méthode liées</p>
               <div className="flex flex-wrap gap-2">
                 {methodes_liees.map((m) => (
                   <a

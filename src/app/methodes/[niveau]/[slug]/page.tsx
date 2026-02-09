@@ -12,13 +12,10 @@ import SignalerErreur from "@/components/SignalerErreur";
 import QRCodeModal from "@/components/QRCodeModal";
 
 const domaineColors: Record<string, string> = {
-  "Histoire-Geographie": "bg-histoire-light text-histoire",
   "Histoire-Géographie": "bg-histoire-light text-histoire",
-  "Geographie": "bg-geographie-light text-geographie",
   "Géographie": "bg-geographie-light text-geographie",
   "Histoire": "bg-histoire-light text-histoire",
   "EMC": "bg-emc-light text-emc",
-  "Histoire-Geographie-EMC": "bg-gray-100 text-gray-700",
   "Histoire-Géographie-EMC": "bg-gray-100 text-gray-700",
 };
 
@@ -39,7 +36,7 @@ export default async function FicheMethodePage({ params }: Props) {
       {/* Breadcrumb */}
       <nav className="text-sm text-gray-500 mb-6">
         <Link href="/methodes" className="hover:text-accent">
-          Methodes
+          Méthodes
         </Link>
         <span className="mx-2">/</span>
         <Link href={`/methodes/${niveau}`} className="hover:text-accent">

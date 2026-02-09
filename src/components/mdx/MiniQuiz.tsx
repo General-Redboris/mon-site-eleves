@@ -52,7 +52,7 @@ export default function MiniQuiz({ question, options, reponse, explication }: Pr
             ? "bg-green-50 dark:bg-green-900/20 text-green-800 dark:text-green-300"
             : "bg-red-50 dark:bg-red-900/20 text-red-800 dark:text-red-300"
         }`}>
-          <p className="font-semibold">{isCorrect ? "Bonne reponse !" : "Pas tout a fait..."}</p>
+          <p className="font-semibold">{isCorrect ? "Bonne réponse !" : "Pas tout à fait..."}</p>
           {explication && <p className="mt-1">{explication}</p>}
         </div>
       )}

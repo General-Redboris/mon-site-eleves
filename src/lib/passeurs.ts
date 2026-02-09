@@ -17,7 +17,7 @@ export function getPasseursIntro(): PasseursIntro | null {
   const raw = fs.readFileSync(filePath, "utf-8");
   const { data, content } = matter(raw);
   return {
-    titre: (data.titre as string) || "Passeurs de memoire",
+    titre: (data.titre as string) || "Passeurs de mémoire",
     content,
   };
 }
@@ -123,7 +123,7 @@ export function getAllPortraits(): PortraitMeta[] {
       return {
         titre: (data.titre as string) || slug,
         soustitre: (data.soustitre as string) || "",
-        auteurs: (data.auteurs as string) || "Eleves de 3e2",
+        auteurs: (data.auteurs as string) || "Élèves de 3e2",
         famille_ou_victime: (data.famille_ou_victime as string) || "",
         dates: (data.dates as string) || "",
         slug,
@@ -140,7 +140,7 @@ export function getPortrait(slug: string): Portrait | null {
   return {
     titre: (data.titre as string) || slug,
     soustitre: (data.soustitre as string) || "",
-    auteurs: (data.auteurs as string) || "Eleves de 3e2",
+    auteurs: (data.auteurs as string) || "Élèves de 3e2",
     famille_ou_victime: (data.famille_ou_victime as string) || "",
     dates: (data.dates as string) || "",
     slug,
@@ -197,7 +197,7 @@ export function getPoeme(slug: string): Poeme | null {
   };
 }
 
-// --- Textes d'eleves (legacy) ---
+// --- Textes d'élèves (legacy) ---
 
 export interface TexteMeta {
   titre: string;
@@ -222,7 +222,7 @@ export function getAllTextes(): TexteMeta[] {
       const { data } = matter(raw);
       return {
         titre: (data.titre as string) || slug,
-        auteur: (data.auteur as string) || "Eleves",
+        auteur: (data.auteur as string) || "Élèves",
         annee_scolaire: (data.annee_scolaire as string) || "",
         date: (data.date as string) || "",
         slug,
@@ -238,7 +238,7 @@ export function getTexte(slug: string): Texte | null {
   const { data, content } = matter(raw);
   return {
     titre: (data.titre as string) || slug,
-    auteur: (data.auteur as string) || "Eleves",
+    auteur: (data.auteur as string) || "Élèves",
     annee_scolaire: (data.annee_scolaire as string) || "",
     date: (data.date as string) || "",
     slug,

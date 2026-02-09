@@ -93,7 +93,7 @@ const sectionNav = [
   { id: "contexte", label: "Les Puits de Guerry" },
   { id: "podcast", label: "Podcast" },
   { id: "portraits", label: "Portraits" },
-  { id: "poesie", label: "Poesie" },
+  { id: "poesie", label: "Poésie" },
   { id: "galerie", label: "Galerie" },
   { id: "ressources", label: "Ressources" },
 ];
@@ -118,13 +118,13 @@ export default function PasseursClient({
       <section className="bg-passeurs-dark text-passeurs-light py-20 sm:py-28">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 text-center">
           <h1 className="text-3xl sm:text-5xl font-light tracking-wide mb-4 text-white passeurs-smallcaps">
-            Passeurs de memoire
+            Passeurs de mémoire
           </h1>
           <p className="text-base sm:text-lg text-stone-400 mb-8">
-            Projet memoriel des classes de 3e — College Francine Leca — 2025-2026
+            Projet mémoriel des classes de 3e — Collège Francine Leca — 2025-2026
           </p>
           <blockquote className="max-w-xl mx-auto text-stone-400 italic text-sm sm:text-base leading-relaxed border-l-2 border-passeurs-accent pl-4 text-left">
-            &laquo;&nbsp;Celui qui ne se souvient pas de l&apos;histoire est condamne a la revivre.&nbsp;&raquo;
+            &laquo;&nbsp;Celui qui ne se souvient pas de l&apos;histoire est condamné à la revivre.&nbsp;&raquo;
           </blockquote>
         </div>
       </section>
@@ -163,8 +163,8 @@ export default function PasseursClient({
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mt-8">
             <div className="bg-white border border-stone-200 p-5">
               <p className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-2">3e1 — Mme Pasquier</p>
-              <h3 className="font-semibold text-passeurs-dark text-sm mb-1">Poesie engagee</h3>
-              <p className="text-xs text-stone-500">Etude de poetes de la Shoah et creations originales</p>
+              <h3 className="font-semibold text-passeurs-dark text-sm mb-1">Poésie engagée</h3>
+              <p className="text-xs text-stone-500">Étude de poètes de la Shoah et créations originales</p>
             </div>
             <div className="bg-white border border-stone-200 p-5">
               <p className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-2">3e2 — Mme Hardy</p>
@@ -173,8 +173,8 @@ export default function PasseursClient({
             </div>
             <div className="bg-white border border-stone-200 p-5">
               <p className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-2">3e3 — Mme Bouchet</p>
-              <h3 className="font-semibold text-passeurs-dark text-sm mb-1">Temoignages et recits</h3>
-              <p className="text-xs text-stone-500">Recueil et mise en voix de temoignages</p>
+              <h3 className="font-semibold text-passeurs-dark text-sm mb-1">Témoignages et récits</h3>
+              <p className="text-xs text-stone-500">Recueil et mise en voix de témoignages</p>
             </div>
           </div>
         </section>
@@ -187,18 +187,18 @@ export default function PasseursClient({
 
           <div className="border-l-4 border-passeurs-accent bg-white p-6 sm:p-8">
             <h3 className="font-semibold text-passeurs-dark text-lg mb-4 passeurs-smallcaps">
-              La tragedie des Puits de Guerry (ete 1944)
+              La tragédie des Puits de Guerry (été 1944)
             </h3>
 
             <div className="text-sm text-stone-600 leading-relaxed space-y-3">
               <p>
-                Les Puits de Guerry, situes sur la commune de Savigny-en-Septaine (Cher), sont le lieu d&apos;un crime genocidaire perpetre a l&apos;ete 1944.
+                Les Puits de Guerry, situés sur la commune de Savigny-en-Septaine (Cher), sont le lieu d&apos;un crime génocidaire perpétré à l&apos;été 1944.
               </p>
               <p>
-                Dans la nuit du 21 au 22 juillet 1944, 71 personnes representant la quasi-totalite de la communaute juive de Saint-Amand-Montrond sont arretees par la Milice et la police allemande. 36 d&apos;entre elles seront assassinees.
+                Dans la nuit du 21 au 22 juillet 1944, 71 personnes représentant la quasi-totalité de la communauté juive de Saint-Amand-Montrond sont arrêtées par la Milice et la police allemande. 36 d&apos;entre elles seront assassinées.
               </p>
               <p className="text-stone-500 italic">
-                De Isaac Dreyfus, 85 ans, a Marcel Walewick, 16 ans.
+                De Isaac Dreyfus, 85 ans, à Marcel Walewick, 16 ans.
               </p>
             </div>
 
@@ -208,6 +208,7 @@ export default function PasseursClient({
               className="mt-4 flex items-center gap-2 text-sm font-medium text-stone-500 hover:text-passeurs-dark transition-colors"
             >
               <span>{contexteOpen ? "Refermer" : "En savoir plus"}</span>
+
               <svg
                 className={`w-4 h-4 transition-transform ${contexteOpen ? "rotate-180" : ""}`}
                 fill="none" stroke="currentColor" viewBox="0 0 24 24"
@@ -264,7 +265,7 @@ export default function PasseursClient({
                     <div className="p-5 sm:p-6">
                       <div className="flex flex-wrap items-center gap-2 mb-2">
                         <span className="text-xs font-bold text-stone-400 uppercase tracking-wider">
-                          Episode {ep.numero}
+                          Épisode {ep.numero}
                         </span>
                         {ep.type && (
                           <span className="text-xs px-2 py-0.5 bg-stone-100 text-stone-600 rounded">
@@ -287,7 +288,7 @@ export default function PasseursClient({
                         rel="noopener noreferrer"
                         className="inline-flex items-center gap-1 text-sm font-medium text-stone-500 hover:text-passeurs-dark transition-colors"
                       >
-                        Ecouter sur {ep.plateforme === "youtube" ? "YouTube" : "SoundCloud"}
+                        Écouter sur {ep.plateforme === "youtube" ? "YouTube" : "SoundCloud"}
                         <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
                         </svg>
@@ -306,10 +307,10 @@ export default function PasseursClient({
         <section id="portraits" className="pt-16 pb-12">
           <h2 className="passeurs-section-title">Une classe, des destins</h2>
           <p className="text-stone-500 text-sm mb-2">
-            Recherches biographiques des eleves de 3e2
+            Recherches biographiques des élèves de 3e2
           </p>
           <p className="text-sm text-stone-600 leading-relaxed mb-8">
-            Humaniser les victimes, passer du chiffre au visage, du nombre au prenom. Chaque eleve a mene des recherches pour retracer le parcours d&apos;une victime ou d&apos;une famille.
+            Humaniser les victimes, passer du chiffre au visage, du nombre au prénom. Chaque élève a mené des recherches pour retracer le parcours d&apos;une victime ou d&apos;une famille.
           </p>
 
           {portraits.length > 0 ? (
@@ -337,7 +338,7 @@ export default function PasseursClient({
             </div>
           ) : (
             <p className="text-stone-400 italic text-sm">
-              Les portraits seront publies au fur et a mesure de l&apos;avancement du projet.
+              Les portraits seront publiés au fur et à mesure de l&apos;avancement du projet.
             </p>
           )}
         </section>
@@ -348,10 +349,10 @@ export default function PasseursClient({
         <section id="poesie" className="pt-16 pb-12">
           <h2 className="passeurs-section-title">Dire l&apos;indicible</h2>
           <p className="text-stone-500 text-sm mb-2">
-            Poesie engagee — Classe de 3e1
+            Poésie engagée — Classe de 3e1
           </p>
           <p className="text-sm text-stone-600 leading-relaxed mb-8">
-            La poesie comme temoignage et resistance. Les eleves ont etudie les poetes de la Shoah et de la Resistance, puis ont cree leurs propres textes pour porter la memoire des victimes.
+            La poésie comme témoignage et résistance. Les élèves ont étudié les poètes de la Shoah et de la Résistance, puis ont créé leurs propres textes pour porter la mémoire des victimes.
           </p>
 
           {poemes.length > 0 ? (
@@ -370,7 +371,7 @@ export default function PasseursClient({
                       <p className="text-xs text-stone-400 mt-1">{poeme.auteur}</p>
                     </div>
                     <span className="shrink-0 text-xs px-2 py-0.5 bg-stone-100 text-stone-500 rounded">
-                      {poeme.type === "creation_eleve" ? "Creation" : "Corpus"}
+                      {poeme.type === "creation_eleve" ? "Création" : "Corpus"}
                     </span>
                   </div>
                 </Link>
@@ -378,7 +379,7 @@ export default function PasseursClient({
             </div>
           ) : (
             <p className="text-stone-400 italic text-sm">
-              Les poemes seront publies au fur et a mesure de l&apos;avancement du projet.
+              Les poèmes seront publiés au fur et à mesure de l&apos;avancement du projet.
             </p>
           )}
         </section>
@@ -389,7 +390,7 @@ export default function PasseursClient({
         <section id="galerie" className="pt-16 pb-12">
           <h2 className="passeurs-section-title">En images</h2>
           <p className="text-stone-500 text-sm mb-8">
-            Les differentes etapes du projet
+            Les différentes étapes du projet
           </p>
 
           {galerieSections.length > 0 ? (
@@ -442,9 +443,9 @@ export default function PasseursClient({
         {textes.length > 0 && (
           <>
             <section className="pt-16 pb-12">
-              <h2 className="passeurs-section-title">Temoignages et recits</h2>
+              <h2 className="passeurs-section-title">Témoignages et récits</h2>
               <p className="text-stone-500 text-sm mb-8">
-                Textes rediges par les eleves
+                Textes rédigés par les élèves
               </p>
 
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
@@ -483,20 +484,20 @@ export default function PasseursClient({
             <div>
               <h3 className="text-sm font-semibold text-stone-700 mb-3">Bibliographie indicative</h3>
               <ul className="space-y-2 text-sm text-stone-600">
-                <li>Julien Fargettas, <em>La rafle oubliee : Saint-Amand-Montrond, juillet 1944</em></li>
+                <li>Julien Fargettas, <em>La rafle oubliée : Saint-Amand-Montrond, juillet 1944</em></li>
                 <li>Jean-Yves Ribault, <em>Les Puits de Guerry : le massacre de juifs dans le Cher, juillet 1944</em></li>
-                <li>Memorial de la Shoah, ressources pedagogiques en ligne</li>
+                <li>Mémorial de la Shoah, ressources pédagogiques en ligne</li>
               </ul>
             </div>
 
             <div>
               <h3 className="text-sm font-semibold text-stone-700 mb-3">Partenaires</h3>
               <ul className="space-y-1.5 text-sm text-stone-600">
-                <li>Delegation Militaire Departementale du Cher (DMD)</li>
-                <li>Direction des Services Departementaux de l&apos;Education Nationale du Cher (DSDEN)</li>
-                <li>Musee de la Resistance et de la Deportation du Cher</li>
-                <li>Memorial de la Shoah</li>
-                <li>Archives departementales du Cher</li>
+                <li>Délégation Militaire Départementale du Cher (DMD)</li>
+                <li>Direction des Services Départementaux de l&apos;Éducation Nationale du Cher (DSDEN)</li>
+                <li>Musée de la Résistance et de la Déportation du Cher</li>
+                <li>Mémorial de la Shoah</li>
+                <li>Archives départementales du Cher</li>
                 <li>DGA Techniques Terrestres</li>
               </ul>
             </div>
@@ -508,10 +509,10 @@ export default function PasseursClient({
       <footer className="bg-passeurs-dark text-stone-400 py-16">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 text-center">
           <blockquote className="italic text-sm sm:text-base leading-relaxed">
-            &laquo;&nbsp;Nous ne sommes pas les derniers temoins, mais les premiers passeurs.&nbsp;&raquo;
+            &laquo;&nbsp;Nous ne sommes pas les derniers témoins, mais les premiers passeurs.&nbsp;&raquo;
           </blockquote>
           <p className="mt-4 text-xs text-stone-500">
-            Projet &laquo;&nbsp;Carnet de Passeur de Memoire&nbsp;&raquo; — College Francine Leca, Sancerre — 2025-2026
+            Projet &laquo;&nbsp;Carnet de Passeur de Mémoire&nbsp;&raquo; — Collège Francine Leca, Sancerre — 2025-2026
           </p>
         </div>
       </footer>

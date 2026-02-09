@@ -27,7 +27,7 @@ export default function IndexMnemoniques({ mnemoniques }: IndexMnemoniquesProps)
         className="w-full flex items-center justify-between px-6 py-4 hover:bg-gray-50 transition-colors text-left"
       >
         <span className="font-bold text-lg">
-          🔤 Retrouve ta methode par son acronyme
+          🔤 Retrouve ta méthode par son acronyme
         </span>
         <svg
           className={`w-5 h-5 text-gray-400 transition-transform ${open ? "rotate-180" : ""}`}
@@ -47,7 +47,7 @@ export default function IndexMnemoniques({ mnemoniques }: IndexMnemoniquesProps)
                 <tr className="border-b-2 border-gray-200">
                   <th className="text-left py-2 pr-3 font-semibold text-gray-700">Acronyme</th>
                   <th className="text-left py-2 pr-3 font-semibold text-gray-700">Signification</th>
-                  <th className="text-left py-2 pr-3 font-semibold text-gray-700 hidden sm:table-cell">Competence</th>
+                  <th className="text-left py-2 pr-3 font-semibold text-gray-700 hidden sm:table-cell">Compétence</th>
                   <th className="text-left py-2 pr-3 font-semibold text-gray-700">Niveau</th>
                   <th className="text-left py-2 font-semibold text-gray-700">Lien</th>
                 </tr>

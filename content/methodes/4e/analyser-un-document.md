@@ -12,7 +12,7 @@ fiches_liees:
   - slug: "lire-une-carte"
     label: "Appliquer à une carte"
   - slug: "analyse-oeuvre-art"
-    label: "Analyser une oeuvre d'art"
+    label: "Analyser une œuvre d'art"
 progression:
   precedent:
     niveau: "5e"

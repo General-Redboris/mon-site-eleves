@@ -36,7 +36,7 @@ export default function SearchMethodes({ fiches }: SearchMethodesProps) {
           type="text"
           value={query}
           onChange={(e) => setQuery(e.target.value)}
-          placeholder="Rechercher une methode (ex : croquis, TOLES, oral...)"
+          placeholder="Rechercher une méthode (ex : croquis, TOLES, oral...)"
           className="w-full px-4 py-3 pl-10 rounded-xl border-2 border-gray-200 bg-white text-sm focus:outline-none focus:border-geographie transition-colors"
         />
         <svg
@@ -73,7 +73,7 @@ export default function SearchMethodes({ fiches }: SearchMethodesProps) {
               ))}
             </ul>
           ) : (
-            <p className="px-4 py-3 text-sm text-gray-400">Aucune fiche trouvee pour &laquo; {query} &raquo;</p>
+            <p className="px-4 py-3 text-sm text-gray-400">Aucune fiche trouvée pour &laquo; {query} &raquo;</p>
           )}
         </div>
       )}

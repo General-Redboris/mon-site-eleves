@@ -155,7 +155,7 @@ export default function Quiz({ titre, questions, slug }: QuizProps) {
 
           {methodesList.length > 0 && (
             <div className="mb-6 p-4 bg-emc-light rounded-xl text-left">
-              <p className="text-sm font-semibold text-emc mb-2">Fiches a revoir :</p>
+              <p className="text-sm font-semibold text-emc mb-2">Fiches à revoir :</p>
               <div className="flex flex-wrap gap-2">
                 {methodesList.map((m) => (
                   <Link
@@ -306,7 +306,7 @@ export default function Quiz({ titre, questions, slug }: QuizProps) {
             }`}
           >
             <p className="font-semibold mb-1">
-              {isCorrectAnswer() ? "Bonne reponse !" : "Mauvaise reponse"}
+              {isCorrectAnswer() ? "Bonne réponse !" : "Mauvaise réponse"}
             </p>
             <p className="text-sm text-gray-700">{question.explication}</p>
             {!isCorrectAnswer() && question.methode_liee && (

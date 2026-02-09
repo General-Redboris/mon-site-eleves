@@ -70,7 +70,7 @@ En une ou deux phrases, formule :
 
 ## Étape 3 : Prélever des informations et les interpréter
 
-C'est le coeur de l'analyse :
+C'est le cœur de l'analyse :
 
 1. **Sélectionne** les passages les plus importants
 2. **Cite** entre guillemets (texte) ou **décris** précisément (image)

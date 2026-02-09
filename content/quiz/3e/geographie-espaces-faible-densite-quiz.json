@@ -114,10 +114,10 @@
     },
     {
       "type": "qcm",
-      "question": "Quel site naturel du Cantal, au coeur du plus grand strato-volcan d'Europe, attire de nombreux randonneurs ?",
+      "question": "Quel site naturel du Cantal, au cœur du plus grand strato-volcan d'Europe, attire de nombreux randonneurs ?",
       "options": ["Le Plomb du Cantal", "Le Puy Mary", "Le Lioran", "Le viaduc de Garabit"],
       "reponse": 1,
-      "explication": "Le Puy Mary, au coeur du plus grand strato-volcan d'Europe, est un site naturel d'exception qui contribue au développement du tourisme vert dans le Cantal."
+      "explication": "Le Puy Mary, au cœur du plus grand strato-volcan d'Europe, est un site naturel d'exception qui contribue au développement du tourisme vert dans le Cantal."
     },
     {
       "type": "qcm",

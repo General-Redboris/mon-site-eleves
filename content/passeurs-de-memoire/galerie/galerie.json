@@ -1,46 +1,46 @@
 {
   "sections": [
     {
-      "titre": "Visite du Musee de la Resistance et de la Deportation",
+      "titre": "Visite du Musée de la Résistance et de la Déportation",
       "photos": [
         {
           "fichier": "musee-resistance-01.jpg",
-          "legende": "[DEMONSTRATION] Les eleves devant le Musee de la Resistance et de la Deportation du Cher",
+          "legende": "[DÉMONSTRATION] Les élèves devant le Musée de la Résistance et de la Déportation du Cher",
           "date": "2026-01-15"
         }
       ]
     },
     {
-      "titre": "Atelier aux Archives departementales",
+      "titre": "Atelier aux Archives départementales",
       "photos": [
         {
           "fichier": "archives-departementales-01.jpg",
-          "legende": "[DEMONSTRATION] Seance de recherche aux Archives departementales du Cher",
+          "legende": "[DÉMONSTRATION] Séance de recherche aux Archives départementales du Cher",
           "date": "2026-02-10"
         }
       ]
     },
     {
-      "titre": "Intervention du Memorial de la Shoah",
+      "titre": "Intervention du Mémorial de la Shoah",
       "photos": [
         {
           "fichier": "memorial-shoah-01.jpg",
-          "legende": "[DEMONSTRATION] Intervention d'un mediateur du Memorial de la Shoah aupres des eleves",
+          "legende": "[DÉMONSTRATION] Intervention d'un médiateur du Mémorial de la Shoah auprès des élèves",
           "date": "2026-03-05"
         }
       ]
     },
     {
-      "titre": "Journee du 2 avril 2026 aux Puits de Guerry",
+      "titre": "Journée du 2 avril 2026 aux Puits de Guerry",
       "photos": [
         {
           "fichier": "puits-guerry-ceremonie-01.jpg",
-          "legende": "[DEMONSTRATION] Les eleves lors de la ceremonie commemorative",
+          "legende": "[DÉMONSTRATION] Les élèves lors de la cérémonie commémorative",
           "date": "2026-04-02"
         },
         {
           "fichier": "puits-guerry-rallye-01.jpg",
-          "legende": "[DEMONSTRATION] Le rallye memoriel sur le site des Puits de Guerry",
+          "legende": "[DÉMONSTRATION] Le rallye mémoriel sur le site des Puits de Guerry",
           "date": "2026-04-02"
         }
       ]

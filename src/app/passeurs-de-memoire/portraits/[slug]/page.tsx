@@ -22,7 +22,7 @@ export default async function PortraitDetailPage({ params }: Props) {
         <div className="max-w-3xl mx-auto px-4 sm:px-6">
           <nav className="text-sm text-stone-400 mb-2">
             <Link href="/passeurs-de-memoire" className="hover:text-stone-200 transition-colors">
-              Passeurs de memoire
+              Passeurs de mémoire
             </Link>
             <span className="mx-2">/</span>
             <Link href="/passeurs-de-memoire#portraits" className="hover:text-stone-200 transition-colors">
@@ -57,7 +57,7 @@ export default async function PortraitDetailPage({ params }: Props) {
         {/* Author credit */}
         <div className="mt-6 p-4 bg-stone-100 border border-stone-200">
           <p className="text-sm text-stone-600 italic">
-            Recherche biographique realisee par <strong>{portrait.auteurs}</strong> dans le cadre du projet &laquo;&nbsp;Une classe, des destins&nbsp;&raquo; — Annee scolaire 2025-2026.
+            Recherche biographique réalisée par <strong>{portrait.auteurs}</strong> dans le cadre du projet &laquo;&nbsp;Une classe, des destins&nbsp;&raquo; — Année scolaire 2025-2026.
           </p>
         </div>
 

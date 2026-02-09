@@ -27,7 +27,7 @@ export default function ParcoursBrevet() {
     <div className="mb-8 bg-red-50 border-2 border-red-200 rounded-2xl p-6">
       <div className="flex items-center gap-2 mb-4">
         <span className="text-xl">🎯</span>
-        <h2 className="text-lg font-bold text-red-900">Parcours brevet — Les fiches essentielles pour reussir le DNB</h2>
+        <h2 className="text-lg font-bold text-red-900">Parcours brevet — Les fiches essentielles pour réussir le DNB</h2>
       </div>
 
       {/* Blocs principaux */}
@@ -75,12 +75,12 @@ export default function ParcoursBrevet() {
 
       {/* Fiches complémentaires */}
       <p className="text-xs text-red-800">
-        <span className="font-medium">Fiches complementaires :</span>{" "}
-        <Link href="/methodes/3e/reperes-dnb" className="underline hover:text-red-600">Reperes (#18)</Link>
+        <span className="font-medium">Fiches complémentaires :</span>{" "}
+        <Link href="/methodes/3e/reperes-dnb" className="underline hover:text-red-600">Repères (#18)</Link>
         {" · "}
-        <Link href="/methodes/3e/epreuve-ecrite-dnb" className="underline hover:text-red-600">Epreuve ecrite (#11)</Link>
+        <Link href="/methodes/3e/epreuve-ecrite-dnb" className="underline hover:text-red-600">Épreuve écrite (#11)</Link>
         {" · "}
-        <Link href="/methodes/3e/apprendre-sa-lecon" className="underline hover:text-red-600">Apprendre sa lecon (#16)</Link>
+        <Link href="/methodes/3e/apprendre-sa-lecon" className="underline hover:text-red-600">Apprendre sa leçon (#16)</Link>
       </p>
     </div>
   );

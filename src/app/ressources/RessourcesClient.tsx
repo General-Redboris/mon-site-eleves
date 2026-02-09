@@ -28,7 +28,10 @@ export default function RessourcesClient({ ressources }: Props) {
 
   const filtered = ressources.filter((r) => {
     if (filtreNiveau !== "Tous" && !r.niveau.includes(filtreNiveau)) return false;
-    if (filtreMatiere !== "Toutes" && r.matiere !== filtreMatiere.toLowerCase()) return false;
+    if (filtreMatiere !== "Toutes") {
+      const normalized = filtreMatiere.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+      if (r.matiere !== normalized) return false;
+    }
     if (filtreType !== "Tous" && r.type !== filtreType) return false;
     return true;
   });
@@ -43,7 +46,7 @@ export default function RessourcesClient({ ressources }: Props) {
 
       <h1 className="text-2xl sm:text-3xl font-bold text-foreground mb-2">Ressources</h1>
       <p className="text-gray-600 mb-8">
-        Sites, videos et outils utiles pour reviser et approfondir tes cours.
+        Sites, vidéos et outils utiles pour réviser et approfondir tes cours.
       </p>
 
       {/* Filters */}
@@ -67,9 +70,9 @@ export default function RessourcesClient({ ressources }: Props) {
           </div>
         </div>
         <div>
-          <label className="block text-xs font-semibold text-gray-500 uppercase mb-1">Matiere</label>
+          <label className="block text-xs font-semibold text-gray-500 uppercase mb-1">Matière</label>
           <div className="flex gap-1">
-            {["Toutes", "Histoire", "Geographie", "EMC"].map((m) => (
+            {["Toutes", "Histoire", "Géographie", "EMC"].map((m) => (
               <button
                 key={m}
                 onClick={() => setFiltreMatiere(m)}
@@ -140,7 +143,7 @@ export default function RessourcesClient({ ressources }: Props) {
         </div>
       ) : (
         <div className="bg-white rounded-2xl p-10 text-center text-gray-400 border">
-          <p>Aucune ressource ne correspond a ces filtres.</p>
+          <p>Aucune ressource ne correspond à ces filtres.</p>
         </div>
       )}
     </div>

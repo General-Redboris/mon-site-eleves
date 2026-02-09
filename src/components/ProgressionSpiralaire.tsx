@@ -16,8 +16,8 @@ const niveauLabels: Record<string, string> = {
 };
 
 const niveauComplexite: Record<string, string> = {
-  "6e": "Version simplifiee",
-  "5e": "Version intermediaire",
+  "6e": "Version simplifiée",
+  "5e": "Version intermédiaire",
   "4e": "Version approfondie",
   "3e": "Version brevet",
 };
@@ -33,7 +33,7 @@ export default function ProgressionSpiralaire({ niveauActuel, progression }: Pro
   return (
     <div className="mt-6 bg-blue-50 border border-blue-200 rounded-xl p-4">
       <p className="text-sm font-medium text-blue-900 mb-2">
-        Cette methode existe aussi en :
+        Cette méthode existe aussi en :
       </p>
       <div className="flex flex-wrap gap-2">
         {liens.map((lien) => (

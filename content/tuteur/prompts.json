@@ -1,40 +1,40 @@
 [
   {
-    "categorie": "Revision",
+    "categorie": "Révision",
     "prompts": [
       {
-        "label": "Resume de cours",
-        "texte": "Resume-moi les points essentiels du chapitre sur [sujet]. Fais une liste claire avec les dates, les personnages et les notions cles."
+        "label": "Résumé de cours",
+        "texte": "Résume-moi les points essentiels du chapitre sur [sujet]. Fais une liste claire avec les dates, les personnages et les notions clés."
       },
       {
-        "label": "Quiz personnalise",
-        "texte": "Pose-moi 5 questions sur [chapitre] sous forme de QCM. Attends ma reponse avant de passer a la suivante, et explique-moi quand je me trompe."
+        "label": "Quiz personnalisé",
+        "texte": "Pose-moi 5 questions sur [chapitre] sous forme de QCM. Attends ma réponse avant de passer à la suivante, et explique-moi quand je me trompe."
       },
       {
-        "label": "Fiche de revision",
-        "texte": "Cree-moi une fiche de revision sur [sujet] avec : les definitions cles, les dates importantes, un schema ou plan, et 3 questions pour verifier que j'ai compris."
+        "label": "Fiche de révision",
+        "texte": "Crée-moi une fiche de révision sur [sujet] avec : les définitions clés, les dates importantes, un schéma ou plan, et 3 questions pour vérifier que j'ai compris."
       }
     ]
   },
   {
-    "categorie": "Methode",
+    "categorie": "Méthode",
     "prompts": [
       {
         "label": "Analyser un document",
-        "texte": "Je dois analyser ce document : [description du document]. Guide-moi etape par etape : nature, auteur, date, contexte, idee principale, interet du document."
+        "texte": "Je dois analyser ce document : [description du document]. Guide-moi étape par étape : nature, auteur, date, contexte, idée principale, intérêt du document."
       },
       {
-        "label": "Developement construit",
-        "texte": "Aide-moi a structurer un developpement construit sur le sujet : [sujet]. Propose-moi un plan en 2 ou 3 parties avec des arguments et des exemples."
+        "label": "Développement construit",
+        "texte": "Aide-moi à structurer un développement construit sur le sujet : [sujet]. Propose-moi un plan en 2 ou 3 parties avec des arguments et des exemples."
       },
       {
         "label": "Lire une carte",
-        "texte": "Explique-moi comment lire et decrire cette carte de geographie sur [sujet]. Quels elements dois-je reperer (titre, legende, echelle, orientation) ?"
+        "texte": "Explique-moi comment lire et décrire cette carte de géographie sur [sujet]. Quels éléments dois-je repérer (titre, légende, échelle, orientation) ?"
       }
     ]
   },
   {
-    "categorie": "Comprehension",
+    "categorie": "Compréhension",
     "prompts": [
       {
         "label": "Expliquer simplement",
@@ -42,7 +42,7 @@
       },
       {
         "label": "Comparer deux notions",
-        "texte": "Quelle est la difference entre [notion A] et [notion B] ? Fais un tableau comparatif clair."
+        "texte": "Quelle est la différence entre [notion A] et [notion B] ? Fais un tableau comparatif clair."
       }
     ]
   }

@@ -14,7 +14,7 @@
         "Un quartier résidentiel en banlieue"
       ],
       "reponse": 1,
-      "explication": "Un espace productif est un lieu où s'exercent des activités économiques (industrielles, agricoles ou de services) qui produisent des richesses. Ils sont au coeur du fonctionnement économique du pays."
+      "explication": "Un espace productif est un lieu où s'exercent des activités économiques (industrielles, agricoles ou de services) qui produisent des richesses. Ils sont au cœur du fonctionnement économique du pays."
     },
     {
       "type": "qcm",
@@ -78,7 +78,7 @@
       "question": "Comment appelle-t-on les éléments qui expliquent pourquoi une activité économique s'installe dans un lieu précis ?",
       "options": [],
       "reponse": "facteurs de localisation",
-      "explication": "Les facteurs de localisation regroupent l'ensemble des éléments qui expliquent l'implantation d'une activité : main-d'oeuvre, infrastructures de transport, centres de recherche, héritage historique…"
+      "explication": "Les facteurs de localisation regroupent l'ensemble des éléments qui expliquent l'implantation d'une activité : main-d'œuvre, infrastructures de transport, centres de recherche, héritage historique…"
     },
     {
       "type": "qcm",
@@ -86,7 +86,7 @@
       "options": [
         "Le climat, la gastronomie et le tourisme",
         "L'héritage historique, le pôle de compétitivité Aerospace Valley et les infrastructures de transport",
-        "La proximité de la mer, les prix bas et la main-d'oeuvre bon marché",
+        "La proximité de la mer, les prix bas et la main-d'œuvre bon marché",
         "La centralité géographique, la taille de la ville et les impôts faibles"
       ],
       "reponse": 1,

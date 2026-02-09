@@ -4,10 +4,10 @@ import ParcoursBrevet from "@/components/ParcoursBrevet";
 import { notFound } from "next/navigation";
 
 const niveauLabels: Record<string, string> = {
-  "6e": "Sixieme",
-  "5e": "Cinquieme",
-  "4e": "Quatrieme",
-  "3e": "Troisieme",
+  "6e": "Sixième",
+  "5e": "Cinquième",
+  "4e": "Quatrième",
+  "3e": "Troisième",
 };
 
 interface Props {
@@ -29,14 +29,14 @@ export default async function MethodesNiveauPage({ params }: Props) {
       {/* Breadcrumb */}
       <nav className="text-sm text-gray-500 mb-6">
         <Link href="/methodes" className="hover:text-accent">
-          Methodes
+          Méthodes
         </Link>
         <span className="mx-2">/</span>
         <span className="text-foreground font-medium">{niveau}</span>
       </nav>
 
       {/* Header */}
-      <h1 className="text-3xl font-bold mb-2">Fiches methode — {niveau}</h1>
+      <h1 className="text-3xl font-bold mb-2">Fiches méthode — {niveau}</h1>
       <p className="text-gray-600 mb-8">
         {config.sousTitre} · {config.nbFiches} fiches · {config.cycle}
       </p>
@@ -90,7 +90,7 @@ export default async function MethodesNiveauPage({ params }: Props) {
                     )}
                     {fiche.etapes > 0 && (
                       <span className="text-xs text-gray-400">
-                        {fiche.etapes} etape{fiche.etapes > 1 ? "s" : ""}
+                        {fiche.etapes} étape{fiche.etapes > 1 ? "s" : ""}
                       </span>
                     )}
                   </div>
@@ -103,7 +103,7 @@ export default async function MethodesNiveauPage({ params }: Props) {
         {famillesAvecFiches.length === 0 && (
           <div className="bg-white rounded-2xl p-10 text-center text-gray-400">
             <div className="text-4xl mb-3">🧭</div>
-            <p>Les fiches methode pour la {niveauLabels[niveau] || niveau} arrivent bientot !</p>
+            <p>Les fiches méthode pour la {niveauLabels[niveau] || niveau} arrivent bientôt !</p>
           </div>
         )}
       </div>
@@ -114,7 +114,7 @@ export default async function MethodesNiveauPage({ params }: Props) {
           href="/methodes"
           className="text-accent hover:underline font-medium"
         >
-          &larr; Retour aux fiches methode
+          &larr; Retour aux fiches méthode
         </Link>
       </div>
     </div>

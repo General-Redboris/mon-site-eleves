@@ -22,11 +22,11 @@ export default async function PoemeDetailPage({ params }: Props) {
         <div className="max-w-3xl mx-auto px-4 sm:px-6">
           <nav className="text-sm text-stone-400 mb-2">
             <Link href="/passeurs-de-memoire" className="hover:text-stone-200 transition-colors">
-              Passeurs de memoire
+              Passeurs de mémoire
             </Link>
             <span className="mx-2">/</span>
             <Link href="/passeurs-de-memoire#poesie" className="hover:text-stone-200 transition-colors">
-              Poesie
+              Poésie
             </Link>
             <span className="mx-2">/</span>
             <span className="text-stone-300">{poeme.titre}</span>
@@ -54,7 +54,7 @@ export default async function PoemeDetailPage({ params }: Props) {
         {poeme.type === "creation_eleve" && (
           <div className="mt-6 p-4 bg-stone-100 border border-stone-200">
             <p className="text-sm text-stone-600 italic">
-              Poeme ecrit par <strong>{poeme.auteur}</strong> dans le cadre du projet &laquo;&nbsp;Passeurs de memoire&nbsp;&raquo; — Annee scolaire 2025-2026.
+              Poème écrit par <strong>{poeme.auteur}</strong> dans le cadre du projet &laquo;&nbsp;Passeurs de mémoire&nbsp;&raquo; — Année scolaire 2025-2026.
             </p>
           </div>
         )}
@@ -62,7 +62,7 @@ export default async function PoemeDetailPage({ params }: Props) {
         {/* Back link */}
         <div className="mt-8">
           <Link href="/passeurs-de-memoire#poesie" className="text-stone-600 hover:text-stone-900 font-medium transition-colors">
-            &larr; Retour aux poemes
+            &larr; Retour aux poèmes
           </Link>
         </div>
       </div>

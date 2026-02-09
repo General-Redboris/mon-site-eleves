@@ -39,7 +39,7 @@ export default async function TexteDetailPage({ params }: Props) {
               href="/passeurs-de-memoire"
               className="hover:text-stone-200 transition-colors"
             >
-              Passeurs de memoire
+              Passeurs de mémoire
             </Link>
             <span className="mx-2">/</span>
             <span className="text-stone-300">Texte</span>
@@ -55,7 +55,7 @@ export default async function TexteDetailPage({ params }: Props) {
 
         {/* Meta */}
         <div className="flex flex-wrap items-center gap-3 text-sm text-stone-500 mb-8">
-          <span>Texte redige par {texte.auteur}</span>
+          <span>Texte rédigé par {texte.auteur}</span>
           <span className="w-1 h-1 rounded-full bg-stone-300" />
           <span>{texte.annee_scolaire}</span>
           {texte.date && (
@@ -76,8 +76,8 @@ export default async function TexteDetailPage({ params }: Props) {
         {/* Author credit */}
         <div className="mt-6 p-4 bg-stone-100 border border-stone-200">
           <p className="text-sm text-stone-600 italic">
-            Texte redige par <strong>{texte.auteur}</strong> dans le cadre du
-            projet &laquo;&nbsp;Passeurs de memoire&nbsp;&raquo; — Annee
+            Texte rédigé par <strong>{texte.auteur}</strong> dans le cadre du
+            projet &laquo;&nbsp;Passeurs de mémoire&nbsp;&raquo; — Année
             scolaire {texte.annee_scolaire}.
           </p>
         </div>

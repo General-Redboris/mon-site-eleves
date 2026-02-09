@@ -1,47 +1,47 @@
 [
   {
     "titre": "Frise chronologique interactive",
-    "description": "Frise interactive couvrant les grandes periodes de l'histoire, de la Prehistoire a nos jours.",
+    "description": "Frise interactive couvrant les grandes périodes de l'histoire, de la Préhistoire à nos jours.",
     "url": "https://www.frisechronos.fr",
     "type": "site",
     "niveau": ["6e", "5e", "4e", "3e"],
     "matiere": "histoire"
   },
   {
-    "titre": "Geoportail",
-    "description": "Portail de cartes geographiques de l'IGN. Utile pour les etudes de cas en geographie.",
+    "titre": "Géoportail",
+    "description": "Portail de cartes géographiques de l'IGN. Utile pour les études de cas en géographie.",
     "url": "https://www.geoportail.gouv.fr",
     "type": "site",
     "niveau": ["6e", "5e", "4e", "3e"],
     "matiere": "geographie"
   },
   {
-    "titre": "Lumni - Histoire-Geographie",
-    "description": "Videos et articles educatifs pour reviser le programme d'histoire-geographie au college.",
+    "titre": "Lumni — Histoire-Géographie",
+    "description": "Vidéos et articles éducatifs pour réviser le programme d'histoire-géographie au collège.",
     "url": "https://www.lumni.fr/college/histoire-geographie",
     "type": "video",
     "niveau": ["6e", "5e", "4e", "3e"],
     "matiere": "histoire"
   },
   {
-    "titre": "Educ'Arte",
-    "description": "Documentaires et ressources pedagogiques de qualite sur l'histoire et la geographie.",
+    "titre": "Éduc'Arte",
+    "description": "Documentaires et ressources pédagogiques de qualité sur l'histoire et la géographie.",
     "url": "https://educarte.arte.tv",
     "type": "video",
     "niveau": ["4e", "3e"],
     "matiere": "histoire"
   },
   {
-    "titre": "Vie publique - EMC",
-    "description": "Ressources sur la citoyennete, les institutions et les valeurs de la Republique.",
+    "titre": "Vie publique — EMC",
+    "description": "Ressources sur la citoyenneté, les institutions et les valeurs de la République.",
     "url": "https://www.vie-publique.fr",
     "type": "site",
     "niveau": ["4e", "3e"],
     "matiere": "emc"
   },
   {
-    "titre": "Memorial de la Shoah",
-    "description": "Ressources pedagogiques sur la Shoah, le devoir de memoire et l'histoire du XXe siecle.",
+    "titre": "Mémorial de la Shoah",
+    "description": "Ressources pédagogiques sur la Shoah, le devoir de mémoire et l'histoire du XXe siècle.",
     "url": "https://www.memorialdelashoah.org",
     "type": "site",
     "niveau": ["3e"],

@@ -10,9 +10,9 @@ import {
 import PasseursClient from "./PasseursClient";
 
 export const metadata = {
-  title: "Passeurs de memoire | Histoire-Geo Sancerre",
+  title: "Passeurs de mémoire | Chronogéo",
   description:
-    "Projet memoriel des classes de 3e du College Francine Leca autour de la tragedie des Puits de Guerry (ete 1944).",
+    "Projet mémoriel des classes de 3e du Collège Francine Leca autour de la tragédie des Puits de Guerry (été 1944).",
 };
 
 export default function PasseursPage() {

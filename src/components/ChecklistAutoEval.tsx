@@ -29,19 +29,19 @@ export default function ChecklistAutoEval({ totalPoints, criteres }: ChecklistAu
   let message = "";
   let messageColor = "";
   if (percentage === 100) {
-    message = "Bravo, tu maitrises cette competence !";
+    message = "Bravo, tu maîtrises cette compétence !";
     messageColor = "text-green-700 bg-green-50 border-green-200";
   } else if (percentage >= 70) {
-    message = "Bien, revois les points non coches pour progresser.";
+    message = "Bien, revois les points non cochés pour progresser.";
     messageColor = "text-blue-700 bg-blue-50 border-blue-200";
   } else {
-    message = "Reprends la fiche etape par etape, tu vas y arriver !";
+    message = "Reprends la fiche étape par étape, tu vas y arriver !";
     messageColor = "text-orange-700 bg-orange-50 border-orange-200";
   }
 
   return (
     <div className="mt-8 bg-white rounded-2xl border-2 border-gray-200 p-6">
-      <h3 className="text-lg font-bold mb-4">Grille d&apos;auto-evaluation</h3>
+      <h3 className="text-lg font-bold mb-4">Grille d&apos;auto-évaluation</h3>
 
       {/* Progress bar */}
       <div className="mb-4">

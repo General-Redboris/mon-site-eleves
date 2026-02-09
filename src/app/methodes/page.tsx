@@ -41,9 +41,9 @@ export default function MethodesPage() {
 
   return (
     <div className="max-w-6xl mx-auto px-4 sm:px-6 py-10">
-      <h1 className="text-3xl font-bold mb-2">Fiches methode</h1>
+      <h1 className="text-3xl font-bold mb-2">Fiches méthode</h1>
       <p className="text-gray-600 mb-8">
-        Toutes les methodes pour reussir en histoire-geographie-EMC
+        Toutes les méthodes pour réussir en histoire-géographie-EMC
       </p>
 
       {/* Search bar */}

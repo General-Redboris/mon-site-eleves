@@ -19,10 +19,10 @@ export default function ProgressionHome({ totalCours, totalQuiz, coursParNiveau 
   if (!stats || (stats.totalCoursVus === 0 && stats.totalQuizReussis === 0)) return null;
 
   const niveauLabels: Record<string, string> = {
-    "6e": "Sixieme",
-    "5e": "Cinquieme",
-    "4e": "Quatrieme",
-    "3e": "Troisieme",
+    "6e": "Sixième",
+    "5e": "Cinquième",
+    "4e": "Quatrième",
+    "3e": "Troisième",
   };
 
   const niveauColors: Record<string, string> = {
@@ -49,7 +49,7 @@ export default function ProgressionHome({ totalCours, totalQuiz, coursParNiveau 
           </div>
         </div>
         <div className="bg-white dark:bg-gray-800 rounded-xl border border-gray-200 dark:border-gray-700 p-4">
-          <p className="text-sm text-gray-500 dark:text-gray-400 mb-1">Quiz reussis</p>
+          <p className="text-sm text-gray-500 dark:text-gray-400 mb-1">Quiz réussis</p>
           <p className="text-2xl font-bold text-foreground">
             {stats.totalQuizReussis} <span className="text-sm font-normal text-gray-400">/ {totalQuiz}</span>
           </p>
