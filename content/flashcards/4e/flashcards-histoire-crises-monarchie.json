@@ -1,0 +1,127 @@
+{
+  "titre": "Les crises de la monarchie française",
+  "niveau": "4e",
+  "matiere": "histoire",
+  "cartes": [
+    {
+      "recto": "Ancien Régime",
+      "verso": "Organisation politique, sociale et économique de la France avant 1789 : monarchie absolue, société d'ordres, privilèges.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Société d'ordres",
+      "verso": "Division de la population en trois groupes : Clergé (~1 %), Noblesse (~1 %) et Tiers État (~98 %). Les deux premiers ont des privilèges, le troisième paie la plupart des impôts.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Privilèges",
+      "verso": "Avantages réservés au Clergé et à la Noblesse : exemption d'impôts, droits seigneuriaux, perception de la dîme.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "États généraux",
+      "verso": "Assemblée exceptionnelle réunissant les représentants des trois ordres, convoquée par le roi. Louis XVI les convoque en janvier 1789, pour la première fois depuis 1614.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Cahier de doléances",
+      "verso": "Document où une communauté (village, ville, corporation) écrit ses plaintes et ses demandes au roi pour les États généraux. Des milliers sont rédigés en 1789.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Vote par ordre / Vote par tête",
+      "verso": "Par ordre : chaque ordre a 1 voix → le Tiers État perd toujours (2 contre 1). Par tête : chaque député a 1 voix → le Tiers État, plus nombreux, peut l'emporter.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Consentement à l'impôt",
+      "verso": "Principe selon lequel aucun impôt ne peut être levé sans l'accord des représentants du peuple. Inspiré du slogan américain « No taxation without representation ».",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Insurgents",
+      "verso": "Nom donné aux colons américains révoltés contre l'Angleterre. Ils sont aidés par la France (La Fayette, troupes et argent de Louis XVI).",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Constitution",
+      "verso": "Loi fondamentale qui organise les pouvoirs d'un État. La Constitution américaine de 1787 met en place la séparation des pouvoirs.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Louis XVI (1754-1793)",
+      "verso": "Roi de France de 1774 à 1792. Aide les insurgents américains, ce qui ruine le royaume. Convoque les États généraux en janvier 1789 face aux crises multiples.",
+      "categorie": "personnages",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Le marquis de La Fayette (1757-1834)",
+      "verso": "Jeune noble français parti combattre en Amérique en 1777 aux côtés des insurgents. Ami de George Washington, il rapporte en France les idées des Lumières.",
+      "categorie": "personnages",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "L'abbé Sieyès",
+      "verso": "Auteur de la brochure « Qu'est-ce que le Tiers État ? » (janvier 1789), vendue à 30 000 exemplaires. Il affirme que le Tiers État est « tout » mais n'est « rien » politiquement.",
+      "categorie": "personnages",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "4 juillet 1776",
+      "verso": "Déclaration d'indépendance des États-Unis, rédigée par Thomas Jefferson. Proclame l'égalité des hommes et leurs droits inaliénables.",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "1787",
+      "verso": "Adoption de la Constitution des États-Unis, qui met en place la séparation des pouvoirs (Congrès, Président, Cour suprême).",
+      "categorie": "dates",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "7 juin 1788",
+      "verso": "Journée des Tuiles à Grenoble : affrontement violent entre le peuple et l'armée royale, symbole de la contestation de l'autorité du roi.",
+      "categorie": "dates",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Janvier 1789",
+      "verso": "Louis XVI convoque les États généraux (pour la première fois depuis 1614, soit 175 ans) et demande la rédaction des cahiers de doléances.",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "5 mai 1789",
+      "verso": "Ouverture des États généraux à Versailles. C'est le début de la Révolution française.",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Quelles sont les trois crises de la monarchie française ?",
+      "verso": "Crise sociale (société d'ordres inégalitaire, misère, émeutes), crise financière (dette de 2 milliards, déficit de 118 millions) et crise politique (opposition des Parlements, Journée des Tuiles).",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Quelles idées des Lumières retrouve-t-on dans les cahiers de doléances ?",
+      "verso": "Égalité (devant l'impôt et la justice), liberté (droit naturel), souveraineté du peuple (consentement à l'impôt, vote par tête).",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Quelles sont les limites de la prise de parole de 1789 ?",
+      "verso": "Les femmes sont exclues : elles ne peuvent ni voter, ni être représentées aux États généraux. Certaines rédigent des doléances, mais ne sont pas entendues.",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    }
+  ]
+}

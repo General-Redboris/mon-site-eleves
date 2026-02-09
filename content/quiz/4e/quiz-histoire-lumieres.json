@@ -1,0 +1,145 @@
+{
+  "titre": "L'Europe des Lumières",
+  "niveau": "4e",
+  "matiere": "histoire",
+  "chapitre": "lumieres",
+  "questions": [
+    {
+      "type": "qcm",
+      "question": "Quel philosophe des Lumières est l'auteur de la théorie de la séparation des pouvoirs ?",
+      "options": ["Voltaire", "Rousseau", "Montesquieu", "Diderot"],
+      "reponse": 2,
+      "explication": "Montesquieu développe la théorie de la séparation des trois pouvoirs (législatif, exécutif, judiciaire) dans son ouvrage De l'esprit des lois (1748).",
+      "methode_liee": null
+    },
+    {
+      "type": "qcm",
+      "question": "Quel philosophe défend la souveraineté populaire dans Du contrat social ?",
+      "options": ["Voltaire", "Rousseau", "Montesquieu", "Diderot"],
+      "reponse": 1,
+      "explication": "Rousseau affirme dans Du contrat social (1762) que le pouvoir politique appartient au peuple et que la loi doit exprimer la volonté générale.",
+      "methode_liee": null
+    },
+    {
+      "type": "qcm",
+      "question": "Qui sont les deux directeurs de l'Encyclopédie ?",
+      "options": [
+        "Voltaire et Montesquieu",
+        "Rousseau et Voltaire",
+        "Diderot et d'Alembert",
+        "Kant et Diderot"
+      ],
+      "reponse": 2,
+      "explication": "L'Encyclopédie est dirigée par Denis Diderot et Jean Le Rond d'Alembert. Elle compte 28 volumes publiés entre 1751 et 1772.",
+      "methode_liee": null
+    },
+    {
+      "type": "qcm",
+      "question": "Combien de volumes compte l'Encyclopédie ?",
+      "options": ["10 volumes", "17 volumes", "28 volumes", "35 volumes"],
+      "reponse": 2,
+      "explication": "L'Encyclopédie compte 28 volumes publiés entre 1751 et 1772, avec plus de 70 000 articles et 2 500 planches illustrées. Plus de 140 auteurs y ont participé.",
+      "methode_liee": null
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Voltaire est le principal défenseur de la tolérance religieuse parmi les philosophes des Lumières.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 0,
+      "explication": "C'est vrai. Voltaire combat le fanatisme religieux et publie le Traité sur la tolérance en 1763. Il s'engage aussi dans des affaires judiciaires comme l'affaire Calas pour défendre des victimes de l'intolérance.",
+      "methode_liee": null
+    },
+    {
+      "type": "qcm",
+      "question": "Quels sont les trois pouvoirs identifiés par Montesquieu ?",
+      "options": [
+        "Militaire, religieux, économique",
+        "Législatif, exécutif, judiciaire",
+        "Royal, parlementaire, populaire",
+        "Local, national, international"
+      ],
+      "reponse": 1,
+      "explication": "Montesquieu distingue le pouvoir législatif (faire les lois), exécutif (appliquer les lois et gouverner) et judiciaire (juger). Leur séparation garantit la liberté des citoyens.",
+      "methode_liee": null
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce qu'un salon au XVIIIe siècle ?",
+      "options": [
+        "Un magasin de meubles",
+        "Une réunion chez un noble où l'on discute de philosophie, sciences et arts",
+        "Une salle de classe pour les enfants de la noblesse",
+        "Un tribunal où l'on juge les philosophes"
+      ],
+      "reponse": 1,
+      "explication": "Les salons sont des réunions organisées dans les demeures de nobles ou de riches bourgeois. Philosophes, artistes et savants s'y rencontrent pour débattre. Le salon de Madame Geoffrin est l'un des plus célèbres.",
+      "methode_liee": null
+    },
+    {
+      "type": "vrai_faux",
+      "question": "L'Encyclopédie n'a jamais été censurée.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 1,
+      "explication": "C'est faux. L'Encyclopédie a été censurée à plusieurs reprises par les autorités royales et religieuses qui la jugeaient dangereuse. Diderot a dû user de ruse pour poursuivre le projet.",
+      "methode_liee": null
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce que le despotisme éclairé ?",
+      "options": [
+        "Un régime où le roi est élu par le peuple",
+        "La pratique de souverains qui appliquent certaines idées des Lumières tout en conservant le pouvoir absolu",
+        "Un gouvernement dirigé par des philosophes",
+        "Un système politique inventé par Voltaire"
+      ],
+      "reponse": 1,
+      "explication": "Le despotisme éclairé désigne la pratique de souverains (Frédéric II de Prusse, Catherine II de Russie) qui s'inspirent des Lumières (réformes, tolérance) tout en refusant de limiter leur pouvoir absolu.",
+      "methode_liee": null
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Catherine II de Russie a toujours soutenu les idées des philosophes français.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 1,
+      "explication": "C'est faux. Catherine II a d'abord soutenu les philosophes (achat de la bibliothèque de Diderot, correspondance), mais après la Révolution française de 1789, elle a interdit la diffusion de leurs écrits, les jugeant trop dangereux.",
+      "methode_liee": null
+    },
+    {
+      "type": "qcm",
+      "question": "Quel philosophe allemand résume l'esprit des Lumières par la devise « Sapere aude ! » (Ose savoir !) ?",
+      "options": ["Leibniz", "Kant", "Hegel", "Goethe"],
+      "reponse": 1,
+      "explication": "Emmanuel Kant écrit en 1784 : « Aie le courage de te servir de ton propre entendement ! » Il définit les Lumières comme la sortie de l'homme hors de l'état de minorité intellectuelle.",
+      "methode_liee": null
+    },
+    {
+      "type": "qcm",
+      "question": "Quelle est la principale critique des philosophes des Lumières contre la monarchie absolue ?",
+      "options": [
+        "Le roi est trop jeune pour gouverner",
+        "Le roi concentre tous les pouvoirs, ce qui mène à l'arbitraire et à la tyrannie",
+        "Le roi ne voyage pas assez en Europe",
+        "Le roi refuse de lire l'Encyclopédie"
+      ],
+      "reponse": 1,
+      "explication": "Les philosophes critiquent la concentration des pouvoirs entre les mains du roi, qui permet l'arbitraire (lettres de cachet, censure). Montesquieu écrit : « Tout serait perdu si le même homme exerçait ces trois pouvoirs. »",
+      "methode_liee": null
+    },
+    {
+      "type": "reponse_courte",
+      "question": "Cite deux moyens par lesquels les idées des Lumières se diffusent en Europe.",
+      "options": null,
+      "reponse": "Salons, Encyclopédie, correspondances, voyages, livres, journaux, cafés",
+      "explication": "Les idées circulent grâce aux salons, à l'Encyclopédie, aux correspondances entre philosophes et souverains, aux voyages, aux livres (parfois clandestins) et aux journaux lus dans les cafés.",
+      "methode_liee": null
+    },
+    {
+      "type": "reponse_courte",
+      "question": "Cite trois valeurs défendues par les philosophes des Lumières.",
+      "options": null,
+      "reponse": "Raison, tolérance, liberté, égalité, souveraineté populaire",
+      "explication": "Les valeurs principales des Lumières sont la raison (contre l'obscurantisme), la tolérance (religieuse et d'opinion), la liberté (de conscience, d'expression), l'égalité (en droits) et la souveraineté populaire (le pouvoir vient du peuple).",
+      "methode_liee": null
+    }
+  ]
+}

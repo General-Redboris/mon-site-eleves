@@ -1,0 +1,97 @@
+{
+  "titre": "Un monde de migrants",
+  "niveau": "4e",
+  "matiere": "geographie",
+  "cartes": [
+    {
+      "recto": "Migration",
+      "verso": "Déplacement d'une personne d'un lieu de vie vers un autre, de manière temporaire ou définitive.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Émigration / Immigration",
+      "verso": "Émigration : quitter son pays (point de vue du pays de départ). Immigration : s'installer dans un nouveau pays (point de vue du pays d'arrivée). C'est la même personne vue de deux côtés.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Diaspora",
+      "verso": "Dispersion d'une communauté nationale à travers le monde. L'Inde possède la première diaspora mondiale (18,5 millions d'émigrés).",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Réfugié",
+      "verso": "Personne contrainte de fuir son pays en raison de persécutions, de conflits armés ou de violences. Statut protégé par la Convention de Genève (1951).",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Remises",
+      "verso": "Transferts d'argent envoyés par les migrants à leur famille restée dans le pays d'origine. L'Inde est le 1er destinataire mondial (129 milliards de dollars par an).",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Brain drain (fuite des cerveaux)",
+      "verso": "Départ de personnes qualifiées (médecins, ingénieurs, chercheurs) vers des pays plus riches, privant les pays d'origine de compétences essentielles.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Facteurs push / pull",
+      "verso": "Push (répulsifs) : pauvreté, conflits, catastrophes → poussent à partir. Pull (attractifs) : emploi, salaires, sécurité → attirent vers un pays d'accueil.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Politique migratoire",
+      "verso": "Ensemble des lois et mesures prises par un État pour contrôler les flux migratoires (accueil, restriction, régularisation…).",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Combien de migrants internationaux dans le monde en 2024 ?",
+      "verso": "Environ 280 millions (3,6 % de la population mondiale). Ce chiffre a triplé depuis 1970.",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Quel est le 1er pays d'accueil de migrants au monde ?",
+      "verso": "Les États-Unis (environ 51 millions d'immigrés), devant l'Allemagne (16 millions) et l'Arabie saoudite (13 millions).",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Quels sont les trois grands types de flux migratoires ?",
+      "verso": "Sud → Nord (ex. : Mexique → États-Unis), Sud → Sud (ex. : Bangladesh → Inde) et Nord → Nord (ex. : France → Canada).",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "2014",
+      "verso": "Début de la « crise des migrants » en Méditerranée. Plus de 30 000 morts depuis cette date.",
+      "categorie": "dates",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Pourquoi l'Inde est-elle un pays à la fois d'émigration et d'immigration ?",
+      "verso": "Émigration : 18,5 millions d'Indiens vivent à l'étranger (vers le Golfe, l'Amérique du Nord). Immigration : 5 à 10 millions de Bangladais vivent en Inde.",
+      "categorie": "reperes",
+      "niveau_difficulte": 3
+    },
+    {
+      "recto": "Cite deux conséquences positives des migrations pour les pays d'origine.",
+      "verso": "Les remises (argent envoyé aux familles) et l'acquisition de compétences à l'étranger (transfert de savoir-faire).",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Cite deux conséquences négatives des migrations pour les pays d'origine.",
+      "verso": "Le brain drain (fuite des cerveaux) et la séparation des familles.",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "titre": "L'Europe des Lumières",
+  "niveau": "4e",
+  "matiere": "histoire",
+  "cartes": [
+    {
+      "recto": "Les Lumières",
+      "verso": "Mouvement intellectuel européen du XVIIIe siècle. Les philosophes cherchent à « éclairer » l'humanité par la raison, la science et l'éducation, contre l'obscurantisme.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Voltaire (1694-1778)",
+      "verso": "Philosophe français. Défenseur de la tolérance religieuse et de la liberté d'expression. Œuvre majeure : Traité sur la tolérance (1763). Mot-clé : TOLÉRANCE.",
+      "categorie": "personnages",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Montesquieu (1689-1755)",
+      "verso": "Philosophe français. Théoricien de la séparation des trois pouvoirs (législatif, exécutif, judiciaire). Œuvre majeure : De l'esprit des lois (1748). Mot-clé : ÉQUILIBRE.",
+      "categorie": "personnages",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Rousseau (1712-1778)",
+      "verso": "Philosophe genevois. Défenseur de la souveraineté populaire et de l'égalité. Œuvre majeure : Du contrat social (1762). Mot-clé : PEUPLE.",
+      "categorie": "personnages",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Diderot (1713-1784)",
+      "verso": "Philosophe français. Directeur de l'Encyclopédie avec d'Alembert. Promoteur de la diffusion des savoirs et critique sociale. Mot-clé : SAVOIR.",
+      "categorie": "personnages",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "D'Alembert (1717-1783)",
+      "verso": "Mathématicien et philosophe français. Co-directeur de l'Encyclopédie (1751-1758). Convaincu que le progrès passe par la science et la raison. Mot-clé : RAISON.",
+      "categorie": "personnages",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Séparation des pouvoirs",
+      "verso": "Théorie de Montesquieu : le pouvoir législatif (faire les lois), exécutif (les appliquer) et judiciaire (juger) doivent être exercés par des institutions différentes pour éviter la tyrannie.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Souveraineté populaire",
+      "verso": "Principe de Rousseau : le pouvoir politique appartient au peuple et non au roi. Le peuple doit participer directement à l'élaboration des lois.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Droits naturels",
+      "verso": "Droits qui appartiennent à chaque être humain dès la naissance : liberté, égalité, sûreté, propriété. Ils seront proclamés dans la Déclaration des droits de l'homme (1789).",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Encyclopédie",
+      "verso": "Œuvre de 28 volumes dirigée par Diderot et d'Alembert (1751-1772). Plus de 140 auteurs, 70 000 articles. Vise à diffuser les connaissances et combat les préjugés. Censurée plusieurs fois.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Salon (XVIIIe siècle)",
+      "verso": "Réunion chez un noble ou un riche bourgeois où philosophes, artistes et savants discutent de philosophie, sciences et politique. Exemple : le salon de Madame Geoffrin à Paris.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Despotisme éclairé",
+      "verso": "Pratique de souverains qui appliquent certaines idées des Lumières (réformes, tolérance) tout en conservant leur pouvoir absolu. Exemples : Frédéric II de Prusse, Catherine II de Russie.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Obscurantisme",
+      "verso": "Attitude qui consiste à maintenir le peuple dans l'ignorance pour mieux le dominer. Les philosophes des Lumières le combattent par l'éducation et la diffusion des connaissances.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "1748",
+      "verso": "Montesquieu publie De l'esprit des lois (théorie de la séparation des pouvoirs).",
+      "categorie": "dates",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "1751-1772",
+      "verso": "Publication de l'Encyclopédie dirigée par Diderot et d'Alembert (28 volumes).",
+      "categorie": "dates",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "1762",
+      "verso": "Rousseau publie Du contrat social (souveraineté populaire, volonté générale).",
+      "categorie": "dates",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "1763",
+      "verso": "Voltaire publie le Traité sur la tolérance (défense de la tolérance religieuse après l'affaire Calas).",
+      "categorie": "dates",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Quelles sont les limites du despotisme éclairé ?",
+      "verso": "Les despotes éclairés refusent de limiter leur pouvoir absolu, ne mettent pas en place la séparation des pouvoirs, et maintiennent des pratiques comme le servage ou les guerres de conquête.",
+      "categorie": "reperes",
+      "niveau_difficulte": 3
+    },
+    {
+      "recto": "Quelles alternatives les philosophes proposent-ils face à la monarchie absolue ?",
+      "verso": "Montesquieu propose une monarchie limitée (modèle anglais). Rousseau imagine une république où le peuple serait souverain. Tous veulent limiter le pouvoir par des lois.",
+      "categorie": "reperes",
+      "niveau_difficulte": 3
+    },
+    {
+      "recto": "« L'homme est né libre, et partout il est dans les fers. »",
+      "verso": "Citation de Rousseau, ouverture du Contrat social (1762). Il constate que malgré leur liberté naturelle, les hommes vivent dans des sociétés qui les asservissent.",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    }
+  ]
+}

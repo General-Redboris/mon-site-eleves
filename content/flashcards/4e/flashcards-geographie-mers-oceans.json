@@ -1,0 +1,109 @@
+{
+  "titre": "Mers et océans : un monde maritimisé",
+  "niveau": "4e",
+  "matiere": "geographie",
+  "cartes": [
+    {
+      "recto": "Quelle part de la surface terrestre les océans couvrent-ils ?",
+      "verso": "Environ 70 %",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Quel pourcentage du commerce mondial transite par voie maritime ?",
+      "verso": "Environ 80 %",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Conteneurisation",
+      "verso": "Transport de marchandises dans des conteneurs (boîtes métalliques standardisées), qui a révolutionné le commerce maritime.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Façade maritime",
+      "verso": "Littoral bordé de grands ports et d'activités économiques liées à la mer. Les trois principales sont l'Asie orientale, le Northern Range (Europe) et la côte est des États-Unis.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "ZIP (zone industrialo-portuaire)",
+      "verso": "Espace associant un port à des industries, permettant de transformer les matières premières importées. Exemples : Rotterdam, Le Havre, Shanghai.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Littoralisation",
+      "verso": "Concentration croissante des populations et des activités économiques sur les côtes. 40 % de la population mondiale vit à moins de 100 km des côtes.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "ZEE (zone économique exclusive)",
+      "verso": "Bande maritime de 370 km (200 milles marins) à partir des côtes d'un État, dans laquelle celui-ci dispose de droits exclusifs d'exploitation des ressources.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Détroit",
+      "verso": "Passage maritime étroit entre deux terres. Exemples stratégiques : Malacca, Ormuz, Bab-el-Mandeb.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Surpêche",
+      "verso": "Exploitation excessive des ressources halieutiques (poissons) au-delà de leur capacité de renouvellement. 33 % des stocks mondiaux sont surexploités.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "1869",
+      "verso": "Ouverture du canal de Suez (Égypte), reliant la Méditerranée à la mer Rouge.",
+      "categorie": "dates",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "1914",
+      "verso": "Ouverture du canal de Panama, reliant l'océan Atlantique à l'océan Pacifique.",
+      "categorie": "dates",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "1982",
+      "verso": "Convention de Montego Bay : droit international de la mer qui définit les ZEE et les eaux internationales.",
+      "categorie": "dates",
+      "niveau_difficulte": 3
+    },
+    {
+      "recto": "Quel rang mondial la France occupe-t-elle pour sa ZEE ? Pourquoi ?",
+      "verso": "2e rang mondial (derrière les États-Unis), grâce à ses territoires ultramarins (Polynésie, Nouvelle-Calédonie, Réunion, etc.).",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Quelle est la première façade maritime mondiale ?",
+      "verso": "La façade asiatique (de Tokyo à Singapour), qui concentre les plus grands ports du monde.",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Pourquoi la mer de Chine méridionale est-elle un espace de tensions ?",
+      "verso": "La Chine revendique la quasi-totalité de cet espace (« ligne en neuf traits »), ce qui la met en conflit avec ses voisins (Vietnam, Philippines…). C'est aussi une route commerciale majeure.",
+      "categorie": "reperes",
+      "niveau_difficulte": 3
+    },
+    {
+      "recto": "Quel pourcentage des déchets marins est constitué de plastique ?",
+      "verso": "Environ 85 %. Le plastique forme de vastes zones d'accumulation comme le « continent plastique » du Pacifique Nord.",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Qu'est-ce que le Northern Range ?",
+      "verso": "La principale façade maritime européenne, qui s'étend du Havre à Hambourg. Elle comprend les grands ports de Rotterdam, Anvers et Hambourg.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 3
+    }
+  ]
+}

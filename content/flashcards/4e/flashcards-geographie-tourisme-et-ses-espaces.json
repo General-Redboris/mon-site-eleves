@@ -1,0 +1,109 @@
+{
+  "titre": "Le tourisme et ses espaces",
+  "niveau": "4e",
+  "matiere": "geographie",
+  "cartes": [
+    {
+      "recto": "Touriste",
+      "verso": "Personne qui se déplace hors de son lieu de résidence habituel pour au moins une nuit, pour des motifs de loisirs, d'affaires ou autres.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Tourisme de masse",
+      "verso": "Forme de tourisme caractérisée par un grand nombre de visiteurs, des prix accessibles et des séjours standardisés. Il s'est développé à partir des années 1960.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Surtourisme",
+      "verso": "Saturation d'un site par un nombre excessif de visiteurs, créant des nuisances pour les habitants et l'environnement. Exemples : Venise, Barcelone, Amsterdam.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Héliotropisme",
+      "verso": "Attirance des populations pour les régions ensoleillées, principal moteur du tourisme balnéaire.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Écotourisme",
+      "verso": "Tourisme axé sur la découverte de la nature dans le respect de l'environnement et des populations locales. Le Costa Rica en est un exemple emblématique.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Greenwashing",
+      "verso": "Communication qui utilise abusivement l'argument écologique pour améliorer son image, sans réel engagement environnemental.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 3
+    },
+    {
+      "recto": "Enclave touristique",
+      "verso": "Espace touristique fermé (resort, club) où les touristes restent entre eux, coupés du territoire et de la population locale.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Foyer émetteur / foyer récepteur",
+      "verso": "Émetteur : région d'où partent les touristes (pays riches). Récepteur : région qui accueille les touristes (destinations).",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Conflit d'usage",
+      "verso": "Tension entre différents utilisateurs d'un même espace (touristes, habitants, pêcheurs, agriculteurs…) qui n'ont pas les mêmes besoins.",
+      "categorie": "vocabulaire",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Combien de touristes internationaux en 1950 et en 2024 ?",
+      "verso": "25 millions en 1950, environ 1,5 milliard en 2024 : le nombre a été multiplié par 50.",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Quels sont les trois grands pôles touristiques mondiaux ?",
+      "verso": "Europe (1re région), Asie-Pacifique (en forte croissance) et Amérique du Nord.",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Quelle part du PIB mondial le tourisme représente-t-il ?",
+      "verso": "Environ 10 % du PIB mondial et plus de 300 millions d'emplois.",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Quel est le premier pays touristique mondial ?",
+      "verso": "La France, première destination mondiale en nombre d'arrivées de touristes internationaux.",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "2020",
+      "verso": "Pandémie de Covid-19 : le tourisme mondial chute de 73 %, la plus grande crise de l'histoire du secteur.",
+      "categorie": "dates",
+      "niveau_difficulte": 2
+    },
+    {
+      "recto": "Cite trois types d'espaces touristiques.",
+      "verso": "Littoraux (tourisme balnéaire), villes (tourisme culturel et urbain), montagnes (sports d'hiver, randonnée).",
+      "categorie": "reperes",
+      "niveau_difficulte": 1
+    },
+    {
+      "recto": "Quelle part des émissions mondiales de CO₂ le transport aérien représente-t-il ?",
+      "verso": "Environ 2,5 % des émissions mondiales de CO₂, un chiffre en augmentation.",
+      "categorie": "reperes",
+      "niveau_difficulte": 3
+    },
+    {
+      "recto": "Pourquoi le Costa Rica est-il un modèle d'écotourisme ?",
+      "verso": "Il mise sur la biodiversité (6 % de la biodiversité mondiale) et les parcs naturels. Le tourisme durable y génère des revenus tout en protégeant l'environnement.",
+      "categorie": "reperes",
+      "niveau_difficulte": 2
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "titre": "Le tourisme et ses espaces",
+  "niveau": "4e",
+  "matiere": "geographie",
+  "chapitre": "tourisme-et-ses-espaces",
+  "questions": [
+    {
+      "type": "qcm",
+      "question": "Combien de touristes internationaux compte-t-on dans le monde en 2024 ?",
+      "options": ["500 millions", "1 milliard", "1,5 milliard", "2 milliards"],
+      "reponse": 2,
+      "explication": "On compte environ 1,5 milliard de touristes internationaux en 2024, un chiffre qui a été multiplié par 50 depuis 1950.",
+      "methode_liee": null
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce que l'héliotropisme ?",
+      "options": [
+        "L'attrait pour les zones de montagne",
+        "L'attirance pour les régions ensoleillées, généralement associées à la mer",
+        "Le déplacement des touristes vers les grandes villes",
+        "La recherche de destinations exotiques"
+      ],
+      "reponse": 1,
+      "explication": "L'héliotropisme désigne l'attirance des populations pour les régions ensoleillées. C'est le principal moteur du tourisme balnéaire.",
+      "methode_liee": null
+    },
+    {
+      "type": "vrai_faux",
+      "question": "La France est la première destination touristique mondiale en nombre d'arrivées.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 0,
+      "explication": "C'est vrai. La France est la première destination mondiale en nombre d'arrivées de touristes internationaux, devant l'Espagne et l'Italie.",
+      "methode_liee": null
+    },
+    {
+      "type": "qcm",
+      "question": "Quelle part du PIB mondial le tourisme représente-t-il ?",
+      "options": ["2 %", "5 %", "10 %", "20 %"],
+      "reponse": 2,
+      "explication": "Le tourisme représente environ 10 % du PIB mondial, ce qui en fait un secteur économique majeur et le premier poste d'exportation pour de nombreux pays.",
+      "methode_liee": null
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce que le surtourisme ?",
+      "options": [
+        "Le tourisme dans les pays du Sud",
+        "Le tourisme de luxe réservé aux plus riches",
+        "La saturation d'un site par un nombre excessif de visiteurs",
+        "Le tourisme pratiqué hors saison"
+      ],
+      "reponse": 2,
+      "explication": "Le surtourisme désigne la saturation d'un site touristique par un nombre excessif de visiteurs, créant des nuisances pour les habitants et l'environnement. Venise, Barcelone et Amsterdam en souffrent particulièrement.",
+      "methode_liee": null
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Les pays du Sud sont à la fois de grands émetteurs et de grands récepteurs de touristes.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 1,
+      "explication": "C'est faux. Les pays du Sud sont souvent des destinations (récepteurs) mais rarement des émetteurs. Leurs habitants n'ont généralement pas les moyens de voyager à l'international. Le tourisme peut ainsi reproduire des rapports de domination économique.",
+      "methode_liee": null
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce qu'une enclave touristique ?",
+      "options": [
+        "Un quartier historique protégé",
+        "Un espace touristique fermé (resort), coupé de la population locale",
+        "Une zone naturelle interdite aux touristes",
+        "Un aéroport international"
+      ],
+      "reponse": 1,
+      "explication": "Une enclave touristique est un complexe fermé (resort, club) où les touristes restent entre eux, coupés du territoire et de la population locale qui l'entoure.",
+      "methode_liee": null
+    },
+    {
+      "type": "qcm",
+      "question": "Quel facteur explique l'explosion du nombre de touristes depuis 1950 ?",
+      "options": [
+        "La baisse des coûts de transport, l'élévation du niveau de vie et la révolution numérique",
+        "La construction de plus de musées dans le monde",
+        "L'augmentation de la durée des vacances scolaires",
+        "La disparition des frontières entre les pays"
+      ],
+      "reponse": 0,
+      "explication": "Trois facteurs expliquent l'explosion touristique : la baisse des coûts de transport (compagnies low cost), l'élévation du niveau de vie (classe moyenne mondiale) et la révolution numérique (réservation en ligne, réseaux sociaux).",
+      "methode_liee": null
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Le tourisme de montagne n'est pas menacé par le réchauffement climatique.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 1,
+      "explication": "C'est faux. Le réchauffement climatique réduit l'enneigement et menace les stations de sports d'hiver. Ces territoires cherchent à diversifier leur offre vers le tourisme estival (randonnée, VTT, bien-être).",
+      "methode_liee": null
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce que le greenwashing dans le tourisme ?",
+      "options": [
+        "Le nettoyage des plages par les hôtels",
+        "Une communication qui utilise abusivement l'argument écologique sans réel engagement",
+        "Un label officiel de tourisme durable",
+        "La plantation d'arbres par les compagnies aériennes"
+      ],
+      "reponse": 1,
+      "explication": "Le greenwashing est une communication qui utilise abusivement l'argument écologique pour améliorer son image, sans réel engagement environnemental. Il est important de garder un regard critique sur les discours « verts ».",
+      "methode_liee": null
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce que la « muséification » des centres-villes ?",
+      "options": [
+        "La construction de nouveaux musées",
+        "La transformation des quartiers historiques en décors pour touristes, chassant les habitants",
+        "La protection du patrimoine par l'UNESCO",
+        "L'ouverture gratuite des musées aux touristes"
+      ],
+      "reponse": 1,
+      "explication": "La muséification désigne la transformation des centres-villes historiques en décors pour touristes : les commerces de proximité disparaissent au profit de boutiques de souvenirs et les habitants sont chassés par la hausse des loyers.",
+      "methode_liee": null
+    },
+    {
+      "type": "vrai_faux",
+      "question": "L'écotourisme vise à découvrir la nature tout en minimisant l'impact environnemental.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 0,
+      "explication": "C'est vrai. L'écotourisme est axé sur la découverte de la nature dans le respect de l'environnement et des populations locales. Le Costa Rica en est un exemple emblématique.",
+      "methode_liee": null
+    },
+    {
+      "type": "reponse_courte",
+      "question": "Cite les trois grands pôles touristiques mondiaux (à la fois émetteurs et récepteurs).",
+      "options": null,
+      "reponse": "Europe, Asie-Pacifique, Amérique du Nord",
+      "explication": "Les trois grands pôles sont l'Europe (1re région touristique mondiale), l'Asie-Pacifique (en forte croissance) et l'Amérique du Nord (États-Unis, Mexique, Caraïbes).",
+      "methode_liee": null
+    }
+  ]
+}

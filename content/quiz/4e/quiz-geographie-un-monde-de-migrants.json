@@ -1,0 +1,124 @@
+{
+  "titre": "Un monde de migrants",
+  "niveau": "4e",
+  "matiere": "geographie",
+  "chapitre": "un-monde-de-migrants",
+  "questions": [
+    {
+      "type": "qcm",
+      "question": "Combien de migrants internationaux compte-t-on dans le monde en 2024 ?",
+      "options": ["80 millions", "150 millions", "280 millions", "500 millions"],
+      "reponse": 2,
+      "explication": "On compte environ 280 millions de migrants internationaux en 2024, soit 3,6 % de la population mondiale. Ce chiffre a triplé depuis 1970.",
+      "methode_liee": null
+    },
+    {
+      "type": "qcm",
+      "question": "Quelle est la différence entre un émigré et un immigré ?",
+      "options": [
+        "Il n'y a aucune différence",
+        "L'émigré quitte son pays, l'immigré arrive dans un nouveau pays",
+        "L'émigré est un réfugié, l'immigré est un travailleur",
+        "L'émigré voyage temporairement, l'immigré s'installe définitivement"
+      ],
+      "reponse": 1,
+      "explication": "L'émigré est une personne qui quitte son pays pour s'installer dans un autre (point de vue du pays de départ). L'immigré est une personne qui s'installe dans un pays dont elle n'a pas la nationalité (point de vue du pays d'arrivée). C'est la même personne vue de deux côtés différents.",
+      "methode_liee": null
+    },
+    {
+      "type": "vrai_faux",
+      "question": "L'Inde est le premier pays au monde pour les remises (transferts d'argent des émigrés vers leur pays d'origine).",
+      "options": ["Vrai", "Faux"],
+      "reponse": 0,
+      "explication": "C'est vrai. L'Inde reçoit environ 129 milliards de dollars de remises par an, ce qui en fait le premier pays destinataire au monde.",
+      "methode_liee": null
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce qu'une diaspora ?",
+      "options": [
+        "Un camp de réfugiés",
+        "Un groupe de migrants clandestins",
+        "La dispersion d'une communauté nationale à travers le monde",
+        "Une organisation d'aide aux migrants"
+      ],
+      "reponse": 2,
+      "explication": "Une diaspora désigne l'ensemble des membres d'une communauté nationale dispersés à travers le monde. L'Inde possède la première diaspora mondiale avec environ 18,5 millions d'émigrés.",
+      "methode_liee": null
+    },
+    {
+      "type": "qcm",
+      "question": "Quel est le premier pays d'accueil de migrants au monde ?",
+      "options": ["La France", "L'Allemagne", "Les États-Unis", "L'Arabie saoudite"],
+      "reponse": 2,
+      "explication": "Les États-Unis sont le premier pays d'accueil avec environ 51 millions d'immigrés, devant l'Allemagne (16 millions) et l'Arabie saoudite (13 millions).",
+      "methode_liee": null
+    },
+    {
+      "type": "vrai_faux",
+      "question": "La majorité des migrations internationales se font du Sud vers le Nord.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 1,
+      "explication": "C'est faux. Les flux Sud-Sud (entre pays en développement) sont aussi importants que les flux Sud-Nord. Beaucoup de migrants se déplacent vers des pays voisins, comme les Bangladais vers l'Inde ou les Africains de l'Ouest vers la Côte d'Ivoire.",
+      "methode_liee": null
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce que le « brain drain » (fuite des cerveaux) ?",
+      "options": [
+        "L'émigration massive de travailleurs non qualifiés",
+        "Le départ de personnes diplômées et qualifiées vers d'autres pays",
+        "L'installation de chercheurs dans les pays en développement",
+        "La perte de mémoire due au voyage"
+      ],
+      "reponse": 1,
+      "explication": "Le brain drain désigne le départ de personnes qualifiées (médecins, ingénieurs, chercheurs) vers des pays plus riches, ce qui prive les pays d'origine de compétences essentielles à leur développement.",
+      "methode_liee": null
+    },
+    {
+      "type": "qcm",
+      "question": "Quels sont les principaux facteurs « push » (répulsifs) qui poussent les gens à migrer ?",
+      "options": [
+        "Le tourisme et les loisirs",
+        "La pauvreté, les conflits et les catastrophes naturelles",
+        "L'envie de découvrir le monde",
+        "Les études à l'étranger uniquement"
+      ],
+      "reponse": 1,
+      "explication": "Les facteurs répulsifs (push) sont la pauvreté, le chômage, les conflits armés, les persécutions et les catastrophes naturelles ou climatiques. Ils poussent les populations à quitter leur pays.",
+      "methode_liee": null
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Un réfugié est une personne qui quitte son pays pour des raisons économiques.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 1,
+      "explication": "C'est faux. Un réfugié est une personne contrainte de fuir son pays en raison de persécutions, de conflits armés ou de violences. Le statut de réfugié est défini par la Convention de Genève (1951) et protégé par le droit international.",
+      "methode_liee": null
+    },
+    {
+      "type": "qcm",
+      "question": "Environ combien de personnes sont mortes en Méditerranée en tentant de rejoindre l'Europe depuis 2014 ?",
+      "options": ["5 000", "10 000", "20 000", "30 000"],
+      "reponse": 3,
+      "explication": "Plus de 30 000 personnes sont mortes en Méditerranée depuis 2014 en tentant de rejoindre l'Europe, ce qui en fait la route migratoire la plus meurtrière au monde.",
+      "methode_liee": null
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Les remises (transferts d'argent des migrants) dépassent le montant de l'aide internationale au développement.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 0,
+      "explication": "C'est vrai. Les remises des migrants vers les pays en développement représentent plusieurs centaines de milliards de dollars par an, bien plus que l'aide publique au développement.",
+      "methode_liee": null
+    },
+    {
+      "type": "reponse_courte",
+      "question": "Cite deux facteurs « pull » (attractifs) qui attirent les migrants dans les pays d'accueil.",
+      "options": null,
+      "reponse": "Emploi, salaires plus élevés, sécurité, système de santé, éducation",
+      "explication": "Les facteurs attractifs (pull) incluent les opportunités d'emploi, des salaires plus élevés, la sécurité, un meilleur système de santé et d'éducation, ou encore le regroupement familial.",
+      "methode_liee": null
+    }
+  ]
+}

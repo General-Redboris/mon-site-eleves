@@ -1,0 +1,147 @@
+{
+  "titre": "Les crises de la monarchie française",
+  "niveau": "4e",
+  "matiere": "histoire",
+  "chapitre": "crises-monarchie",
+  "questions": [
+    {
+      "type": "qcm",
+      "question": "Pourquoi les colons américains se révoltent-ils contre l'Angleterre en 1773 ?",
+      "options": [
+        "Parce qu'ils veulent un roi américain",
+        "Parce qu'ils refusent de payer des impôts décidés sans leur accord",
+        "Parce qu'ils veulent envahir le Canada",
+        "Parce qu'ils souhaitent abolir l'esclavage"
+      ],
+      "reponse": 1,
+      "explication": "Les colons refusent de payer des taxes imposées par le Parlement de Londres sans y être représentés. Leur slogan est « No taxation without representation » (Pas d'impôt sans représentation).",
+      "methode_liee": null
+    },
+    {
+      "type": "qcm",
+      "question": "Quelle date correspond à la Déclaration d'indépendance des États-Unis ?",
+      "options": ["4 juillet 1773", "4 juillet 1776", "14 juillet 1789", "4 juillet 1787"],
+      "reponse": 1,
+      "explication": "La Déclaration d'indépendance, rédigée par Thomas Jefferson, est adoptée le 4 juillet 1776. Elle proclame l'égalité des hommes et leurs droits inaliénables (vie, liberté, recherche du bonheur).",
+      "methode_liee": null
+    },
+    {
+      "type": "qcm",
+      "question": "Quel principe politique la Constitution américaine de 1787 met-elle en place ?",
+      "options": [
+        "La monarchie absolue",
+        "La séparation des pouvoirs",
+        "Le despotisme éclairé",
+        "Le vote par ordre"
+      ],
+      "reponse": 1,
+      "explication": "La Constitution de 1787 organise la séparation des pouvoirs : le Congrès (législatif), le Président (exécutif) et la Cour suprême (judiciaire), selon la théorie de Montesquieu.",
+      "methode_liee": null
+    },
+    {
+      "type": "qcm",
+      "question": "Combien la guerre d'indépendance américaine a-t-elle coûté à la France ?",
+      "options": [
+        "500 millions de livres",
+        "1 milliard de livres",
+        "Plus de 2 milliards de livres",
+        "5 milliards de livres"
+      ],
+      "reponse": 2,
+      "explication": "L'aide française aux insurgents américains a coûté plus de 2 milliards de livres (environ 50 milliards d'euros actuels). Cette dette est l'une des causes directes de la crise financière qui mènera à la Révolution française.",
+      "methode_liee": null
+    },
+    {
+      "type": "vrai_faux",
+      "question": "La Déclaration d'indépendance américaine applique parfaitement le principe d'égalité à toute la population.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 1,
+      "explication": "C'est faux. Malgré les principes d'égalité proclamés, l'esclavage est maintenu (aboli seulement en 1865) et les femmes et les Amérindiens sont exclus de la citoyenneté.",
+      "methode_liee": null
+    },
+    {
+      "type": "qcm",
+      "question": "Quel pourcentage de la population le Tiers État représente-t-il sous l'Ancien Régime ?",
+      "options": ["50 %", "75 %", "90 %", "98 %"],
+      "reponse": 3,
+      "explication": "Le Tiers État représente environ 98 % de la population (paysans, artisans, bourgeois). Il supporte presque seul le poids des impôts, tandis que le Clergé et la Noblesse bénéficient de privilèges.",
+      "methode_liee": null
+    },
+    {
+      "type": "qcm",
+      "question": "Quelle est la cause principale de la hausse du prix du pain en 1788-1789 ?",
+      "options": [
+        "Les impôts trop élevés sur le blé",
+        "Une série de mauvaises récoltes",
+        "La guerre avec l'Angleterre",
+        "La spéculation des nobles"
+      ],
+      "reponse": 1,
+      "explication": "Une série de mauvaises récoltes en 1788-1789 provoque une flambée du prix du blé. Le prix du pain double en un an, ce qui est dramatique car le pain représente 80 % de l'alimentation des plus pauvres.",
+      "methode_liee": null
+    },
+    {
+      "type": "vrai_faux",
+      "question": "En 1788, le budget de l'État français est en équilibre.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 1,
+      "explication": "C'est faux. En 1788, le budget est en déficit : les dépenses (622 millions) dépassent les recettes (504 millions), soit un déficit de 118 millions de livres, aggravé par la dette de la guerre d'Amérique.",
+      "methode_liee": null
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce qu'un cahier de doléances ?",
+      "options": [
+        "Un livre de recettes culinaires",
+        "Un document où une communauté écrit ses plaintes et demandes au roi",
+        "Un registre de baptêmes",
+        "Un livre scolaire du XVIIIe siècle"
+      ],
+      "reponse": 1,
+      "explication": "Un cahier de doléances est un document où chaque communauté (village, ville) écrit ses plaintes et demandes pour les présenter au roi lors des États généraux.",
+      "methode_liee": null
+    },
+    {
+      "type": "qcm",
+      "question": "Pourquoi le Tiers État demande-t-il le vote par tête plutôt que le vote par ordre ?",
+      "options": [
+        "Parce que le vote par tête est plus rapide",
+        "Parce qu'avec le vote par ordre, le Tiers État perd toujours (2 contre 1)",
+        "Parce que le roi préfère le vote par tête",
+        "Parce que le vote par ordre est interdit par la loi"
+      ],
+      "reponse": 1,
+      "explication": "Avec le vote par ordre, chaque ordre a une seule voix. Le Clergé et la Noblesse votant ensemble, le Tiers État perd toujours (2 contre 1). Avec le vote par tête, chaque député a une voix et le Tiers État, plus nombreux, peut l'emporter.",
+      "methode_liee": null
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Les femmes peuvent voter et être représentées aux États généraux de 1789.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 1,
+      "explication": "C'est faux. Les femmes sont exclues des États généraux : elles ne peuvent ni voter, ni être représentées. Certaines rédigent des doléances pour réclamer des droits, mais elles ne sont pas entendues.",
+      "methode_liee": null
+    },
+    {
+      "type": "qcm",
+      "question": "Quel événement de juin 1788 à Grenoble marque une révolte contre l'autorité royale ?",
+      "options": [
+        "La prise de la Bastille",
+        "La Journée des Tuiles",
+        "La Boston Tea Party",
+        "La nuit du 4 août"
+      ],
+      "reponse": 1,
+      "explication": "Le 7 juin 1788, la Journée des Tuiles à Grenoble est un affrontement violent entre le peuple et l'armée royale, après la tentative du roi de limiter les pouvoirs des Parlements.",
+      "methode_liee": null
+    },
+    {
+      "type": "reponse_courte",
+      "question": "Cite les trois types de crises qui fragilisent la monarchie française à la veille de 1789.",
+      "options": null,
+      "reponse": "Crise sociale, crise financière, crise politique",
+      "explication": "La monarchie française est fragilisée par une crise sociale (société d'ordres inégalitaire, misère du peuple), une crise financière (dette de 2 milliards, déficit budgétaire) et une crise politique (contestation de l'autorité royale, Journée des Tuiles).",
+      "methode_liee": null
+    }
+  ]
+}

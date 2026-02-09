@@ -1,0 +1,145 @@
+{
+  "titre": "Mers et océans : un monde maritimisé",
+  "niveau": "4e",
+  "matiere": "geographie",
+  "chapitre": "mers-oceans",
+  "questions": [
+    {
+      "type": "qcm",
+      "question": "Quelle part de la surface de la Terre les mers et océans recouvrent-ils ?",
+      "options": ["50 %", "60 %", "70 %", "80 %"],
+      "reponse": 2,
+      "explication": "Les mers et océans couvrent environ 70 % de la surface terrestre, soit plus des deux tiers de la planète.",
+      "methode_liee": null
+    },
+    {
+      "type": "qcm",
+      "question": "Quel pourcentage du commerce mondial transite par voie maritime ?",
+      "options": ["50 %", "60 %", "70 %", "80 %"],
+      "reponse": 3,
+      "explication": "Environ 80 % du commerce mondial est acheminé par voie maritime, ce qui montre l'importance stratégique des mers et océans dans la mondialisation.",
+      "methode_liee": null
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce que la conteneurisation ?",
+      "options": [
+        "La construction de ports en eaux profondes",
+        "Le transport de marchandises dans des boîtes métalliques standardisées",
+        "Le recyclage des déchets plastiques en mer",
+        "La création de zones industrialo-portuaires"
+      ],
+      "reponse": 1,
+      "explication": "La conteneurisation est le transport de marchandises dans des conteneurs standardisés, ce qui a révolutionné le commerce maritime en réduisant les coûts et en accélérant les échanges.",
+      "methode_liee": null
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Le canal de Suez a été ouvert en 1914.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 1,
+      "explication": "Le canal de Suez a été ouvert en 1869, pas en 1914. C'est le canal de Panama qui a été ouvert en 1914.",
+      "methode_liee": null
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce qu'une ZIP ?",
+      "options": [
+        "Une zone d'interdiction de pêche",
+        "Une zone industrialo-portuaire",
+        "Une zone d'influence politique",
+        "Une zone internationale protégée"
+      ],
+      "reponse": 1,
+      "explication": "Une ZIP (zone industrialo-portuaire) est un espace qui associe un port à des industries, permettant de transformer les matières premières importées. Rotterdam et Le Havre en sont des exemples.",
+      "methode_liee": null
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce que la littoralisation ?",
+      "options": [
+        "La montée des eaux due au réchauffement climatique",
+        "La concentration des populations et des activités sur les côtes",
+        "La pollution des littoraux par le plastique",
+        "La construction de digues le long des côtes"
+      ],
+      "reponse": 1,
+      "explication": "La littoralisation désigne la concentration croissante des populations et des activités économiques sur les littoraux. Aujourd'hui, environ 40 % de la population mondiale vit à moins de 100 km des côtes.",
+      "methode_liee": null
+    },
+    {
+      "type": "vrai_faux",
+      "question": "La France possède la deuxième ZEE (zone économique exclusive) mondiale grâce à ses territoires d'outre-mer.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 0,
+      "explication": "C'est vrai. Grâce à ses territoires ultramarins (Polynésie, Nouvelle-Calédonie, Réunion, etc.), la France dispose de la deuxième ZEE mondiale, juste derrière les États-Unis.",
+      "methode_liee": null
+    },
+    {
+      "type": "qcm",
+      "question": "Quelle est la principale façade maritime mondiale ?",
+      "options": [
+        "La façade atlantique de l'Europe (Northern Range)",
+        "La façade pacifique des États-Unis",
+        "La façade asiatique (de Tokyo à Singapour)",
+        "La façade méditerranéenne"
+      ],
+      "reponse": 2,
+      "explication": "La façade asiatique, qui s'étend de Tokyo à Singapour, est la première façade maritime mondiale. Elle concentre les plus grands ports du monde (Shanghai, Singapour, Shenzhen).",
+      "methode_liee": null
+    },
+    {
+      "type": "vrai_faux",
+      "question": "Un détroit est un passage maritime étroit entre deux terres.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 0,
+      "explication": "C'est exact. Un détroit est un bras de mer resserré entre deux terres. Le détroit de Malacca ou celui d'Ormuz sont des passages stratégiques pour le commerce mondial.",
+      "methode_liee": null
+    },
+    {
+      "type": "qcm",
+      "question": "En 2021, le blocage de quel navire dans le canal de Suez a paralysé le commerce mondial pendant six jours ?",
+      "options": ["Le Titanic", "L'Ever Given", "Le Queen Mary", "Le Costa Concordia"],
+      "reponse": 1,
+      "explication": "En mars 2021, le porte-conteneurs Ever Given s'est échoué dans le canal de Suez, bloquant le trafic pendant six jours et perturbant le commerce mondial.",
+      "methode_liee": null
+    },
+    {
+      "type": "qcm",
+      "question": "Quel pourcentage des déchets marins est constitué de plastique ?",
+      "options": ["50 %", "65 %", "75 %", "85 %"],
+      "reponse": 3,
+      "explication": "Le plastique représente environ 85 % des déchets marins, formant de vastes zones d'accumulation comme le « continent plastique » du Pacifique Nord.",
+      "methode_liee": null
+    },
+    {
+      "type": "vrai_faux",
+      "question": "La mer de Chine méridionale est un espace maritime sans tensions géopolitiques.",
+      "options": ["Vrai", "Faux"],
+      "reponse": 1,
+      "explication": "C'est faux. La mer de Chine méridionale est un espace de fortes tensions géopolitiques. La Chine revendique la quasi-totalité de cet espace (« ligne en neuf traits »), ce qui la met en conflit avec ses voisins (Vietnam, Philippines, etc.).",
+      "methode_liee": null
+    },
+    {
+      "type": "qcm",
+      "question": "Qu'est-ce que la surpêche ?",
+      "options": [
+        "La pêche pratiquée pendant la nuit",
+        "L'exploitation excessive des ressources halieutiques au-delà de leur capacité de renouvellement",
+        "La pêche dans les eaux internationales",
+        "La pêche industrielle avec de gros navires"
+      ],
+      "reponse": 1,
+      "explication": "La surpêche désigne le prélèvement de poissons au-delà de la capacité de renouvellement des stocks. Environ 33 % des stocks de poissons mondiaux sont actuellement surexploités.",
+      "methode_liee": null
+    },
+    {
+      "type": "reponse_courte",
+      "question": "Cite deux détroits stratégiques pour le commerce maritime mondial.",
+      "options": null,
+      "reponse": "Malacca, Ormuz, Bab-el-Mandeb",
+      "explication": "Les détroits de Malacca (entre l'Asie du Sud-Est et l'Indonésie), d'Ormuz (golfe Persique) et de Bab-el-Mandeb (mer Rouge) sont des passages obligés pour le transport de marchandises et de pétrole.",
+      "methode_liee": null
+    }
+  ]
+}
