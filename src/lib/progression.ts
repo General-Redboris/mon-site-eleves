@@ -50,21 +50,46 @@ export function isQuizReussi(slug: string): boolean {
   return getProgression().quizReussis.includes(slug);
 }
 
+export interface NiveauStats {
+  coursVus: number;
+  quizReussis: number;
+}
+
 export function getProgressionStats(): {
   totalCoursVus: number;
   totalQuizReussis: number;
   coursVusParNiveau: Record<string, number>;
+  detailParNiveau: Record<string, NiveauStats>;
 } {
   const data = getProgression();
   const coursVusParNiveau: Record<string, number> = {};
+  const detailParNiveau: Record<string, NiveauStats> = {};
+
+  for (const niv of ["6e", "5e", "4e", "3e"]) {
+    detailParNiveau[niv] = { coursVus: 0, quizReussis: 0 };
+  }
+
   for (const key of data.coursVus) {
     const niveau = key.split("/")[0];
     coursVusParNiveau[niveau] = (coursVusParNiveau[niveau] || 0) + 1;
+    if (detailParNiveau[niveau]) {
+      detailParNiveau[niveau].coursVus++;
+    }
   }
+
+  for (const slug of data.quizReussis) {
+    // Quiz slugs are formatted as "niveau-rest" (e.g. "6e-histoire-debuts-humanite")
+    const match = slug.match(/^(\d+e)-/);
+    if (match && detailParNiveau[match[1]]) {
+      detailParNiveau[match[1]].quizReussis++;
+    }
+  }
+
   return {
     totalCoursVus: data.coursVus.length,
     totalQuizReussis: data.quizReussis.length,
     coursVusParNiveau,
+    detailParNiveau,
   };
 }
 
