@@ -71,7 +71,7 @@ export default function Navigation() {
   }, [pathname]);
 
   return (
-    <header className="sticky top-0 z-50 bg-white/95 backdrop-blur-sm border-b border-gray-200 shadow-sm">
+    <header className="sticky top-0 z-50 bg-white/95 dark:bg-gray-900/95 backdrop-blur-sm border-b border-gray-200 dark:border-gray-700 shadow-sm">
       <nav className="max-w-6xl mx-auto px-4 sm:px-6">
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
@@ -133,7 +133,7 @@ export default function Navigation() {
 
               {dropdownOpen && (
                 <div
-                  className="absolute top-full left-0 mt-1 bg-white rounded-xl border border-gray-200 shadow-lg py-1 min-w-[200px] z-50"
+                  className="absolute top-full left-0 mt-1 bg-white dark:bg-gray-800 rounded-xl border border-gray-200 dark:border-gray-700 shadow-lg py-1 min-w-[200px] z-50"
                   onMouseLeave={() => setDropdownOpen(false)}
                 >
                   {entrainementLinks.map((link) => (
@@ -143,7 +143,7 @@ export default function Navigation() {
                       className={`block px-4 py-2.5 text-sm font-medium transition-colors ${
                         isActive(link.href)
                           ? "bg-accent/10 text-accent"
-                          : "text-gray-600 hover:bg-gray-50 hover:text-foreground"
+                          : "text-gray-600 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-700 hover:text-foreground"
                       }`}
                     >
                       <span className="mr-2">{link.icon}</span>
@@ -216,11 +216,13 @@ export default function Navigation() {
               Aa
             </button>
 
-            {/* Settings button */}
+            {/* Bouton paramètres — ouvre le drawer latéral */}
             <button
               onClick={() => setParametresOpen(true)}
-              className="p-2 rounded-lg text-gray-500 hover:bg-gray-100 hover:text-foreground transition-colors"
+              className="p-2 rounded-lg text-gray-500 hover:bg-gray-100 dark:hover:bg-gray-700 hover:text-foreground transition-colors"
               aria-label="Paramètres"
+              aria-haspopup="dialog"
+              aria-expanded={parametresOpen}
               title="Paramètres"
             >
               <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
