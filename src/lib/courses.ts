@@ -55,7 +55,12 @@ function parseMeta(
     resume: data.resume as string | undefined,
     vocabulaire: data.vocabulaire as VocabEntry[] | undefined,
     dates_cles: data.dates_cles as DateCle[] | undefined,
-    methodes_liees: data.methodes_liees as MethodeLiee[] | undefined,
+    methodes_liees: data.methodes_liees
+      ? (data.methodes_liees as MethodeLiee[]).map((m) => ({
+          ...m,
+          niveau,
+        }))
+      : undefined,
   };
 }
 
