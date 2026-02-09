@@ -68,5 +68,17 @@ body {
 .card-front, .card-back { backface-visibility: hidden; }
 .card-back { transform: rotateY(180deg); }
 
+/* Alerte IA in markdown content */
+.prose .alerte-ia {
+  background: #faf5ff;
+  border: 2px solid #d8b4fe;
+  border-radius: 0.75rem;
+  padding: 1.25rem;
+  margin: 1.5rem 0;
+  font-style: normal;
+}
+.prose .alerte-ia p:first-child { margin-top: 0; }
+.prose .alerte-ia p:last-child { margin-bottom: 0; }
+
 /* Tooltip styles */
 .tooltip-trigger { border-bottom: 2px dotted var(--accent); cursor: help; }
