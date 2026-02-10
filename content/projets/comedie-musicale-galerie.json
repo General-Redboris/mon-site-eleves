@@ -1,0 +1,23 @@
+{
+  "titre": "Galerie — L'Odyssée : une aventure qui swingue",
+  "albums": [
+    {
+      "id": "repetitions",
+      "titre": "Les répétitions",
+      "description": "En coulisses et sur scène, les élèves préparent le spectacle",
+      "photos": []
+    },
+    {
+      "id": "representation",
+      "titre": "La représentation du 12 juin",
+      "description": "Le grand soir !",
+      "photos": []
+    },
+    {
+      "id": "coulisses",
+      "titre": "Les coulisses",
+      "description": "Costumes, décors, préparatifs",
+      "photos": []
+    }
+  ]
+}
