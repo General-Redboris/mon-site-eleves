@@ -27,6 +27,7 @@ auto_evaluation:
       points: 3
     - label: "J'ai donné un titre à ma frise"
       points: 2
+pdf_url: null
 ---
 **Se repérer dans le temps :**
 **construire et lire une frise chronologique**

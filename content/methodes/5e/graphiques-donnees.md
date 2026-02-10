@@ -13,6 +13,7 @@ progression:
   precedent: null
   suivant: null
 auto_evaluation: null
+pdf_url: null
 ---
 **Lire et interpréter**
 **des graphiques et des données chiffrées**

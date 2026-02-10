@@ -13,6 +13,7 @@ progression:
   precedent: null
   suivant: null
 auto_evaluation: null
+pdf_url: null
 ---
 **Se repérer dans l'espace :**
 **les grands repères géographiques**

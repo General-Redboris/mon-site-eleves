@@ -15,6 +15,7 @@ progression:
   precedent: null
   suivant: "5e/recherche-documentaire"
 auto_evaluation: null
+pdf_url: null
 ---
 **Réaliser une recherche documentaire en histoire-géographie**
 

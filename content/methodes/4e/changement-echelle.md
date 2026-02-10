@@ -23,6 +23,7 @@ auto_evaluation:
       points: 3
     - label: "J'ai expliqué les liens entre les échelles"
       points: 4
+pdf_url: null
 ---
 
 > 🔍 Fiche méthode 12 — Réaliser un changement d’échelle en géographie

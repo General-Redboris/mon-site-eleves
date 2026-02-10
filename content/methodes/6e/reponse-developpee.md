@@ -23,6 +23,7 @@ auto_evaluation:
       points: 3
     - label: "J'ai donné un exemple précis tiré du cours ou du document"
       points: 3
+pdf_url: null
 ---
 **Rédiger une réponse développée**
 

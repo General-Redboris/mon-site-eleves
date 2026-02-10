@@ -29,6 +29,7 @@ auto_evaluation:
       points: 4
     - label: "J'ai rédigé une conclusion claire et personnelle"
       points: 3
+pdf_url: null
 ---
 
 > FICHE MÉTHODE

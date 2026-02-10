@@ -27,6 +27,7 @@ auto_evaluation:
       points: 3
     - label: "J'ai interprété le message de l'œuvre dans son contexte"
       points: 3
+pdf_url: null
 ---
 
 > 🎨 Fiche méthode 13 — Analyser une œuvre d’art ou une caricature

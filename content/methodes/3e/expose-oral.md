@@ -33,6 +33,7 @@ auto_evaluation:
       points: 2
     - label: "Je réponds aux questions"
       points: 2
+pdf_url: null
 ---
 
 > FICHE MÉTHODE

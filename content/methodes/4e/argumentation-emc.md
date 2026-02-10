@@ -27,6 +27,7 @@ auto_evaluation:
       points: 3
     - label: "J'ai rédigé une conclusion claire"
       points: 3
+pdf_url: null
 ---
 
 > 📝 Fiche méthode 11 — Rédiger une réponse argumentée en EMC

@@ -47,6 +47,7 @@ export interface FicheMethodeMeta {
   fiches_liees: FicheLiee[];
   progression: Progression | null;
   auto_evaluation: AutoEvaluation | null;
+  pdf_url: string | null;
   slug: string;
 }
 
@@ -221,6 +222,7 @@ function parseFicheMeta(data: Record<string, unknown>, niveau: string, slug: str
     fiches_liees,
     progression,
     auto_evaluation,
+    pdf_url: (data.pdf_url as string) || null,
     slug,
   };
 }

@@ -29,6 +29,7 @@ auto_evaluation:
       points: 2
     - label: "J'ai rédigé une réponse claire et organisée"
       points: 3
+pdf_url: null
 ---
 **Analyser un document**
 

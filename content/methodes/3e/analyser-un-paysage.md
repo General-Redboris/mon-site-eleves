@@ -23,6 +23,7 @@ auto_evaluation:
       points: 2
     - label: "J'ai utilisé le vocabulaire géographique adapté"
       points: 2
+pdf_url: null
 ---
 
 > FICHE MÉTHODE

@@ -25,6 +25,7 @@ auto_evaluation:
       points: 3
     - label: "J'ai complété avec mes connaissances quand c'est demandé"
       points: 3
+pdf_url: null
 ---
 
 > FICHE MÉTHODE

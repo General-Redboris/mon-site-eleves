@@ -29,6 +29,7 @@ auto_evaluation:
       points: 4
     - label: "J'ai répondu aux questions du jury"
       points: 4
+pdf_url: null
 ---
 
 > FICHE MÉTHODE

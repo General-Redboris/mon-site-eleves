@@ -11,14 +11,12 @@ export default function SignalerErreur({ pageTitle }: Props) {
   );
 
   return (
-    <div className="mt-8 pt-4 border-t border-gray-200">
-      <a
-        href={`mailto:${CONTACT_EMAIL}?subject=${subject}&body=${body}`}
-        className="inline-flex items-center gap-2 text-sm text-gray-400 hover:text-accent transition-colors"
-      >
-        <span>📝</span>
-        <span>Une erreur ? Préviens M. Blondelet</span>
-      </a>
-    </div>
+    <a
+      href={`mailto:${CONTACT_EMAIL}?subject=${subject}&body=${body}`}
+      className="inline-flex items-center gap-2 text-sm text-gray-400 dark:text-gray-500 hover:text-accent transition-colors"
+    >
+      <span>📝</span>
+      <span>Une erreur ? Préviens M. Blondelet</span>
+    </a>
   );
 }

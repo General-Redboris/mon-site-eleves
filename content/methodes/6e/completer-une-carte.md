@@ -25,6 +25,7 @@ auto_evaluation:
       points: 2
     - label: "J'ai vérifié que ma carte est lisible"
       points: 2
+pdf_url: null
 ---
 **Compléter et colorier**
 **une carte en géographie**

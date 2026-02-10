@@ -29,6 +29,7 @@ auto_evaluation:
       points: 3
     - label: "J'ai élargi en comparant avec d'autres œuvres ou en montrant la portée"
       points: 3
+pdf_url: null
 ---
 
 > FICHE MÉTHODE

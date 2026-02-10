@@ -13,6 +13,7 @@ progression:
   precedent: null
   suivant: "5e/apprendre-sa-lecon"
 auto_evaluation: null
+pdf_url: null
 ---
 **Apprendre sa leçon efficacement**
 

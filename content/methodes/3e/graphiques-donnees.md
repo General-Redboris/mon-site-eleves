@@ -23,6 +23,7 @@ auto_evaluation:
       points: 3
     - label: "J'ai utilisé des données chiffrées précises dans mon analyse"
       points: 3
+pdf_url: null
 ---
 
 > FICHE MÉTHODE

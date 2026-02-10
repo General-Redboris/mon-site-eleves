@@ -27,6 +27,7 @@ auto_evaluation:
       points: 3
     - label: "J'ai expliqué ces écarts avec mes connaissances"
       points: 3
+pdf_url: null
 ---
 
 > FICHE MÉTHODE — 3B

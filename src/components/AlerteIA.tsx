@@ -12,19 +12,19 @@ export default function AlerteIA({ niveau }: AlerteIAProps) {
     : "Source, Auteur, Quand, Objectif";
 
   return (
-    <div className="my-6 bg-purple-50 border-2 border-purple-200 rounded-xl p-5">
+    <div className="my-6 bg-purple-50 dark:bg-purple-900/20 border-2 border-purple-200 dark:border-purple-800 rounded-xl p-5">
       <div className="flex items-start gap-3">
         <span className="text-2xl shrink-0">🤖</span>
         <div>
-          <p className="font-bold text-purple-900 mb-1">Alerte IA</p>
-          <p className="text-sm text-purple-800">
+          <p className="font-bold text-purple-900 dark:text-purple-200 mb-1">Alerte IA</p>
+          <p className="text-sm text-purple-800 dark:text-purple-300">
             Si tu utilises une IA (ChatGPT, Gemini...), vérifie TOUJOURS les informations
             avec le réflexe <strong>{acronyme}</strong> : {signification}.
             Une IA peut inventer des faits !
           </p>
           <Link
             href={`/methodes/${niveau}/recherche-documentaire`}
-            className="inline-block mt-2 text-sm font-medium text-purple-700 hover:text-purple-900 hover:underline"
+            className="inline-block mt-2 text-sm font-medium text-purple-700 dark:text-purple-400 hover:text-purple-900 dark:hover:text-purple-200 hover:underline"
           >
             → Voir la fiche Recherche documentaire
           </Link>

@@ -31,6 +31,7 @@ auto_evaluation:
       points: 3
     - label: "J'ai exercé mon esprit critique sur le document"
       points: 3
+pdf_url: null
 ---
 **Analyser un document**
 

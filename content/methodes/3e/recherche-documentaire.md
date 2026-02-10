@@ -17,6 +17,7 @@ progression:
   precedent: "4e/recherche-documentaire"
   suivant: null
 auto_evaluation: null
+pdf_url: null
 ---
 
 > FICHE MÉTHODE

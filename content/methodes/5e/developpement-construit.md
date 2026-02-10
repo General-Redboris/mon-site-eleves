@@ -25,6 +25,7 @@ auto_evaluation:
       points: 4
     - label: "J'ai rédigé une conclusion"
       points: 3
+pdf_url: null
 ---
 **Rédiger un développement**
 **construit**

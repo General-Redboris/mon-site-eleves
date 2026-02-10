@@ -29,6 +29,7 @@ auto_evaluation:
       points: 3
     - label: "Mon schéma est propre et lisible"
       points: 2
+pdf_url: null
 ---
 
 > FICHE MÉTHODE

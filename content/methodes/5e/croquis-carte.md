@@ -29,6 +29,7 @@ auto_evaluation:
       points: 3
     - label: "Mon croquis est propre et lisible"
       points: 2
+pdf_url: null
 ---
 **Réaliser un croquis**
 **ou une carte en géographie**

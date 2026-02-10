@@ -29,6 +29,7 @@ auto_evaluation:
       points: 2
     - label: "J'ai rédigé une conclusion qui répond au sujet"
       points: 2
+pdf_url: null
 ---
 
 > FICHE MÉTHODE

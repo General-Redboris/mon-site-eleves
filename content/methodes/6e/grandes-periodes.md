@@ -13,6 +13,7 @@ progression:
   precedent: null
   suivant: null
 auto_evaluation: null
+pdf_url: null
 ---
 **Les grandes périodes de l'histoire :**
 **se repérer dans le temps long**

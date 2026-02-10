@@ -35,6 +35,7 @@ auto_evaluation:
       points: 3
     - label: "J'ai exercé mon esprit critique (fiabilité, point de vue, limites)"
       points: 3
+pdf_url: null
 ---
 
 > FICHE MÉTHODE — 3A

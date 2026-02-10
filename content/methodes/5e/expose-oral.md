@@ -31,6 +31,7 @@ auto_evaluation:
       points: 2
     - label: "Je réponds aux questions de la classe"
       points: 2
+pdf_url: null
 ---
 **Préparer et réussir**
 **un exposé oral**

@@ -15,6 +15,7 @@ progression:
   precedent: "6e/recherche-documentaire"
   suivant: null
 auto_evaluation: null
+pdf_url: null
 ---
 **Réaliser une recherche documentaire**
 

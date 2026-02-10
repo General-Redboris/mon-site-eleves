@@ -33,6 +33,7 @@ auto_evaluation:
       points: 3
     - label: "Mon croquis est propre, lisible et soigné"
       points: 2
+pdf_url: null
 ---
 
 > FICHE MÉTHODE

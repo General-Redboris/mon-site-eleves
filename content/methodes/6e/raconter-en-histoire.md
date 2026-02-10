@@ -27,6 +27,7 @@ auto_evaluation:
       points: 2
     - label: "Mon récit est clair et compréhensible"
       points: 2
+pdf_url: null
 ---
 **Raconter en histoire :**
 **construire un récit historique**

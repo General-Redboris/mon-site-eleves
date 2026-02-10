@@ -27,6 +27,7 @@ auto_evaluation:
       points: 2
     - label: "J'ai identifié la source"
       points: 2
+pdf_url: null
 ---
 **Lire et analyser une carte**
 
